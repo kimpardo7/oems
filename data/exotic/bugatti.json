@@ -1,0 +1,128 @@
+{
+  "oem": "Bugatti",
+  "zip_code": "multiple",
+  "timestamp": "2024-12-19T17:43:00.000000",
+  "total_dealers_found": 12,
+  "dealers": [
+    {
+      "Dealer": "Bugatti Chicago",
+      "Website": "https://www.bugatti.com/en/partners/chicago",
+      "Phone": "(630) 241-4848",
+      "Email": "mir.imad@bugatti-chicago.com",
+      "Street": "834 North Rush Street",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60611"
+    },
+    {
+      "Dealer": "Bugatti of Houston",
+      "Website": "https://www.bugatti.com/en/partners/houston",
+      "Phone": "(713) 297-2803",
+      "Email": "lonny.soza@bugatti-houston.com",
+      "Street": "1530 West Loop",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77027"
+    },
+    {
+      "Dealer": "Bugatti of Broward",
+      "Website": "https://www.bugatti.com/en/partners/broward",
+      "Phone": "(954) 618-0130",
+      "Email": "abraham.cohen@bugatti-broward.com",
+      "Street": "West Broward Imports, LLC 4645 Volunteer Road",
+      "City": "Davie",
+      "State": "FL",
+      "ZIP": "33330"
+    },
+    {
+      "Dealer": "Bugatti of Greenwich",
+      "Website": "https://www.bugatti.com/en/partners/greenwich",
+      "Phone": "(203) 661-3100",
+      "Email": "Richard/Koppelmann@Bugatti-Greenwich.com",
+      "Street": "Miller Motorcars, Inc, 273 West Putnam Avenue",
+      "City": "Greenwich",
+      "State": "CT",
+      "ZIP": "06830"
+    },
+    {
+      "Dealer": "Bugatti of New York",
+      "Website": "https://www.bugatti.com/en/partners/manhattan",
+      "Phone": "(347) 226-3883",
+      "Email": "Paul.dumont@bugatti-manhattan.com",
+      "Street": "Manhattan Motorcars, 711 Eleventh Avenue",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": "10019"
+    },
+    {
+      "Dealer": "Bugatti of Miami",
+      "Website": "https://www.bugatti.com/en/partners/miami",
+      "Phone": "(305) 571-1200",
+      "Email": "llugo@bramanmiami.com",
+      "Street": "Braman Motors, Inc. 2060 Biscayne Blvd",
+      "City": "Miami",
+      "State": "FL",
+      "ZIP": "33137"
+    },
+    {
+      "Dealer": "Bugatti of Scottsdale",
+      "Website": "https://www.bugatti.com/en/partners/scottsdale",
+      "Phone": "(480) 538-4310",
+      "Email": "Beli.Merdovic@bugatti-scottsdale.com",
+      "Street": "Penske Auto Group, 7111 E. Chauncey Lane",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "ZIP": "85054"
+    },
+    {
+      "Dealer": "Bugatti of St. Louis",
+      "Website": "https://www.bugatti.com/en/partners/st-louis",
+      "Phone": "(636) 499-0000",
+      "Email": "brain.tull@bugatti-stlouis.com",
+      "Street": "1 Arangage Blvd",
+      "City": "St. Louis",
+      "State": "MO",
+      "ZIP": "63005"
+    },
+    {
+      "Dealer": "Bugatti of Beverly Hills",
+      "Website": "https://www.bugatti.com/en/partners/beverly-hills",
+      "Phone": "(310) 967-7109",
+      "Email": "Tim.ohara@bugatti-beverlyhills.com",
+      "Street": "O'Gara Coach Company, 8833 West Olympic Blvd",
+      "City": "Beverly Hills",
+      "State": "CA",
+      "ZIP": "90211"
+    },
+    {
+      "Dealer": "Bugatti of La Jolla",
+      "Website": "https://www.bugatti.com/en/partners/la-jolla",
+      "Phone": "(888) 867-6599",
+      "Email": "Parris.Mullins@Bugatti-LaJolla.com",
+      "Street": "O'Gara Coach Company, La Jolla 7440 La Jolla Blvd",
+      "City": "La Jolla",
+      "State": "CA",
+      "ZIP": "92037"
+    },
+    {
+      "Dealer": "Bugatti of Newport Beach",
+      "Website": "https://www.bugatti.com/en/partners/newport-beach",
+      "Phone": "(888) 703-7226",
+      "Email": "pietro.frigerio@bugatti-newportbeach.com",
+      "Street": "Newport Beach Automotive Group III, LLC 44 Auto Center Dr",
+      "City": "Irvine",
+      "State": "CA",
+      "ZIP": "92618"
+    },
+    {
+      "Dealer": "Bugatti of Washington",
+      "Website": "https://www.bugatti.com/en/partners/washington",
+      "Phone": "(157) 259-8326",
+      "Email": "AmirHadzimehmedovic@bugatti-washington.com",
+      "Street": "21826 Pacific Boulevard",
+      "City": "Sterling",
+      "State": "VA",
+      "ZIP": "20166"
+    }
+  ]
+}

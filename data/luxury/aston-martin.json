@@ -1,0 +1,269 @@
+{
+  "oem": "Aston Martin",
+  "zip_code": "multiple",
+  "timestamp": "2025-08-24T14:27:58.545812",
+  "total_dealers_found": 26,
+  "method": "converted_from_original_format",
+  "dealers": [
+    {
+      "Dealer": "Aston Martin Glenview",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-glenview",
+      "Phone": "847-904-1233",
+      "Email": null,
+      "Street": "301 Waukegan Road",
+      "City": "Glenview",
+      "State": "IL",
+      "ZIP": "60025"
+    },
+    {
+      "Dealer": "Napleton's Aston Martin of Chicago Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/napletons-aston-martin-of-chicago",
+      "Phone": "630-960-2000",
+      "Email": null,
+      "Street": "217 Ogden Avenue",
+      "City": "Downers Grove",
+      "State": "IL",
+      "ZIP": "60515"
+    },
+    {
+      "Dealer": "Aston Martin Detroit Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-detroit",
+      "Phone": "313-217-1747",
+      "Email": null,
+      "Street": "30250 Grand River Ave",
+      "City": "Farmington Hills",
+      "State": "IL",
+      "ZIP": "MI"
+    },
+    {
+      "Dealer": "Aston Martin St Louis Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-st-louis",
+      "Phone": "636 449 0000",
+      "Email": null,
+      "Street": "9",
+      "City": "Arnage Dr",
+      "State": "IL",
+      "ZIP": "Chesterfield"
+    },
+    {
+      "Dealer": "Aston Martin Cleveland Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-cleveland",
+      "Phone": "440-716-2000",
+      "Email": null,
+      "Street": "28300 Lorain Road",
+      "City": "North Olmsted",
+      "State": "IL",
+      "ZIP": "OH"
+    },
+    {
+      "Dealer": "Aston Martin Oakville",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-oakville",
+      "Phone": "905-417-1170",
+      "Email": null,
+      "Street": "1311 North Service Road West",
+      "City": "Oakville",
+      "State": "IL",
+      "ZIP": "L6M 2W2"
+    },
+    {
+      "Dealer": "Aston Martin Nashville Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-nashville",
+      "Phone": "(615) 261-7337",
+      "Email": null,
+      "Street": "1599 Mallory Lane",
+      "City": "Brentwood",
+      "State": "IL",
+      "ZIP": "37027"
+    },
+    {
+      "Dealer": "Aston Martin Toronto",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-toronto",
+      "Phone": "(+1) 416 530 1880",
+      "Email": null,
+      "Street": "777 Dundas St East",
+      "City": "Toronto",
+      "State": "IL",
+      "ZIP": "M4M0E2"
+    },
+    {
+      "Dealer": "Aston Martin Washington DC Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-washington-dc",
+      "Phone": "703-712-8324",
+      "Email": null,
+      "Street": "45180 Russell Branch Parkway",
+      "City": "Ashburn",
+      "State": "IL",
+      "ZIP": "20147"
+    },
+    {
+      "Dealer": "Aston Martin Atlanta",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-atlanta",
+      "Phone": "404-233-4269",
+      "Email": null,
+      "Street": "7865 Roswell Road",
+      "City": "Atlanta",
+      "State": "IL",
+      "ZIP": "30350"
+    },
+    {
+      "Dealer": "Aston Martin of Charlotte",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-of-charlotte",
+      "Phone": "7045357100",
+      "Email": null,
+      "Street": "416",
+      "City": "Tyvola Rd",
+      "State": "IL",
+      "ZIP": "Charlotte"
+    },
+    {
+      "Dealer": "Aston Martin Philadelphia",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-philadelphia",
+      "Phone": "(+1) 856 829 8200",
+      "Email": null,
+      "Street": "100",
+      "City": "Route 73 N",
+      "State": "IL",
+      "ZIP": "Palmyra"
+    },
+    {
+      "Dealer": "Aston Martin Summit New Jersey Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-summit",
+      "Phone": "(877) 850-4236",
+      "Email": null,
+      "Street": "326 Morris Avenue",
+      "City": "Summit",
+      "State": "IL",
+      "ZIP": "07901"
+    },
+    {
+      "Dealer": "Miller Motorcars - Aston Martin Greenwich Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/miller-motor-cars",
+      "Phone": "(+1) 203 629 4726",
+      "Email": null,
+      "Street": "273",
+      "City": "W PUTNAM AVE",
+      "State": "IL",
+      "ZIP": "Greenwich"
+    },
+    {
+      "Dealer": "Aston Martin Long Island",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-long-island",
+      "Phone": "(+1) 516 478 4326",
+      "Email": null,
+      "Street": "1047 NORTHERN BOULEVARD",
+      "City": "ROSLYN",
+      "State": "IL",
+      "ZIP": "New York"
+    },
+    {
+      "Dealer": "Aston Martin Montreal",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-montreal",
+      "Phone": "(+1) 514 334 9910",
+      "Email": null,
+      "Street": "8225 Decarie",
+      "City": "Montr\u00e9al",
+      "State": "IL",
+      "ZIP": "H4P 0B9"
+    },
+    {
+      "Dealer": "Aston Martin Dallas",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-dallas",
+      "Phone": "833-652-0402",
+      "Email": null,
+      "Street": "5300 Lemmon Avenue",
+      "City": "Dallas",
+      "State": "IL",
+      "ZIP": "75209"
+    },
+    {
+      "Dealer": "Aston Martin Boston Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-boston",
+      "Phone": "781-547-5959",
+      "Email": null,
+      "Street": "340 Providence Highway",
+      "City": "Westwood",
+      "State": "IL",
+      "ZIP": "02090"
+    },
+    {
+      "Dealer": "Aston Martin Denver",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-denver",
+      "Phone": "(303) 470-7000",
+      "Email": null,
+      "Street": "1850 Lucent Ct",
+      "City": "Highlands Ranch",
+      "State": "IL",
+      "ZIP": "80129"
+    },
+    {
+      "Dealer": "Aston Martin Houston",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-houston",
+      "Phone": "(+1) 713 868 6813",
+      "Email": null,
+      "Street": "7000 Katy Rd.",
+      "City": "Houston",
+      "State": "IL",
+      "ZIP": "77024"
+    },
+    {
+      "Dealer": "Aston Martin Austin",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-austin",
+      "Phone": "737-304-8188",
+      "Email": null,
+      "Street": "12989 Research Blvd",
+      "City": "Austin",
+      "State": "IL",
+      "ZIP": "78750"
+    },
+    {
+      "Dealer": "Aston Martin Orlando",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-orlando",
+      "Phone": "(+1) 833 279 4085",
+      "Email": null,
+      "Street": "4249",
+      "City": "Millenia Blvd",
+      "State": "IL",
+      "ZIP": "Orlando"
+    },
+    {
+      "Dealer": "Aston Martin Tampa Bay Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-tampa-bay",
+      "Phone": "(727) 608-5743",
+      "Email": null,
+      "Street": "3333",
+      "City": "Gandy Blvd N",
+      "State": "IL",
+      "ZIP": "Pinellas Park"
+    },
+    {
+      "Dealer": "Aston Martin Palm Beach Dealership",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-palm-beach",
+      "Phone": "(+1) 561-805-5584",
+      "Email": null,
+      "Street": "915",
+      "City": "S DIXIE HWY",
+      "State": "IL",
+      "ZIP": "WEST PALM BEACH"
+    },
+    {
+      "Dealer": "Aston Martin Naples",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-naples",
+      "Phone": "(239) 280-5103",
+      "Email": null,
+      "Street": "900",
+      "City": "TAMIAMI TRL N",
+      "State": "IL",
+      "ZIP": "Naples"
+    },
+    {
+      "Dealer": "Aston Martin Fort Lauderdale",
+      "Website": "https://www.astonmartin.com/en-us/dealers/aston-martin-fort-lauderdale",
+      "Phone": "954-779-2009",
+      "Email": null,
+      "Street": "900",
+      "City": "E SUNRISE BLVD",
+      "State": "IL",
+      "ZIP": "FORT LAUDERDALE"
+    }
+  ]
+}

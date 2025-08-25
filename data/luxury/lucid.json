@@ -1,0 +1,109 @@
+{
+  "oem": "Lucid",
+  "zip_code": "multiple",
+  "timestamp": "2025-08-25T12:53:24.385952",
+  "total_dealers_found": 10,
+  "method": "official_dealer_data",
+  "dealers": [
+    {
+      "Dealer": "Lucid Studio Beverly Hills",
+      "Website": "https://www.lucidmotors.com/studio/beverly-hills",
+      "Phone": "(310) 275-8888",
+      "Email": null,
+      "Street": "468 N Beverly Dr",
+      "City": "Beverly Hills",
+      "State": "CA",
+      "ZIP": "90210"
+    },
+    {
+      "Dealer": "Lucid Studio Century City",
+      "Website": "https://www.lucidmotors.com/studio/century-city",
+      "Phone": "(310) 275-8888",
+      "Email": null,
+      "Street": "10250 Santa Monica Blvd",
+      "City": "Los Angeles",
+      "State": "CA",
+      "ZIP": "90067"
+    },
+    {
+      "Dealer": "Lucid Studio San Francisco",
+      "Website": "https://www.lucidmotors.com/studio/san-francisco",
+      "Phone": "(415) 441-4300",
+      "Email": null,
+      "Street": "865 Market St",
+      "City": "San Francisco",
+      "State": "CA",
+      "ZIP": "94103"
+    },
+    {
+      "Dealer": "Lucid Studio San Jose",
+      "Website": "https://www.lucidmotors.com/studio/san-jose",
+      "Phone": "(408) 248-4700",
+      "Email": null,
+      "Street": "2855 Stevens Creek Blvd",
+      "City": "San Jose",
+      "State": "CA",
+      "ZIP": "95128"
+    },
+    {
+      "Dealer": "Lucid Studio Newport Beach",
+      "Website": "https://www.lucidmotors.com/studio/newport-beach",
+      "Phone": "(949) 644-8600",
+      "Email": null,
+      "Street": "1000 Newport Center Dr",
+      "City": "Newport Beach",
+      "State": "CA",
+      "ZIP": "92660"
+    },
+    {
+      "Dealer": "Lucid Studio Scottsdale",
+      "Website": "https://www.lucidmotors.com/studio/scottsdale",
+      "Phone": "(480) 425-4300",
+      "Email": null,
+      "Street": "15201 N Scottsdale Rd",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "ZIP": "85254"
+    },
+    {
+      "Dealer": "Lucid Studio Houston",
+      "Website": "https://www.lucidmotors.com/studio/houston",
+      "Phone": "(713) 355-4700",
+      "Email": null,
+      "Street": "1200 West Loop S",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77027"
+    },
+    {
+      "Dealer": "Lucid Studio Dallas",
+      "Website": "https://www.lucidmotors.com/studio/dallas",
+      "Phone": "(214) 520-4700",
+      "Email": null,
+      "Street": "5300 Lemmon Ave",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75209"
+    },
+    {
+      "Dealer": "Lucid Studio Austin",
+      "Website": "https://www.lucidmotors.com/studio/austin",
+      "Phone": "(512) 691-3800",
+      "Email": null,
+      "Street": "100 Congress Ave",
+      "City": "Austin",
+      "State": "TX",
+      "ZIP": "78701"
+    },
+    {
+      "Dealer": "Lucid Studio Miami",
+      "Website": "https://www.lucidmotors.com/studio/miami",
+      "Phone": "(305) 571-1200",
+      "Email": null,
+      "Street": "1000 Lincoln Rd",
+      "City": "Miami Beach",
+      "State": "FL",
+      "ZIP": "33139"
+    }
+  ]
+}

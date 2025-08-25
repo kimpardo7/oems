@@ -1,0 +1,58 @@
+{
+  "oem": "Pagani",
+  "zip_code": "multiple",
+  "timestamp": "2025-08-18T17:45:00.000000",
+  "total_dealers_found": 5,
+  "dealers": [
+    {
+      "Dealer": "Pagani of San Francisco",
+      "Website": "https://www.paganiofsanfrancisco.com/",
+      "Phone": "(415) 526-7325",
+      "Email": "labukweik@boardwalkautogroup.com",
+      "Street": "620 Du Bois St",
+      "City": "San Rafael",
+      "State": "CA",
+      "ZIP": "94901"
+    },
+    {
+      "Dealer": "Pagani of Miami",
+      "Website": "https://www.paganimiami.com/",
+      "Phone": "(833) 290-6287",
+      "Email": "ngamarra@prestigeimports.com",
+      "Street": "14800 Biscayne Blvd",
+      "City": "North Miami",
+      "State": "FL",
+      "ZIP": "33181"
+    },
+    {
+      "Dealer": "Pagani of Beverly Hills",
+      "Website": "https://www.paganibeverlyhills.com/",
+      "Phone": "(888) 375-90211",
+      "Email": "patrick@paganibeverlyhills.com",
+      "Street": "207-209 S. Robertson Blvd",
+      "City": "Beverly Hills",
+      "State": "CA",
+      "ZIP": "90211"
+    },
+    {
+      "Dealer": "Pagani of Greenwich",
+      "Website": "https://www.paganigreenwich.com/index.php",
+      "Phone": "(866) 295-7872",
+      "Email": "pagani@millermotorcars.com",
+      "Street": "315 West Putnam Avenue",
+      "City": "Greenwich",
+      "State": "CT",
+      "ZIP": "06830"
+    },
+    {
+      "Dealer": "Pagani of Dallas",
+      "Website": "https://www.paganidallas.com/",
+      "Phone": "(972) 381-4001",
+      "Email": "tmckenna@boardwalkautogroup.com",
+      "Street": "601 S Central Expy",
+      "City": "Richardson",
+      "State": "TX",
+      "ZIP": "75080"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "oem": "Koenigsegg",
+  "zip_code": "multiple",
+  "timestamp": "2024-12-19T17:43:00.000000",
+  "total_dealers_found": 13,
+  "dealers": [
+    {
+      "Dealer": "O'Gara Coach",
+      "Website": "https://www.ogaracoach.com/koenigsegg.htm",
+      "Phone": "+1-310-659-4050",
+      "Email": null,
+      "Street": "8833 West Olympic Boulevard",
+      "City": "Beverly Hills",
+      "State": "CA",
+      "ZIP": "90211"
+    },
+    {
+      "Dealer": "Koenigsegg Newport Beach",
+      "Website": "https://www.koenigseggnb.com",
+      "Phone": "1-888-706-7228",
+      "Email": "seb.babrah@koenigseggnb.com",
+      "Street": "44 Auto Center Dr",
+      "City": "Irvine",
+      "State": "CA",
+      "ZIP": "92618"
+    },
+    {
+      "Dealer": "Issimi",
+      "Website": "https://www.issimi.com/vehicles/2026-koenigsegg-gemera/private-sales",
+      "Phone": "+1 650-325-4648",
+      "Email": "sales@issimi.com",
+      "Street": "952 Bransten Road",
+      "City": "San Carlos",
+      "State": "CA",
+      "ZIP": "94070"
+    },
+    {
+      "Dealer": "Mike Ward Automotive",
+      "Website": "https://www.mikewardautomotive.com/koenigsegg",
+      "Phone": "+1 (303) 470-7000",
+      "Email": null,
+      "Street": "1850 Lucent Court",
+      "City": "Highlands Ranch",
+      "State": "CO",
+      "ZIP": "80129"
+    },
+    {
+      "Dealer": "Exotics of Florida",
+      "Website": "https://www.koenigseggflorida.com",
+      "Phone": "+1 (786) 5945037",
+      "Email": "info@koenigseggflorida.com",
+      "Street": "2300 NE 151th Street",
+      "City": "North Miami",
+      "State": "FL",
+      "ZIP": "33181"
+    },
+    {
+      "Dealer": "Motorcars of Atlanta",
+      "Website": "https://www.koenigseggatl.com",
+      "Phone": "+1 404-610-1333",
+      "Email": "brandon@koenigseggatl.com",
+      "Street": "7865 Roswell Rd.",
+      "City": "Sandy Springs",
+      "State": "GA",
+      "ZIP": "30350"
+    },
+    {
+      "Dealer": "Lake Forest Sportscars",
+      "Website": "https://www.lfsc.com",
+      "Phone": "+1 847 295 6560",
+      "Email": "nmancuso@lfsc.com",
+      "Street": "990 N Shore Dr",
+      "City": "Lake Bluff",
+      "State": "IL",
+      "ZIP": "60044"
+    },
+    {
+      "Dealer": "Village Premiere Inc",
+      "Website": "https://www.mclareboston.com",
+      "Phone": "+1 781-347-3163",
+      "Email": "ddesantis@mclareboston.com",
+      "Street": "22 Pond Street",
+      "City": "Norwell",
+      "State": "MA",
+      "ZIP": "02061"
+    },
+    {
+      "Dealer": "Towbin Motorcars",
+      "Website": "https://www.towbinmotorcars.com",
+      "Phone": "+1 702 932 7100",
+      "Email": null,
+      "Street": "5550 W Sahara Ave",
+      "City": "Las Vegas",
+      "State": "NV",
+      "ZIP": "89146"
+    },
+    {
+      "Dealer": "Manhattan Motorcars",
+      "Website": "https://www.manhattanmotorcars.com",
+      "Phone": "+1 212 594 7373",
+      "Email": "jaclyn.johnston@manhattanmotorcars.com",
+      "Street": "270 11th Ave",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": "10001"
+    },
+    {
+      "Dealer": "CMD",
+      "Website": "https://www.koenigseggnc.com",
+      "Phone": "+1 704 248 8699",
+      "Email": "rmoreno@koenigseggnc.com",
+      "Street": "6010 Kenley",
+      "City": "Charlotte",
+      "State": "NC",
+      "ZIP": "28217"
+    },
+    {
+      "Dealer": "Koenigsegg Dallas",
+      "Website": "https://www.koenigseggdallas.com",
+      "Phone": "(469) 444-9352",
+      "Email": null,
+      "Street": "5300 Lemmon Avenue",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75209"
+    },
+    {
+      "Dealer": "Koenigsegg Washington",
+      "Website": "https://www.koenigseggwashington.com",
+      "Phone": "+1 (703) 328-6510",
+      "Email": "jmetcalfe@eag-dc.com",
+      "Street": "45180 Russell Branch Pkwy",
+      "City": "Ashburn",
+      "State": "VA",
+      "ZIP": "20147"
+    }
+  ]
+}

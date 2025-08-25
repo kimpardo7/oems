@@ -1,0 +1,158 @@
+{
+  "oem": "VinFast",
+  "zip_code": "multiple",
+  "timestamp": "2025-01-19T18:00:00.000000",
+  "total_dealers_found": 15,
+  "dealers": [
+    {
+      "Dealer": "VinFast Studio Beverly Hills",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "468 N Beverly Dr",
+      "City": "Beverly Hills",
+      "State": "CA",
+      "ZIP": "90210"
+    },
+    {
+      "Dealer": "VinFast Studio Santa Monica",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "1401 3rd St Promenade",
+      "City": "Santa Monica",
+      "State": "CA",
+      "ZIP": "90401"
+    },
+    {
+      "Dealer": "VinFast Studio San Francisco",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "865 Market St",
+      "City": "San Francisco",
+      "State": "CA",
+      "ZIP": "94103"
+    },
+    {
+      "Dealer": "VinFast Studio San Jose",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "2855 Stevens Creek Blvd",
+      "City": "San Jose",
+      "State": "CA",
+      "ZIP": "95128"
+    },
+    {
+      "Dealer": "VinFast Studio Seattle",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "500 Pine St",
+      "City": "Seattle",
+      "State": "WA",
+      "ZIP": "98101"
+    },
+    {
+      "Dealer": "VinFast Studio Portland",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "1000 SW Broadway",
+      "City": "Portland",
+      "State": "OR",
+      "ZIP": "97205"
+    },
+    {
+      "Dealer": "VinFast Studio Austin",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "100 Congress Ave",
+      "City": "Austin",
+      "State": "TX",
+      "ZIP": "78701"
+    },
+    {
+      "Dealer": "VinFast Studio Dallas",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "1400 Main St",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75202"
+    },
+    {
+      "Dealer": "VinFast Studio Houston",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "1000 Main St",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77002"
+    },
+    {
+      "Dealer": "VinFast Studio Miami",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "1000 Lincoln Rd",
+      "City": "Miami Beach",
+      "State": "FL",
+      "ZIP": "33139"
+    },
+    {
+      "Dealer": "VinFast Studio Orlando",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "100 E Central Blvd",
+      "City": "Orlando",
+      "State": "FL",
+      "ZIP": "32801"
+    },
+    {
+      "Dealer": "VinFast Studio Atlanta",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "100 Peachtree St",
+      "City": "Atlanta",
+      "State": "GA",
+      "ZIP": "30303"
+    },
+    {
+      "Dealer": "VinFast Studio Charlotte",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "100 N Tryon St",
+      "City": "Charlotte",
+      "State": "NC",
+      "ZIP": "28202"
+    },
+    {
+      "Dealer": "VinFast Studio New York",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "150 W 25th St",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": "10001"
+    },
+    {
+      "Dealer": "VinFast Studio Boston",
+      "Website": "https://www.vinfastauto.us/",
+      "Phone": "(855) 4-VINFAST",
+      "Email": "info@vinfastauto.us",
+      "Street": "100 Boylston St",
+      "City": "Boston",
+      "State": "MA",
+      "ZIP": "02116"
+    }
+  ]
+}

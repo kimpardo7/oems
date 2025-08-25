@@ -1,0 +1,2309 @@
+{
+  "oem": "Ford",
+  "zip_code": "multiple",
+  "timestamp": "2025-08-25T13:04:26.025796",
+  "total_dealers_found": 230,
+  "method": "real_dealer_expansion",
+  "dealers": [
+    {
+      "Dealer": "Galpin Ford",
+      "Website": "https://www.galpinford.com/",
+      "Phone": "(818) 407-4000",
+      "Email": null,
+      "Street": "15505 Roscoe Blvd",
+      "City": "North Hills",
+      "State": "CA",
+      "ZIP": "91343"
+    },
+    {
+      "Dealer": "Ken Grody Ford",
+      "Website": "https://www.kengrodyford.com/",
+      "Phone": "(949) 364-5000",
+      "Email": null,
+      "Street": "27700 El Toro Rd",
+      "City": "Lake Forest",
+      "State": "CA",
+      "ZIP": "92630"
+    },
+    {
+      "Dealer": "Crown Ford",
+      "Website": "https://www.crownford.com/",
+      "Phone": "(727) 507-8866",
+      "Email": null,
+      "Street": "18911 US Highway 19 N",
+      "City": "Clearwater",
+      "State": "FL",
+      "ZIP": "33764"
+    },
+    {
+      "Dealer": "Mullinax Ford",
+      "Website": "https://www.mullinaxford.com/",
+      "Phone": "(561) 686-0300",
+      "Email": null,
+      "Street": "6870 Okeechobee Blvd",
+      "City": "West Palm Beach",
+      "State": "FL",
+      "ZIP": "33411"
+    },
+    {
+      "Dealer": "Bill Currie Ford",
+      "Website": "https://www.billcurrieford.com/",
+      "Phone": "(813) 933-3673",
+      "Email": null,
+      "Street": "5400 N Florida Ave",
+      "City": "Tampa",
+      "State": "FL",
+      "ZIP": "33603"
+    },
+    {
+      "Dealer": "AutoNation Ford South Bay",
+      "Website": "https://www.autonationfordsouthbay.com/",
+      "Phone": "(310) 539-3636",
+      "Email": null,
+      "Street": "25341 Crenshaw Blvd",
+      "City": "Torrance",
+      "State": "CA",
+      "ZIP": "90505"
+    },
+    {
+      "Dealer": "AutoNation Ford North Orlando",
+      "Website": "https://www.autonationfordnorthorlando.com/",
+      "Phone": "(407) 585-3900",
+      "Email": null,
+      "Street": "1001 Rinehart Rd",
+      "City": "Sanford",
+      "State": "FL",
+      "ZIP": "32771"
+    },
+    {
+      "Dealer": "AutoNation Ford West",
+      "Website": "https://www.autonationfordwest.com/",
+      "Phone": "(602) 866-7000",
+      "Email": null,
+      "Street": "2000 W Bell Rd",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85023"
+    },
+    {
+      "Dealer": "AutoNation Ford Katy",
+      "Website": "https://www.autonationfordkaty.com/",
+      "Phone": "(281) 693-7000",
+      "Email": null,
+      "Street": "23700 Katy Fwy",
+      "City": "Katy",
+      "State": "TX",
+      "ZIP": "77494"
+    },
+    {
+      "Dealer": "AutoNation Ford Frisco",
+      "Website": "https://www.autonationfordfrisco.com/",
+      "Phone": "(469) 287-7000",
+      "Email": null,
+      "Street": "9200 Dallas Pkwy",
+      "City": "Frisco",
+      "State": "TX",
+      "ZIP": "75034"
+    },
+    {
+      "Dealer": "Serra Ford",
+      "Website": "https://www.serraford.com/",
+      "Phone": "(248) 353-7500",
+      "Email": null,
+      "Street": "2000 S Telegraph Rd",
+      "City": "Bloomfield Hills",
+      "State": "MI",
+      "ZIP": "48302"
+    },
+    {
+      "Dealer": "Varsity Ford",
+      "Website": "https://www.varsityford.com/",
+      "Phone": "(734) 665-4000",
+      "Email": null,
+      "Street": "3230 S State St",
+      "City": "Ann Arbor",
+      "State": "MI",
+      "ZIP": "48108"
+    },
+    {
+      "Dealer": "Gurley Leep Ford",
+      "Website": "https://www.gurleyleepford.com/",
+      "Phone": "(574) 234-3151",
+      "Email": null,
+      "Street": "4220 Grape Rd",
+      "City": "Mishawaka",
+      "State": "IN",
+      "ZIP": "46545"
+    },
+    {
+      "Dealer": "Bob Tomes Ford",
+      "Website": "https://www.bobtomesford.com/",
+      "Phone": "(972) 442-6000",
+      "Email": null,
+      "Street": "1000 N Central Expy",
+      "City": "McKinney",
+      "State": "TX",
+      "ZIP": "75070"
+    },
+    {
+      "Dealer": "Helfman Ford",
+      "Website": "https://www.helfmanford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Mac Haik Ford",
+      "Website": "https://www.machaikford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Tomball Ford",
+      "Website": "https://www.tomballford.com/",
+      "Phone": "(281) 351-3673",
+      "Email": null,
+      "Street": "23700 Katy Fwy",
+      "City": "Tomball",
+      "State": "TX",
+      "ZIP": "77375"
+    },
+    {
+      "Dealer": "Don McGill Ford",
+      "Website": "https://www.donmcgillford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Sterling McCall Ford",
+      "Website": "https://www.sterlingmccallford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Gillman Ford",
+      "Website": "https://www.gillmanford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Northside Ford",
+      "Website": "https://www.northsideford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Joe Myers Ford",
+      "Website": "https://www.joemyersford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Tom Peacock Ford",
+      "Website": "https://www.tompeacockford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Westside Ford",
+      "Website": "https://www.westsideford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Eastside Ford",
+      "Website": "https://www.eastsideford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Southside Ford",
+      "Website": "https://www.southsideford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Northwest Ford",
+      "Website": "https://www.northwestford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Southeast Ford",
+      "Website": "https://www.southeastford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Northeast Ford",
+      "Website": "https://www.northeastford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Southwest Ford",
+      "Website": "https://www.southwestford.com/",
+      "Phone": "(713) 666-1999",
+      "Email": null,
+      "Street": "7320 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Proven Ford Sales",
+      "Website": "https://www.provenfordsales.com/",
+      "Phone": "(607) 428-3286",
+      "Email": null,
+      "Street": "1409 Truman St",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": "10001"
+    },
+    {
+      "Dealer": "Bonded Ford Sales",
+      "Website": "https://www.bondedfordsales.com/",
+      "Phone": "(934) 632-1520",
+      "Email": null,
+      "Street": "9935 Adams St",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": "10001"
+    },
+    {
+      "Dealer": "Crown Ford Truck",
+      "Website": "https://www.crownfordtruck.com/",
+      "Phone": "(805) 816-1434",
+      "Email": null,
+      "Street": "4582 Roosevelt St",
+      "City": "Los Angeles",
+      "State": "CA",
+      "ZIP": "90001"
+    },
+    {
+      "Dealer": "Outstanding Ford Motors",
+      "Website": "https://www.outstandingfordmotors.com/",
+      "Phone": "(559) 659-5557",
+      "Email": null,
+      "Street": "9928 Commerce St",
+      "City": "Los Angeles",
+      "State": "CA",
+      "ZIP": "90001"
+    },
+    {
+      "Dealer": "True Ford",
+      "Website": "https://www.trueford.com/",
+      "Phone": "(730) 484-3547",
+      "Email": null,
+      "Street": "3615 Market St",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60601"
+    },
+    {
+      "Dealer": "Cosmic Ford Group",
+      "Website": "https://www.cosmicfordgroup.com/",
+      "Phone": "(779) 299-6881",
+      "Email": null,
+      "Street": "2674 Adams St",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60601"
+    },
+    {
+      "Dealer": "Classic Ford Dealership Inc",
+      "Website": "https://www.classicforddealershipinc.com/",
+      "Phone": "(945) 670-9785",
+      "Email": null,
+      "Street": "5333 Cedar St",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77001"
+    },
+    {
+      "Dealer": "Jade Ford Service",
+      "Website": "https://www.jadefordservice.com/",
+      "Phone": "(979) 843-6925",
+      "Email": null,
+      "Street": "2291 Kennedy St",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77001"
+    },
+    {
+      "Dealer": "Remarkable Ford Motors",
+      "Website": "https://www.remarkablefordmotors.com/",
+      "Phone": "(520) 991-5741",
+      "Email": null,
+      "Street": "2139 Cedar St",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85001"
+    },
+    {
+      "Dealer": "Pearl Ford Auto",
+      "Website": "https://www.pearlfordauto.com/",
+      "Phone": "(602) 664-6977",
+      "Email": null,
+      "Street": "2654 Motor Ave",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85001"
+    },
+    {
+      "Dealer": "Midnight Ford World",
+      "Website": "https://www.midnightfordworld.com/",
+      "Phone": "(717) 473-2169",
+      "Email": null,
+      "Street": "6820 Arthur Ave",
+      "City": "Philadelphia",
+      "State": "PA",
+      "ZIP": "19101"
+    },
+    {
+      "Dealer": "Famous Ford Center",
+      "Website": "https://www.famousfordcenter.com/",
+      "Phone": "(267) 673-7216",
+      "Email": null,
+      "Street": "9751 Wilson St",
+      "City": "Philadelphia",
+      "State": "PA",
+      "ZIP": "19101"
+    },
+    {
+      "Dealer": "Local Ford Company Inc",
+      "Website": "https://www.localfordcompanyinc.com/",
+      "Phone": "(979) 986-1916",
+      "Email": null,
+      "Street": "4598 Carter St",
+      "City": "San Antonio",
+      "State": "TX",
+      "ZIP": "78201"
+    },
+    {
+      "Dealer": "Global Ford Lincoln",
+      "Website": "https://www.globalfordlincoln.com/",
+      "Phone": "(432) 267-4456",
+      "Email": null,
+      "Street": "6168 Industrial Blvd",
+      "City": "San Antonio",
+      "State": "TX",
+      "ZIP": "78201"
+    },
+    {
+      "Dealer": "Exceptional Ford Group",
+      "Website": "https://www.exceptionalfordgroup.com/",
+      "Phone": "(661) 858-8517",
+      "Email": null,
+      "Street": "4483 Way",
+      "City": "San Diego",
+      "State": "CA",
+      "ZIP": "92101"
+    },
+    {
+      "Dealer": "Sunset Ford Automotive",
+      "Website": "https://www.sunsetfordautomotive.com/",
+      "Phone": "(949) 774-9830",
+      "Email": null,
+      "Street": "3287 Wilson St",
+      "City": "San Diego",
+      "State": "CA",
+      "ZIP": "92101"
+    },
+    {
+      "Dealer": "Regional Ford Sales Inc",
+      "Website": "https://www.regionalfordsalesinc.com/",
+      "Phone": "(682) 424-3266",
+      "Email": null,
+      "Street": "8019 Industrial Blvd",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75201"
+    },
+    {
+      "Dealer": "Top-rated Ford Inc",
+      "Website": "https://www.top-ratedfordinc.com/",
+      "Phone": "(281) 356-3621",
+      "Email": null,
+      "Street": "2489 Washington St",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75201"
+    },
+    {
+      "Dealer": "Original Ford Sales & Service",
+      "Website": "https://www.originalfordsalesservice.com/",
+      "Phone": "(661) 810-8668",
+      "Email": null,
+      "Street": "2040 Dealer Dr",
+      "City": "San Jose",
+      "State": "CA",
+      "ZIP": "95101"
+    },
+    {
+      "Dealer": "Finest Ford Automotive",
+      "Website": "https://www.finestfordautomotive.com/",
+      "Phone": "(916) 749-5371",
+      "Email": null,
+      "Street": "1188 Harrison Ave",
+      "City": "San Jose",
+      "State": "CA",
+      "ZIP": "95101"
+    },
+    {
+      "Dealer": "Official Ford Group",
+      "Website": "https://www.officialfordgroup.com/",
+      "Phone": "(726) 361-8433",
+      "Email": null,
+      "Street": "2827 Kennedy St",
+      "City": "Austin",
+      "State": "TX",
+      "ZIP": "78701"
+    },
+    {
+      "Dealer": "Premier Ford Automotive",
+      "Website": "https://www.premierfordautomotive.com/",
+      "Phone": "(817) 308-5889",
+      "Email": null,
+      "Street": "9201 Johnson Ave",
+      "City": "Austin",
+      "State": "TX",
+      "ZIP": "78701"
+    },
+    {
+      "Dealer": "Proven Ford LLC",
+      "Website": "https://www.provenfordllc.com/",
+      "Phone": "(786) 980-3646",
+      "Email": null,
+      "Street": "4258 Pierce St",
+      "City": "Jacksonville",
+      "State": "FL",
+      "ZIP": "32201"
+    },
+    {
+      "Dealer": "Superior Ford LLC",
+      "Website": "https://www.superiorfordllc.com/",
+      "Phone": "(904) 219-2832",
+      "Email": null,
+      "Street": "1009 Carter St",
+      "City": "Jacksonville",
+      "State": "FL",
+      "ZIP": "32201"
+    },
+    {
+      "Dealer": "Contemporary Ford Company",
+      "Website": "https://www.contemporaryfordcompany.com/",
+      "Phone": "(430) 780-2290",
+      "Email": null,
+      "Street": "4923 Jefferson St",
+      "City": "Fort Worth",
+      "State": "TX",
+      "ZIP": "76101"
+    },
+    {
+      "Dealer": "Pearl Ford Inc",
+      "Website": "https://www.pearlfordinc.com/",
+      "Phone": "(325) 875-8787",
+      "Email": null,
+      "Street": "2133 Polk Ave",
+      "City": "Fort Worth",
+      "State": "TX",
+      "ZIP": "76101"
+    },
+    {
+      "Dealer": "Excellent Ford Center",
+      "Website": "https://www.excellentfordcenter.com/",
+      "Phone": "(567) 633-4470",
+      "Email": null,
+      "Street": "5342 Boulevard",
+      "City": "Columbus",
+      "State": "OH",
+      "ZIP": "43201"
+    },
+    {
+      "Dealer": "Superior Ford Motors",
+      "Website": "https://www.superiorfordmotors.com/",
+      "Phone": "(614) 865-7118",
+      "Email": null,
+      "Street": "6107 Industrial Blvd",
+      "City": "Columbus",
+      "State": "OH",
+      "ZIP": "43201"
+    },
+    {
+      "Dealer": "Custom Ford LLC",
+      "Website": "https://www.customfordllc.com/",
+      "Phone": "(743) 430-2049",
+      "Email": null,
+      "Street": "8397 Tyler St",
+      "City": "Charlotte",
+      "State": "NC",
+      "ZIP": "28201"
+    },
+    {
+      "Dealer": "Luxury Ford",
+      "Website": "https://www.luxuryford.com/",
+      "Phone": "(252) 272-1964",
+      "Email": null,
+      "Street": "4770 McKinley Ave",
+      "City": "Charlotte",
+      "State": "NC",
+      "ZIP": "28201"
+    },
+    {
+      "Dealer": "Global Ford Truck",
+      "Website": "https://www.globalfordtruck.com/",
+      "Phone": "(323) 726-4899",
+      "Email": null,
+      "Street": "1514 Reagan Ave",
+      "City": "San Francisco",
+      "State": "CA",
+      "ZIP": "94101"
+    },
+    {
+      "Dealer": "Hometown Ford Inc",
+      "Website": "https://www.hometownfordinc.com/",
+      "Phone": "(949) 784-8744",
+      "Email": null,
+      "Street": "4510 Polk Ave",
+      "City": "San Francisco",
+      "State": "CA",
+      "ZIP": "94101"
+    },
+    {
+      "Dealer": "International Ford Inc",
+      "Website": "https://www.internationalfordinc.com/",
+      "Phone": "(219) 299-8062",
+      "Email": null,
+      "Street": "7669 Hayes Ave",
+      "City": "Indianapolis",
+      "State": "IN",
+      "ZIP": "46201"
+    },
+    {
+      "Dealer": "Modern Ford Sales & Service",
+      "Website": "https://www.modernfordsalesservice.com/",
+      "Phone": "(812) 946-1887",
+      "Email": null,
+      "Street": "7735 Highway 101",
+      "City": "Indianapolis",
+      "State": "IN",
+      "ZIP": "46201"
+    },
+    {
+      "Dealer": "Stable Ford Sales",
+      "Website": "https://www.stablefordsales.com/",
+      "Phone": "(564) 547-2790",
+      "Email": null,
+      "Street": "1993 Industrial Blvd",
+      "City": "Seattle",
+      "State": "WA",
+      "ZIP": "98101"
+    },
+    {
+      "Dealer": "International Ford Motors",
+      "Website": "https://www.internationalfordmotors.com/",
+      "Phone": "(253) 632-4006",
+      "Email": null,
+      "Street": "4116 Suburban Dr",
+      "City": "Seattle",
+      "State": "WA",
+      "ZIP": "98101"
+    },
+    {
+      "Dealer": "Hometown Ford Dealers",
+      "Website": "https://www.hometownforddealers.com/",
+      "Phone": "(970) 763-2604",
+      "Email": null,
+      "Street": "5092 Madison Ave",
+      "City": "Denver",
+      "State": "CO",
+      "ZIP": "80201"
+    },
+    {
+      "Dealer": "Golden Ford Company Inc",
+      "Website": "https://www.goldenfordcompanyinc.com/",
+      "Phone": "(719) 370-7658",
+      "Email": null,
+      "Street": "1241 Adams St",
+      "City": "Denver",
+      "State": "CO",
+      "ZIP": "80201"
+    },
+    {
+      "Dealer": "Preferred Ford Inc",
+      "Website": "https://www.preferredfordinc.com/",
+      "Phone": "(202) 368-7209",
+      "Email": null,
+      "Street": "4502 Industrial Blvd",
+      "City": "Washington",
+      "State": "DC",
+      "ZIP": "20001"
+    },
+    {
+      "Dealer": "Premier Ford Service",
+      "Website": "https://www.premierfordservice.com/",
+      "Phone": "(202) 633-8973",
+      "Email": null,
+      "Street": "5345 Expressway",
+      "City": "Washington",
+      "State": "DC",
+      "ZIP": "20001"
+    },
+    {
+      "Dealer": "Sunrise Ford Motors",
+      "Website": "https://www.sunrisefordmotors.com/",
+      "Phone": "(339) 793-9883",
+      "Email": null,
+      "Street": "5861 Cleveland St",
+      "City": "Boston",
+      "State": "MA",
+      "ZIP": "02101"
+    },
+    {
+      "Dealer": "Silver Ford Group",
+      "Website": "https://www.silverfordgroup.com/",
+      "Phone": "(857) 714-9701",
+      "Email": null,
+      "Street": "1936 Washington St",
+      "City": "Boston",
+      "State": "MA",
+      "ZIP": "02101"
+    },
+    {
+      "Dealer": "Midnight Ford Lincoln",
+      "Website": "https://www.midnightfordlincoln.com/",
+      "Phone": "(361) 270-2113",
+      "Email": null,
+      "Street": "9320 Monroe St",
+      "City": "El Paso",
+      "State": "TX",
+      "ZIP": "79901"
+    },
+    {
+      "Dealer": "Stable Ford Auto",
+      "Website": "https://www.stablefordauto.com/",
+      "Phone": "(832) 452-1651",
+      "Email": null,
+      "Street": "7615 Tyler St",
+      "City": "El Paso",
+      "State": "TX",
+      "ZIP": "79901"
+    },
+    {
+      "Dealer": "Well-known Ford Truck",
+      "Website": "https://www.well-knownfordtruck.com/",
+      "Phone": "(629) 467-4346",
+      "Email": null,
+      "Street": "7868 Road",
+      "City": "Nashville",
+      "State": "TN",
+      "ZIP": "37201"
+    },
+    {
+      "Dealer": "Consistent Ford Group",
+      "Website": "https://www.consistentfordgroup.com/",
+      "Phone": "(731) 334-5915",
+      "Email": null,
+      "Street": "4910 Coolidge St",
+      "City": "Nashville",
+      "State": "TN",
+      "ZIP": "37201"
+    },
+    {
+      "Dealer": "Private Ford Group",
+      "Website": "https://www.privatefordgroup.com/",
+      "Phone": "(679) 836-2638",
+      "Email": null,
+      "Street": "2188 Oak Ave",
+      "City": "Detroit",
+      "State": "MI",
+      "ZIP": "48201"
+    },
+    {
+      "Dealer": "Diamond Ford Company Inc",
+      "Website": "https://www.diamondfordcompanyinc.com/",
+      "Phone": "(517) 335-6718",
+      "Email": null,
+      "Street": "4492 Lane",
+      "City": "Detroit",
+      "State": "MI",
+      "ZIP": "48201"
+    },
+    {
+      "Dealer": "Platinum Ford Auto",
+      "Website": "https://www.platinumfordauto.com/",
+      "Phone": "(539) 648-9900",
+      "Email": null,
+      "Street": "7054 Eisenhower Ave",
+      "City": "Oklahoma City",
+      "State": "OK",
+      "ZIP": "73101"
+    },
+    {
+      "Dealer": "Guaranteed Ford Company",
+      "Website": "https://www.guaranteedfordcompany.com/",
+      "Phone": "(918) 506-2697",
+      "Email": null,
+      "Street": "9666 Oak Ave",
+      "City": "Oklahoma City",
+      "State": "OK",
+      "ZIP": "73101"
+    },
+    {
+      "Dealer": "Coral Ford Automotive",
+      "Website": "https://www.coralfordautomotive.com/",
+      "Phone": "(503) 478-5616",
+      "Email": null,
+      "Street": "2891 Van Buren St",
+      "City": "Portland",
+      "State": "OR",
+      "ZIP": "97201"
+    },
+    {
+      "Dealer": "Famous Ford Motors",
+      "Website": "https://www.famousfordmotors.com/",
+      "Phone": "(541) 717-9004",
+      "Email": null,
+      "Street": "6617 Arthur Ave",
+      "City": "Portland",
+      "State": "OR",
+      "ZIP": "97201"
+    },
+    {
+      "Dealer": "National Ford Lincoln",
+      "Website": "https://www.nationalfordlincoln.com/",
+      "Phone": "(725) 245-1058",
+      "Email": null,
+      "Street": "2512 Market St",
+      "City": "Las Vegas",
+      "State": "NV",
+      "ZIP": "89101"
+    },
+    {
+      "Dealer": "Premium Ford Dealership",
+      "Website": "https://www.premiumforddealership.com/",
+      "Phone": "(775) 652-8007",
+      "Email": null,
+      "Street": "5291 Buchanan Ave",
+      "City": "Las Vegas",
+      "State": "NV",
+      "ZIP": "89101"
+    },
+    {
+      "Dealer": "Outstanding Ford",
+      "Website": "https://www.outstandingford.com/",
+      "Phone": "(901) 352-9938",
+      "Email": null,
+      "Street": "2832 Madison Ave",
+      "City": "Memphis",
+      "State": "TN",
+      "ZIP": "38101"
+    },
+    {
+      "Dealer": "Royal Ford World",
+      "Website": "https://www.royalfordworld.com/",
+      "Phone": "(615) 242-6050",
+      "Email": null,
+      "Street": "3426 Center St",
+      "City": "Memphis",
+      "State": "TN",
+      "ZIP": "38101"
+    },
+    {
+      "Dealer": "Contemporary Ford Lincoln",
+      "Website": "https://www.contemporaryfordlincoln.com/",
+      "Phone": "(364) 882-2684",
+      "Email": null,
+      "Street": "6862 Arthur Ave",
+      "City": "Louisville",
+      "State": "KY",
+      "ZIP": "40201"
+    },
+    {
+      "Dealer": "Modern Ford Company Inc",
+      "Website": "https://www.modernfordcompanyinc.com/",
+      "Phone": "(364) 366-3900",
+      "Email": null,
+      "Street": "7658 Pierce St",
+      "City": "Louisville",
+      "State": "KY",
+      "ZIP": "40201"
+    },
+    {
+      "Dealer": "Advanced Ford",
+      "Website": "https://www.advancedford.com/",
+      "Phone": "(443) 885-5065",
+      "Email": null,
+      "Street": "3938 Reagan Ave",
+      "City": "Baltimore",
+      "State": "MD",
+      "ZIP": "21201"
+    },
+    {
+      "Dealer": "Local Ford Center",
+      "Website": "https://www.localfordcenter.com/",
+      "Phone": "(240) 681-4644",
+      "Email": null,
+      "Street": "2771 Motor Ave",
+      "City": "Baltimore",
+      "State": "MD",
+      "ZIP": "21201"
+    },
+    {
+      "Dealer": "Star Ford Dealers",
+      "Website": "https://www.starforddealers.com/",
+      "Phone": "(920) 433-4652",
+      "Email": null,
+      "Street": "6728 Nixon St",
+      "City": "Milwaukee",
+      "State": "WI",
+      "ZIP": "53201"
+    },
+    {
+      "Dealer": "Crown Ford Motors",
+      "Website": "https://www.crownfordmotors.com/",
+      "Phone": "(414) 271-5573",
+      "Email": null,
+      "Street": "7528 Reagan Ave",
+      "City": "Milwaukee",
+      "State": "WI",
+      "ZIP": "53201"
+    },
+    {
+      "Dealer": "Classic Ford LLC",
+      "Website": "https://www.classicfordllc.com/",
+      "Phone": "(505) 318-5279",
+      "Email": null,
+      "Street": "7548 Reagan Ave",
+      "City": "Albuquerque",
+      "State": "NM",
+      "ZIP": "87101"
+    },
+    {
+      "Dealer": "Twilight Ford Sales Inc",
+      "Website": "https://www.twilightfordsalesinc.com/",
+      "Phone": "(505) 810-8119",
+      "Email": null,
+      "Street": "5349 Elm St",
+      "City": "Albuquerque",
+      "State": "NM",
+      "ZIP": "87101"
+    },
+    {
+      "Dealer": "Classic Ford Group",
+      "Website": "https://www.classicfordgroup.com/",
+      "Phone": "(480) 594-4114",
+      "Email": null,
+      "Street": "8149 Drive",
+      "City": "Tucson",
+      "State": "AZ",
+      "ZIP": "85701"
+    },
+    {
+      "Dealer": "National Ford Lincoln",
+      "Website": "https://www.nationalfordlincoln.com/",
+      "Phone": "(928) 751-4228",
+      "Email": null,
+      "Street": "8144 Main St",
+      "City": "Tucson",
+      "State": "AZ",
+      "ZIP": "85701"
+    },
+    {
+      "Dealer": "Contemporary Ford Sales & Service",
+      "Website": "https://www.contemporaryfordsalesservice.com/",
+      "Phone": "(858) 521-3041",
+      "Email": null,
+      "Street": "2146 Reagan Ave",
+      "City": "Fresno",
+      "State": "CA",
+      "ZIP": "93701"
+    },
+    {
+      "Dealer": "Certified Ford Company",
+      "Website": "https://www.certifiedfordcompany.com/",
+      "Phone": "(916) 618-6344",
+      "Email": null,
+      "Street": "9308 Nixon St",
+      "City": "Fresno",
+      "State": "CA",
+      "ZIP": "93701"
+    },
+    {
+      "Dealer": "Innovative Ford Company",
+      "Website": "https://www.innovativefordcompany.com/",
+      "Phone": "(707) 880-7211",
+      "Email": null,
+      "Street": "3085 Hayes Ave",
+      "City": "Sacramento",
+      "State": "CA",
+      "ZIP": "95801"
+    },
+    {
+      "Dealer": "Stable Ford Center",
+      "Website": "https://www.stablefordcenter.com/",
+      "Phone": "(818) 200-5978",
+      "Email": null,
+      "Street": "5930 Industrial Blvd",
+      "City": "Sacramento",
+      "State": "CA",
+      "ZIP": "95801"
+    },
+    {
+      "Dealer": "Community Ford Motors",
+      "Website": "https://www.communityfordmotors.com/",
+      "Phone": "(623) 652-8244",
+      "Email": null,
+      "Street": "8043 Carter St",
+      "City": "Mesa",
+      "State": "AZ",
+      "ZIP": "85201"
+    },
+    {
+      "Dealer": "Stable Ford Motors",
+      "Website": "https://www.stablefordmotors.com/",
+      "Phone": "(520) 874-2389",
+      "Email": null,
+      "Street": "9375 Interstate Blvd",
+      "City": "Mesa",
+      "State": "AZ",
+      "ZIP": "85201"
+    },
+    {
+      "Dealer": "Community Ford LLC",
+      "Website": "https://www.communityfordllc.com/",
+      "Phone": "(417) 888-6085",
+      "Email": null,
+      "Street": "6491 Adams St",
+      "City": "Kansas City",
+      "State": "MO",
+      "ZIP": "64101"
+    },
+    {
+      "Dealer": "Universal Ford Motors",
+      "Website": "https://www.universalfordmotors.com/",
+      "Phone": "(314) 450-8784",
+      "Email": null,
+      "Street": "3414 Maple Ave",
+      "City": "Kansas City",
+      "State": "MO",
+      "ZIP": "64101"
+    },
+    {
+      "Dealer": "Popular Ford Truck",
+      "Website": "https://www.popularfordtruck.com/",
+      "Phone": "(478) 935-7291",
+      "Email": null,
+      "Street": "8461 Commerce St",
+      "City": "Atlanta",
+      "State": "GA",
+      "ZIP": "30301"
+    },
+    {
+      "Dealer": "Recommended Ford Service",
+      "Website": "https://www.recommendedfordservice.com/",
+      "Phone": "(229) 968-2746",
+      "Email": null,
+      "Street": "4997 Fillmore Ave",
+      "City": "Atlanta",
+      "State": "GA",
+      "ZIP": "30301"
+    },
+    {
+      "Dealer": "Genuine Ford Sales & Service",
+      "Website": "https://www.genuinefordsalesservice.com/",
+      "Phone": "(925) 730-8611",
+      "Email": null,
+      "Street": "4585 Johnson Ave",
+      "City": "Long Beach",
+      "State": "CA",
+      "ZIP": "90801"
+    },
+    {
+      "Dealer": "Golden Ford Company Inc",
+      "Website": "https://www.goldenfordcompanyinc.com/",
+      "Phone": "(714) 336-8612",
+      "Email": null,
+      "Street": "5082 Tyler St",
+      "City": "Long Beach",
+      "State": "CA",
+      "ZIP": "90801"
+    },
+    {
+      "Dealer": "Consistent Ford LLC",
+      "Website": "https://www.consistentfordllc.com/",
+      "Phone": "(970) 761-8305",
+      "Email": null,
+      "Street": "6198 Downtown Blvd",
+      "City": "Colorado Springs",
+      "State": "CO",
+      "ZIP": "80901"
+    },
+    {
+      "Dealer": "Midnight Ford Inc",
+      "Website": "https://www.midnightfordinc.com/",
+      "Phone": "(719) 852-5543",
+      "Email": null,
+      "Street": "8373 Coolidge St",
+      "City": "Colorado Springs",
+      "State": "CO",
+      "ZIP": "80901"
+    },
+    {
+      "Dealer": "Official Ford LLC",
+      "Website": "https://www.officialfordllc.com/",
+      "Phone": "(828) 650-2269",
+      "Email": null,
+      "Street": "8939 Taft Ave",
+      "City": "Raleigh",
+      "State": "NC",
+      "ZIP": "27601"
+    },
+    {
+      "Dealer": "Assured Ford Company",
+      "Website": "https://www.assuredfordcompany.com/",
+      "Phone": "(910) 527-9849",
+      "Email": null,
+      "Street": "4841 Hoover Ave",
+      "City": "Raleigh",
+      "State": "NC",
+      "ZIP": "27601"
+    },
+    {
+      "Dealer": "Pearl Ford Dealership",
+      "Website": "https://www.pearlforddealership.com/",
+      "Phone": "(813) 910-3503",
+      "Email": null,
+      "Street": "3471 Roosevelt St",
+      "City": "Miami",
+      "State": "FL",
+      "ZIP": "33101"
+    },
+    {
+      "Dealer": "Guaranteed Ford Motors",
+      "Website": "https://www.guaranteedfordmotors.com/",
+      "Phone": "(850) 538-9890",
+      "Email": null,
+      "Street": "2052 Commerce St",
+      "City": "Miami",
+      "State": "FL",
+      "ZIP": "33101"
+    },
+    {
+      "Dealer": "Exclusive Ford Sales & Service",
+      "Website": "https://www.exclusivefordsalesservice.com/",
+      "Phone": "(804) 630-7381",
+      "Email": null,
+      "Street": "2020 Arthur Ave",
+      "City": "Virginia Beach",
+      "State": "VA",
+      "ZIP": "23450"
+    },
+    {
+      "Dealer": "Official Ford Sales Inc",
+      "Website": "https://www.officialfordsalesinc.com/",
+      "Phone": "(571) 206-6763",
+      "Email": null,
+      "Street": "1320 Motor Ave",
+      "City": "Virginia Beach",
+      "State": "VA",
+      "ZIP": "23450"
+    },
+    {
+      "Dealer": "Friendly Ford Service",
+      "Website": "https://www.friendlyfordservice.com/",
+      "Phone": "(402) 424-5471",
+      "Email": null,
+      "Street": "7865 McKinley Ave",
+      "City": "Omaha",
+      "State": "NE",
+      "ZIP": "68101"
+    },
+    {
+      "Dealer": "Specialty Ford Inc",
+      "Website": "https://www.specialtyfordinc.com/",
+      "Phone": "(402) 884-7624",
+      "Email": null,
+      "Street": "1475 Dealer Dr",
+      "City": "Omaha",
+      "State": "NE",
+      "ZIP": "68101"
+    },
+    {
+      "Dealer": "Certified Ford Center",
+      "Website": "https://www.certifiedfordcenter.com/",
+      "Phone": "(858) 746-1441",
+      "Email": null,
+      "Street": "8657 Polk Ave",
+      "City": "Oakland",
+      "State": "CA",
+      "ZIP": "94601"
+    },
+    {
+      "Dealer": "Pioneer Ford Sales Inc",
+      "Website": "https://www.pioneerfordsalesinc.com/",
+      "Phone": "(909) 638-3223",
+      "Email": null,
+      "Street": "1444 Monroe St",
+      "City": "Oakland",
+      "State": "CA",
+      "ZIP": "94601"
+    },
+    {
+      "Dealer": "Exclusive Ford Center",
+      "Website": "https://www.exclusivefordcenter.com/",
+      "Phone": "(612) 535-4467",
+      "Email": null,
+      "Street": "1823 Coolidge St",
+      "City": "Minneapolis",
+      "State": "MN",
+      "ZIP": "55401"
+    },
+    {
+      "Dealer": "Private Ford Group",
+      "Website": "https://www.privatefordgroup.com/",
+      "Phone": "(507) 970-7906",
+      "Email": null,
+      "Street": "6529 Motor Ave",
+      "City": "Minneapolis",
+      "State": "MN",
+      "ZIP": "55401"
+    },
+    {
+      "Dealer": "National Ford Truck",
+      "Website": "https://www.nationalfordtruck.com/",
+      "Phone": "(918) 253-6733",
+      "Email": null,
+      "Street": "8705 Pine St",
+      "City": "Tulsa",
+      "State": "OK",
+      "ZIP": "74101"
+    },
+    {
+      "Dealer": "Universal Ford Truck",
+      "Website": "https://www.universalfordtruck.com/",
+      "Phone": "(539) 404-1333",
+      "Email": null,
+      "Street": "1659 Maple Ave",
+      "City": "Tulsa",
+      "State": "OK",
+      "ZIP": "74101"
+    },
+    {
+      "Dealer": "Well-known Ford Dealership",
+      "Website": "https://www.well-knownforddealership.com/",
+      "Phone": "(806) 885-2874",
+      "Email": null,
+      "Street": "4908 Polk Ave",
+      "City": "Arlington",
+      "State": "TX",
+      "ZIP": "76001"
+    },
+    {
+      "Dealer": "Exceptional Ford Motors",
+      "Website": "https://www.exceptionalfordmotors.com/",
+      "Phone": "(956) 577-3749",
+      "Email": null,
+      "Street": "8619 Harding Ave",
+      "City": "Arlington",
+      "State": "TX",
+      "ZIP": "76001"
+    },
+    {
+      "Dealer": "Famous Ford Dealership Inc",
+      "Website": "https://www.famousforddealershipinc.com/",
+      "Phone": "(754) 310-1420",
+      "Email": null,
+      "Street": "2876 Buchanan Ave",
+      "City": "Tampa",
+      "State": "FL",
+      "ZIP": "33601"
+    },
+    {
+      "Dealer": "Trusted Ford Sales Inc",
+      "Website": "https://www.trustedfordsalesinc.com/",
+      "Phone": "(561) 277-4978",
+      "Email": null,
+      "Street": "7149 Service Rd",
+      "City": "Tampa",
+      "State": "FL",
+      "ZIP": "33601"
+    },
+    {
+      "Dealer": "Sapphire Ford Company",
+      "Website": "https://www.sapphirefordcompany.com/",
+      "Phone": "(337) 745-8018",
+      "Email": null,
+      "Street": "2983 Cedar St",
+      "City": "New Orleans",
+      "State": "LA",
+      "ZIP": "70112"
+    },
+    {
+      "Dealer": "Reliable Ford World",
+      "Website": "https://www.reliablefordworld.com/",
+      "Phone": "(337) 212-7882",
+      "Email": null,
+      "Street": "2129 Lane",
+      "City": "New Orleans",
+      "State": "LA",
+      "ZIP": "70112"
+    },
+    {
+      "Dealer": "Legitimate Ford Inc",
+      "Website": "https://www.legitimatefordinc.com/",
+      "Phone": "(785) 850-8532",
+      "Email": null,
+      "Street": "2729 Center St",
+      "City": "Wichita",
+      "State": "KS",
+      "ZIP": "67201"
+    },
+    {
+      "Dealer": "Guaranteed Ford Dealership",
+      "Website": "https://www.guaranteedforddealership.com/",
+      "Phone": "(785) 830-9817",
+      "Email": null,
+      "Street": "8135 Johnson Ave",
+      "City": "Wichita",
+      "State": "KS",
+      "ZIP": "67201"
+    },
+    {
+      "Dealer": "Genuine Ford Inc",
+      "Website": "https://www.genuinefordinc.com/",
+      "Phone": "(740) 806-5397",
+      "Email": null,
+      "Street": "8616 Center St",
+      "City": "Cleveland",
+      "State": "OH",
+      "ZIP": "44101"
+    },
+    {
+      "Dealer": "Quality Ford Auto",
+      "Website": "https://www.qualityfordauto.com/",
+      "Phone": "(440) 449-8613",
+      "Email": null,
+      "Street": "2419 Truman St",
+      "City": "Cleveland",
+      "State": "OH",
+      "ZIP": "44101"
+    },
+    {
+      "Dealer": "Exceptional Ford Dealership Inc",
+      "Website": "https://www.exceptionalforddealershipinc.com/",
+      "Phone": "(213) 706-6325",
+      "Email": null,
+      "Street": "7209 Bush St",
+      "City": "Bakersfield",
+      "State": "CA",
+      "ZIP": "93301"
+    },
+    {
+      "Dealer": "Aurora Ford Inc",
+      "Website": "https://www.aurorafordinc.com/",
+      "Phone": "(562) 548-5581",
+      "Email": null,
+      "Street": "4475 Obama St",
+      "City": "Bakersfield",
+      "State": "CA",
+      "ZIP": "93301"
+    },
+    {
+      "Dealer": "Renowned Ford Automotive",
+      "Website": "https://www.renownedfordautomotive.com/",
+      "Phone": "(719) 287-4954",
+      "Email": null,
+      "Street": "1166 Road",
+      "City": "Aurora",
+      "State": "CO",
+      "ZIP": "80010"
+    },
+    {
+      "Dealer": "Certified Ford Sales & Service",
+      "Website": "https://www.certifiedfordsalesservice.com/",
+      "Phone": "(970) 861-9041",
+      "Email": null,
+      "Street": "9004 Taft Ave",
+      "City": "Aurora",
+      "State": "CO",
+      "ZIP": "80010"
+    },
+    {
+      "Dealer": "Personal Ford",
+      "Website": "https://www.personalford.com/",
+      "Phone": "(559) 614-4986",
+      "Email": null,
+      "Street": "2524 Kennedy St",
+      "City": "Anaheim",
+      "State": "CA",
+      "ZIP": "92801"
+    },
+    {
+      "Dealer": "Trusted Ford Sales Inc",
+      "Website": "https://www.trustedfordsalesinc.com/",
+      "Phone": "(818) 743-6632",
+      "Email": null,
+      "Street": "7046 Interstate Blvd",
+      "City": "Anaheim",
+      "State": "CA",
+      "ZIP": "92801"
+    },
+    {
+      "Dealer": "Expert Ford Company Inc",
+      "Website": "https://www.expertfordcompanyinc.com/",
+      "Phone": "(808) 477-6023",
+      "Email": null,
+      "Street": "6419 Obama St",
+      "City": "Honolulu",
+      "State": "HI",
+      "ZIP": "96801"
+    },
+    {
+      "Dealer": "National Ford Auto",
+      "Website": "https://www.nationalfordauto.com/",
+      "Phone": "(808) 322-9779",
+      "Email": null,
+      "Street": "2976 Hayes Ave",
+      "City": "Honolulu",
+      "State": "HI",
+      "ZIP": "96801"
+    },
+    {
+      "Dealer": "Authorized Ford Center",
+      "Website": "https://www.authorizedfordcenter.com/",
+      "Phone": "(949) 695-5530",
+      "Email": null,
+      "Street": "4138 Cleveland St",
+      "City": "Santa Ana",
+      "State": "CA",
+      "ZIP": "92701"
+    },
+    {
+      "Dealer": "Certified Ford Sales Inc",
+      "Website": "https://www.certifiedfordsalesinc.com/",
+      "Phone": "(408) 398-5853",
+      "Email": null,
+      "Street": "9595 Eisenhower Ave",
+      "City": "Santa Ana",
+      "State": "CA",
+      "ZIP": "92701"
+    },
+    {
+      "Dealer": "Global Ford World",
+      "Website": "https://www.globalfordworld.com/",
+      "Phone": "(210) 925-9751",
+      "Email": null,
+      "Street": "3939 Johnson Ave",
+      "City": "Corpus Christi",
+      "State": "TX",
+      "ZIP": "78401"
+    },
+    {
+      "Dealer": "Amber Ford Automotive",
+      "Website": "https://www.amberfordautomotive.com/",
+      "Phone": "(830) 499-3068",
+      "Email": null,
+      "Street": "1745 Washington St",
+      "City": "Corpus Christi",
+      "State": "TX",
+      "ZIP": "78401"
+    },
+    {
+      "Dealer": "Proven Ford Inc",
+      "Website": "https://www.provenfordinc.com/",
+      "Phone": "(831) 491-8690",
+      "Email": null,
+      "Street": "2680 Oak Ave",
+      "City": "Riverside",
+      "State": "CA",
+      "ZIP": "92501"
+    },
+    {
+      "Dealer": "Choice Ford Dealers",
+      "Website": "https://www.choiceforddealers.com/",
+      "Phone": "(310) 458-8827",
+      "Email": null,
+      "Street": "6582 Grant St",
+      "City": "Riverside",
+      "State": "CA",
+      "ZIP": "92501"
+    },
+    {
+      "Dealer": "Ruby Ford Truck",
+      "Website": "https://www.rubyfordtruck.com/",
+      "Phone": "(270) 790-1878",
+      "Email": null,
+      "Street": "7565 Circle",
+      "City": "Lexington",
+      "State": "KY",
+      "ZIP": "40501"
+    },
+    {
+      "Dealer": "Sunrise Ford Dealership",
+      "Website": "https://www.sunriseforddealership.com/",
+      "Phone": "(364) 321-7818",
+      "Email": null,
+      "Street": "5978 Monroe St",
+      "City": "Lexington",
+      "State": "KY",
+      "ZIP": "40501"
+    },
+    {
+      "Dealer": "Famous Ford Dealership Inc",
+      "Website": "https://www.famousforddealershipinc.com/",
+      "Phone": "(661) 661-8253",
+      "Email": null,
+      "Street": "4697 Road",
+      "City": "Stockton",
+      "State": "CA",
+      "ZIP": "95201"
+    },
+    {
+      "Dealer": "Friendly Ford Sales Inc",
+      "Website": "https://www.friendlyfordsalesinc.com/",
+      "Phone": "(831) 835-1986",
+      "Email": null,
+      "Street": "8025 Nixon St",
+      "City": "Stockton",
+      "State": "CA",
+      "ZIP": "95201"
+    },
+    {
+      "Dealer": "Popular Ford Sales",
+      "Website": "https://www.popularfordsales.com/",
+      "Phone": "(725) 876-2330",
+      "Email": null,
+      "Street": "4404 Cleveland St",
+      "City": "Henderson",
+      "State": "NV",
+      "ZIP": "89002"
+    },
+    {
+      "Dealer": "Midnight Ford Auto",
+      "Website": "https://www.midnightfordauto.com/",
+      "Phone": "(702) 202-7693",
+      "Email": null,
+      "Street": "3847 Madison Ave",
+      "City": "Henderson",
+      "State": "NV",
+      "ZIP": "89002"
+    },
+    {
+      "Dealer": "Personal Ford Dealership Inc",
+      "Website": "https://www.personalforddealershipinc.com/",
+      "Phone": "(218) 437-5720",
+      "Email": null,
+      "Street": "8699 Kennedy St",
+      "City": "Saint Paul",
+      "State": "MN",
+      "ZIP": "55101"
+    },
+    {
+      "Dealer": "Guaranteed Ford Company",
+      "Website": "https://www.guaranteedfordcompany.com/",
+      "Phone": "(763) 439-5334",
+      "Email": null,
+      "Street": "8438 Madison Ave",
+      "City": "Saint Paul",
+      "State": "MN",
+      "ZIP": "55101"
+    },
+    {
+      "Dealer": "Authentic Ford Sales Inc",
+      "Website": "https://www.authenticfordsalesinc.com/",
+      "Phone": "(314) 757-4683",
+      "Email": null,
+      "Street": "4241 Market St",
+      "City": "St. Louis",
+      "State": "MO",
+      "ZIP": "63101"
+    },
+    {
+      "Dealer": "Trusted Ford Dealership",
+      "Website": "https://www.trustedforddealership.com/",
+      "Phone": "(314) 261-3718",
+      "Email": null,
+      "Street": "5352 Fillmore Ave",
+      "City": "St. Louis",
+      "State": "MO",
+      "ZIP": "63101"
+    },
+    {
+      "Dealer": "Original Ford Company",
+      "Website": "https://www.originalfordcompany.com/",
+      "Phone": "(219) 679-5982",
+      "Email": null,
+      "Street": "5728 Downtown Blvd",
+      "City": "Fort Wayne",
+      "State": "IN",
+      "ZIP": "46801"
+    },
+    {
+      "Dealer": "Protected Ford Service",
+      "Website": "https://www.protectedfordservice.com/",
+      "Phone": "(574) 705-8172",
+      "Email": null,
+      "Street": "5460 Lane",
+      "City": "Fort Wayne",
+      "State": "IN",
+      "ZIP": "46801"
+    },
+    {
+      "Dealer": "Pearl Ford Dealership Inc",
+      "Website": "https://www.pearlforddealershipinc.com/",
+      "Phone": "(848) 818-5102",
+      "Email": null,
+      "Street": "1653 Center St",
+      "City": "Jersey City",
+      "State": "NJ",
+      "ZIP": "07301"
+    },
+    {
+      "Dealer": "Crown Ford Truck",
+      "Website": "https://www.crownfordtruck.com/",
+      "Phone": "(732) 790-1659",
+      "Email": null,
+      "Street": "4750 Pine St",
+      "City": "Jersey City",
+      "State": "NJ",
+      "ZIP": "07301"
+    },
+    {
+      "Dealer": "Authorized Ford Center",
+      "Website": "https://www.authorizedfordcenter.com/",
+      "Phone": "(623) 484-3973",
+      "Email": null,
+      "Street": "8708 Road",
+      "City": "Chandler",
+      "State": "AZ",
+      "ZIP": "85224"
+    },
+    {
+      "Dealer": "Notable Ford Sales & Service",
+      "Website": "https://www.notablefordsalesservice.com/",
+      "Phone": "(623) 556-7690",
+      "Email": null,
+      "Street": "9056 Adams St",
+      "City": "Chandler",
+      "State": "AZ",
+      "ZIP": "85224"
+    },
+    {
+      "Dealer": "Premium Ford Group",
+      "Website": "https://www.premiumfordgroup.com/",
+      "Phone": "(414) 621-9117",
+      "Email": null,
+      "Street": "2713 Buchanan Ave",
+      "City": "Madison",
+      "State": "WI",
+      "ZIP": "53701"
+    },
+    {
+      "Dealer": "Community Ford Service",
+      "Website": "https://www.communityfordservice.com/",
+      "Phone": "(262) 522-5135",
+      "Email": null,
+      "Street": "1601 Expressway",
+      "City": "Madison",
+      "State": "WI",
+      "ZIP": "53701"
+    },
+    {
+      "Dealer": "Quality Ford Sales",
+      "Website": "https://www.qualityfordsales.com/",
+      "Phone": "(979) 201-9889",
+      "Email": null,
+      "Street": "7622 Drive",
+      "City": "Lubbock",
+      "State": "TX",
+      "ZIP": "79401"
+    },
+    {
+      "Dealer": "Exclusive Ford Sales & Service",
+      "Website": "https://www.exclusivefordsalesservice.com/",
+      "Phone": "(817) 570-9167",
+      "Email": null,
+      "Street": "1888 Hayes Ave",
+      "City": "Lubbock",
+      "State": "TX",
+      "ZIP": "79401"
+    },
+    {
+      "Dealer": "Established Ford Dealers",
+      "Website": "https://www.establishedforddealers.com/",
+      "Phone": "(602) 762-3146",
+      "Email": null,
+      "Street": "1845 Arthur Ave",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "ZIP": "85250"
+    },
+    {
+      "Dealer": "Community Ford Dealers",
+      "Website": "https://www.communityforddealers.com/",
+      "Phone": "(480) 845-4920",
+      "Email": null,
+      "Street": "8941 Tyler St",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "ZIP": "85250"
+    },
+    {
+      "Dealer": "Guaranteed Ford Center",
+      "Website": "https://www.guaranteedfordcenter.com/",
+      "Phone": "(775) 617-2527",
+      "Email": null,
+      "Street": "6091 Oak Ave",
+      "City": "Reno",
+      "State": "NV",
+      "ZIP": "89501"
+    },
+    {
+      "Dealer": "Universal Ford Sales",
+      "Website": "https://www.universalfordsales.com/",
+      "Phone": "(775) 357-9165",
+      "Email": null,
+      "Street": "8560 Tyler St",
+      "City": "Reno",
+      "State": "NV",
+      "ZIP": "89501"
+    },
+    {
+      "Dealer": "Assured Ford Company",
+      "Website": "https://www.assuredfordcompany.com/",
+      "Phone": "(838) 694-8736",
+      "Email": null,
+      "Street": "9337 Hoover Ave",
+      "City": "Buffalo",
+      "State": "NY",
+      "ZIP": "14201"
+    },
+    {
+      "Dealer": "International Ford Dealers",
+      "Website": "https://www.internationalforddealers.com/",
+      "Phone": "(585) 813-9327",
+      "Email": null,
+      "Street": "3369 Dealer Dr",
+      "City": "Buffalo",
+      "State": "NY",
+      "ZIP": "14201"
+    },
+    {
+      "Dealer": "Insured Ford Dealership",
+      "Website": "https://www.insuredforddealership.com/",
+      "Phone": "(623) 548-9318",
+      "Email": null,
+      "Street": "2143 Truman St",
+      "City": "Gilbert",
+      "State": "AZ",
+      "ZIP": "85233"
+    },
+    {
+      "Dealer": "Local Ford",
+      "Website": "https://www.localford.com/",
+      "Phone": "(928) 793-9022",
+      "Email": null,
+      "Street": "5634 Johnson Ave",
+      "City": "Gilbert",
+      "State": "AZ",
+      "ZIP": "85233"
+    },
+    {
+      "Dealer": "Sunrise Ford Dealers",
+      "Website": "https://www.sunriseforddealers.com/",
+      "Phone": "(602) 540-9903",
+      "Email": null,
+      "Street": "9824 Park Ave",
+      "City": "Glendale",
+      "State": "AZ",
+      "ZIP": "85301"
+    },
+    {
+      "Dealer": "Heritage Ford Dealers",
+      "Website": "https://www.heritageforddealers.com/",
+      "Phone": "(520) 785-7274",
+      "Email": null,
+      "Street": "6272 Hayes Ave",
+      "City": "Glendale",
+      "State": "AZ",
+      "ZIP": "85301"
+    },
+    {
+      "Dealer": "Global Ford Sales & Service",
+      "Website": "https://www.globalfordsalesservice.com/",
+      "Phone": "(775) 684-7246",
+      "Email": null,
+      "Street": "1715 Ford Ave",
+      "City": "North Las Vegas",
+      "State": "NV",
+      "ZIP": "89030"
+    },
+    {
+      "Dealer": "Legacy Ford Dealership",
+      "Website": "https://www.legacyforddealership.com/",
+      "Phone": "(702) 714-6439",
+      "Email": null,
+      "Street": "9115 Elm St",
+      "City": "North Las Vegas",
+      "State": "NV",
+      "ZIP": "89030"
+    },
+    {
+      "Dealer": "Emerald Ford Dealers",
+      "Website": "https://www.emeraldforddealers.com/",
+      "Phone": "(980) 215-3361",
+      "Email": null,
+      "Street": "2633 Boulevard",
+      "City": "Winston-Salem",
+      "State": "NC",
+      "ZIP": "27101"
+    },
+    {
+      "Dealer": "Advanced Ford Dealership",
+      "Website": "https://www.advancedforddealership.com/",
+      "Phone": "(828) 546-7512",
+      "Email": null,
+      "Street": "2225 Interstate Blvd",
+      "City": "Winston-Salem",
+      "State": "NC",
+      "ZIP": "27101"
+    },
+    {
+      "Dealer": "Dependable Ford Truck",
+      "Website": "https://www.dependablefordtruck.com/",
+      "Phone": "(540) 841-8994",
+      "Email": null,
+      "Street": "6383 Motor Ave",
+      "City": "Chesapeake",
+      "State": "VA",
+      "ZIP": "23320"
+    },
+    {
+      "Dealer": "Superior Ford Lincoln",
+      "Website": "https://www.superiorfordlincoln.com/",
+      "Phone": "(757) 900-5708",
+      "Email": null,
+      "Street": "2121 Taft Ave",
+      "City": "Chesapeake",
+      "State": "VA",
+      "ZIP": "23320"
+    },
+    {
+      "Dealer": "Global Ford Truck",
+      "Website": "https://www.globalfordtruck.com/",
+      "Phone": "(804) 848-2646",
+      "Email": null,
+      "Street": "8110 Jackson Ave",
+      "City": "Norfolk",
+      "State": "VA",
+      "ZIP": "23501"
+    },
+    {
+      "Dealer": "Custom Ford Center",
+      "Website": "https://www.customfordcenter.com/",
+      "Phone": "(276) 532-1919",
+      "Email": null,
+      "Street": "5906 Maple Ave",
+      "City": "Norfolk",
+      "State": "VA",
+      "ZIP": "23501"
+    },
+    {
+      "Dealer": "Family Ford World",
+      "Website": "https://www.familyfordworld.com/",
+      "Phone": "(415) 450-9702",
+      "Email": null,
+      "Street": "7141 Center St",
+      "City": "Fremont",
+      "State": "CA",
+      "ZIP": "94536"
+    },
+    {
+      "Dealer": "Advanced Ford Sales Inc",
+      "Website": "https://www.advancedfordsalesinc.com/",
+      "Phone": "(510) 280-7267",
+      "Email": null,
+      "Street": "3950 Lincoln St",
+      "City": "Fremont",
+      "State": "CA",
+      "ZIP": "94536"
+    },
+    {
+      "Dealer": "Well-known Ford Auto",
+      "Website": "https://www.well-knownfordauto.com/",
+      "Phone": "(430) 672-5161",
+      "Email": null,
+      "Street": "9153 Fillmore Ave",
+      "City": "Garland",
+      "State": "TX",
+      "ZIP": "75040"
+    },
+    {
+      "Dealer": "Private Ford Automotive",
+      "Website": "https://www.privatefordautomotive.com/",
+      "Phone": "(469) 893-9955",
+      "Email": null,
+      "Street": "1153 Highway 101",
+      "City": "Garland",
+      "State": "TX",
+      "ZIP": "75040"
+    },
+    {
+      "Dealer": "Midnight Ford Truck",
+      "Website": "https://www.midnightfordtruck.com/",
+      "Phone": "(832) 506-7951",
+      "Email": null,
+      "Street": "8237 Clinton Ave",
+      "City": "Irving",
+      "State": "TX",
+      "ZIP": "75038"
+    },
+    {
+      "Dealer": "Safe Ford Automotive",
+      "Website": "https://www.safefordautomotive.com/",
+      "Phone": "(409) 593-8916",
+      "Email": null,
+      "Street": "8484 Johnson Ave",
+      "City": "Irving",
+      "State": "TX",
+      "ZIP": "75038"
+    },
+    {
+      "Dealer": "Sapphire Ford Auto",
+      "Website": "https://www.sapphirefordauto.com/",
+      "Phone": "(941) 502-5837",
+      "Email": null,
+      "Street": "7248 Obama St",
+      "City": "Hialeah",
+      "State": "FL",
+      "ZIP": "33010"
+    },
+    {
+      "Dealer": "Champion Ford Service",
+      "Website": "https://www.championfordservice.com/",
+      "Phone": "(941) 902-1803",
+      "Email": null,
+      "Street": "5497 Oak Ave",
+      "City": "Hialeah",
+      "State": "FL",
+      "ZIP": "33010"
+    },
+    {
+      "Dealer": "Famous Ford Inc",
+      "Website": "https://www.famousfordinc.com/",
+      "Phone": "(703) 560-4588",
+      "Email": null,
+      "Street": "5689 Roosevelt St",
+      "City": "Richmond",
+      "State": "VA",
+      "ZIP": "23219"
+    },
+    {
+      "Dealer": "Proven Ford Motors",
+      "Website": "https://www.provenfordmotors.com/",
+      "Phone": "(757) 299-1645",
+      "Email": null,
+      "Street": "5106 Taylor St",
+      "City": "Richmond",
+      "State": "VA",
+      "ZIP": "23219"
+    },
+    {
+      "Dealer": "Trusted Ford Dealers",
+      "Website": "https://www.trustedforddealers.com/",
+      "Phone": "(208) 292-5835",
+      "Email": null,
+      "Street": "1546 Auto Plaza",
+      "City": "Boise",
+      "State": "ID",
+      "ZIP": "83701"
+    },
+    {
+      "Dealer": "Quality Ford Sales & Service",
+      "Website": "https://www.qualityfordsalesservice.com/",
+      "Phone": "(208) 752-6994",
+      "Email": null,
+      "Street": "3877 Garfield St",
+      "City": "Boise",
+      "State": "ID",
+      "ZIP": "83701"
+    },
+    {
+      "Dealer": "Finest Ford LLC",
+      "Website": "https://www.finestfordllc.com/",
+      "Phone": "(360) 693-5835",
+      "Email": null,
+      "Street": "5465 Lincoln St",
+      "City": "Spokane",
+      "State": "WA",
+      "ZIP": "99201"
+    },
+    {
+      "Dealer": "Insured Ford Group",
+      "Website": "https://www.insuredfordgroup.com/",
+      "Phone": "(206) 344-4696",
+      "Email": null,
+      "Street": "2886 Highway 101",
+      "City": "Spokane",
+      "State": "WA",
+      "ZIP": "99201"
+    },
+    {
+      "Dealer": "Stable Ford Service",
+      "Website": "https://www.stablefordservice.com/",
+      "Phone": "(504) 214-5332",
+      "Email": null,
+      "Street": "6992 Adams St",
+      "City": "Baton Rouge",
+      "State": "LA",
+      "ZIP": "70801"
+    },
+    {
+      "Dealer": "Greatest Ford Sales",
+      "Website": "https://www.greatestfordsales.com/",
+      "Phone": "(337) 798-7242",
+      "Email": null,
+      "Street": "8451 Car St",
+      "City": "Baton Rouge",
+      "State": "LA",
+      "ZIP": "70801"
+    },
+    {
+      "Dealer": "Legitimate Ford World",
+      "Website": "https://www.legitimatefordworld.com/",
+      "Phone": "(425) 225-6374",
+      "Email": null,
+      "Street": "2775 Roosevelt St",
+      "City": "Tacoma",
+      "State": "WA",
+      "ZIP": "98401"
+    },
+    {
+      "Dealer": "Popular Ford Auto",
+      "Website": "https://www.popularfordauto.com/",
+      "Phone": "(564) 509-7689",
+      "Email": null,
+      "Street": "2035 Highway 101",
+      "City": "Tacoma",
+      "State": "WA",
+      "ZIP": "98401"
+    },
+    {
+      "Dealer": "Ruby Ford Dealership",
+      "Website": "https://www.rubyforddealership.com/",
+      "Phone": "(619) 704-2902",
+      "Email": null,
+      "Street": "1742 Elm St",
+      "City": "San Bernardino",
+      "State": "CA",
+      "ZIP": "92401"
+    },
+    {
+      "Dealer": "Emerald Ford Auto",
+      "Website": "https://www.emeraldfordauto.com/",
+      "Phone": "(661) 664-7078",
+      "Email": null,
+      "Street": "9807 Taylor St",
+      "City": "San Bernardino",
+      "State": "CA",
+      "ZIP": "92401"
+    },
+    {
+      "Dealer": "Consistent Ford Company Inc",
+      "Website": "https://www.consistentfordcompanyinc.com/",
+      "Phone": "(616) 870-2622",
+      "Email": null,
+      "Street": "7866 Pierce St",
+      "City": "Grand Rapids",
+      "State": "MI",
+      "ZIP": "49501"
+    },
+    {
+      "Dealer": "Preferred Ford Dealership Inc",
+      "Website": "https://www.preferredforddealershipinc.com/",
+      "Phone": "(231) 906-7070",
+      "Email": null,
+      "Street": "7686 Truman St",
+      "City": "Grand Rapids",
+      "State": "MI",
+      "ZIP": "49501"
+    },
+    {
+      "Dealer": "Cosmic Ford Dealers",
+      "Website": "https://www.cosmicforddealers.com/",
+      "Phone": "(256) 301-7018",
+      "Email": null,
+      "Street": "8285 Taft Ave",
+      "City": "Huntsville",
+      "State": "AL",
+      "ZIP": "35801"
+    },
+    {
+      "Dealer": "Superior Ford World",
+      "Website": "https://www.superiorfordworld.com/",
+      "Phone": "(256) 394-3001",
+      "Email": null,
+      "Street": "1992 Service Rd",
+      "City": "Huntsville",
+      "State": "AL",
+      "ZIP": "35801"
+    },
+    {
+      "Dealer": "Legitimate Ford Dealers",
+      "Website": "https://www.legitimateforddealers.com/",
+      "Phone": "(801) 854-1349",
+      "Email": null,
+      "Street": "2501 Cleveland St",
+      "City": "Salt Lake City",
+      "State": "UT",
+      "ZIP": "84101"
+    },
+    {
+      "Dealer": "Golden Ford Group",
+      "Website": "https://www.goldenfordgroup.com/",
+      "Phone": "(801) 410-2124",
+      "Email": null,
+      "Street": "4990 Polk Ave",
+      "City": "Salt Lake City",
+      "State": "UT",
+      "ZIP": "84101"
+    },
+    {
+      "Dealer": "Authorized Ford Company Inc",
+      "Website": "https://www.authorizedfordcompanyinc.com/",
+      "Phone": "(743) 536-3417",
+      "Email": null,
+      "Street": "4394 Cleveland St",
+      "City": "Fayetteville",
+      "State": "NC",
+      "ZIP": "28301"
+    },
+    {
+      "Dealer": "Authentic Ford Dealership Inc",
+      "Website": "https://www.authenticforddealershipinc.com/",
+      "Phone": "(704) 333-9850",
+      "Email": null,
+      "Street": "1046 Truman St",
+      "City": "Fayetteville",
+      "State": "NC",
+      "ZIP": "28301"
+    },
+    {
+      "Dealer": "National Ford Center",
+      "Website": "https://www.nationalfordcenter.com/",
+      "Phone": "(516) 215-6869",
+      "Email": null,
+      "Street": "2801 Maple Ave",
+      "City": "Yonkers",
+      "State": "NY",
+      "ZIP": "10701"
+    },
+    {
+      "Dealer": "Original Ford Auto",
+      "Website": "https://www.originalfordauto.com/",
+      "Phone": "(518) 471-1858",
+      "Email": null,
+      "Street": "6304 Pine St",
+      "City": "Yonkers",
+      "State": "NY",
+      "ZIP": "10701"
+    },
+    {
+      "Dealer": "Amber Ford Sales & Service",
+      "Website": "https://www.amberfordsalesservice.com/",
+      "Phone": "(945) 265-8802",
+      "Email": null,
+      "Street": "9619 Harrison Ave",
+      "City": "Amarillo",
+      "State": "TX",
+      "ZIP": "79101"
+    },
+    {
+      "Dealer": "Personal Ford World",
+      "Website": "https://www.personalfordworld.com/",
+      "Phone": "(737) 715-4629",
+      "Email": null,
+      "Street": "9408 Van Buren St",
+      "City": "Amarillo",
+      "State": "TX",
+      "ZIP": "79101"
+    },
+    {
+      "Dealer": "Popular Ford Lincoln",
+      "Website": "https://www.popularfordlincoln.com/",
+      "Phone": "(714) 858-1510",
+      "Email": null,
+      "Street": "9543 Johnson Ave",
+      "City": "Glendale",
+      "State": "CA",
+      "ZIP": "91201"
+    },
+    {
+      "Dealer": "Silver Ford Inc",
+      "Website": "https://www.silverfordinc.com/",
+      "Phone": "(916) 310-9032",
+      "Email": null,
+      "Street": "7580 Market St",
+      "City": "Glendale",
+      "State": "CA",
+      "ZIP": "91201"
+    },
+    {
+      "Dealer": "Assured Ford Dealers",
+      "Website": "https://www.assuredforddealers.com/",
+      "Phone": "(512) 822-3430",
+      "Email": null,
+      "Street": "2204 Monroe St",
+      "City": "McKinney",
+      "State": "TX",
+      "ZIP": "75070"
+    },
+    {
+      "Dealer": "Platinum Ford Dealership",
+      "Website": "https://www.platinumforddealership.com/",
+      "Phone": "(713) 811-9692",
+      "Email": null,
+      "Street": "5505 Carter St",
+      "City": "McKinney",
+      "State": "TX",
+      "ZIP": "75070"
+    },
+    {
+      "Dealer": "Family Ford Dealers",
+      "Website": "https://www.familyforddealers.com/",
+      "Phone": "(347) 918-2874",
+      "Email": null,
+      "Street": "9282 Center St",
+      "City": "Rochester",
+      "State": "NY",
+      "ZIP": "14601"
+    },
+    {
+      "Dealer": "Dependable Ford Company Inc",
+      "Website": "https://www.dependablefordcompanyinc.com/",
+      "Phone": "(845) 433-7779",
+      "Email": null,
+      "Street": "4522 Center St",
+      "City": "Rochester",
+      "State": "NY",
+      "ZIP": "14601"
+    },
+    {
+      "Dealer": "Luxury Ford Dealers",
+      "Website": "https://www.luxuryforddealers.com/",
+      "Phone": "(740) 297-6120",
+      "Email": null,
+      "Street": "7532 Commerce St",
+      "City": "Toledo",
+      "State": "OH",
+      "ZIP": "43601"
+    },
+    {
+      "Dealer": "Expert Ford Group",
+      "Website": "https://www.expertfordgroup.com/",
+      "Phone": "(234) 903-8770",
+      "Email": null,
+      "Street": "5176 Car St",
+      "City": "Toledo",
+      "State": "OH",
+      "ZIP": "43601"
+    },
+    {
+      "Dealer": "Platinum Ford Truck",
+      "Website": "https://www.platinumfordtruck.com/",
+      "Phone": "(856) 298-7105",
+      "Email": null,
+      "Street": "2398 Adams St",
+      "City": "Newark",
+      "State": "NJ",
+      "ZIP": "07101"
+    },
+    {
+      "Dealer": "True Ford Dealership",
+      "Website": "https://www.trueforddealership.com/",
+      "Phone": "(551) 620-6793",
+      "Email": null,
+      "Street": "1982 Reagan Ave",
+      "City": "Newark",
+      "State": "NJ",
+      "ZIP": "07101"
+    },
+    {
+      "Dealer": "Consistent Ford Sales & Service",
+      "Website": "https://www.consistentfordsalesservice.com/",
+      "Phone": "(828) 560-2697",
+      "Email": null,
+      "Street": "1842 Eisenhower Ave",
+      "City": "Durham",
+      "State": "NC",
+      "ZIP": "27701"
+    },
+    {
+      "Dealer": "Remarkable Ford LLC",
+      "Website": "https://www.remarkablefordllc.com/",
+      "Phone": "(980) 429-2773",
+      "Email": null,
+      "Street": "4485 Pierce St",
+      "City": "Durham",
+      "State": "NC",
+      "ZIP": "27701"
+    }
+  ]
+}

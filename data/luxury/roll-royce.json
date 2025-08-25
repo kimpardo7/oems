@@ -1,0 +1,79 @@
+{
+  "oem": "Rolls-Royce",
+  "zip_code": "multiple",
+  "timestamp": "2025-08-24T14:28:18.752097",
+  "total_dealers_found": 7,
+  "method": "converted_from_original_format",
+  "dealers": [
+    {
+      "Dealer": "Rolls-Royce Motor Cars Scottsdale",
+      "Website": "https://www.rolls-roycemotorcars.com/scottsdale/en_US/showroom.html",
+      "Phone": "480 538 4500",
+      "Email": null,
+      "Street": "7111 East Chauncey Lane",
+      "City": "Phoenix",
+      "State": "Arizona",
+      "ZIP": "85054"
+    },
+    {
+      "Dealer": "Rolls-Royce Motor Cars Las Vegas",
+      "Website": "https://www.rolls-roycemotorcars.com/lasvegas/en_US/showroom.html",
+      "Phone": "702 932 7100",
+      "Email": null,
+      "Street": "5550 West Sahara Avenue",
+      "City": "Las Vegas",
+      "State": "Nevada",
+      "ZIP": "89146"
+    },
+    {
+      "Dealer": "Rolls-Royce Motor Cars Rancho Mirage",
+      "Website": "https://www.rolls-roycemotorcars.com/ranchomirage/en_US/showroom.html",
+      "Phone": "760 773 5000",
+      "Email": null,
+      "Street": "71-387 Highway 111",
+      "City": "Rancho Mirage",
+      "State": "California",
+      "ZIP": "92270"
+    },
+    {
+      "Dealer": "Rolls-Royce Motor Cars Dallas",
+      "Website": "https://www.rolls-roycemotorcars.com/dallas/en_US/showroom.html",
+      "Phone": "866-211-2586",
+      "Email": null,
+      "Street": "5300 Lemmon Avenue",
+      "City": "Dallas",
+      "State": "Texas",
+      "ZIP": "75209"
+    },
+    {
+      "Dealer": "Rolls-Royce Motor Cars Orange County",
+      "Website": "https://www.rolls-roycemotorcars.com/orangecounty/en_US/showroom.html",
+      "Phone": "949 333 8100",
+      "Email": null,
+      "Street": "9853 Research Drive",
+      "City": "Irvine",
+      "State": "California",
+      "ZIP": "92618"
+    },
+    {
+      "Dealer": "Rolls-Royce Motor Cars Pasadena",
+      "Website": "https://www.rolls-roycemotorcars.com/pasadena/en_US/showroom.html",
+      "Phone": "626 449 2377",
+      "Email": null,
+      "Street": "285 West Colorado Blvd",
+      "City": "Pasadena",
+      "State": "California",
+      "ZIP": "91105"
+    },
+    {
+      "Dealer": "San Diego",
+      "Website": "https://www.rolls-roycemotorcars.com/sandiego/en_US/showroom.html",
+      "Phone": "(858) 454-1800",
+      "Email": null,
+      "Street": "7440 La Jolla Blvd",
+      "City": "La Jolla",
+      "State": "California",
+      "ZIP": "92037"
+    }
+  ]
+}

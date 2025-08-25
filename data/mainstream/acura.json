@@ -1,0 +1,2219 @@
+{
+  "oem": "Acura",
+  "zip_code": "multiple",
+  "timestamp": "2025-08-22T15:29:29.340079",
+  "total_dealers_found": 221,
+  "method": "extracted_from_combined_file",
+  "dealers": [
+    {
+      "Dealer": "Crown Acura",
+      "Website": "https://www.crownacura.com/",
+      "Phone": "(727) 507-8866",
+      "Email": null,
+      "Street": "18911 US Highway 19 N",
+      "City": "Clearwater",
+      "State": "FL",
+      "ZIP": "33764"
+    },
+    {
+      "Dealer": "Maus Acura of North Tampa",
+      "Website": "http://www.mausacura.com/",
+      "Phone": "(813) 915-4340",
+      "Email": null,
+      "Street": "11025 N Florida Ave",
+      "City": "Tampa",
+      "State": "FL",
+      "ZIP": "33612"
+    },
+    {
+      "Dealer": "Gettel Acura",
+      "Website": "https://www.gettelacura.com/",
+      "Phone": "(941) 343-5700",
+      "Email": null,
+      "Street": "4891 Clark Rd",
+      "City": "Sarasota",
+      "State": "FL",
+      "ZIP": "34233"
+    },
+    {
+      "Dealer": "Regal Acura",
+      "Website": "https://www.regalacura.com/",
+      "Phone": "(863) 687-8000",
+      "Email": null,
+      "Street": "2615 Lakeland Hills Blvd",
+      "City": "Lakeland",
+      "State": "FL",
+      "ZIP": "33805"
+    },
+    {
+      "Dealer": "Fountain Acura",
+      "Website": "https://www.fountainacura.com/",
+      "Phone": "(407) 240-3800",
+      "Email": null,
+      "Street": "8785 S Orange Blossom Trl",
+      "City": "Orlando",
+      "State": "FL",
+      "ZIP": "32809"
+    },
+    {
+      "Dealer": "Acura of Fort Myers",
+      "Website": "https://www.acuraoffortmyers.com/",
+      "Phone": "(239) 433-1661",
+      "Email": null,
+      "Street": "14270 S Tamiami Trl",
+      "City": "Fort Myers",
+      "State": "FL",
+      "ZIP": "33912"
+    },
+    {
+      "Dealer": "Jenkins Acura",
+      "Website": "https://www.jenkinsacura.com/",
+      "Phone": "(352) 867-1800",
+      "Email": null,
+      "Street": "2025 SW College Rd",
+      "City": "Ocala",
+      "State": "FL",
+      "ZIP": "34471"
+    },
+    {
+      "Dealer": "AutoNation Acura North Orlando",
+      "Website": "https://www.autonationacuranorthorlando.com/",
+      "Phone": "(407) 585-3900",
+      "Email": null,
+      "Street": "1001 Rinehart Rd",
+      "City": "Sanford",
+      "State": "FL",
+      "ZIP": "32771"
+    },
+    {
+      "Dealer": "Acura of Melbourne",
+      "Website": "https://www.acuraofmelbourne.com/",
+      "Phone": "(321) 355-4100",
+      "Email": null,
+      "Street": "6957 Bromley Dr",
+      "City": "Melbourne",
+      "State": "FL",
+      "ZIP": "32940"
+    },
+    {
+      "Dealer": "Naples Acura",
+      "Website": "https://www.naplesacura.com/",
+      "Phone": "(239) 643-6166",
+      "Email": null,
+      "Street": "659 Airport Pulling Rd N",
+      "City": "Naples",
+      "State": "FL",
+      "ZIP": "34104"
+    },
+    {
+      "Dealer": "Key Acura of Gainesville",
+      "Website": "https://www.keyacuragainesville.com/",
+      "Phone": "(352) 237-0300",
+      "Email": null,
+      "Street": "3435 N Main St",
+      "City": "Gainesville",
+      "State": "FL",
+      "ZIP": "32609"
+    },
+    {
+      "Dealer": "Coggin Acura",
+      "Website": "https://www.cogginacura.com/",
+      "Phone": "(866) 613-6686",
+      "Email": null,
+      "Street": "4400 S US-1",
+      "City": "Fort Pierce",
+      "State": "FL",
+      "ZIP": "34982"
+    },
+    {
+      "Dealer": "Napleton's Palm Beach Acura",
+      "Website": "https://www.acuraofpalmbeach.com/",
+      "Phone": "(561) 686-0300",
+      "Email": null,
+      "Street": "6870 Okeechobee Blvd",
+      "City": "West Palm Beach",
+      "State": "FL",
+      "ZIP": "33411"
+    },
+    {
+      "Dealer": "Hanania Acura of Orange Park",
+      "Website": "https://www.acuraoforangepark.com/",
+      "Phone": "(904) 777-5600",
+      "Email": null,
+      "Street": "7200 Blanding Blvd",
+      "City": "Jacksonville",
+      "State": "FL",
+      "ZIP": "32244"
+    },
+    {
+      "Dealer": "Delray Acura",
+      "Website": "https://www.delrayacura.com/",
+      "Phone": "(561) 272-3000",
+      "Email": null,
+      "Street": "2500 S Federal Hwy",
+      "City": "Delray Beach",
+      "State": "FL",
+      "ZIP": "33483"
+    },
+    {
+      "Dealer": "Acura of Pembroke Pines",
+      "Website": "https://www.acuraofpembrokepines.com/",
+      "Phone": "(954) 985-2424",
+      "Email": null,
+      "Street": "15601 Pines Blvd",
+      "City": "Pembroke Pines",
+      "State": "FL",
+      "ZIP": "33027"
+    },
+    {
+      "Dealer": "Paragon Acura",
+      "Website": "https://www.paragonacura.com/",
+      "Phone": "(855) 384-4345",
+      "Email": null,
+      "Street": "5602 Northern Blvd",
+      "City": "Woodside",
+      "State": "NY",
+      "ZIP": "11377"
+    },
+    {
+      "Dealer": "Acura of Brooklyn",
+      "Website": "http://www.acuraofbrooklyn.com/",
+      "Phone": "(347) 329-5851",
+      "Email": null,
+      "Street": "2751 Nostrand Ave",
+      "City": "Brooklyn",
+      "State": "NY",
+      "ZIP": "11210"
+    },
+    {
+      "Dealer": "Park Ave. Acura",
+      "Website": "https://www.parkaveacura.com/",
+      "Phone": "(201) 587-9000",
+      "Email": null,
+      "Street": "171 State Route 17 S",
+      "City": "Rochelle Park",
+      "State": "NJ",
+      "ZIP": "07662"
+    },
+    {
+      "Dealer": "DCH Montclair Acura",
+      "Website": "http://www.dchmontclairacura.com/",
+      "Phone": "(973) 239-3700",
+      "Email": null,
+      "Street": "100 Bloomfield Ave",
+      "City": "Verona",
+      "State": "NJ",
+      "ZIP": "07044"
+    },
+    {
+      "Dealer": "Acura of Westchester",
+      "Website": "https://www.acuraofwestchester.com/",
+      "Phone": "(914) 834-2222",
+      "Email": null,
+      "Street": "2155 Palmer Ave",
+      "City": "Larchmont",
+      "State": "NY",
+      "ZIP": "10538"
+    },
+    {
+      "Dealer": "Acura of Valley Stream",
+      "Website": "https://acuravalleystream.com/",
+      "Phone": "(888) 904-3859",
+      "Email": null,
+      "Street": "881 Sunrise Hwy",
+      "City": "Lynbrook",
+      "State": "NY",
+      "ZIP": "11563"
+    },
+    {
+      "Dealer": "Springfield Acura",
+      "Website": "http://www.springfieldacura.com/",
+      "Phone": "(973) 912-9000",
+      "Email": null,
+      "Street": "243 Route 22",
+      "City": "Springfield",
+      "State": "NJ",
+      "ZIP": "07081"
+    },
+    {
+      "Dealer": "Rallye Acura",
+      "Website": "https://www.rallyeacura.com/",
+      "Phone": "(516) 625-7070",
+      "Email": null,
+      "Street": "1750 Northern Blvd",
+      "City": "Roslyn",
+      "State": "NY",
+      "ZIP": "11576"
+    },
+    {
+      "Dealer": "Open Road Acura of Wayne",
+      "Website": "https://www.openroadacuraofwayne.com/",
+      "Phone": "(973) 696-5700",
+      "Email": null,
+      "Street": "1425 State Route 23",
+      "City": "Wayne",
+      "State": "NJ",
+      "ZIP": "07470"
+    },
+    {
+      "Dealer": "Curry Acura",
+      "Website": "https://www.curryacura.com/",
+      "Phone": "(914) 472-6800",
+      "Email": null,
+      "Street": "685 Central Park Ave",
+      "City": "Scarsdale",
+      "State": "NY",
+      "ZIP": "10583"
+    },
+    {
+      "Dealer": "Acura of Ramsey",
+      "Website": "https://www.ramseyacura.com/",
+      "Phone": "(201) 934-8200",
+      "Email": null,
+      "Street": "65 Highway 85",
+      "City": "Ramsey",
+      "State": "NJ",
+      "ZIP": "07446"
+    },
+    {
+      "Dealer": "Island Acura",
+      "Website": "https://www.islandacura.com/",
+      "Phone": "(516) 679-5400",
+      "Email": null,
+      "Street": "3350 Sunrise Hwy",
+      "City": "Wantagh",
+      "State": "NY",
+      "ZIP": "11793"
+    },
+    {
+      "Dealer": "Autosport Acura of Denville",
+      "Website": "https://www.acuraofdenville.com/",
+      "Phone": "(973) 361-2626",
+      "Email": null,
+      "Street": "3109 RT-10 E",
+      "City": "Denville",
+      "State": "NJ",
+      "ZIP": "07834"
+    },
+    {
+      "Dealer": "Acura of Huntington",
+      "Website": "https://www.acuraofhuntington.com/",
+      "Phone": "(631) 470-6600",
+      "Email": null,
+      "Street": "359 W Jericho Tpke",
+      "City": "Huntington",
+      "State": "NY",
+      "ZIP": "11743"
+    },
+    {
+      "Dealer": "Open Road Acura of East Brunswick",
+      "Website": "https://www.openroadacuraofeastbrunswick.com/",
+      "Phone": "(732) 839-4298",
+      "Email": null,
+      "Street": "1041 State Route 18",
+      "City": "East Brunswick",
+      "State": "NJ",
+      "ZIP": "08816"
+    },
+    {
+      "Dealer": "Acura of Stamford",
+      "Website": "https://www.acuraofstamford.com/",
+      "Phone": "(203) 625-8200",
+      "Email": null,
+      "Street": "248 West Ave",
+      "City": "Stamford",
+      "State": "CT",
+      "ZIP": "06902"
+    },
+    {
+      "Dealer": "Acura of Los Angeles Westside",
+      "Website": "https://www.acuraoflosangeleswestside.com/",
+      "Phone": "(424) 667-2404",
+      "Email": null,
+      "Street": "6250 W Slauson Ave",
+      "City": "Culver City",
+      "State": "CA",
+      "ZIP": "90230"
+    },
+    {
+      "Dealer": "Acura of Alhambra",
+      "Website": "https://www.acuraofalhambra.com/",
+      "Phone": "(626) 380-9246",
+      "Email": null,
+      "Street": "1700 W Main St",
+      "City": "Alhambra",
+      "State": "CA",
+      "ZIP": "91801"
+    },
+    {
+      "Dealer": "Acura of Glendale",
+      "Website": "https://www.acuraofglendale.com/",
+      "Phone": "(818) 502-1100",
+      "Email": null,
+      "Street": "505 S Brand Blvd",
+      "City": "Glendale",
+      "State": "CA",
+      "ZIP": "91204"
+    },
+    {
+      "Dealer": "Cerritos Acura",
+      "Website": "https://www.cerritosacura.com/",
+      "Phone": "(888) 321-6797",
+      "Email": null,
+      "Street": "18827 Studebaker Rd",
+      "City": "Cerritos",
+      "State": "CA",
+      "ZIP": "90703"
+    },
+    {
+      "Dealer": "AutoNation Acura South Bay",
+      "Website": "https://www.autonationacurasouthbay.com/",
+      "Phone": "(310) 539-3636",
+      "Email": null,
+      "Street": "25341 Crenshaw Blvd",
+      "City": "Torrance",
+      "State": "CA",
+      "ZIP": "90505"
+    },
+    {
+      "Dealer": "Acura of Sherman Oaks",
+      "Website": "https://www.acurashermanoaks.com/",
+      "Phone": "(818) 528-1300",
+      "Email": null,
+      "Street": "5230 Van Nuys Blvd",
+      "City": "Sherman Oaks",
+      "State": "CA",
+      "ZIP": "91401"
+    },
+    {
+      "Dealer": "Thomas Acura",
+      "Website": "https://www.thomasacura.com/",
+      "Phone": "(800) 541-6317",
+      "Email": null,
+      "Street": "580 S Citrus Ave",
+      "City": "Covina",
+      "State": "CA",
+      "ZIP": "91723"
+    },
+    {
+      "Dealer": "Weir Canyon Acura",
+      "Website": "https://www.weircanyonacura.com/",
+      "Phone": "(714) 777-3300",
+      "Email": null,
+      "Street": "8375 E La Palma Ave",
+      "City": "Anaheim",
+      "State": "CA",
+      "ZIP": "92807"
+    },
+    {
+      "Dealer": "DCH Tustin Acura",
+      "Website": "https://www.dchtustinacura.com/",
+      "Phone": "(714) 669-9900",
+      "Email": null,
+      "Street": "9 Auto Center Dr",
+      "City": "Tustin",
+      "State": "CA",
+      "ZIP": "92782"
+    },
+    {
+      "Dealer": "Metro Acura",
+      "Website": "https://www.metroacura.com/",
+      "Phone": "(909) 626-6000",
+      "Email": null,
+      "Street": "9377 Autoplex St",
+      "City": "Montclair",
+      "State": "CA",
+      "ZIP": "91763"
+    },
+    {
+      "Dealer": "Valencia Acura",
+      "Website": "https://www.valenciaacura.com/",
+      "Phone": "(661) 255-3000",
+      "Email": null,
+      "Street": "23955 Creekside Rd",
+      "City": "Valencia",
+      "State": "CA",
+      "ZIP": "91355"
+    },
+    {
+      "Dealer": "Swickard Acura of Thousand Oaks",
+      "Website": "https://www.acuraofthousandoaks.com/",
+      "Phone": "(805) 371-5800",
+      "Email": null,
+      "Street": "3945 Auto Mall Dr",
+      "City": "Westlake Village",
+      "State": "CA",
+      "ZIP": "91362"
+    },
+    {
+      "Dealer": "Irvine Acura",
+      "Website": "https://www.irvineacura.com/",
+      "Phone": "(714) 909-0242",
+      "Email": null,
+      "Street": "11 Auto Center Dr",
+      "City": "Irvine",
+      "State": "CA",
+      "ZIP": "92618"
+    },
+    {
+      "Dealer": "Spreen Acura",
+      "Website": "https://www.spreenacura.com/",
+      "Phone": "(951) 335-8955",
+      "Email": null,
+      "Street": "8101 Auto Dr",
+      "City": "Riverside",
+      "State": "CA",
+      "ZIP": "92504"
+    },
+    {
+      "Dealer": "Gold Coast Acura",
+      "Website": "https://www.goldcoastacura.com/",
+      "Phone": "(805) 642-3600",
+      "Email": null,
+      "Street": "3195 Perkin Ave",
+      "City": "Ventura",
+      "State": "CA",
+      "ZIP": "93003"
+    },
+    {
+      "Dealer": "Oh Acura of Temecula",
+      "Website": "https://www.ohacuraoftemecula.com/",
+      "Phone": "(951) 699-1515",
+      "Email": null,
+      "Street": "26705 Ynez Rd",
+      "City": "Temecula",
+      "State": "CA",
+      "ZIP": "92591"
+    },
+    {
+      "Dealer": "Acura of Boston",
+      "Website": "https://www.acuraofboston.com/",
+      "Phone": "(508) 656-2740",
+      "Email": null,
+      "Street": "1600 Soldiers Field Rd",
+      "City": "Brighton",
+      "State": "MA",
+      "ZIP": "02135"
+    },
+    {
+      "Dealer": "Ira Acura Westwood",
+      "Website": "https://www.iraacurawestwood.com/",
+      "Phone": "(508) 921-1900",
+      "Email": null,
+      "Street": "395 Providence Hwy",
+      "City": "Westwood",
+      "State": "MA",
+      "ZIP": "02090"
+    },
+    {
+      "Dealer": "Acura of Peabody",
+      "Website": "https://www.acuraofpeabody.com/",
+      "Phone": "(978) 532-9110",
+      "Email": null,
+      "Street": "233 Andover St",
+      "City": "Peabody",
+      "State": "MA",
+      "ZIP": "01960"
+    },
+    {
+      "Dealer": "Metrowest Acura",
+      "Website": "https://www.metrowestacura.com/",
+      "Phone": "(508) 820-9313",
+      "Email": null,
+      "Street": "500 Worcester Rd",
+      "City": "Framingham",
+      "State": "MA",
+      "ZIP": "01702"
+    },
+    {
+      "Dealer": "Sunnyside Acura",
+      "Website": "https://www.sunnysideacura.com/",
+      "Phone": "(603) 880-6550",
+      "Email": null,
+      "Street": "482 Amherst St",
+      "City": "Nashua",
+      "State": "NH",
+      "ZIP": "03063"
+    },
+    {
+      "Dealer": "Grieco Acura",
+      "Website": "https://www.griecoacura.com/",
+      "Phone": "(508) 336-1400",
+      "Email": null,
+      "Street": "16 Highland Ave # Ro",
+      "City": "Seekonk",
+      "State": "MA",
+      "ZIP": "02771"
+    },
+    {
+      "Dealer": "Acura of Auburn",
+      "Website": "https://www.acuraofauburn.com/",
+      "Phone": "(508) 832-0444",
+      "Email": null,
+      "Street": "476 Southbridge St",
+      "City": "Auburn",
+      "State": "MA",
+      "ZIP": "01501"
+    },
+    {
+      "Dealer": "Key Acura of Portsmouth",
+      "Website": "https://www.keyacuraofportsmouth.com/",
+      "Phone": "(603) 319-0474",
+      "Email": null,
+      "Street": "2219 Lafayette Rd",
+      "City": "Portsmouth",
+      "State": "NH",
+      "ZIP": "03801"
+    },
+    {
+      "Dealer": "Speedcraft Acura",
+      "Website": "https://www.speedcraftacura.com/",
+      "Phone": "(401) 304-3442",
+      "Email": null,
+      "Street": "883 Quaker Ln",
+      "City": "West Warwick",
+      "State": "RI",
+      "ZIP": "02893"
+    },
+    {
+      "Dealer": "Antonino Acura",
+      "Website": "https://www.antoninoacura.com/",
+      "Phone": "(860) 448-1299",
+      "Email": null,
+      "Street": "184 Gold Star Hwy",
+      "City": "Groton",
+      "State": "CT",
+      "ZIP": "06340"
+    },
+    {
+      "Dealer": "Schaller Acura",
+      "Website": "https://www.schalleracura.com/",
+      "Phone": "(860) 647-7077",
+      "Email": null,
+      "Street": "345 Center St",
+      "City": "Manchester",
+      "State": "CT",
+      "ZIP": "06040"
+    },
+    {
+      "Dealer": "Patriot Acura",
+      "Website": "https://www.patriotacura.com/",
+      "Phone": "(207) 503-5400",
+      "Email": null,
+      "Street": "101 Haigis Pkwy",
+      "City": "Scarborough",
+      "State": "ME",
+      "ZIP": "04074"
+    },
+    {
+      "Dealer": "Acura of Berlin",
+      "Website": "https://www.acuraofberlin.com/",
+      "Phone": "(860) 829-3792",
+      "Email": null,
+      "Street": "224 Berlin Tpke",
+      "City": "Berlin",
+      "State": "CT",
+      "ZIP": "06037"
+    },
+    {
+      "Dealer": "Acura of Avon",
+      "Website": "https://www.acuraofavon.com/",
+      "Phone": "(860) 693-6981",
+      "Email": null,
+      "Street": "75 Albany Tpke",
+      "City": "Canton",
+      "State": "CT",
+      "ZIP": "06019"
+    },
+    {
+      "Dealer": "Acura by Executive",
+      "Website": "https://www.acurabyexecutive.com/",
+      "Phone": "(203) 234-2111",
+      "Email": null,
+      "Street": "527 Washington Ave",
+      "City": "North Haven",
+      "State": "CT",
+      "ZIP": "06473"
+    },
+    {
+      "Dealer": "Piazza Acura of Ardmore",
+      "Website": "https://www.piazzaacuraofardmore.com/",
+      "Phone": "(610) 896-8600",
+      "Email": null,
+      "Street": "150 W Lancaster Ave",
+      "City": "Ardmore",
+      "State": "PA",
+      "ZIP": "19003"
+    },
+    {
+      "Dealer": "Elite Acura",
+      "Website": "https://www.eliteacura.com/",
+      "Phone": "(856) 380-9600",
+      "Email": null,
+      "Street": "2840 Route 73 N",
+      "City": "Maple Shade",
+      "State": "NJ",
+      "ZIP": "08052"
+    },
+    {
+      "Dealer": "Fred Beans Acura of Abington",
+      "Website": "https://www.fredbeansacuraabington.com/",
+      "Phone": "(215) 572-1800",
+      "Email": null,
+      "Street": "850 Old York Rd",
+      "City": "Jenkintown",
+      "State": "PA",
+      "ZIP": "19046"
+    },
+    {
+      "Dealer": "Acura Turnersville",
+      "Website": "https://www.acuraturnersville.com/",
+      "Phone": "(856) 516-6031",
+      "Email": null,
+      "Street": "3400 Route 42 # E",
+      "City": "Turnersville",
+      "State": "NJ",
+      "ZIP": "08012"
+    },
+    {
+      "Dealer": "Montgomeryville Acura",
+      "Website": "https://www.montgomeryvilleacura.com/",
+      "Phone": "(215) 661-1880",
+      "Email": null,
+      "Street": "1009 Bethlehem Pike",
+      "City": "Montgomeryville",
+      "State": "PA",
+      "ZIP": "18936"
+    },
+    {
+      "Dealer": "Piazza Acura of West Chester",
+      "Website": "https://www.piazzaacuraofwestchester.com/",
+      "Phone": "(610) 399-9500",
+      "Email": null,
+      "Street": "1350 Wilmington Pike",
+      "City": "West Chester",
+      "State": "PA",
+      "ZIP": "19382"
+    },
+    {
+      "Dealer": "Davis Acura",
+      "Website": "https://www.davisacura.com/",
+      "Phone": "(215) 943-1798",
+      "Email": null,
+      "Street": "2051 E Lincoln Hwy",
+      "City": "Langhorne",
+      "State": "PA",
+      "ZIP": "19047"
+    },
+    {
+      "Dealer": "Acura of Limerick",
+      "Website": "https://www.acuraoflimerick.com/",
+      "Phone": "(610) 495-5888",
+      "Email": null,
+      "Street": "77 Autopark Blvd",
+      "City": "Royersford",
+      "State": "PA",
+      "ZIP": "19468"
+    },
+    {
+      "Dealer": "Hertrich Acura",
+      "Website": "https://www.hertrichacura.com/",
+      "Phone": "(302) 323-1100",
+      "Email": null,
+      "Street": "120 S Dupont Hwy",
+      "City": "New Castle",
+      "State": "DE",
+      "ZIP": "19720"
+    },
+    {
+      "Dealer": "Precision Acura of Princeton",
+      "Website": "https://www.precisionacura.com/",
+      "Phone": "(609) 895-0600",
+      "Email": null,
+      "Street": "3001 US Highway 1",
+      "City": "Lawrenceville",
+      "State": "NJ",
+      "ZIP": "08648"
+    },
+    {
+      "Dealer": "Lehigh Valley Acura",
+      "Website": "http://www.lehighvalleyacura.com/",
+      "Phone": "(610) 965-1331",
+      "Email": null,
+      "Street": "333 State Ave",
+      "City": "Emmaus",
+      "State": "PA",
+      "ZIP": "18049"
+    },
+    {
+      "Dealer": "Piazza Acura of Reading",
+      "Website": "https://www.piazzaacuraofreading.com/",
+      "Phone": "(610) 777-7601",
+      "Email": null,
+      "Street": "1001 Lancaster Ave",
+      "City": "Reading",
+      "State": "PA",
+      "ZIP": "19607"
+    },
+    {
+      "Dealer": "Clinton Acura",
+      "Website": "http://www.clintonacura.com/",
+      "Phone": "(908) 735-5555",
+      "Email": null,
+      "Street": "1756 Route-31",
+      "City": "Clinton",
+      "State": "NJ",
+      "ZIP": "08809"
+    },
+    {
+      "Dealer": "Key Acura of Atlantic City",
+      "Website": "https://www.keyacuraofatlanticcity.com/",
+      "Phone": "(908) 905-7400",
+      "Email": null,
+      "Street": "6806 Tilton Rd",
+      "City": "Egg Harbor Twp",
+      "State": "NJ",
+      "ZIP": "08234"
+    },
+    {
+      "Dealer": "Bill Vince's Bridgewater Acura",
+      "Website": "https://www.bridgewateracura.com/",
+      "Phone": "(908) 704-0300",
+      "Email": null,
+      "Street": "1231 US Highway 22",
+      "City": "Bridgewater",
+      "State": "NJ",
+      "ZIP": "08807"
+    },
+    {
+      "Dealer": "McGrath Acura of Downtown Chicago",
+      "Website": "https://www.mcgrathacuraofdowntownchicago.com/",
+      "Phone": "(773) 336-6300",
+      "Email": null,
+      "Street": "1301 N Elston Ave",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60642"
+    },
+    {
+      "Dealer": "McGrath Acura of Morton Grove",
+      "Website": "https://www.mcgrathacura.com/",
+      "Phone": "(847) 470-2300",
+      "Email": null,
+      "Street": "9105 Waukegan Rd",
+      "City": "Morton Grove",
+      "State": "IL",
+      "ZIP": "60053"
+    },
+    {
+      "Dealer": "Ed Napleton Acura",
+      "Website": "https://www.napletonacura.com/",
+      "Phone": "(630) 941-4300",
+      "Email": null,
+      "Street": "745 W Lake St",
+      "City": "Elmhurst",
+      "State": "IL",
+      "ZIP": "60126"
+    },
+    {
+      "Dealer": "McGrath Acura of Westmont",
+      "Website": "https://www.acurabymcgrath.com/",
+      "Phone": "(630) 323-8200",
+      "Email": null,
+      "Street": "400 E Ogden Ave",
+      "City": "Westmont",
+      "State": "IL",
+      "ZIP": "60559"
+    },
+    {
+      "Dealer": "Joe Rizza Acura",
+      "Website": "https://www.rizzaacura.com/",
+      "Phone": "(708) 364-2344",
+      "Email": null,
+      "Street": "8150 W 159th St",
+      "City": "Orland Park",
+      "State": "IL",
+      "ZIP": "60462"
+    },
+    {
+      "Dealer": "Acura Highland Park",
+      "Website": "https://acurahighlandpark.com/",
+      "Phone": "(847) 433-8200",
+      "Email": null,
+      "Street": "2699 Skokie Valley Rd",
+      "City": "Highland Park",
+      "State": "IL",
+      "ZIP": "60035"
+    },
+    {
+      "Dealer": "Arlington Acura in Palatine",
+      "Website": "https://www.arlingtonacura.com/",
+      "Phone": "(847) 991-9000",
+      "Email": null,
+      "Street": "1275 E Dundee Rd",
+      "City": "Palatine",
+      "State": "IL",
+      "ZIP": "60074"
+    },
+    {
+      "Dealer": "Muller's Woodfield Acura",
+      "Website": "https://www.mullerswoodfieldacura.com/",
+      "Phone": "(847) 519-9550",
+      "Email": null,
+      "Street": "1149 W Golf Rd",
+      "City": "Hoffman Estates",
+      "State": "IL",
+      "ZIP": "60169"
+    },
+    {
+      "Dealer": "McGrath Acura of Libertyville",
+      "Website": "http://www.mcgrathacuralibertyville.com/",
+      "Phone": "(847) 680-7333",
+      "Email": null,
+      "Street": "1620 S Milwaukee Ave",
+      "City": "Libertyville",
+      "State": "IL",
+      "ZIP": "60048"
+    },
+    {
+      "Dealer": "Advantage Acura of Naperville",
+      "Website": "https://www.advantageacura.com/",
+      "Phone": "(630) 960-2100",
+      "Email": null,
+      "Street": "2275 Aurora Ave",
+      "City": "Naperville",
+      "State": "IL",
+      "ZIP": "60540"
+    },
+    {
+      "Dealer": "Muller Acura of Merrillville",
+      "Website": "https://www.mulleracuraofmerrillville.com/",
+      "Phone": "(219) 472-7000",
+      "Email": null,
+      "Street": "3301 W Lincoln Hwy",
+      "City": "Merrillville",
+      "State": "IN",
+      "ZIP": "46410"
+    },
+    {
+      "Dealer": "Acura of Brookfield",
+      "Website": "https://www.acurabrookfield.com/",
+      "Phone": "(262) 439-6031",
+      "Email": null,
+      "Street": "19180 W Bluemound Rd",
+      "City": "Brookfield",
+      "State": "WI",
+      "ZIP": "53045"
+    },
+    {
+      "Dealer": "Fox Acura",
+      "Website": "https://www.foxacura.com/",
+      "Phone": "(616) 719-5604",
+      "Email": null,
+      "Street": "4330 29th St SE",
+      "City": "Kentwood",
+      "State": "MI",
+      "ZIP": "49512"
+    },
+    {
+      "Dealer": "Zimbrick Acura",
+      "Website": "https://www.zimbrickacura.com/",
+      "Phone": "(608) 662-3120",
+      "Email": null,
+      "Street": "7525 Century Ave",
+      "City": "Middleton",
+      "State": "WI",
+      "ZIP": "53562"
+    },
+    {
+      "Dealer": "Bob Lindsay Acura",
+      "Website": "https://www.boblindsayacura.com/",
+      "Phone": "(309) 692-7800",
+      "Email": null,
+      "Street": "7500 N Allen Rd",
+      "City": "Peoria",
+      "State": "IL",
+      "ZIP": "61614"
+    },
+    {
+      "Dealer": "Don Ayres Acura",
+      "Website": "https://www.donayresacura.com/",
+      "Phone": "(260) 432-4567",
+      "Email": null,
+      "Street": "5000 Illinois Rd",
+      "City": "Fort Wayne",
+      "State": "IN",
+      "ZIP": "46804"
+    },
+    {
+      "Dealer": "Jeffrey Acura",
+      "Website": "https://www.jeffreyacura.com/",
+      "Phone": "(586) 285-3106",
+      "Email": null,
+      "Street": "30760 Beaconsfield St",
+      "City": "Roseville",
+      "State": "MI",
+      "ZIP": "48066"
+    },
+    {
+      "Dealer": "Lafontaine Acura",
+      "Website": "http://www.lafontaineacuracommerce.com/",
+      "Phone": "(248) 621-0160",
+      "Email": null,
+      "Street": "2199 Haggerty Rd",
+      "City": "Commerce Township",
+      "State": "MI",
+      "ZIP": "48390"
+    },
+    {
+      "Dealer": "Fox Ann Arbor Acura",
+      "Website": "https://www.foxannarboracura.com/",
+      "Phone": "(734) 663-7770",
+      "Email": null,
+      "Street": "540 Auto Mall Dr",
+      "City": "Ann Arbor",
+      "State": "MI",
+      "ZIP": "48103"
+    },
+    {
+      "Dealer": "Dave White Acura",
+      "Website": "https://www.davewhiteacura.com/",
+      "Phone": "(419) 885-3600",
+      "Email": null,
+      "Street": "5868 Monroe St",
+      "City": "Sylvania",
+      "State": "OH",
+      "ZIP": "43560"
+    },
+    {
+      "Dealer": "Crown Acura",
+      "Website": "https://www.mycrownacura.com/",
+      "Phone": "(216) 676-5400",
+      "Email": null,
+      "Street": "14080 Brookpark Rd",
+      "City": "Cleveland",
+      "State": "OH",
+      "ZIP": "44135"
+    },
+    {
+      "Dealer": "Motorcars Acura",
+      "Website": "https://www.motorcarsacura.com/",
+      "Phone": "(440) 439-8400",
+      "Email": null,
+      "Street": "18123 Rockside Rd",
+      "City": "Bedford",
+      "State": "OH",
+      "ZIP": "44146"
+    },
+    {
+      "Dealer": "Serra Acura",
+      "Website": "https://www.serraacuraakron.com/",
+      "Phone": "(330) 644-1300",
+      "Email": null,
+      "Street": "921 Interstate Pkwy",
+      "City": "Akron",
+      "State": "OH",
+      "ZIP": "44312"
+    },
+    {
+      "Dealer": "Fox Acura",
+      "Website": "https://www.foxacura.com/",
+      "Phone": "(616) 719-5604",
+      "Email": null,
+      "Street": "4330 29th St SE",
+      "City": "Kentwood",
+      "State": "MI",
+      "ZIP": "49512"
+    },
+    {
+      "Dealer": "Don Ayres Acura",
+      "Website": "https://www.donayresacura.com/",
+      "Phone": "(260) 432-4567",
+      "Email": null,
+      "Street": "5000 Illinois Rd",
+      "City": "Fort Wayne",
+      "State": "IN",
+      "ZIP": "46804"
+    },
+    {
+      "Dealer": "Acura Marysville",
+      "Website": "https://www.acuraofmarysville.com/",
+      "Phone": "(937) 645-4084",
+      "Email": null,
+      "Street": "630 Colemans Crossing Blvd",
+      "City": "Marysville",
+      "State": "OH",
+      "ZIP": "43040"
+    },
+    {
+      "Dealer": "Acura of Boardman",
+      "Website": "https://www.acuraofboardman.com/",
+      "Phone": "(330) 726-2668",
+      "Email": null,
+      "Street": "883 Boardman Canfield Rd",
+      "City": "Boardman",
+      "State": "OH",
+      "ZIP": "44512"
+    },
+    {
+      "Dealer": "Acura of Erie",
+      "Website": "https://www.acuraoferie.com/",
+      "Phone": "(814) 868-8622",
+      "Email": null,
+      "Street": "4910 Peach St",
+      "City": "Erie",
+      "State": "PA",
+      "ZIP": "16509"
+    },
+    {
+      "Dealer": "Acura Columbus",
+      "Website": "https://www.acuracolumbus.com/",
+      "Phone": "(614) 761-1222",
+      "Email": null,
+      "Street": "4340 W Dublin Granville Rd",
+      "City": "Dublin",
+      "State": "OH",
+      "ZIP": "43017"
+    },
+    {
+      "Dealer": "Lindsay Acura",
+      "Website": "http://www.lindsayacura.com/",
+      "Phone": "(614) 863-2885",
+      "Email": null,
+      "Street": "5880 Scarborough Blvd",
+      "City": "Columbus",
+      "State": "OH",
+      "ZIP": "43232"
+    },
+    {
+      "Dealer": "Jeff Wyler Acura of Dayton",
+      "Website": "https://www.jeffwyleracuraofdayton.com/",
+      "Phone": "(937) 435-5115",
+      "Email": null,
+      "Street": "60 Loop Rd",
+      "City": "Centerville",
+      "State": "OH",
+      "ZIP": "45459"
+    },
+    {
+      "Dealer": "Baierl Acura",
+      "Website": "https://www.baierlacura.com/",
+      "Phone": "(724) 741-1169",
+      "Email": null,
+      "Street": "11410 Perry Hwy",
+      "City": "Wexford",
+      "State": "PA",
+      "ZIP": "15090"
+    },
+    {
+      "Dealer": "Sterling McCall Acura",
+      "Website": "https://www.sterlingmccallacura.com/",
+      "Phone": "(713) 596-2300",
+      "Email": null,
+      "Street": "10455 West Rd",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77064"
+    },
+    {
+      "Dealer": "John Eagle Acura",
+      "Website": "https://www.johneagleacura.com/",
+      "Phone": "(281) 606-0641",
+      "Email": null,
+      "Street": "16015 Katy Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77094"
+    },
+    {
+      "Dealer": "Gillman Acura",
+      "Website": "https://www.gillmanacura.com/",
+      "Phone": "(281) 821-1100",
+      "Email": null,
+      "Street": "18002 North Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77090"
+    },
+    {
+      "Dealer": "Sterling McCall Acura Sugar Land",
+      "Website": "https://www.acurasugarland.com/",
+      "Phone": "(832) 944-7200",
+      "Email": null,
+      "Street": "7201 Addison Ave",
+      "City": "Sugar Land",
+      "State": "TX",
+      "ZIP": "77479"
+    },
+    {
+      "Dealer": "AutoNation Acura Gulf Freeway",
+      "Website": "https://www.autonationacuragulffreeway.com/",
+      "Phone": "(713) 371-4600",
+      "Email": null,
+      "Street": "1125 Gulf Fwy S",
+      "City": "League City",
+      "State": "TX",
+      "ZIP": "77573"
+    },
+    {
+      "Dealer": "Classic Acura",
+      "Website": "https://www.classicacura.com/",
+      "Phone": "(409) 898-8001",
+      "Email": null,
+      "Street": "1000 Interstate 10 N",
+      "City": "Beaumont",
+      "State": "TX",
+      "ZIP": "77702"
+    },
+    {
+      "Dealer": "Sterling Acura of Austin",
+      "Website": "https://www.sterlingacura.com/",
+      "Phone": "(512) 691-3800",
+      "Email": null,
+      "Street": "4801 S Interstate 35",
+      "City": "Austin",
+      "State": "TX",
+      "ZIP": "78744"
+    },
+    {
+      "Dealer": "Acura of Austin North",
+      "Website": "https://www.acuraofaustinnorth.com/",
+      "Phone": "(737) 298-4884",
+      "Email": null,
+      "Street": "13553 N Highway 183",
+      "City": "Austin",
+      "State": "TX",
+      "ZIP": "78750"
+    },
+    {
+      "Dealer": "Gunn Acura",
+      "Website": "https://www.gunnacura.com/",
+      "Phone": "(877) 934-5933",
+      "Email": null,
+      "Street": "11911 W Interstate 10",
+      "City": "San Antonio",
+      "State": "TX",
+      "ZIP": "78230"
+    },
+    {
+      "Dealer": "Acura of Lafayette",
+      "Website": "https://www.acuraoflafayette.com/",
+      "Phone": "(337) 703-3950",
+      "Email": null,
+      "Street": "6207 Johnston St",
+      "City": "Lafayette",
+      "State": "LA",
+      "ZIP": "70503"
+    },
+    {
+      "Dealer": "Orr Acura",
+      "Website": "https://www.orracura.com/",
+      "Phone": "(800) 743-0853",
+      "Email": null,
+      "Street": "7571 E Kings Hwy",
+      "City": "Shreveport",
+      "State": "LA",
+      "ZIP": "71105"
+    },
+    {
+      "Dealer": "Vandergriff Acura",
+      "Website": "https://www.vandergriffacura.com/",
+      "Phone": "(817) 803-6021",
+      "Email": null,
+      "Street": "1100 W Interstate 20",
+      "City": "Arlington",
+      "State": "TX",
+      "ZIP": "76017"
+    },
+    {
+      "Dealer": "Goodson Acura of Dallas",
+      "Website": "https://www.goodsonacura.com/",
+      "Phone": "(214) 692-2872",
+      "Email": null,
+      "Street": "4801 Lemmon Ave",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75219"
+    },
+    {
+      "Dealer": "Grubbs Acura",
+      "Website": "https://www.grubbsacura.com/",
+      "Phone": "(682) 294-1618",
+      "Email": null,
+      "Street": "1600 E State Highway 114",
+      "City": "Grapevine",
+      "State": "TX",
+      "ZIP": "76092"
+    },
+    {
+      "Dealer": "Hiley Acura of Fort Worth",
+      "Website": "http://www.hileyacura.com/",
+      "Phone": "(817) 232-2872",
+      "Email": null,
+      "Street": "3125 NE Loop 820",
+      "City": "Fort Worth",
+      "State": "TX",
+      "ZIP": "76137"
+    },
+    {
+      "Dealer": "Park Place Acura",
+      "Website": "https://www.davidmcdavidacuraplano.com/",
+      "Phone": "(972) 964-6027",
+      "Email": null,
+      "Street": "6645 Dallas Pkwy",
+      "City": "Plano",
+      "State": "TX",
+      "ZIP": "75024"
+    },
+    {
+      "Dealer": "Acura of Bellevue",
+      "Website": "https://www.acuraofbellevue.com/",
+      "Phone": "(425) 644-3000",
+      "Email": null,
+      "Street": "13424 NE 20th St",
+      "City": "Bellevue",
+      "State": "WA",
+      "ZIP": "98005"
+    },
+    {
+      "Dealer": "Acura of Seattle",
+      "Website": "https://www.acuraofseattle.com/",
+      "Phone": "(206) 433-1000",
+      "Email": null,
+      "Street": "301 Baker Blvd",
+      "City": "Tukwila",
+      "State": "WA",
+      "ZIP": "98188"
+    },
+    {
+      "Dealer": "Carter Acura of Lynnwood",
+      "Website": "https://www.carteracura.com/",
+      "Phone": "(425) 775-2925",
+      "Email": null,
+      "Street": "21515 Highway 99",
+      "City": "Lynnwood",
+      "State": "WA",
+      "ZIP": "98036"
+    },
+    {
+      "Dealer": "Hinshaw's Acura",
+      "Website": "http://www.hinshawsacura.com/",
+      "Phone": "(253) 922-8830",
+      "Email": null,
+      "Street": "5955 20th St E",
+      "City": "Fife",
+      "State": "WA",
+      "ZIP": "98424"
+    },
+    {
+      "Dealer": "Acura of Portland",
+      "Website": "https://www.acuraofportland.com/",
+      "Phone": "(503) 252-2872",
+      "Email": null,
+      "Street": "12030 SE Stark St",
+      "City": "Portland",
+      "State": "OR",
+      "ZIP": "97216"
+    },
+    {
+      "Dealer": "Ron Tonkin Acura",
+      "Website": "https://www.rontonkinacura.com/",
+      "Phone": "(503) 292-0662",
+      "Email": null,
+      "Street": "9655 SW Canyon Rd",
+      "City": "Portland",
+      "State": "OR",
+      "ZIP": "97225"
+    },
+    {
+      "Dealer": "Acura of Salem",
+      "Website": "https://www.acuraofsalem.com/",
+      "Phone": "(503) 588-5000",
+      "Email": null,
+      "Street": "2475 Commercial St SE",
+      "City": "Salem",
+      "State": "OR",
+      "ZIP": "97302"
+    },
+    {
+      "Dealer": "AutoNation Acura Spokane Valley",
+      "Website": "https://www.autonationacuraspokanevalley.com/",
+      "Phone": "(509) 444-7000",
+      "Email": null,
+      "Street": "8325 E Sprague Ave",
+      "City": "Spokane Valley",
+      "State": "WA",
+      "ZIP": "99212"
+    },
+    {
+      "Dealer": "Kendall Acura",
+      "Website": "https://www.kendallacuraofeugene.com/",
+      "Phone": "(541) 335-4314",
+      "Email": null,
+      "Street": "846 Goodpasture Island Rd",
+      "City": "Eugene",
+      "State": "OR",
+      "ZIP": "97401"
+    },
+    {
+      "Dealer": "Mile High Acura",
+      "Website": "https://www.milehighacura.com/",
+      "Phone": "(303) 743-5193",
+      "Email": null,
+      "Street": "2799 S Havana St",
+      "City": "Denver",
+      "State": "CO",
+      "ZIP": "80014"
+    },
+    {
+      "Dealer": "Courtesy Acura",
+      "Website": "https://www.courtesyacuralittleton.com/",
+      "Phone": "(303) 795-7800",
+      "Email": null,
+      "Street": "7590 S Broadway",
+      "City": "Centennial",
+      "State": "CO",
+      "ZIP": "80122"
+    },
+    {
+      "Dealer": "Fisher Acura",
+      "Website": "https://www.fisheracura.com/",
+      "Phone": "(303) 245-6418",
+      "Email": null,
+      "Street": "6025 Arapahoe Rd",
+      "City": "Boulder",
+      "State": "CO",
+      "ZIP": "80303"
+    },
+    {
+      "Dealer": "AutoNation Acura Colorado Springs",
+      "Website": "https://www.autonationacuracoloradosprings.com/",
+      "Phone": "(719) 460-3920",
+      "Email": null,
+      "Street": "655 Automotive Dr",
+      "City": "Colorado Spgs",
+      "State": "CO",
+      "ZIP": "80905"
+    },
+    {
+      "Dealer": "Acura of Tempe",
+      "Website": "https://www.acuraoftempe.com/",
+      "Phone": "(480) 344-5800",
+      "Email": null,
+      "Street": "7800 S Autoplex Loop",
+      "City": "Tempe",
+      "State": "AZ",
+      "ZIP": "85284"
+    },
+    {
+      "Dealer": "Acura North Scottsdale",
+      "Website": "https://www.acuranorthscottsdale.com/",
+      "Phone": "(480) 538-4600",
+      "Email": null,
+      "Street": "7007 E Chauncey Ln",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85054"
+    },
+    {
+      "Dealer": "Acura of Peoria",
+      "Website": "https://www.acuraofpeoria.com/",
+      "Phone": "(623) 974-7600",
+      "Email": null,
+      "Street": "9190 W Bell Rd",
+      "City": "Peoria",
+      "State": "AZ",
+      "ZIP": "85382"
+    },
+    {
+      "Dealer": "Chapman Acura",
+      "Website": "https://www.chapmanacura.com/",
+      "Phone": "(520) 748-1000",
+      "Email": null,
+      "Street": "4600 E 22nd St",
+      "City": "Tucson",
+      "State": "AZ",
+      "ZIP": "85711"
+    },
+    {
+      "Dealer": "Findlay Acura",
+      "Website": "https://www.findlayacura.com/",
+      "Phone": "(702) 982-4108",
+      "Email": null,
+      "Street": "315 Auto Mall Dr",
+      "City": "Henderson",
+      "State": "NV",
+      "ZIP": "89014"
+    },
+    {
+      "Dealer": "Cardinaleway Acura Las Vegas",
+      "Website": "https://www.cardinalewayacura.com/",
+      "Phone": "(702) 367-7000",
+      "Email": null,
+      "Street": "7000 W Sahara Ave",
+      "City": "Las Vegas",
+      "State": "NV",
+      "ZIP": "89117"
+    },
+    {
+      "Dealer": "Acura of The Desert",
+      "Website": "https://www.acuraofthedesert.com/",
+      "Phone": "(760) 321-2700",
+      "Email": null,
+      "Street": "68100 Perez Rd",
+      "City": "Cathedral City",
+      "State": "CA",
+      "ZIP": "92234"
+    },
+    {
+      "Dealer": "Bakersfield Acura",
+      "Website": "https://www.familymotorsacura.com/",
+      "Phone": "(661) 398-4260",
+      "Email": null,
+      "Street": "5200 Gasoline Alley Dr",
+      "City": "Bakersfield",
+      "State": "CA",
+      "ZIP": "93313"
+    },
+    {
+      "Dealer": "Jody Wilkinson Acura",
+      "Website": "https://www.jodywilkinsonacura.com/",
+      "Phone": "(801) 595-1111",
+      "Email": null,
+      "Street": "1111 S Main St",
+      "City": "Salt Lake City",
+      "State": "UT",
+      "ZIP": "84111"
+    },
+    {
+      "Dealer": "Mike Hale Acura",
+      "Website": "https://www.mikehaleacura.com/",
+      "Phone": "(801) 263-0202",
+      "Email": null,
+      "Street": "5601 S State St",
+      "City": "Murray",
+      "State": "UT",
+      "ZIP": "84107"
+    },
+    {
+      "Dealer": "Montano Acura",
+      "Website": "https://www.montanoacura.com/",
+      "Phone": "(505) 345-8741",
+      "Email": null,
+      "Street": "1200 S Renaissance Blvd NE",
+      "City": "Albuquerque",
+      "State": "NM",
+      "ZIP": "87107"
+    },
+    {
+      "Dealer": "Fox Acura of El Paso",
+      "Website": "https://www.foxacuraofelpaso.com/",
+      "Phone": "(915) 778-0044",
+      "Email": null,
+      "Street": "7750 Gateway Blvd E",
+      "City": "El Paso",
+      "State": "TX",
+      "ZIP": "79915"
+    },
+    {
+      "Dealer": "Jay Wolfe Acura of Overland Park",
+      "Website": "https://www.acuraoverlandpark.com/",
+      "Phone": "(913) 648-5888",
+      "Email": null,
+      "Street": "7727 Frontage Rd",
+      "City": "Overland Park",
+      "State": "KS",
+      "ZIP": "66204"
+    },
+    {
+      "Dealer": "Acura of Johnston",
+      "Website": "https://www.acuraofjohnston.com/",
+      "Phone": "(515) 727-7090",
+      "Email": null,
+      "Street": "5138 Merle Hay Rd",
+      "City": "Johnston",
+      "State": "IA",
+      "ZIP": "50131"
+    },
+    {
+      "Dealer": "Acura of Fayetteville",
+      "Website": "https://www.acuraoffayetteville.com/",
+      "Phone": "(479) 251-2050",
+      "Email": null,
+      "Street": "1418 W Showroom Dr",
+      "City": "Fayetteville",
+      "State": "AR",
+      "ZIP": "72704"
+    },
+    {
+      "Dealer": "Grubbs Acura of Tulsa",
+      "Website": "https://www.grubbsacuratulsa.com/",
+      "Phone": "(539) 252-2973",
+      "Email": null,
+      "Street": "4905 S Memorial Dr",
+      "City": "Tulsa",
+      "State": "OK",
+      "ZIP": "74145"
+    },
+    {
+      "Dealer": "Mungenast St. Louis Acura",
+      "Website": "https://www.stlouisacura.com/",
+      "Phone": "(314) 822-2872",
+      "Email": null,
+      "Street": "13720 Manchester Rd",
+      "City": "Manchester",
+      "State": "MO",
+      "ZIP": "63011"
+    },
+    {
+      "Dealer": "Bloomington Acura",
+      "Website": "https://www.bloomington-acura.com/",
+      "Phone": "(952) 881-6200",
+      "Email": null,
+      "Street": "7801 Lyndale Ave S",
+      "City": "Bloomington",
+      "State": "MN",
+      "ZIP": "55420"
+    },
+    {
+      "Dealer": "Buerkle Acura",
+      "Website": "https://www.buerkleacura.com/",
+      "Phone": "(763) 424-4545",
+      "Email": null,
+      "Street": "7925 Brooklyn Blvd",
+      "City": "Brooklyn Park",
+      "State": "MN",
+      "ZIP": "55445"
+    },
+    {
+      "Dealer": "White Bear Acura",
+      "Website": "https://www.whitebear-acura.com/",
+      "Phone": "(651) 481-7000",
+      "Email": null,
+      "Street": "3525 Highway 61 N",
+      "City": "Vadnais Heights",
+      "State": "MN",
+      "ZIP": "55110"
+    },
+    {
+      "Dealer": "Vern Eide Acura",
+      "Website": "https://www.verneideacura.com/",
+      "Phone": "(605) 444-6500",
+      "Email": null,
+      "Street": "4030 S Grange Ave",
+      "City": "Sioux Falls",
+      "State": "SD",
+      "ZIP": "57105"
+    },
+    {
+      "Dealer": "Bergstrom Acura",
+      "Website": "https://www.bergstromacura.com/",
+      "Phone": "(920) 560-2900",
+      "Email": null,
+      "Street": "2910 N Victory Ln",
+      "City": "Appleton",
+      "State": "WI",
+      "ZIP": "54913"
+    },
+    {
+      "Dealer": "Ed Voyles Acura",
+      "Website": "https://www.edvoylesacura.com/",
+      "Phone": "(770) 452-8800",
+      "Email": null,
+      "Street": "5700 Peachtree Industrial Blvd",
+      "City": "Chamblee",
+      "State": "GA",
+      "ZIP": "30341"
+    },
+    {
+      "Dealer": "Nalley Acura",
+      "Website": "https://www.nalleyacura.com/",
+      "Phone": "(770) 422-4441",
+      "Email": null,
+      "Street": "1355 Cobb Pkwy S",
+      "City": "Marietta",
+      "State": "GA",
+      "ZIP": "30060"
+    },
+    {
+      "Dealer": "Jackson Acura",
+      "Website": "https://www.jacksonacura.com/",
+      "Phone": "(770) 650-4000",
+      "Email": null,
+      "Street": "10900 Alpharetta Hwy",
+      "City": "Roswell",
+      "State": "GA",
+      "ZIP": "30076"
+    },
+    {
+      "Dealer": "Acura Carland",
+      "Website": "http://acuracarland.com/",
+      "Phone": "(770) 623-9211",
+      "Email": null,
+      "Street": "3403 Satellite Blvd",
+      "City": "Duluth",
+      "State": "GA",
+      "ZIP": "30096"
+    },
+    {
+      "Dealer": "McDaniels Acura of Newnan",
+      "Website": "https://www.mcdanielsacuraofnewnan.com/",
+      "Phone": "(470) 400-1197",
+      "Email": null,
+      "Street": "8000 McIntosh Pkwy",
+      "City": "Newnan",
+      "State": "GA",
+      "ZIP": "30263"
+    },
+    {
+      "Dealer": "Acura of Athens",
+      "Website": "https://www.acuraofathens.com/",
+      "Phone": "(706) 546-1033",
+      "Email": null,
+      "Street": "2890 Atlanta Hwy",
+      "City": "Athens",
+      "State": "GA",
+      "ZIP": "30606"
+    },
+    {
+      "Dealer": "Sutton Acura",
+      "Website": "https://www.suttonacura.com/",
+      "Phone": "(478) 471-6877",
+      "Email": null,
+      "Street": "4796 Riverside Dr",
+      "City": "Macon",
+      "State": "GA",
+      "ZIP": "31210"
+    },
+    {
+      "Dealer": "Acura of Columbus",
+      "Website": "https://www.acuraofcolumbus.com/",
+      "Phone": "(706) 576-6700",
+      "Email": null,
+      "Street": "6549 Whittlesey Blvd",
+      "City": "Columbus",
+      "State": "GA",
+      "ZIP": "31909"
+    },
+    {
+      "Dealer": "Acura of Chattanooga",
+      "Website": "https://www.acuraofchattanooga.com/",
+      "Phone": "(423) 855-5454",
+      "Email": null,
+      "Street": "2131 Chapman Rd",
+      "City": "Chattanooga",
+      "State": "TN",
+      "ZIP": "37421"
+    },
+    {
+      "Dealer": "Jim Hudson Acura",
+      "Website": "https://www.jimhudsonacura.com/",
+      "Phone": "(706) 737-5200",
+      "Email": null,
+      "Street": "3520 Washington Rd",
+      "City": "Martinez",
+      "State": "GA",
+      "ZIP": "30907"
+    },
+    {
+      "Dealer": "Fred Anderson Acura",
+      "Website": "https://www.fredandersonacura.com/",
+      "Phone": "(864) 297-4529",
+      "Email": null,
+      "Street": "2450 Laurens Rd",
+      "City": "Greenville",
+      "State": "SC",
+      "ZIP": "29607"
+    },
+    {
+      "Dealer": "King Acura",
+      "Website": "https://www.kingacura.com/",
+      "Phone": "(205) 979-8888",
+      "Email": null,
+      "Street": "1687 Montgomery Hwy",
+      "City": "Hoover",
+      "State": "AL",
+      "ZIP": "35216"
+    },
+    {
+      "Dealer": "Shottenkirk Acura Huntsville",
+      "Website": "https://www.shottenkirkacurahuntsville.com/",
+      "Phone": "(256) 837-2222",
+      "Email": null,
+      "Street": "2402 Leeman Ferry Rd SW",
+      "City": "Huntsville",
+      "State": "AL",
+      "ZIP": "35801"
+    },
+    {
+      "Dealer": "McConnell Acura",
+      "Website": "https://www.mcconnellacura.com/",
+      "Phone": "(334) 271-5551",
+      "Email": null,
+      "Street": "2860 Eastern Blvd",
+      "City": "Montgomery",
+      "State": "AL",
+      "ZIP": "36116"
+    },
+    {
+      "Dealer": "Harper Acura",
+      "Website": "https://www.harperacura.net/",
+      "Phone": "(865) 691-5551",
+      "Email": null,
+      "Street": "9739 Kingston Pike",
+      "City": "Knoxville",
+      "State": "TN",
+      "ZIP": "37922"
+    },
+    {
+      "Dealer": "Apple Tree Acura",
+      "Website": "https://www.acura.appletreeautomobiles.com/",
+      "Phone": "(828) 684-4400",
+      "Email": null,
+      "Street": "193 Underwood Rd",
+      "City": "Fletcher",
+      "State": "NC",
+      "ZIP": "28732"
+    },
+    {
+      "Dealer": "Chevy Chase Acura",
+      "Website": "https://www.chevychaseacura.com/",
+      "Phone": "(301) 656-9200",
+      "Email": null,
+      "Street": "7725 Wisconsin Ave",
+      "City": "Bethesda",
+      "State": "MD",
+      "ZIP": "20814"
+    },
+    {
+      "Dealer": "Radley Acura",
+      "Website": "https://www.radleyacura.com/",
+      "Phone": "(703) 824-5700",
+      "Email": null,
+      "Street": "5823 Columbia Pike",
+      "City": "Falls Church",
+      "State": "VA",
+      "ZIP": "22041"
+    },
+    {
+      "Dealer": "Acura of Laurel",
+      "Website": "https://www.acuraoflaurel.com/",
+      "Phone": "(301) 498-3322",
+      "Email": null,
+      "Street": "3506 Laurel Fort Meade Rd",
+      "City": "Laurel",
+      "State": "MD",
+      "ZIP": "20724"
+    },
+    {
+      "Dealer": "Rosenthal Acura",
+      "Website": "https://www.rosenthalacura.com/",
+      "Phone": "(301) 840-9333",
+      "Email": null,
+      "Street": "623 N Frederick Ave",
+      "City": "Gaithersburg",
+      "State": "MD",
+      "ZIP": "20879"
+    },
+    {
+      "Dealer": "Pohanka Acura",
+      "Website": "https://www.pohankaacura.com/",
+      "Phone": "(703) 968-6600",
+      "Email": null,
+      "Street": "13911 Lee Jackson Memorial Hwy",
+      "City": "Chantilly",
+      "State": "VA",
+      "ZIP": "20151"
+    },
+    {
+      "Dealer": "Karen Radley Acura",
+      "Website": "https://www.karenradleyacura.com/",
+      "Phone": "(703) 497-0900",
+      "Email": null,
+      "Street": "14700 Richmond Hwy",
+      "City": "Woodbridge",
+      "State": "VA",
+      "ZIP": "22191"
+    },
+    {
+      "Dealer": "Criswell Acura",
+      "Website": "https://www.criswellacura.com/",
+      "Phone": "(443) 482-3200",
+      "Email": null,
+      "Street": "1701 West St",
+      "City": "Annapolis",
+      "State": "MD",
+      "ZIP": "21401"
+    },
+    {
+      "Dealer": "Acura of Ellicott City",
+      "Website": "https://www.norrisacurawest.com/",
+      "Phone": "(410) 461-7000",
+      "Email": null,
+      "Street": "8559 Baltimore National Pike",
+      "City": "Ellicott City",
+      "State": "MD",
+      "ZIP": "21043"
+    },
+    {
+      "Dealer": "AutoNation Acura Hunt Valley",
+      "Website": "https://www.autonationacurahuntvalley.com/",
+      "Phone": "(410) 666-5300",
+      "Email": null,
+      "Street": "10400 York Rd",
+      "City": "Cockeysville",
+      "State": "MD",
+      "ZIP": "21030"
+    },
+    {
+      "Dealer": "Price Acura",
+      "Website": "https://www.priceacura.com/",
+      "Phone": "(302) 734-1000",
+      "Email": null,
+      "Street": "4585 S Dupont Hwy",
+      "City": "Dover",
+      "State": "DE",
+      "ZIP": "19901"
+    },
+    {
+      "Dealer": "Jones Acura",
+      "Website": "https://www.jonesacura.com/",
+      "Phone": "(717) 394-0711",
+      "Email": null,
+      "Street": "1335 Manheim Pike",
+      "City": "Lancaster",
+      "State": "PA",
+      "ZIP": "17601"
+    },
+    {
+      "Dealer": "Bobby Rahal Acura",
+      "Website": "http://www.bobbyrahalacura.com/",
+      "Phone": "(717) 790-6000",
+      "Email": null,
+      "Street": "6694 Carlisle Pike",
+      "City": "Mechanicsburg",
+      "State": "PA",
+      "ZIP": "17050"
+    },
+    {
+      "Dealer": "Crown Acura",
+      "Website": "https://www.crownacurarichmond.com/",
+      "Phone": "(804) 370-8745",
+      "Email": null,
+      "Street": "8704 W Broad St",
+      "City": "Richmond",
+      "State": "VA",
+      "ZIP": "23294"
+    },
+    {
+      "Dealer": "Hendrick Acura",
+      "Website": "https://www.hendrickacura.com/",
+      "Phone": "(704) 563-7800",
+      "Email": null,
+      "Street": "6816 E Independence Blvd",
+      "City": "Charlotte",
+      "State": "NC",
+      "ZIP": "28227"
+    },
+    {
+      "Dealer": "Flow Acura",
+      "Website": "https://www.flowacura.com/",
+      "Phone": "(336) 768-3990",
+      "Email": null,
+      "Street": "405 Silas Creek Pkwy",
+      "City": "Winston-Salem",
+      "State": "NC",
+      "ZIP": "27127"
+    },
+    {
+      "Dealer": "McDaniels Acura",
+      "Website": "https://www.mcdanielsacura.net/",
+      "Phone": "(803) 786-6400",
+      "Email": null,
+      "Street": "501 W Killian Rd",
+      "City": "Columbia",
+      "State": "SC",
+      "ZIP": "29203"
+    },
+    {
+      "Dealer": "Greensboro Acura",
+      "Website": "https://www.greensboroacura.com/",
+      "Phone": "(336) 299-1513",
+      "Email": null,
+      "Street": "3908 W Wendover Ave",
+      "City": "Greensboro",
+      "State": "NC",
+      "ZIP": "27407"
+    },
+    {
+      "Dealer": "Fayetteville Acura",
+      "Website": "https://www.fayettevilleacura.com/",
+      "Phone": "(910) 864-2277",
+      "Email": null,
+      "Street": "2022 Skibo Rd",
+      "City": "Fayetteville",
+      "State": "NC",
+      "ZIP": "28314"
+    },
+    {
+      "Dealer": "Johnson City Acura",
+      "Website": "https://www.johnsoncityacura.com/",
+      "Phone": "(423) 282-2493",
+      "Email": null,
+      "Street": "2909 N Roan St",
+      "City": "Johnson City",
+      "State": "TN",
+      "ZIP": "37601"
+    },
+    {
+      "Dealer": "Hendrick Acura Southpoint",
+      "Website": "https://www.acurasouthpoint.com/",
+      "Phone": "(919) 251-5414",
+      "Email": null,
+      "Street": "212 Kentington Dr",
+      "City": "Durham",
+      "State": "NC",
+      "ZIP": "27713"
+    },
+    {
+      "Dealer": "Leith Acura of Cary",
+      "Website": "https://www.leithacuracary.com/",
+      "Phone": "(919) 460-8200",
+      "Email": null,
+      "Street": "900 Auto Park Blvd",
+      "City": "Cary",
+      "State": "NC",
+      "ZIP": "27511"
+    },
+    {
+      "Dealer": "Leith Acura",
+      "Website": "http://www.leithacuraraleigh.com/",
+      "Phone": "(919) 803-8700",
+      "Email": null,
+      "Street": "2300 Capital Summit Ct",
+      "City": "Raleigh",
+      "State": "NC",
+      "ZIP": "27616"
+    },
+    {
+      "Dealer": "Parks Acura",
+      "Website": "https://www.parksacura.com/",
+      "Phone": "(540) 562-0099",
+      "Email": null,
+      "Street": "2032 Peters Creek Rd NW",
+      "City": "Roanoke",
+      "State": "VA",
+      "ZIP": "24017"
+    },
+    {
+      "Dealer": "McDaniels Acura of Charleston",
+      "Website": "https://www.mcdanielsacuraofcharleston.net/",
+      "Phone": "(843) 766-1299",
+      "Email": null,
+      "Street": "2283 Savannah Hwy",
+      "City": "Charleston",
+      "State": "SC",
+      "ZIP": "29414"
+    },
+    {
+      "Dealer": "Gary Force Acura",
+      "Website": "https://www.garyforceacura.com/",
+      "Phone": "(615) 377-0500",
+      "Email": null,
+      "Street": "1634 Westgate Cir",
+      "City": "Brentwood",
+      "State": "TN",
+      "ZIP": "37027"
+    },
+    {
+      "Dealer": "Neil Huffman Acura at Oxmoor",
+      "Website": "https://www.acuraatoxmoor.com/",
+      "Phone": "(502) 429-0888",
+      "Email": null,
+      "Street": "100 Oxmoor Ct",
+      "City": "Louisville",
+      "State": "KY",
+      "ZIP": "40222"
+    },
+    {
+      "Dealer": "Acura of Memphis",
+      "Website": "https://www.acuraofmemphis.com/",
+      "Phone": "(901) 365-6565",
+      "Email": null,
+      "Street": "2611 Ridgeway Rd",
+      "City": "Memphis",
+      "State": "TN",
+      "ZIP": "38119"
+    },
+    {
+      "Dealer": "Hubler Acura",
+      "Website": "https://www.hubleracura.com/",
+      "Phone": "(317) 883-4560",
+      "Email": null,
+      "Street": "1265 US Highway 31 S",
+      "City": "Greenwood",
+      "State": "IN",
+      "ZIP": "46143"
+    },
+    {
+      "Dealer": "Acura of Little Rock",
+      "Website": "https://www.acuraoflittlerock.com/",
+      "Phone": "(501) 448-8000",
+      "Email": null,
+      "Street": "13701 David O Dodd Rd",
+      "City": "Little Rock",
+      "State": "AR",
+      "ZIP": "72210"
+    },
+    {
+      "Dealer": "Acura of Jackson",
+      "Website": "https://www.acuraofjackson.com/",
+      "Phone": "(601) 957-7007",
+      "Email": null,
+      "Street": "828 Adcock St",
+      "City": "Ridgeland",
+      "State": "MS",
+      "ZIP": "39157"
+    },
+    {
+      "Dealer": "Acura of Springfield",
+      "Website": "http://www.acuraofspringfield.com/",
+      "Phone": "(417) 883-1550",
+      "Email": null,
+      "Street": "3130 S Campbell Ave",
+      "City": "Springfield",
+      "State": "MO",
+      "ZIP": "65807"
+    },
+    {
+      "Dealer": "Frank Leta Acura",
+      "Website": "https://www.frankletaacura.com/",
+      "Phone": "(314) 849-4444",
+      "Email": null,
+      "Street": "11777 Tesson Ferry Rd",
+      "City": "Saint Louis",
+      "State": "MO",
+      "ZIP": "63128"
+    },
+    {
+      "Dealer": "Walker Acura",
+      "Website": "https://www.walkeracura.com/",
+      "Phone": "(504) 464-4004",
+      "Email": null,
+      "Street": "8951 Veterans Blvd",
+      "City": "Metairie",
+      "State": "LA",
+      "ZIP": "70002"
+    },
+    {
+      "Dealer": "Acura of Baton Rouge",
+      "Website": "https://www.acuraofbatonrouge.com/",
+      "Phone": "(225) 753-8400",
+      "Email": null,
+      "Street": "13550 Airline Hwy",
+      "City": "Baton Rouge",
+      "State": "LA",
+      "ZIP": "70817"
+    },
+    {
+      "Dealer": "Joe Bullard Acura",
+      "Website": "https://www.joebullardacura.com/",
+      "Phone": "(251) 478-7779",
+      "Email": null,
+      "Street": "1151 E I-65 Service Rd S",
+      "City": "Mobile",
+      "State": "AL",
+      "ZIP": "36606"
+    },
+    {
+      "Dealer": "Tim Smith Acura",
+      "Website": "https://www.timsmithacura.com/",
+      "Phone": "(850) 244-6500",
+      "Email": null,
+      "Street": "219 Miracle Strip Pkwy SW",
+      "City": "Fort Walton Beach",
+      "State": "FL",
+      "ZIP": "32548"
+    },
+    {
+      "Dealer": "Duval Acura",
+      "Website": "https://www.duvalacura.com/",
+      "Phone": "(904) 725-8000",
+      "Email": null,
+      "Street": "11225 Atlantic Blvd",
+      "City": "Jacksonville",
+      "State": "FL",
+      "ZIP": "32225"
+    },
+    {
+      "Dealer": "Southern Motors Acura",
+      "Website": "https://www.southernmotorsacura.com/",
+      "Phone": "(912) 232-3333",
+      "Email": null,
+      "Street": "102 Park of Commerce Dr # D",
+      "City": "Savannah",
+      "State": "GA",
+      "ZIP": "31405"
+    },
+    {
+      "Dealer": "Spitzer Acura",
+      "Website": "https://www.spitzeracura.com/",
+      "Phone": "(724) 941-9800",
+      "Email": null,
+      "Street": "3617 Washington Rd",
+      "City": "McMurray",
+      "State": "PA",
+      "ZIP": "15317"
+    },
+    {
+      "Dealer": "Smail Acura",
+      "Website": "https://www.smailacura.com/",
+      "Phone": "(724) 834-1160",
+      "Email": null,
+      "Street": "5035 State Route 30",
+      "City": "Greensburg",
+      "State": "PA",
+      "ZIP": "15601"
+    },
+    {
+      "Dealer": "Lester Raines Acura",
+      "Website": "https://www.lesterrainesacura.com/",
+      "Phone": "(304) 768-1251",
+      "Email": null,
+      "Street": "5102 Maccorkle Ave SW",
+      "City": "South Charleston",
+      "State": "WV",
+      "ZIP": "25309"
+    },
+    {
+      "Dealer": "Ed Martin Acura",
+      "Website": "https://www.edmartinacura.com/",
+      "Phone": "(317) 846-3800",
+      "Email": null,
+      "Street": "3800 E 96th St",
+      "City": "Indianapolis",
+      "State": "IN",
+      "ZIP": "46240"
+    },
+    {
+      "Dealer": "Jeff Wyler Acura of Fairfield",
+      "Website": "https://www.jeffwyleracuraoffairfield.com/",
+      "Phone": "(513) 829-8500",
+      "Email": null,
+      "Street": "5555 Dixie Hwy",
+      "City": "Fairfield",
+      "State": "OH",
+      "ZIP": "45014"
+    },
+    {
+      "Dealer": "Columbia Acura",
+      "Website": "https://www.columbiaacura.com/",
+      "Phone": "(513) 530-0100",
+      "Email": null,
+      "Street": "10979 Montgomery Rd",
+      "City": "Montgomery",
+      "State": "OH",
+      "ZIP": "45249"
+    }
+  ]
+}

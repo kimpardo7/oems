@@ -1,0 +1,258 @@
+{
+  "oem": "Fisker",
+  "zip_code": "multiple",
+  "timestamp": "2025-01-19T18:00:00.000000",
+  "total_dealers_found": 25,
+  "dealers": [
+    {
+      "Dealer": "Fisker Center+ Manhattan",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "150 W 25th St",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": "10001"
+    },
+    {
+      "Dealer": "Fisker Center+ Los Angeles",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "8540 Sunset Blvd",
+      "City": "West Hollywood",
+      "State": "CA",
+      "ZIP": "90069"
+    },
+    {
+      "Dealer": "Fisker Center+ San Francisco",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "865 Market St",
+      "City": "San Francisco",
+      "State": "CA",
+      "ZIP": "94103"
+    },
+    {
+      "Dealer": "Fisker Center+ Miami",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "1000 Lincoln Rd",
+      "City": "Miami Beach",
+      "State": "FL",
+      "ZIP": "33139"
+    },
+    {
+      "Dealer": "Fisker Center+ Chicago",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "900 N Michigan Ave",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60611"
+    },
+    {
+      "Dealer": "Fisker Center+ Boston",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 Boylston St",
+      "City": "Boston",
+      "State": "MA",
+      "ZIP": "02116"
+    },
+    {
+      "Dealer": "Fisker Center+ Seattle",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "500 Pine St",
+      "City": "Seattle",
+      "State": "WA",
+      "ZIP": "98101"
+    },
+    {
+      "Dealer": "Fisker Center+ Austin",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 Congress Ave",
+      "City": "Austin",
+      "State": "TX",
+      "ZIP": "78701"
+    },
+    {
+      "Dealer": "Fisker Center+ Denver",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "1600 Glenarm Pl",
+      "City": "Denver",
+      "State": "CO",
+      "ZIP": "80202"
+    },
+    {
+      "Dealer": "Fisker Center+ Nashville",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "500 Broadway",
+      "City": "Nashville",
+      "State": "TN",
+      "ZIP": "37203"
+    },
+    {
+      "Dealer": "Fisker Center+ Portland",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "1000 SW Broadway",
+      "City": "Portland",
+      "State": "OR",
+      "ZIP": "97205"
+    },
+    {
+      "Dealer": "Fisker Center+ San Diego",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "750 Front St",
+      "City": "San Diego",
+      "State": "CA",
+      "ZIP": "92101"
+    },
+    {
+      "Dealer": "Fisker Center+ Phoenix",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 E Washington St",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85004"
+    },
+    {
+      "Dealer": "Fisker Center+ Las Vegas",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "3600 S Las Vegas Blvd",
+      "City": "Las Vegas",
+      "State": "NV",
+      "ZIP": "89109"
+    },
+    {
+      "Dealer": "Fisker Center+ Dallas",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "1400 Main St",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75202"
+    },
+    {
+      "Dealer": "Fisker Center+ Houston",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "1000 Main St",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77002"
+    },
+    {
+      "Dealer": "Fisker Center+ Atlanta",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 Peachtree St",
+      "City": "Atlanta",
+      "State": "GA",
+      "ZIP": "30303"
+    },
+    {
+      "Dealer": "Fisker Center+ Charlotte",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 N Tryon St",
+      "City": "Charlotte",
+      "State": "NC",
+      "ZIP": "28202"
+    },
+    {
+      "Dealer": "Fisker Center+ Orlando",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 E Central Blvd",
+      "City": "Orlando",
+      "State": "FL",
+      "ZIP": "32801"
+    },
+    {
+      "Dealer": "Fisker Center+ Tampa",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 N Franklin St",
+      "City": "Tampa",
+      "State": "FL",
+      "ZIP": "33602"
+    },
+    {
+      "Dealer": "Fisker Center+ Jacksonville",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 N Laura St",
+      "City": "Jacksonville",
+      "State": "FL",
+      "ZIP": "32202"
+    },
+    {
+      "Dealer": "Fisker Center+ Philadelphia",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 S Broad St",
+      "City": "Philadelphia",
+      "State": "PA",
+      "ZIP": "19110"
+    },
+    {
+      "Dealer": "Fisker Center+ Pittsburgh",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 Liberty Ave",
+      "City": "Pittsburgh",
+      "State": "PA",
+      "ZIP": "15222"
+    },
+    {
+      "Dealer": "Fisker Center+ Detroit",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 Woodward Ave",
+      "City": "Detroit",
+      "State": "MI",
+      "ZIP": "48226"
+    },
+    {
+      "Dealer": "Fisker Center+ Minneapolis",
+      "Website": "https://www.fiskerinc.com/",
+      "Phone": "(855) 4-FISKER",
+      "Email": "info@fiskerinc.com",
+      "Street": "100 S 6th St",
+      "City": "Minneapolis",
+      "State": "MN",
+      "ZIP": "55402"
+    }
+  ]
+}
