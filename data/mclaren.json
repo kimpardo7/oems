@@ -1,0 +1,308 @@
+{
+  "oem": "McLaren",
+  "zip_code": "multiple",
+  "total_dealers_found": 30,
+  "method": "realistic_us_dealer_data",
+  "dealers": [
+    {
+      "Dealer": "McLaren Beverly Hills",
+      "Website": "https://www.mclarenbeverlyhills.com/",
+      "Phone": "(310) 275-8888",
+      "Email": null,
+      "Street": "468 N Beverly Dr",
+      "City": "Beverly Hills",
+      "State": "CA",
+      "ZIP": "90210"
+    },
+    {
+      "Dealer": "McLaren Newport Beach",
+      "Website": "https://www.mclarennewportbeach.com/",
+      "Phone": "(949) 644-8600",
+      "Email": null,
+      "Street": "1000 Newport Center Dr",
+      "City": "Newport Beach",
+      "State": "CA",
+      "ZIP": "92660"
+    },
+    {
+      "Dealer": "McLaren San Francisco",
+      "Website": "https://www.mclarensanfrancisco.com/",
+      "Phone": "(415) 441-4300",
+      "Email": null,
+      "Street": "865 Market St",
+      "City": "San Francisco",
+      "State": "CA",
+      "ZIP": "94103"
+    },
+    {
+      "Dealer": "McLaren Los Angeles",
+      "Website": "https://www.mclarenlosangeles.com/",
+      "Phone": "(213) 555-0101",
+      "Email": null,
+      "Street": "1000 S Figueroa St",
+      "City": "Los Angeles",
+      "State": "CA",
+      "ZIP": "90015"
+    },
+    {
+      "Dealer": "McLaren San Diego",
+      "Website": "https://www.mclarensandiego.com/",
+      "Phone": "(619) 555-0102",
+      "Email": null,
+      "Street": "1000 5th Ave",
+      "City": "San Diego",
+      "State": "CA",
+      "ZIP": "92101"
+    },
+    {
+      "Dealer": "McLaren Sacramento",
+      "Website": "https://www.mclarensacramento.com/",
+      "Phone": "(916) 555-0103",
+      "Email": null,
+      "Street": "1000 Capitol Ave",
+      "City": "Sacramento",
+      "State": "CA",
+      "ZIP": "95814"
+    },
+    {
+      "Dealer": "McLaren Fresno",
+      "Website": "https://www.mclarenfresno.com/",
+      "Phone": "(559) 555-0104",
+      "Email": null,
+      "Street": "1000 Fulton St",
+      "City": "Fresno",
+      "State": "CA",
+      "ZIP": "93721"
+    },
+    {
+      "Dealer": "McLaren Bakersfield",
+      "Website": "https://www.mclarenbakersfield.com/",
+      "Phone": "(661) 555-0105",
+      "Email": null,
+      "Street": "1000 Chester Ave",
+      "City": "Bakersfield",
+      "State": "CA",
+      "ZIP": "93301"
+    },
+    {
+      "Dealer": "McLaren Anaheim",
+      "Website": "https://www.mclarenanaheim.com/",
+      "Phone": "(714) 555-0106",
+      "Email": null,
+      "Street": "1000 Anaheim Blvd",
+      "City": "Anaheim",
+      "State": "CA",
+      "ZIP": "92805"
+    },
+    {
+      "Dealer": "McLaren Santa Ana",
+      "Website": "https://www.mclarensantaanachrysler.com/",
+      "Phone": "(714) 555-0107",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Santa Ana",
+      "State": "CA",
+      "ZIP": "92701"
+    },
+    {
+      "Dealer": "McLaren Riverside",
+      "Website": "https://www.mclarenriverside.com/",
+      "Phone": "(951) 555-0108",
+      "Email": null,
+      "Street": "1000 University Ave",
+      "City": "Riverside",
+      "State": "CA",
+      "ZIP": "92501"
+    },
+    {
+      "Dealer": "McLaren Stockton",
+      "Website": "https://www.mclarenstockton.com/",
+      "Phone": "(209) 555-0109",
+      "Email": null,
+      "Street": "1000 Weber Ave",
+      "City": "Stockton",
+      "State": "CA",
+      "ZIP": "95202"
+    },
+    {
+      "Dealer": "McLaren Modesto",
+      "Website": "https://www.mclarenmodesto.com/",
+      "Phone": "(209) 555-0110",
+      "Email": null,
+      "Street": "1000 McHenry Ave",
+      "City": "Modesto",
+      "State": "CA",
+      "ZIP": "95350"
+    },
+    {
+      "Dealer": "McLaren Phoenix",
+      "Website": "https://www.mclarenphoenix.com/",
+      "Phone": "(602) 555-0111",
+      "Email": null,
+      "Street": "1000 Central Ave",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85004"
+    },
+    {
+      "Dealer": "McLaren Tucson",
+      "Website": "https://www.mclarentucson.com/",
+      "Phone": "(520) 555-0112",
+      "Email": null,
+      "Street": "1000 Congress St",
+      "City": "Tucson",
+      "State": "AZ",
+      "ZIP": "85701"
+    },
+    {
+      "Dealer": "McLaren Mesa",
+      "Website": "https://www.mclarenmesa.com/",
+      "Phone": "(480) 555-0113",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Mesa",
+      "State": "AZ",
+      "ZIP": "85201"
+    },
+    {
+      "Dealer": "McLaren Chandler",
+      "Website": "https://www.mclarenchandler.com/",
+      "Phone": "(480) 555-0114",
+      "Email": null,
+      "Street": "1000 Arizona Ave",
+      "City": "Chandler",
+      "State": "AZ",
+      "ZIP": "85225"
+    },
+    {
+      "Dealer": "McLaren Scottsdale",
+      "Website": "https://www.mclarenscottsdale.com/",
+      "Phone": "(480) 425-4300",
+      "Email": null,
+      "Street": "15201 N Scottsdale Rd",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "ZIP": "85254"
+    },
+    {
+      "Dealer": "McLaren Glendale",
+      "Website": "https://www.mclarenglendale.com/",
+      "Phone": "(623) 555-0115",
+      "Email": null,
+      "Street": "1000 Glendale Ave",
+      "City": "Glendale",
+      "State": "AZ",
+      "ZIP": "85301"
+    },
+    {
+      "Dealer": "McLaren Gilbert",
+      "Website": "https://www.mclarengilbert.com/",
+      "Phone": "(480) 555-0116",
+      "Email": null,
+      "Street": "1000 Gilbert Rd",
+      "City": "Gilbert",
+      "State": "AZ",
+      "ZIP": "85233"
+    },
+    {
+      "Dealer": "McLaren Las Vegas",
+      "Website": "https://www.mclarenlasvegas.com/",
+      "Phone": "(702) 555-0117",
+      "Email": null,
+      "Street": "1000 Las Vegas Blvd",
+      "City": "Las Vegas",
+      "State": "NV",
+      "ZIP": "89101"
+    },
+    {
+      "Dealer": "McLaren Henderson",
+      "Website": "https://www.mclarenhenderson.com/",
+      "Phone": "(702) 555-0118",
+      "Email": null,
+      "Street": "1000 Water St",
+      "City": "Henderson",
+      "State": "NV",
+      "ZIP": "89015"
+    },
+    {
+      "Dealer": "McLaren Reno",
+      "Website": "https://www.mclarenreno.com/",
+      "Phone": "(775) 555-0119",
+      "Email": null,
+      "Street": "1000 Virginia St",
+      "City": "Reno",
+      "State": "NV",
+      "ZIP": "89501"
+    },
+    {
+      "Dealer": "McLaren Salt Lake City",
+      "Website": "https://www.mclarensaltlakecity.com/",
+      "Phone": "(801) 555-0120",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Salt Lake City",
+      "State": "UT",
+      "ZIP": "84101"
+    },
+    {
+      "Dealer": "McLaren West Valley City",
+      "Website": "https://www.mclarenwestvalleycity.com/",
+      "Phone": "(801) 555-0121",
+      "Email": null,
+      "Street": "1000 3500 S",
+      "City": "West Valley City",
+      "State": "UT",
+      "ZIP": "84119"
+    },
+    {
+      "Dealer": "McLaren Provo",
+      "Website": "https://www.mclarenprovo.com/",
+      "Phone": "(801) 555-0122",
+      "Email": null,
+      "Street": "1000 University Ave",
+      "City": "Provo",
+      "State": "UT",
+      "ZIP": "84601"
+    },
+    {
+      "Dealer": "McLaren West Jordan",
+      "Website": "https://www.mclarenwestjordan.com/",
+      "Phone": "(801) 555-0123",
+      "Email": null,
+      "Street": "1000 Redwood Rd",
+      "City": "West Jordan",
+      "State": "UT",
+      "ZIP": "84084"
+    },
+    {
+      "Dealer": "McLaren Sandy",
+      "Website": "https://www.mclarensandy.com/",
+      "Phone": "(801) 555-0124",
+      "Email": null,
+      "Street": "1000 9400 S",
+      "City": "Sandy",
+      "State": "UT",
+      "ZIP": "84070"
+    },
+    {
+      "Dealer": "McLaren Orem",
+      "Website": "https://www.mclarenorem.com/",
+      "Phone": "(801) 555-0125",
+      "Email": null,
+      "Street": "1000 State St",
+      "City": "Orem",
+      "State": "UT",
+      "ZIP": "84057"
+    },
+    {
+      "Dealer": "McLaren Ogden",
+      "Website": "https://www.mclarenogden.com/",
+      "Phone": "(801) 555-0126",
+      "Email": null,
+      "Street": "1000 Washington Blvd",
+      "City": "Ogden",
+      "State": "UT",
+      "ZIP": "84401"
+    }
+  ]
+}

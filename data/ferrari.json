@@ -1,0 +1,508 @@
+{
+    "ferrari_dealers": [
+      {
+        "id": "dealer_111868_service",
+        "name": "Gran Testa Nagano",
+        "distance_km": 10122.4,
+        "address": "381-2214, Nagano, Nagano, Inasato-Machi Tamaki, 1533",
+        "country": "Japan",
+        "services": ["Service"]
+      },
+      {
+        "id": "dealer_113537_service",
+        "name": "Autofficina Bonini Carlo",
+        "distance_km": 8293.4,
+        "address": "Via Guglielmo Marconi , 16/a, Italia, RE, 42023",
+        "country": "IT",
+        "services": ["Service"]
+      },
+      {
+        "id": "dealer_006035_service",
+        "name": "Ferrari of Vancouver",
+        "distance_km": 2582.5,
+        "address": "1860, Burrard Street, Vancouver, BC, V6J 3H1",
+        "country": "CA",
+        "services": ["Service", "Sale"]
+      },
+      {
+        "id": "dealer_006215_service",
+        "name": "Ferrari of Hawaii",
+        "distance_km": 6171.6,
+        "address": "888, Kapiolani Boulevard, Honolulu, HI, 96813",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006525_service",
+        "name": "Ferrari of Alberta",
+        "distance_km": 2117.8,
+        "address": "8230 Blackfoot Trail SE, Calgary , AB, T2J 7E1",
+        "country": "CA",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006960_service",
+        "name": "Ferrari Ciudad de Panamá",
+        "distance_km": 3525.6,
+        "address": "PH Oceania Biz Plaza, T2000, Local D2 - Punta Pacifica",
+        "country": "PA",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006962_service",
+        "name": "Ferrari Bogotá",
+        "distance_km": 4223.7,
+        "address": "Avenida Carrera 19, #103-06, 110111",
+        "country": "CO",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006980_bodyshop",
+        "name": "Ferrari Caracas",
+        "distance_km": 4133.9,
+        "address": "Av. El Estadio, 1, 1041",
+        "country": "VE",
+        "services": ["Authorized bodyshop", "Sale", "Service"]
+      },
+      {
+        "id": "dealer_006993_service",
+        "name": "Ferrari Santiago",
+        "distance_km": 8256.8,
+        "address": "Avenida José Alcalde Délano 10389 - Lo Barnechea, 7690324",
+        "country": "CL",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006995_bodyshop",
+        "name": "Ferrari São Paulo",
+        "distance_km": 8475.4,
+        "address": "R Maj Paladino, 128 Galpão 02 - Vl Ribeiro de Barros, 05307-000",
+        "country": "BR",
+        "services": ["Service", "Authorized bodyshop", "Sale"]
+      },
+      {
+        "id": "dealer_006997_service",
+        "name": "Ferrari Mexico City",
+        "distance_km": 1991.4,
+        "address": "Lago Andrómaco 104, Granada, Miguel Hidalgo, 11529",
+        "country": "MX",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006998_service",
+        "name": "Ferrari Puerto Rico",
+        "distance_km": 3552.6,
+        "address": "Av. JF Kennedy km3.8/ Cl. JA Ernot - Rep. Ind. Bechara, PR, 00920",
+        "country": "PR",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006485_service",
+        "name": "Boardwalk Ferrari",
+        "distance_km": 464.3,
+        "address": "6300 International Pkwy, Plano, TX, 75093",
+        "country": "US",
+        "services": ["Service", "Classiche Workshop", "Sale"]
+      },
+      {
+        "id": "dealer_006780_service",
+        "name": "Cavallino Rosso St Louis",
+        "distance_km": 501.6,
+        "address": "3000 South Hanley Rd, Maplewood, MO, 63143",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006205_service",
+        "name": "Ferrari of Austin",
+        "distance_km": 790.0,
+        "address": "6201 South IH 35, Austin, TX, 78744",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_006790_service",
+        "name": "Prancing Horse of Nashville",
+        "distance_km": 811.9,
+        "address": "2320 Knights of Columbus Blvd., Nashville, TN, 37214",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_007008_bodyshop",
+        "name": "Ferrari of Houston",
+        "distance_km": 819.1,
+        "address": "6100, Southwest Freeway, Houston, TX, 77057",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop", "Authorized bodyshop"]
+      },
+      {
+        "id": "dealer_006996_bodyshop",
+        "name": "Ferrari of Houston",
+        "distance_km": 819.1,
+        "address": "6100 Southwest Fwy, Houston, TX, 77057",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop", "Authorized bodyshop"]
+      },
+      {
+        "id": "dealer_006120_service",
+        "name": "Continental Autosports",
+        "distance_km": 850.3,
+        "address": "420 E OGDEN AVE., HINSDALE, IL, 60521",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_007002_preownedshowroom",
+        "name": "Ferrari of Denver",
+        "distance_km": 852.9,
+        "address": "1480, East County Line Road, Highlands Ranch, CO, 80126",
+        "country": "US",
+        "services": ["Sale", "Service", "Pre-owned Showroom"]
+      },
+      {
+        "id": "dealer_006301_service",
+        "name": "Ferrari of San Antonio",
+        "distance_km": 872.7,
+        "address": "19302, 19302 West Interstate 10, San Antonio, TX, 78257",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_007007_service",
+        "name": "Ferrari Lake Forest",
+        "distance_km": 883.7,
+        "address": "990, North Shore Drive, Lake Bluff, IL, 60044",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_007003_service",
+        "name": "Twin Cities Performance",
+        "distance_km": 897.7,
+        "address": "9191, Wayzata Blvd, Golden Valley, MN, 55426",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006155_service",
+        "name": "Ferrari of Atlanta",
+        "distance_km": 1083.4,
+        "address": "11875, Alpharetta Hwy, Roswell, GA, 30076",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_006345_service",
+        "name": "Midwestern Auto Group",
+        "distance_km": 1140.8,
+        "address": "6335 Perimeter Loop Rd, Dublin, OH, 43017",
+        "country": "US",
+        "services": ["Service", "Sale"]
+      },
+      {
+        "id": "dealer_006159_service",
+        "name": "Cauley Ferrari of Detroit",
+        "distance_km": 1214.6,
+        "address": "7070 , Orchard Lake Road, Detroit, MI, 48322",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_063812_service",
+        "name": "Ferrari Monterrey",
+        "distance_km": 1345.2,
+        "address": "Calzada San Pedro, 202, 66220",
+        "country": "MX",
+        "services": ["Service"]
+      },
+      {
+        "id": "dealer_066185_service",
+        "name": "Foreign Cars Italia Charlotte",
+        "distance_km": 1347.2,
+        "address": "416, Tyvola Road, Charlotte, NC, 28217",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006185_service",
+        "name": "Foreign Cars Italia",
+        "distance_km": 1413.8,
+        "address": "5603, 5603 Roanne Way, Greensboro, NC, 27409",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006391_service",
+        "name": "Ferrari of Salt Lake City",
+        "distance_km": 1454.9,
+        "address": "560 S 200 E, Salt Lake City, UT, 84111",
+        "country": "US",
+        "services": ["Service", "Sale"]
+      },
+      {
+        "id": "dealer_006095_service",
+        "name": "Scottsdale Ferrari",
+        "distance_km": 1516.9,
+        "address": "18118 N Scottsdale Rd, Phoenix, AZ, 85054",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_063946_bodyshop",
+        "name": "European Auto Body",
+        "distance_km": 1553.0,
+        "address": "70, 70 Whitmore Road, Vaughan, L4L-7Z4",
+        "country": "CA",
+        "services": ["Authorized bodyshop"]
+      },
+      {
+        "id": "dealer_006260_bodyshop",
+        "name": "Ferrari of Ontario",
+        "distance_km": 1553.0,
+        "address": "70 Whitmore Road, Vaughan, ON, L4L 7Z4",
+        "country": "CA",
+        "services": ["Authorized bodyshop", "Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_006435_service",
+        "name": "Ferrari of Tampa Bay",
+        "distance_km": 1573.4,
+        "address": "2420 , Tampa Road, Palm Harbor, FL, 34683",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_066169_service",
+        "name": "Maranello",
+        "distance_km": 1586.2,
+        "address": "8226, MAIN STREET, WILLIAMSVILLE, NY, 14221",
+        "country": "US",
+        "services": ["Service"]
+      },
+      {
+        "id": "dealer_007001_service",
+        "name": "Ferrari of Washington",
+        "distance_km": 1611.8,
+        "address": "7001, 45235 Towlern pl, Sterling, VA, 20166",
+        "country": "US",
+        "services": ["Service", "Sale"]
+      },
+      {
+        "id": "dealer_006335_service",
+        "name": "Ferrari Central Florida",
+        "distance_km": 1638.5,
+        "address": "6335, 4891 Vineland Road, Orlando, FL, 32811",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_006493_service",
+        "name": "Ferrari of Las Vegas",
+        "distance_km": 1740.8,
+        "address": "5540 W Sahara Ave, Las Vegas, NV, 89146",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006870_service",
+        "name": "Ferrari of Naples",
+        "distance_km": 1779.0,
+        "address": "11291 Tamiami Trail N, Naples, FL, 34110",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_066015_bodyshop",
+        "name": "Karosserie",
+        "distance_km": 1791.6,
+        "address": "355 E CONESTOGA ROAD, WAYNE, PA, 19087",
+        "country": "US",
+        "services": ["Authorized bodyshop", "Service"]
+      },
+      {
+        "id": "dealer_006999_service",
+        "name": "Ferrari Philadelphia",
+        "distance_km": 1798.2,
+        "address": "4005, W. Chester Pike, Newtown Square, PA, 19073",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_006860_service",
+        "name": "Ferrari of Palm Beach",
+        "distance_km": 1867.7,
+        "address": "3974 Okeechobee Boulevard, West Palm Beach, FL, 33409",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_006480_service",
+        "name": "Ferrari of Central New Jersey",
+        "distance_km": 1882.4,
+        "address": "816 Route 1 North, Edison, NJ, 08817",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_007015_bodyshop",
+        "name": "Classic Coach Repair",
+        "distance_km": 1896.8,
+        "address": "1007 South Elmora Avenue, Elizabeth, NJ, 07202",
+        "country": "US",
+        "services": ["Authorized bodyshop"]
+      },
+      {
+        "id": "dealer_006385_bodyshop",
+        "name": "Ferrari of Fort Lauderdale",
+        "distance_km": 1905.3,
+        "address": "5750, 5750 N Federal Hwy, Fort Lauderdale, FL, 33308",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop", "Authorized bodyshop"]
+      },
+      {
+        "id": "dealer_007004_preownedshowroom",
+        "name": "Ferrari of Rancho Mirage",
+        "distance_km": 1908.6,
+        "address": "71441, 71441 Highway 111, Rancho Mirage, CA, 92270",
+        "country": "US",
+        "services": ["Sale", "Service", "Pre-owned Showroom"]
+      },
+      {
+        "id": "dealer_006470_bodyshop",
+        "name": "Wide World Ferrari",
+        "distance_km": 1917.6,
+        "address": "101 Route 59 East, Spring Valley, NY, 10977",
+        "country": "US",
+        "services": ["Authorized bodyshop", "Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_006178_flagship",
+        "name": "Ferrari New York",
+        "distance_km": 1919.1,
+        "address": "410, Park Ave, New York, NY, 10022",
+        "country": "US",
+        "services": []
+      },
+      {
+        "id": "dealer_066125_boutiqueshowroom",
+        "name": "Ferrari of Miami",
+        "distance_km": 1931.1,
+        "address": "1550 Biscayne Blvd, Miami , FL, 33132",
+        "country": "US",
+        "services": ["Sale"]
+      },
+      {
+        "id": "dealer_006125_boutiqueshowroom",
+        "name": "The Collection",
+        "distance_km": 1931.1,
+        "address": "1550 Biscayne Blvd , Miami , FL, 33132",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006280_service",
+        "name": "Miller Motorcars",
+        "distance_km": 1949.9,
+        "address": "342, 342 West Putnam Avenue, Greenwich, CT, 06830",
+        "country": "US",
+        "services": ["Sale", "Service", "Classiche Workshop"]
+      },
+      {
+        "id": "dealer_006810_service",
+        "name": "Ferrari of Long Island",
+        "distance_km": 1963.0,
+        "address": "105, S Service Rd, plainview, NY, 11803",
+        "country": "US",
+        "services": ["Service", "Classiche Workshop", "Sale"]
+      },
+      {
+        "id": "dealer_006730_service",
+        "name": "Ferrari of San Diego",
+        "distance_km": 2005.5,
+        "address": "4611, Mercury Street, San Diego, CA, 92111",
+        "country": "US",
+        "services": ["Service", "Sale"]
+      },
+      {
+        "id": "dealer_006740_bodyshop",
+        "name": "Ferrari of Newport Beach",
+        "distance_km": 2045.0,
+        "address": "1234, 2980 Red Hill Avenue, Costa Mesa, CA, 92626",
+        "country": "US",
+        "services": ["Authorized bodyshop", "Service", "Classiche Workshop", "Sale"]
+      },
+      {
+        "id": "dealer_006760_service",
+        "name": "Ferrari Quebec",
+        "distance_km": 2058.0,
+        "address": "3980, 3980 Jean Talon W., Montreal, QC, H4P 1V6",
+        "country": "CA",
+        "services": ["Service", "Classiche Workshop", "Sale"]
+      },
+      {
+        "id": "dealer_006135_bodyshop",
+        "name": "Ferrari Beverly Hills",
+        "distance_km": 2073.7,
+        "address": "9372, Wilshire Boulevard, Beverly Hills, CA, 90212",
+        "country": "US",
+        "services": ["Authorized bodyshop", "Service", "Classiche Workshop", "Sale"]
+      },
+      {
+        "id": "dealer_068011_service",
+        "name": "Ferrari South Bay",
+        "distance_km": 2077.5,
+        "address": "23305, Hawthorne Blvd, Torrance, CA, 90505",
+        "country": "US",
+        "services": ["Service", "Sale"]
+      },
+      {
+        "id": "dealer_006317_service",
+        "name": "Ferrari Westlake",
+        "distance_km": 2109.9,
+        "address": "1234, 7051 Hayvenhurst Avenue, Van Nuys, CA, 91406",
+        "country": "US",
+        "services": ["Service", "Sale"]
+      },
+      {
+        "id": "dealer_006500_service",
+        "name": "Ferrari of New England",
+        "distance_km": 2167.1,
+        "address": "441 Bostoin Providenc Hwy, Norwood, MA, 02062",
+        "country": "US",
+        "services": ["Service", "Classiche Workshop", "Sale"]
+      },
+      {
+        "id": "dealer_006880_service",
+        "name": "Ferrari Silicon Valley",
+        "distance_km": 2337.4,
+        "address": "2750, El Camino Real, Redwood City, CA, 94061",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_007006_service",
+        "name": "Ferrari of San Francisco",
+        "distance_km": 2358.5,
+        "address": "5764, Paradise Drive, Corte Madera, CA, 94925",
+        "country": "US",
+        "services": ["Service", "Sale"]
+      },
+      {
+        "id": "dealer_006370_service",
+        "name": "Ron Tonkin Gran Turismo",
+        "distance_km": 2427.0,
+        "address": "25300 , SW Parkway Ave, Wilsonville, OR, 97070",
+        "country": "US",
+        "services": ["Sale", "Service"]
+      },
+      {
+        "id": "dealer_006055_service",
+        "name": "Ferrari of Seattle",
+        "distance_km": 2448.4,
+        "address": "7410 185th Ave NE, Redmond, WA, 98052",
+        "country": "US",
+        "services": ["Service", "Sale"]
+      }
+    ]
+  }

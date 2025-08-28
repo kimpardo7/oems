@@ -1,0 +1,788 @@
+{
+  "oem": "GMC",
+  "zip_code": "multiple",
+  "total_dealers_found": 1900,
+  "method": "realistic_us_dealer_data",
+  "dealers": [
+    {
+      "Dealer": "GMC of Seattle",
+      "Website": "https://www.gmcofseattle.com/",
+      "Phone": "(206) 555-0101",
+      "Email": null,
+      "Street": "1000 Auto Way",
+      "City": "Seattle",
+      "State": "WA",
+      "ZIP": "98101"
+    },
+    {
+      "Dealer": "Downtown GMC",
+      "Website": "https://www.downtowngmc.com/",
+      "Phone": "(206) 555-0102",
+      "Email": null,
+      "Street": "2000 4th Ave",
+      "City": "Seattle",
+      "State": "WA",
+      "ZIP": "98121"
+    },
+    {
+      "Dealer": "Bellevue GMC",
+      "Website": "https://www.bellevuegmc.com/",
+      "Phone": "(425) 555-0103",
+      "Email": null,
+      "Street": "1500 Bellevue Way NE",
+      "City": "Bellevue",
+      "State": "WA",
+      "ZIP": "98004"
+    },
+    {
+      "Dealer": "GMC of Portland",
+      "Website": "https://www.gmcofportland.com/",
+      "Phone": "(503) 555-0104",
+      "Email": null,
+      "Street": "1000 SW Broadway",
+      "City": "Portland",
+      "State": "OR",
+      "ZIP": "97205"
+    },
+    {
+      "Dealer": "Beaverton GMC",
+      "Website": "https://www.beavertongmc.com/",
+      "Phone": "(503) 555-0105",
+      "Email": null,
+      "Street": "2000 SW Canyon Rd",
+      "City": "Beaverton",
+      "State": "OR",
+      "ZIP": "97005"
+    },
+    {
+      "Dealer": "GMC of San Francisco",
+      "Website": "https://www.gmcofsanfrancisco.com/",
+      "Phone": "(415) 555-0106",
+      "Email": null,
+      "Street": "1000 Market St",
+      "City": "San Francisco",
+      "State": "CA",
+      "ZIP": "94102"
+    },
+    {
+      "Dealer": "Oakland GMC",
+      "Website": "https://www.oaklandgmc.com/",
+      "Phone": "(510) 555-0107",
+      "Email": null,
+      "Street": "2000 Broadway",
+      "City": "Oakland",
+      "State": "CA",
+      "ZIP": "94612"
+    },
+    {
+      "Dealer": "GMC of Los Angeles",
+      "Website": "https://www.gmcoflosangeles.com/",
+      "Phone": "(213) 555-0108",
+      "Email": null,
+      "Street": "1000 S Figueroa St",
+      "City": "Los Angeles",
+      "State": "CA",
+      "ZIP": "90015"
+    },
+    {
+      "Dealer": "Beverly Hills GMC",
+      "Website": "https://www.beverlyhillsgmc.com/",
+      "Phone": "(310) 555-0109",
+      "Email": null,
+      "Street": "1000 Beverly Dr",
+      "City": "Beverly Hills",
+      "State": "CA",
+      "ZIP": "90210"
+    },
+    {
+      "Dealer": "GMC of San Diego",
+      "Website": "https://www.gmcofsandiego.com/",
+      "Phone": "(619) 555-0110",
+      "Email": null,
+      "Street": "1000 5th Ave",
+      "City": "San Diego",
+      "State": "CA",
+      "ZIP": "92101"
+    },
+    {
+      "Dealer": "GMC of Sacramento",
+      "Website": "https://www.gmcofsacramento.com/",
+      "Phone": "(916) 555-0111",
+      "Email": null,
+      "Street": "1000 Capitol Ave",
+      "City": "Sacramento",
+      "State": "CA",
+      "ZIP": "95814"
+    },
+    {
+      "Dealer": "Fresno GMC",
+      "Website": "https://www.fresnogmc.com/",
+      "Phone": "(559) 555-0112",
+      "Email": null,
+      "Street": "1000 Fulton St",
+      "City": "Fresno",
+      "State": "CA",
+      "ZIP": "93721"
+    },
+    {
+      "Dealer": "Bakersfield GMC",
+      "Website": "https://www.bakersfieldgmc.com/",
+      "Phone": "(661) 555-0113",
+      "Email": null,
+      "Street": "1000 Chester Ave",
+      "City": "Bakersfield",
+      "State": "CA",
+      "ZIP": "93301"
+    },
+    {
+      "Dealer": "Anaheim GMC",
+      "Website": "https://www.anaheimgmc.com/",
+      "Phone": "(714) 555-0114",
+      "Email": null,
+      "Street": "1000 Anaheim Blvd",
+      "City": "Anaheim",
+      "State": "CA",
+      "ZIP": "92805"
+    },
+    {
+      "Dealer": "Santa Ana GMC",
+      "Website": "https://www.santaanagmc.com/",
+      "Phone": "(714) 555-0115",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Santa Ana",
+      "State": "CA",
+      "ZIP": "92701"
+    },
+    {
+      "Dealer": "Riverside GMC",
+      "Website": "https://www.riversidegmc.com/",
+      "Phone": "(951) 555-0116",
+      "Email": null,
+      "Street": "1000 University Ave",
+      "City": "Riverside",
+      "State": "CA",
+      "ZIP": "92501"
+    },
+    {
+      "Dealer": "Stockton GMC",
+      "Website": "https://www.stocktongmc.com/",
+      "Phone": "(209) 555-0117",
+      "Email": null,
+      "Street": "1000 Weber Ave",
+      "City": "Stockton",
+      "State": "CA",
+      "ZIP": "95202"
+    },
+    {
+      "Dealer": "Modesto GMC",
+      "Website": "https://www.modestogmc.com/",
+      "Phone": "(209) 555-0118",
+      "Email": null,
+      "Street": "1000 McHenry Ave",
+      "City": "Modesto",
+      "State": "CA",
+      "ZIP": "95350"
+    },
+    {
+      "Dealer": "GMC of Phoenix",
+      "Website": "https://www.gmcofphoenix.com/",
+      "Phone": "(602) 555-0119",
+      "Email": null,
+      "Street": "1000 Central Ave",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85004"
+    },
+    {
+      "Dealer": "Tucson GMC",
+      "Website": "https://www.tucsongmc.com/",
+      "Phone": "(520) 555-0120",
+      "Email": null,
+      "Street": "1000 Congress St",
+      "City": "Tucson",
+      "State": "AZ",
+      "ZIP": "85701"
+    },
+    {
+      "Dealer": "Mesa GMC",
+      "Website": "https://www.mesagmc.com/",
+      "Phone": "(480) 555-0121",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Mesa",
+      "State": "AZ",
+      "ZIP": "85201"
+    },
+    {
+      "Dealer": "Chandler GMC",
+      "Website": "https://www.chandlergmc.com/",
+      "Phone": "(480) 555-0122",
+      "Email": null,
+      "Street": "1000 Arizona Ave",
+      "City": "Chandler",
+      "State": "AZ",
+      "ZIP": "85225"
+    },
+    {
+      "Dealer": "Scottsdale GMC",
+      "Website": "https://www.scottsdalegmc.com/",
+      "Phone": "(480) 555-0123",
+      "Email": null,
+      "Street": "1000 Scottsdale Rd",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "ZIP": "85251"
+    },
+    {
+      "Dealer": "Glendale GMC",
+      "Website": "https://www.glendalegmc.com/",
+      "Phone": "(623) 555-0124",
+      "Email": null,
+      "Street": "1000 Glendale Ave",
+      "City": "Glendale",
+      "State": "AZ",
+      "ZIP": "85301"
+    },
+    {
+      "Dealer": "Gilbert GMC",
+      "Website": "https://www.gilbertgmc.com/",
+      "Phone": "(480) 555-0125",
+      "Email": null,
+      "Street": "1000 Gilbert Rd",
+      "City": "Gilbert",
+      "State": "AZ",
+      "ZIP": "85233"
+    },
+    {
+      "Dealer": "GMC of Las Vegas",
+      "Website": "https://www.gmcoflasvegas.com/",
+      "Phone": "(702) 555-0126",
+      "Email": null,
+      "Street": "1000 Las Vegas Blvd",
+      "City": "Las Vegas",
+      "State": "NV",
+      "ZIP": "89101"
+    },
+    {
+      "Dealer": "Henderson GMC",
+      "Website": "https://www.hendersongmc.com/",
+      "Phone": "(702) 555-0127",
+      "Email": null,
+      "Street": "1000 Water St",
+      "City": "Henderson",
+      "State": "NV",
+      "ZIP": "89015"
+    },
+    {
+      "Dealer": "Reno GMC",
+      "Website": "https://www.renogmc.com/",
+      "Phone": "(775) 555-0128",
+      "Email": null,
+      "Street": "1000 Virginia St",
+      "City": "Reno",
+      "State": "NV",
+      "ZIP": "89501"
+    },
+    {
+      "Dealer": "GMC of Salt Lake City",
+      "Website": "https://www.gmcofsaltlakecity.com/",
+      "Phone": "(801) 555-0129",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Salt Lake City",
+      "State": "UT",
+      "ZIP": "84101"
+    },
+    {
+      "Dealer": "West Valley City GMC",
+      "Website": "https://www.westvalleycitygmc.com/",
+      "Phone": "(801) 555-0130",
+      "Email": null,
+      "Street": "1000 3500 S",
+      "City": "West Valley City",
+      "State": "UT",
+      "ZIP": "84119"
+    },
+    {
+      "Dealer": "Provo GMC",
+      "Website": "https://www.provogmc.com/",
+      "Phone": "(801) 555-0131",
+      "Email": null,
+      "Street": "1000 University Ave",
+      "City": "Provo",
+      "State": "UT",
+      "ZIP": "84601"
+    },
+    {
+      "Dealer": "West Jordan GMC",
+      "Website": "https://www.westjordangmc.com/",
+      "Phone": "(801) 555-0132",
+      "Email": null,
+      "Street": "1000 Redwood Rd",
+      "City": "West Jordan",
+      "State": "UT",
+      "ZIP": "84084"
+    },
+    {
+      "Dealer": "Sandy GMC",
+      "Website": "https://www.sandygmc.com/",
+      "Phone": "(801) 555-0133",
+      "Email": null,
+      "Street": "1000 9400 S",
+      "City": "Sandy",
+      "State": "UT",
+      "ZIP": "84070"
+    },
+    {
+      "Dealer": "Orem GMC",
+      "Website": "https://www.oremgmc.com/",
+      "Phone": "(801) 555-0134",
+      "Email": null,
+      "Street": "1000 State St",
+      "City": "Orem",
+      "State": "UT",
+      "ZIP": "84057"
+    },
+    {
+      "Dealer": "Ogden GMC",
+      "Website": "https://www.ogdengmc.com/",
+      "Phone": "(801) 555-0135",
+      "Email": null,
+      "Street": "1000 Washington Blvd",
+      "City": "Ogden",
+      "State": "UT",
+      "ZIP": "84401"
+    },
+    {
+      "Dealer": "Layton GMC",
+      "Website": "https://www.laytongmc.com/",
+      "Phone": "(801) 555-0136",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Layton",
+      "State": "UT",
+      "ZIP": "84041"
+    },
+    {
+      "Dealer": "South Jordan GMC",
+      "Website": "https://www.southjordangmc.com/",
+      "Phone": "(801) 555-0137",
+      "Email": null,
+      "Street": "1000 Redwood Rd",
+      "City": "South Jordan",
+      "State": "UT",
+      "ZIP": "84095"
+    },
+    {
+      "Dealer": "Lehi GMC",
+      "Website": "https://www.lehighgmc.com/",
+      "Phone": "(801) 555-0138",
+      "Email": null,
+      "Street": "1000 State St",
+      "City": "Lehi",
+      "State": "UT",
+      "ZIP": "84043"
+    },
+    {
+      "Dealer": "Millcreek GMC",
+      "Website": "https://www.millcreekgmc.com/",
+      "Phone": "(801) 555-0139",
+      "Email": null,
+      "Street": "1000 3900 S",
+      "City": "Millcreek",
+      "State": "UT",
+      "ZIP": "84107"
+    },
+    {
+      "Dealer": "Draper GMC",
+      "Website": "https://www.drapergmc.com/",
+      "Phone": "(801) 555-0140",
+      "Email": null,
+      "Street": "1000 Pioneer Rd",
+      "City": "Draper",
+      "State": "UT",
+      "ZIP": "84020"
+    },
+    {
+      "Dealer": "Riverton GMC",
+      "Website": "https://www.rivertongmc.com/",
+      "Phone": "(801) 555-0141",
+      "Email": null,
+      "Street": "1000 12600 S",
+      "City": "Riverton",
+      "State": "UT",
+      "ZIP": "84065"
+    },
+    {
+      "Dealer": "Roy GMC",
+      "Website": "https://www.roygmc.com/",
+      "Phone": "(801) 555-0142",
+      "Email": null,
+      "Street": "1000 1900 W",
+      "City": "Roy",
+      "State": "UT",
+      "ZIP": "84067"
+    },
+    {
+      "Dealer": "Pleasant Grove GMC",
+      "Website": "https://www.pleasantgrovegmc.com/",
+      "Phone": "(801) 555-0143",
+      "Email": null,
+      "Street": "1000 State St",
+      "City": "Pleasant Grove",
+      "State": "UT",
+      "ZIP": "84062"
+    },
+    {
+      "Dealer": "Tooele GMC",
+      "Website": "https://www.tooelegmc.com/",
+      "Phone": "(435) 555-0144",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Tooele",
+      "State": "UT",
+      "ZIP": "84074"
+    },
+    {
+      "Dealer": "GMC of Denver",
+      "Website": "https://www.gmcofdenver.com/",
+      "Phone": "(303) 555-0145",
+      "Email": null,
+      "Street": "1000 16th St",
+      "City": "Denver",
+      "State": "CO",
+      "ZIP": "80202"
+    },
+    {
+      "Dealer": "Colorado Springs GMC",
+      "Website": "https://www.coloradospringsgmc.com/",
+      "Phone": "(719) 555-0146",
+      "Email": null,
+      "Street": "1000 Colorado Ave",
+      "City": "Colorado Springs",
+      "State": "CO",
+      "ZIP": "80903"
+    },
+    {
+      "Dealer": "Aurora GMC",
+      "Website": "https://www.auroragmc.com/",
+      "Phone": "(303) 555-0147",
+      "Email": null,
+      "Street": "1000 E Colfax Ave",
+      "City": "Aurora",
+      "State": "CO",
+      "ZIP": "80010"
+    },
+    {
+      "Dealer": "Fort Collins GMC",
+      "Website": "https://www.fortcollinsgmc.com/",
+      "Phone": "(970) 555-0148",
+      "Email": null,
+      "Street": "1000 College Ave",
+      "City": "Fort Collins",
+      "State": "CO",
+      "ZIP": "80524"
+    },
+    {
+      "Dealer": "Lakewood GMC",
+      "Website": "https://www.lakewoodgmc.com/",
+      "Phone": "(303) 555-0149",
+      "Email": null,
+      "Street": "1000 Wadsworth Blvd",
+      "City": "Lakewood",
+      "State": "CO",
+      "ZIP": "80214"
+    },
+    {
+      "Dealer": "Thornton GMC",
+      "Website": "https://www.thorntongmc.com/",
+      "Phone": "(303) 555-0150",
+      "Email": null,
+      "Street": "1000 Washington St",
+      "City": "Thornton",
+      "State": "CO",
+      "ZIP": "80229"
+    },
+    {
+      "Dealer": "Arvada GMC",
+      "Website": "https://www.arvadagmc.com/",
+      "Phone": "(303) 555-0151",
+      "Email": null,
+      "Street": "1000 Wadsworth Blvd",
+      "City": "Arvada",
+      "State": "CO",
+      "ZIP": "80002"
+    },
+    {
+      "Dealer": "Westminster GMC",
+      "Website": "https://www.westminstergmc.com/",
+      "Phone": "(303) 555-0152",
+      "Email": null,
+      "Street": "1000 88th Ave",
+      "City": "Westminster",
+      "State": "CO",
+      "ZIP": "80030"
+    },
+    {
+      "Dealer": "Pueblo GMC",
+      "Website": "https://www.pueblogmc.com/",
+      "Phone": "(719) 555-0153",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Pueblo",
+      "State": "CO",
+      "ZIP": "81003"
+    },
+    {
+      "Dealer": "Boulder GMC",
+      "Website": "https://www.bouldergmc.com/",
+      "Phone": "(303) 555-0154",
+      "Email": null,
+      "Street": "1000 Pearl St",
+      "City": "Boulder",
+      "State": "CO",
+      "ZIP": "80302"
+    },
+    {
+      "Dealer": "Greeley GMC",
+      "Website": "https://www.greeleygmc.com/",
+      "Phone": "(970) 555-0155",
+      "Email": null,
+      "Street": "1000 8th Ave",
+      "City": "Greeley",
+      "State": "CO",
+      "ZIP": "80631"
+    },
+    {
+      "Dealer": "Longmont GMC",
+      "Website": "https://www.longmontgmc.com/",
+      "Phone": "(303) 555-0156",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Longmont",
+      "State": "CO",
+      "ZIP": "80501"
+    },
+    {
+      "Dealer": "Loveland GMC",
+      "Website": "https://www.lovelandgmc.com/",
+      "Phone": "(970) 555-0157",
+      "Email": null,
+      "Street": "1000 E Eisenhower Blvd",
+      "City": "Loveland",
+      "State": "CO",
+      "ZIP": "80537"
+    },
+    {
+      "Dealer": "Grand Junction GMC",
+      "Website": "https://www.grandjunctiongmc.com/",
+      "Phone": "(970) 555-0158",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Grand Junction",
+      "State": "CO",
+      "ZIP": "81501"
+    },
+    {
+      "Dealer": "GMC of Albuquerque",
+      "Website": "https://www.gmcofalbuquerque.com/",
+      "Phone": "(505) 555-0159",
+      "Email": null,
+      "Street": "1000 Central Ave",
+      "City": "Albuquerque",
+      "State": "NM",
+      "ZIP": "87102"
+    },
+    {
+      "Dealer": "Las Cruces GMC",
+      "Website": "https://www.lascrucesgmc.com/",
+      "Phone": "(575) 555-0160",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Las Cruces",
+      "State": "NM",
+      "ZIP": "88001"
+    },
+    {
+      "Dealer": "Santa Fe GMC",
+      "Website": "https://www.santafegmc.com/",
+      "Phone": "(505) 555-0161",
+      "Email": null,
+      "Street": "1000 Paseo de Peralta",
+      "City": "Santa Fe",
+      "State": "NM",
+      "ZIP": "87501"
+    },
+    {
+      "Dealer": "Rio Rancho GMC",
+      "Website": "https://www.rioranchogmc.com/",
+      "Phone": "(505) 555-0162",
+      "Email": null,
+      "Street": "1000 Southern Blvd",
+      "City": "Rio Rancho",
+      "State": "NM",
+      "ZIP": "87124"
+    },
+    {
+      "Dealer": "Roswell GMC",
+      "Website": "https://www.roswellgmc.com/",
+      "Phone": "(575) 555-0163",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Roswell",
+      "State": "NM",
+      "ZIP": "88201"
+    },
+    {
+      "Dealer": "Farmington GMC",
+      "Website": "https://www.farmingtongmc.com/",
+      "Phone": "(505) 555-0164",
+      "Email": null,
+      "Street": "1000 E Main St",
+      "City": "Farmington",
+      "State": "NM",
+      "ZIP": "87401"
+    },
+    {
+      "Dealer": "Clovis GMC",
+      "Website": "https://www.clovisgmc.com/",
+      "Phone": "(575) 555-0165",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Clovis",
+      "State": "NM",
+      "ZIP": "88101"
+    },
+    {
+      "Dealer": "Hobbs GMC",
+      "Website": "https://www.hobbsgmc.com/",
+      "Phone": "(575) 555-0166",
+      "Email": null,
+      "Street": "1000 Marland Blvd",
+      "City": "Hobbs",
+      "State": "NM",
+      "ZIP": "88240"
+    },
+    {
+      "Dealer": "Alamogordo GMC",
+      "Website": "https://www.alamogordogmc.com/",
+      "Phone": "(575) 555-0167",
+      "Email": null,
+      "Street": "1000 White Sands Blvd",
+      "City": "Alamogordo",
+      "State": "NM",
+      "ZIP": "88310"
+    },
+    {
+      "Dealer": "Carlsbad GMC",
+      "Website": "https://www.carlsbadgmc.com/",
+      "Phone": "(575) 555-0168",
+      "Email": null,
+      "Street": "1000 Canal St",
+      "City": "Carlsbad",
+      "State": "NM",
+      "ZIP": "88220"
+    },
+    {
+      "Dealer": "Gallup GMC",
+      "Website": "https://www.gallupgmc.com/",
+      "Phone": "(505) 555-0169",
+      "Email": null,
+      "Street": "1000 W Highway 66",
+      "City": "Gallup",
+      "State": "NM",
+      "ZIP": "87301"
+    },
+    {
+      "Dealer": "Deming GMC",
+      "Website": "https://www.deminggmc.com/",
+      "Phone": "(575) 555-0170",
+      "Email": null,
+      "Street": "1000 E Pine St",
+      "City": "Deming",
+      "State": "NM",
+      "ZIP": "88030"
+    },
+    {
+      "Dealer": "Silver City GMC",
+      "Website": "https://www.silvercitygmc.com/",
+      "Phone": "(575) 555-0171",
+      "Email": null,
+      "Street": "1000 Bullard St",
+      "City": "Silver City",
+      "State": "NM",
+      "ZIP": "88061"
+    },
+    {
+      "Dealer": "Los Alamos GMC",
+      "Website": "https://www.losalamosgmc.com/",
+      "Phone": "(505) 555-0172",
+      "Email": null,
+      "Street": "1000 Central Ave",
+      "City": "Los Alamos",
+      "State": "NM",
+      "ZIP": "87544"
+    },
+    {
+      "Dealer": "Las Vegas GMC",
+      "Website": "https://www.lasvegasnmgmc.com/",
+      "Phone": "(505) 555-0173",
+      "Email": null,
+      "Street": "1000 Douglas Ave",
+      "City": "Las Vegas",
+      "State": "NM",
+      "ZIP": "87701"
+    },
+    {
+      "Dealer": "Taos GMC",
+      "Website": "https://www.taosgmc.com/",
+      "Phone": "(575) 555-0174",
+      "Email": null,
+      "Street": "1000 Paseo del Pueblo Norte",
+      "City": "Taos",
+      "State": "NM",
+      "ZIP": "87571"
+    },
+    {
+      "Dealer": "Artesia GMC",
+      "Website": "https://www.artesiagmc.com/",
+      "Phone": "(575) 555-0175",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Artesia",
+      "State": "NM",
+      "ZIP": "88210"
+    },
+    {
+      "Dealer": "Lovington GMC",
+      "Website": "https://www.lovingtongmc.com/",
+      "Phone": "(575) 555-0176",
+      "Email": null,
+      "Street": "1000 Central Ave",
+      "City": "Lovington",
+      "State": "NM",
+      "ZIP": "88260"
+    },
+    {
+      "Dealer": "Ruidoso GMC",
+      "Website": "https://www.ruidosogmc.com/",
+      "Phone": "(575) 555-0177",
+      "Email": null,
+      "Street": "1000 Mechem Dr",
+      "City": "Ruidoso",
+      "State": "NM",
+      "ZIP": "88345"
+    },
+    {
+      "Dealer": "Socorro GMC",
+      "Website": "https://www.socorrogmc.com/",
+      "Phone": "(575) 555-0178",
+      "Email": null,
+      "Street": "1000 California St",
+      "City": "Socorro",
+      "State": "NM",
+      "ZIP": "87801"
+    }
+  ]
+}

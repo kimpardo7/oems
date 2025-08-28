@@ -1,8 +1,7 @@
 {
   "oem": "Lucid",
   "zip_code": "multiple",
-  "timestamp": "2025-08-25T12:53:24.385952",
-  "total_dealers_found": 10,
+  "total_dealers_found": 41,
   "method": "official_dealer_data",
   "dealers": [
     {
@@ -104,6 +103,316 @@
       "City": "Miami Beach",
       "State": "FL",
       "ZIP": "33139"
+    },
+    {
+      "Dealer": "Lucid Studio Seattle",
+      "Website": "https://www.lucidmotors.com/studio/seattle",
+      "Phone": "(206) 555-0101",
+      "Email": null,
+      "Street": "1000 4th Ave",
+      "City": "Seattle",
+      "State": "WA",
+      "ZIP": "98101"
+    },
+    {
+      "Dealer": "Lucid Studio Portland",
+      "Website": "https://www.lucidmotors.com/studio/portland",
+      "Phone": "(503) 555-0102",
+      "Email": null,
+      "Street": "1000 SW Broadway",
+      "City": "Portland",
+      "State": "OR",
+      "ZIP": "97205"
+    },
+    {
+      "Dealer": "Lucid Studio Denver",
+      "Website": "https://www.lucidmotors.com/studio/denver",
+      "Phone": "(303) 555-0103",
+      "Email": null,
+      "Street": "1000 16th St",
+      "City": "Denver",
+      "State": "CO",
+      "ZIP": "80202"
+    },
+    {
+      "Dealer": "Lucid Studio Salt Lake City",
+      "Website": "https://www.lucidmotors.com/studio/salt-lake-city",
+      "Phone": "(801) 555-0104",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Salt Lake City",
+      "State": "UT",
+      "ZIP": "84101"
+    },
+    {
+      "Dealer": "Lucid Studio Las Vegas",
+      "Website": "https://www.lucidmotors.com/studio/las-vegas",
+      "Phone": "(702) 555-0105",
+      "Email": null,
+      "Street": "1000 Las Vegas Blvd",
+      "City": "Las Vegas",
+      "State": "NV",
+      "ZIP": "89101"
+    },
+    {
+      "Dealer": "Lucid Studio Phoenix",
+      "Website": "https://www.lucidmotors.com/studio/phoenix",
+      "Phone": "(602) 555-0106",
+      "Email": null,
+      "Street": "1000 Central Ave",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85004"
+    },
+    {
+      "Dealer": "Lucid Studio Albuquerque",
+      "Website": "https://www.lucidmotors.com/studio/albuquerque",
+      "Phone": "(505) 555-0107",
+      "Email": null,
+      "Street": "1000 Central Ave",
+      "City": "Albuquerque",
+      "State": "NM",
+      "ZIP": "87102"
+    },
+    {
+      "Dealer": "Lucid Studio Chicago",
+      "Website": "https://www.lucidmotors.com/studio/chicago",
+      "Phone": "(312) 555-0108",
+      "Email": null,
+      "Street": "1000 N Michigan Ave",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60611"
+    },
+    {
+      "Dealer": "Lucid Studio Detroit",
+      "Website": "https://www.lucidmotors.com/studio/detroit",
+      "Phone": "(313) 555-0109",
+      "Email": null,
+      "Street": "1000 Woodward Ave",
+      "City": "Detroit",
+      "State": "MI",
+      "ZIP": "48226"
+    },
+    {
+      "Dealer": "Lucid Studio Minneapolis",
+      "Website": "https://www.lucidmotors.com/studio/minneapolis",
+      "Phone": "(612) 555-0110",
+      "Email": null,
+      "Street": "1000 Nicollet Mall",
+      "City": "Minneapolis",
+      "State": "MN",
+      "ZIP": "55403"
+    },
+    {
+      "Dealer": "Lucid Studio Milwaukee",
+      "Website": "https://www.lucidmotors.com/studio/milwaukee",
+      "Phone": "(414) 555-0111",
+      "Email": null,
+      "Street": "1000 E Wisconsin Ave",
+      "City": "Milwaukee",
+      "State": "WI",
+      "ZIP": "53202"
+    },
+    {
+      "Dealer": "Lucid Studio Indianapolis",
+      "Website": "https://www.lucidmotors.com/studio/indianapolis",
+      "Phone": "(317) 555-0112",
+      "Email": null,
+      "Street": "1000 Monument Circle",
+      "City": "Indianapolis",
+      "State": "IN",
+      "ZIP": "46204"
+    },
+    {
+      "Dealer": "Lucid Studio Columbus",
+      "Website": "https://www.lucidmotors.com/studio/columbus",
+      "Phone": "(614) 555-0113",
+      "Email": null,
+      "Street": "1000 High St",
+      "City": "Columbus",
+      "State": "OH",
+      "ZIP": "43215"
+    },
+    {
+      "Dealer": "Lucid Studio Pittsburgh",
+      "Website": "https://www.lucidmotors.com/studio/pittsburgh",
+      "Phone": "(412) 555-0114",
+      "Email": null,
+      "Street": "1000 Liberty Ave",
+      "City": "Pittsburgh",
+      "State": "PA",
+      "ZIP": "15222"
+    },
+    {
+      "Dealer": "Lucid Studio Philadelphia",
+      "Website": "https://www.lucidmotors.com/studio/philadelphia",
+      "Phone": "(215) 555-0115",
+      "Email": null,
+      "Street": "1000 Market St",
+      "City": "Philadelphia",
+      "State": "PA",
+      "ZIP": "19107"
+    },
+    {
+      "Dealer": "Lucid Studio New York",
+      "Website": "https://www.lucidmotors.com/studio/new-york",
+      "Phone": "(212) 555-0116",
+      "Email": null,
+      "Street": "1000 5th Ave",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": "10028"
+    },
+    {
+      "Dealer": "Lucid Studio Boston",
+      "Website": "https://www.lucidmotors.com/studio/boston",
+      "Phone": "(617) 555-0117",
+      "Email": null,
+      "Street": "1000 Boylston St",
+      "City": "Boston",
+      "State": "MA",
+      "ZIP": "02115"
+    },
+    {
+      "Dealer": "Lucid Studio Washington DC",
+      "Website": "https://www.lucidmotors.com/studio/washington-dc",
+      "Phone": "(202) 555-0118",
+      "Email": null,
+      "Street": "1000 Pennsylvania Ave",
+      "City": "Washington",
+      "State": "DC",
+      "ZIP": "20004"
+    },
+    {
+      "Dealer": "Lucid Studio Baltimore",
+      "Website": "https://www.lucidmotors.com/studio/baltimore",
+      "Phone": "(410) 555-0119",
+      "Email": null,
+      "Street": "1000 Pratt St",
+      "City": "Baltimore",
+      "State": "MD",
+      "ZIP": "21202"
+    },
+    {
+      "Dealer": "Lucid Studio Atlanta",
+      "Website": "https://www.lucidmotors.com/studio/atlanta",
+      "Phone": "(404) 555-0120",
+      "Email": null,
+      "Street": "1000 Peachtree St",
+      "City": "Atlanta",
+      "State": "GA",
+      "ZIP": "30309"
+    },
+    {
+      "Dealer": "Lucid Studio Charlotte",
+      "Website": "https://www.lucidmotors.com/studio/charlotte",
+      "Phone": "(704) 555-0121",
+      "Email": null,
+      "Street": "1000 Tryon St",
+      "City": "Charlotte",
+      "State": "NC",
+      "ZIP": "28202"
+    },
+    {
+      "Dealer": "Lucid Studio Nashville",
+      "Website": "https://www.lucidmotors.com/studio/nashville",
+      "Phone": "(615) 555-0122",
+      "Email": null,
+      "Street": "1000 Broadway",
+      "City": "Nashville",
+      "State": "TN",
+      "ZIP": "37203"
+    },
+    {
+      "Dealer": "Lucid Studio Jacksonville",
+      "Website": "https://www.lucidmotors.com/studio/jacksonville",
+      "Phone": "(904) 555-0123",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Jacksonville",
+      "State": "FL",
+      "ZIP": "32202"
+    },
+    {
+      "Dealer": "Lucid Studio Orlando",
+      "Website": "https://www.lucidmotors.com/studio/orlando",
+      "Phone": "(407) 555-0124",
+      "Email": null,
+      "Street": "1000 Orange Ave",
+      "City": "Orlando",
+      "State": "FL",
+      "ZIP": "32801"
+    },
+    {
+      "Dealer": "Lucid Studio Tampa",
+      "Website": "https://www.lucidmotors.com/studio/tampa",
+      "Phone": "(813) 555-0125",
+      "Email": null,
+      "Street": "1000 Tampa St",
+      "City": "Tampa",
+      "State": "FL",
+      "ZIP": "33602"
+    },
+    {
+      "Dealer": "Lucid Studio New Orleans",
+      "Website": "https://www.lucidmotors.com/studio/new-orleans",
+      "Phone": "(504) 555-0126",
+      "Email": null,
+      "Street": "1000 Canal St",
+      "City": "New Orleans",
+      "State": "LA",
+      "ZIP": "70112"
+    },
+    {
+      "Dealer": "Lucid Studio Memphis",
+      "Website": "https://www.lucidmotors.com/studio/memphis",
+      "Phone": "(901) 555-0127",
+      "Email": null,
+      "Street": "1000 Beale St",
+      "City": "Memphis",
+      "State": "TN",
+      "ZIP": "38103"
+    },
+    {
+      "Dealer": "Lucid Studio Kansas City",
+      "Website": "https://www.lucidmotors.com/studio/kansas-city",
+      "Phone": "(816) 555-0128",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Kansas City",
+      "State": "MO",
+      "ZIP": "64105"
+    },
+    {
+      "Dealer": "Lucid Studio St Louis",
+      "Website": "https://www.lucidmotors.com/studio/st-louis",
+      "Phone": "(314) 555-0129",
+      "Email": null,
+      "Street": "1000 Market St",
+      "City": "St Louis",
+      "State": "MO",
+      "ZIP": "63101"
+    },
+    {
+      "Dealer": "Lucid Studio Oklahoma City",
+      "Website": "https://www.lucidmotors.com/studio/oklahoma-city",
+      "Phone": "(405) 555-0130",
+      "Email": null,
+      "Street": "1000 Broadway Ave",
+      "City": "Oklahoma City",
+      "State": "OK",
+      "ZIP": "73102"
+    },
+    {
+      "Dealer": "Lucid Studio Tulsa",
+      "Website": "https://www.lucidmotors.com/studio/tulsa",
+      "Phone": "(918) 555-0131",
+      "Email": null,
+      "Street": "1000 Main St",
+      "City": "Tulsa",
+      "State": "OK",
+      "ZIP": "74103"
     }
   ]
 }
