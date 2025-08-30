@@ -1,0 +1,2348 @@
+{
+  "oem": "Toyota",
+  "zip_code": "multiple",
+  "total_dealers_found": 234,
+  "method": "toyota_test_conversion",
+  "dealers": [
+    {
+      "Dealer": "Toyota of Manhattan",
+      "Website": "",
+      "Phone": "(212) 399-9600",
+      "Email": "Ecom31162@toyota.com",
+      "Street": "677-681 11th Avenue",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": "10019"
+    },
+    {
+      "Dealer": "Queensboro Toyota",
+      "Website": "",
+      "Phone": "(718) 335-8600",
+      "Email": "Ecom31039@toyota.com",
+      "Street": "62-10 Northern Boulevard",
+      "City": "Woodside",
+      "State": "NY",
+      "ZIP": "11377"
+    },
+    {
+      "Dealer": "Hudson Toyota",
+      "Website": "",
+      "Phone": "(201) 862-7579",
+      "Email": "Ecom29090@toyota.com",
+      "Street": "599 Route 440",
+      "City": "Jersey City",
+      "State": "NJ",
+      "ZIP": "07304"
+    },
+    {
+      "Dealer": "East Coast Toyota",
+      "Website": "",
+      "Phone": "(201) 939-9400",
+      "Email": "Ecom29103@toyota.com",
+      "Street": "85 State Highway 17",
+      "City": "Wood Ridge",
+      "State": "NJ",
+      "ZIP": "07075"
+    },
+    {
+      "Dealer": "Toyota of Bay Ridge Brooklyn",
+      "Website": "",
+      "Phone": "(718) 439-7888",
+      "Email": "",
+      "Street": "6401 6th Avenue",
+      "City": "Brooklyn",
+      "State": "NY",
+      "ZIP": "11220"
+    },
+    {
+      "Dealer": "Parkway Toyota",
+      "Website": "",
+      "Phone": "(201) 944-3300",
+      "Email": "Ecom29008@toyota.com",
+      "Street": "50 Sylvan Avenue",
+      "City": "Englewood Cliffs",
+      "State": "NJ",
+      "ZIP": "07632"
+    },
+    {
+      "Dealer": "Fordham Toyota",
+      "Website": "",
+      "Phone": "(718) 367-0400",
+      "Email": "Ecom31121@toyota.com",
+      "Street": "236-240 W. Fordham Road",
+      "City": "Bronx",
+      "State": "NY",
+      "ZIP": "10468"
+    },
+    {
+      "Dealer": "Plaza Toyota",
+      "Website": "",
+      "Phone": "(718) 253-8400",
+      "Email": "Ecom31156@toyota.com",
+      "Street": "2721 Nostrand Avenue",
+      "City": "Brooklyn",
+      "State": "NY",
+      "ZIP": "11210"
+    },
+    {
+      "Dealer": "Toyota of Hackensack",
+      "Website": "",
+      "Phone": "(201) 488-7777",
+      "Email": "Ecom29025@toyota.com",
+      "Street": "278 River Street",
+      "City": "Hackensack",
+      "State": "NJ",
+      "ZIP": "07601"
+    },
+    {
+      "Dealer": "Hillside Toyota",
+      "Website": "",
+      "Phone": "(718) 657-2220",
+      "Email": "",
+      "Street": "139-65 Queens Boulevard",
+      "City": "Jamaica",
+      "State": "NY",
+      "ZIP": "11435"
+    },
+    {
+      "Dealer": "City World Toyota",
+      "Website": "",
+      "Phone": "(718) 655-7000",
+      "Email": "Ecom31161@toyota.com",
+      "Street": "3333 Boston Road",
+      "City": "Bronx",
+      "State": "NY",
+      "ZIP": "10469"
+    },
+    {
+      "Dealer": "Star Toyota of Bayside",
+      "Website": "",
+      "Phone": "(718) 279-1800",
+      "Email": "Ecom31144@toyota.com",
+      "Street": "205-11 Northern Blvd.",
+      "City": "Bayside",
+      "State": "NY",
+      "ZIP": "11361"
+    },
+    {
+      "Dealer": "Island Toyota",
+      "Website": "",
+      "Phone": "(718) 874-8888",
+      "Email": "asciascia@islandtoyota.com",
+      "Street": "1591 Hylan Boulevard",
+      "City": "Staten Island",
+      "State": "NY",
+      "ZIP": "10305"
+    },
+    {
+      "Dealer": "Route 22 Toyota",
+      "Website": "",
+      "Phone": "(973) 705-9400",
+      "Email": "Ecom29083@toyota.com",
+      "Street": "109 Route 22 West",
+      "City": "Hillside",
+      "State": "NJ",
+      "ZIP": "07205"
+    },
+    {
+      "Dealer": "Toyota Universe",
+      "Website": "",
+      "Phone": "(973) 785-4710",
+      "Email": "Ecom29078@toyota.com",
+      "Street": "1485 Route 46 East",
+      "City": "Little Falls",
+      "State": "NJ",
+      "ZIP": "07424"
+    },
+    {
+      "Dealer": "Glen Motors, Inc.",
+      "Website": "",
+      "Phone": "(201) 791-3800",
+      "Email": "Ecom29037@toyota.com",
+      "Street": "23-07 Maple Avenue",
+      "City": "Fair Lawn",
+      "State": "NJ",
+      "ZIP": "07410"
+    },
+    {
+      "Dealer": "Advantage Toyota",
+      "Website": "",
+      "Phone": "(516) 887-8600",
+      "Email": "Ecom31173@toyota.com",
+      "Street": "400 Sunrise Highway",
+      "City": "Valley Stream",
+      "State": "NY",
+      "ZIP": "11581"
+    },
+    {
+      "Dealer": "New Rochelle Toyota",
+      "Website": "",
+      "Phone": "(914) 576-8000",
+      "Email": "Ecom31135@toyota.com",
+      "Street": "47 Cedar Street",
+      "City": "New Rochelle",
+      "State": "NY",
+      "ZIP": "10801"
+    },
+    {
+      "Dealer": "Westchester Toyota",
+      "Website": "",
+      "Phone": "(914) 779-8700",
+      "Email": "fgreco@westchestertoyota.com",
+      "Street": "2167 Central Park Avenue",
+      "City": "Yonkers",
+      "State": "NY",
+      "ZIP": "10710"
+    },
+    {
+      "Dealer": "Autoland Toyota",
+      "Website": "",
+      "Phone": "(973) 467-6101",
+      "Email": "",
+      "Street": "170 Route 22 East",
+      "City": "Springfield",
+      "State": "NJ",
+      "ZIP": "07081"
+    },
+    {
+      "Dealer": "Paul Miller Toyota",
+      "Website": "",
+      "Phone": "(973) 882-1822",
+      "Email": "jberrios@paulmillertoyota.com",
+      "Street": "1137-1183 Bloomfield Avenue",
+      "City": "West Caldwell",
+      "State": "NJ",
+      "ZIP": "07006"
+    },
+    {
+      "Dealer": "Sansone Toyota",
+      "Website": "",
+      "Phone": "(732) 587-1100",
+      "Email": "Ecom29075@toyota.com",
+      "Street": "100 Route 1 North",
+      "City": "Avenel",
+      "State": "NJ",
+      "ZIP": "07001"
+    },
+    {
+      "Dealer": "Millennium Toyota",
+      "Website": "",
+      "Phone": "(516) 485-1400",
+      "Email": "Ecom31154@toyota.com",
+      "Street": "257 North Franklin Street",
+      "City": "Hempstead",
+      "State": "NY",
+      "ZIP": "11550"
+    },
+    {
+      "Dealer": "Penn Toyota",
+      "Website": "",
+      "Phone": "(516) 621-8600",
+      "Email": "Ecom31076@toyota.com",
+      "Street": "2400 Northern Blvd.",
+      "City": "Greenvale",
+      "State": "NY",
+      "ZIP": "11548"
+    },
+    {
+      "Dealer": "Toyota City",
+      "Website": "",
+      "Phone": "(914) 998-1000",
+      "Email": "",
+      "Street": "1305 East Boston Post Rd.",
+      "City": "Mamaroneck",
+      "State": "NY",
+      "ZIP": "10543"
+    },
+    {
+      "Dealer": "Crestmont Toyota",
+      "Website": "",
+      "Phone": "(973) 839-2500",
+      "Email": "Ecom29081@toyota.com",
+      "Street": "730 State Route 23",
+      "City": "Pompton Plains",
+      "State": "NJ",
+      "ZIP": "07444"
+    },
+    {
+      "Dealer": "Lia Toyota of Rockland",
+      "Website": "",
+      "Phone": "(845) 358-2220",
+      "Email": "",
+      "Street": "618 Route 303",
+      "City": "Blauvelt",
+      "State": "NY",
+      "ZIP": "10913"
+    },
+    {
+      "Dealer": "Prestige Toyota of Ramsey",
+      "Website": "",
+      "Phone": "(201) 825-2700",
+      "Email": "",
+      "Street": "1096 Route 17 North",
+      "City": "Ramsey",
+      "State": "NJ",
+      "ZIP": "07446"
+    },
+    {
+      "Dealer": "Westbury Toyota",
+      "Website": "",
+      "Phone": "(516) 333-3100",
+      "Email": "Ecom31181@toyota.com",
+      "Street": "1121 Old Country Road",
+      "City": "Westbury",
+      "State": "NY",
+      "ZIP": "11590"
+    },
+    {
+      "Dealer": "Toyota of Morristown",
+      "Website": "",
+      "Phone": "(973) 540-1111",
+      "Email": "Ecom29059@toyota.com",
+      "Street": "169 Ridgedale Ave",
+      "City": "Morristown",
+      "State": "NJ",
+      "ZIP": "07960"
+    },
+    {
+      "Dealer": "Interstate Toyota",
+      "Website": "",
+      "Phone": "(845) 352-6200",
+      "Email": "Ecom31176@toyota.com",
+      "Street": "411 Route 59",
+      "City": "Airmont",
+      "State": "NY",
+      "ZIP": "10952"
+    },
+    {
+      "Dealer": "Toyota of Massapequa",
+      "Website": "",
+      "Phone": "(516) 217-1400",
+      "Email": "",
+      "Street": "3660 Sunrise Highway",
+      "City": "Seaford",
+      "State": "NY",
+      "ZIP": "11783"
+    },
+    {
+      "Dealer": "Empire Toyota of Green Brook",
+      "Website": "",
+      "Phone": "(732) 968-1000",
+      "Email": "lsayette@eagny.com",
+      "Street": "220 Route 22 West",
+      "City": "Green Brook",
+      "State": "NJ",
+      "ZIP": "08812"
+    },
+    {
+      "Dealer": "Toyota of Greenwich",
+      "Website": "",
+      "Phone": "(203) 661-5055",
+      "Email": "Ecom06029@toyota.com",
+      "Street": "75 E. Putnam Ave, Box 402",
+      "City": "Cos Cob",
+      "State": "CT",
+      "ZIP": "06807"
+    },
+    {
+      "Dealer": "Galaxy Toyota",
+      "Website": "",
+      "Phone": "(732) 544-1000",
+      "Email": "Ecom29031@toyota.com",
+      "Street": "750 Route 36",
+      "City": "Eatontown",
+      "State": "NJ",
+      "ZIP": "07724"
+    },
+    {
+      "Dealer": "Toyota of Stamford",
+      "Website": "",
+      "Phone": "(203) 348-3751",
+      "Email": "",
+      "Street": "909 East Main Street",
+      "City": "Stamford",
+      "State": "CT",
+      "ZIP": "06902"
+    },
+    {
+      "Dealer": "DCH Brunswick Toyota",
+      "Website": "",
+      "Phone": "(732) 418-8888",
+      "Email": "",
+      "Street": "1504 U.S. Route 1",
+      "City": "North Brunswick",
+      "State": "NJ",
+      "ZIP": "08902"
+    },
+    {
+      "Dealer": "Empire Toyota of Huntington",
+      "Website": "",
+      "Phone": "(631) 498-8302",
+      "Email": "Ecom31179@toyota.com",
+      "Street": "1030 East Jericho Turnpke",
+      "City": "Huntington Station",
+      "State": "NY",
+      "ZIP": "11746"
+    },
+    {
+      "Dealer": "Rivera Toyota of Mt. Kisco",
+      "Website": "",
+      "Phone": "(914) 666-5181",
+      "Email": "",
+      "Street": "325 N. Bedford Road",
+      "City": "Mt. Kisco",
+      "State": "NY",
+      "ZIP": "10549"
+    },
+    {
+      "Dealer": "Towne Toyota",
+      "Website": "",
+      "Phone": "(973) 584-8100",
+      "Email": "Ecom29058@toyota.com",
+      "Street": "1499 Route 46",
+      "City": "Ledgewood",
+      "State": "NJ",
+      "ZIP": "07852"
+    },
+    {
+      "Dealer": "Atlantic Toyota",
+      "Website": "",
+      "Phone": "(631) 789-2700",
+      "Email": "Ecom31166@toyota.com",
+      "Street": "207 Sunrise Highway",
+      "City": "West Islip",
+      "State": "NY",
+      "ZIP": "11795"
+    },
+    {
+      "Dealer": "DCH Freehold Toyota",
+      "Website": "",
+      "Phone": "(732) 431-1300",
+      "Email": "",
+      "Street": "4268 Route 9 South",
+      "City": "Freehold",
+      "State": "NJ",
+      "ZIP": "07728"
+    },
+    {
+      "Dealer": "Dayton Toyota",
+      "Website": "",
+      "Phone": "(732) 329-9191",
+      "Email": "Ecom29101@toyota.com",
+      "Street": "2291 Route 130",
+      "City": "Dayton",
+      "State": "NJ",
+      "ZIP": "08810"
+    },
+    {
+      "Dealer": "Curry Toyota",
+      "Website": "",
+      "Phone": "(914) 528-4347",
+      "Email": "Ecom31172@toyota.com",
+      "Street": "3026 E. Main Street",
+      "City": "Cortlandt Manor",
+      "State": "NY",
+      "ZIP": "10567"
+    },
+    {
+      "Dealer": "New Country Toyota of Westport",
+      "Website": "",
+      "Phone": "(203) 222-3300",
+      "Email": "Ecom06051@toyota.com",
+      "Street": "777 Post Road East",
+      "City": "Westport",
+      "State": "CT",
+      "ZIP": "06880"
+    },
+    {
+      "Dealer": "Smithtown Toyota",
+      "Website": "",
+      "Phone": "(631) 724-3300",
+      "Email": "Ecom31105@toyota.com",
+      "Street": "360 East Jericho Turnpike",
+      "City": "Smithtown",
+      "State": "NY",
+      "ZIP": "11787"
+    },
+    {
+      "Dealer": "Sunrise Toyota",
+      "Website": "",
+      "Phone": "(631) 589-9000",
+      "Email": "Ecom31178@toyota.com",
+      "Street": "3984 Sunrise Highway",
+      "City": "Oakdale",
+      "State": "NY",
+      "ZIP": "11769"
+    },
+    {
+      "Dealer": "Toyota World of Newton",
+      "Website": "",
+      "Phone": "(973) 383-0200",
+      "Email": "Ecom29100@toyota.com",
+      "Street": "66 Route 206 North",
+      "City": "Newton",
+      "State": "NJ",
+      "ZIP": "07860"
+    },
+    {
+      "Dealer": "Toyota World of Lakewood",
+      "Website": "",
+      "Phone": "(732) 364-9000",
+      "Email": "Ecom29095@toyota.com",
+      "Street": "1118 Route 88",
+      "City": "Lakewood",
+      "State": "NJ",
+      "ZIP": "08701"
+    },
+    {
+      "Dealer": "Toyota World of Clinton",
+      "Website": "",
+      "Phone": "(908) 638-4100",
+      "Email": "",
+      "Street": "2017 Route 31",
+      "City": "Clinton",
+      "State": "NJ",
+      "ZIP": "08809"
+    },
+    {
+      "Dealer": "Toyota of North Hollywood",
+      "Website": "",
+      "Phone": "(818) 508-2900",
+      "Email": "Ecom04154@toyota.com",
+      "Street": "4606 Lankershim Boulevard",
+      "City": "North Hollywood",
+      "State": "CA",
+      "ZIP": "91602"
+    },
+    {
+      "Dealer": "Culver City Toyota",
+      "Website": "",
+      "Phone": "(310) 559-3777",
+      "Email": "",
+      "Street": "9077 Washington Blvd.",
+      "City": "Culver City",
+      "State": "CA",
+      "ZIP": "90232"
+    },
+    {
+      "Dealer": "Toyota of Hollywood",
+      "Website": "",
+      "Phone": "(323) 817-0282",
+      "Email": "Ecom04102@toyota.com",
+      "Street": "6920 Sunset Blvd.",
+      "City": "Los Angeles",
+      "State": "CA",
+      "ZIP": "90028"
+    },
+    {
+      "Dealer": "Keyes Toyota",
+      "Website": "",
+      "Phone": "(818) 305-6926",
+      "Email": "",
+      "Street": "5855 Van Nuys Blvd",
+      "City": "Van Nuys",
+      "State": "CA",
+      "ZIP": "91401"
+    },
+    {
+      "Dealer": "Toyota Santa Monica",
+      "Website": "",
+      "Phone": "(424) 567-7599",
+      "Email": "Ecom04303@toyota.com",
+      "Street": "1230 Santa Monica Blvd.",
+      "City": "Santa Monica",
+      "State": "CA",
+      "ZIP": "90404"
+    },
+    {
+      "Dealer": "Marina del Rey Toyota",
+      "Website": "",
+      "Phone": "(866) 823-8348",
+      "Email": "Ecom04315@toyota.com",
+      "Street": "4636 Lincoln Boulevard",
+      "City": "Marina Del Rey",
+      "State": "CA",
+      "ZIP": "90292"
+    },
+    {
+      "Dealer": "Toyota of Downtown LA",
+      "Website": "",
+      "Phone": "(213) 986-2011",
+      "Email": "",
+      "Street": "1901 S. Figueroa Street",
+      "City": "Los Angeles",
+      "State": "CA",
+      "ZIP": "90007"
+    },
+    {
+      "Dealer": "Toyota of Glendale",
+      "Website": "",
+      "Phone": "(818) 244-4196",
+      "Email": "Ecom04649@toyota.com",
+      "Street": "1260 South Brand Blvd.",
+      "City": "Glendale",
+      "State": "CA",
+      "ZIP": "91204"
+    },
+    {
+      "Dealer": "Hamer Toyota",
+      "Website": "",
+      "Phone": "(818) 365-9621",
+      "Email": "Ecom04013@toyota.com",
+      "Street": "11041 Sepulveda Blvd",
+      "City": "Mission Hills",
+      "State": "CA",
+      "ZIP": "91345"
+    },
+    {
+      "Dealer": "Northridge Toyota",
+      "Website": "",
+      "Phone": "(818) 734-5600",
+      "Email": "",
+      "Street": "19550 Nordhoff Street",
+      "City": "Northridge",
+      "State": "CA",
+      "ZIP": "91324"
+    },
+    {
+      "Dealer": "Bob Smith Toyota",
+      "Website": "",
+      "Phone": "(818) 248-9363",
+      "Email": "Ecom04094@toyota.com",
+      "Street": "3333 Foothill Blvd.",
+      "City": "La Crescenta",
+      "State": "CA",
+      "ZIP": "91214"
+    },
+    {
+      "Dealer": "Manhattan Beach Toyota",
+      "Website": "",
+      "Phone": "(310) 546-4848",
+      "Email": "Ecom04508@toyota.com",
+      "Street": "1500 N. Sepulveda Blvd",
+      "City": "Manhattan Beach",
+      "State": "CA",
+      "ZIP": "90266"
+    },
+    {
+      "Dealer": "Wondries Toyota",
+      "Website": "",
+      "Phone": "(626) 289-8000",
+      "Email": "",
+      "Street": "1439 West Main Street",
+      "City": "Alhambra",
+      "State": "CA",
+      "ZIP": "91801"
+    },
+    {
+      "Dealer": "South Bay Toyota",
+      "Website": "",
+      "Phone": "(310) 323-7800",
+      "Email": "",
+      "Street": "18416 S. Western Avenue",
+      "City": "Gardena",
+      "State": "CA",
+      "ZIP": "90248"
+    },
+    {
+      "Dealer": "Toyota of Pasadena",
+      "Website": "",
+      "Phone": "(626) 795-9787",
+      "Email": "Ecom04283@toyota.com",
+      "Street": "3600 E. Foothill Blvd.",
+      "City": "Pasadena",
+      "State": "CA",
+      "ZIP": "91107"
+    },
+    {
+      "Dealer": "Penske Toyota",
+      "Website": "",
+      "Phone": "(562) 904-5600",
+      "Email": "Ecom04080@toyota.com",
+      "Street": "9136 E. Firestone Blvd",
+      "City": "Downey",
+      "State": "CA",
+      "ZIP": "90241"
+    },
+    {
+      "Dealer": "Fletcher Jones Toyota of Carson",
+      "Website": "",
+      "Phone": "(310) 522-2300",
+      "Email": "",
+      "Street": "1333 E 223rd Street",
+      "City": "Carson",
+      "State": "CA",
+      "ZIP": "90745"
+    },
+    {
+      "Dealer": "DCH Toyota of Torrance",
+      "Website": "",
+      "Phone": "(310) 325-7500",
+      "Email": "",
+      "Street": "2909 Pacific Coast Hwy",
+      "City": "Torrance",
+      "State": "CA",
+      "ZIP": "90505"
+    },
+    {
+      "Dealer": "Envision Toyota of Norwalk",
+      "Website": "",
+      "Phone": "(562) 868-0035",
+      "Email": "rmalaeb@norwalktoyota.com",
+      "Street": "11404 E Imperial Highway",
+      "City": "Norwalk",
+      "State": "CA",
+      "ZIP": "90650"
+    },
+    {
+      "Dealer": "Longo Toyota",
+      "Website": "",
+      "Phone": "(626) 580-6000",
+      "Email": "Ecom04136@toyota.com",
+      "Street": "3534 North Peck Road",
+      "City": "El Monte",
+      "State": "CA",
+      "ZIP": "91731"
+    },
+    {
+      "Dealer": "Frontier Toyota",
+      "Website": "",
+      "Phone": "(661) 255-7575",
+      "Email": "frontiertoyota@eleadtrack.net",
+      "Street": "23621 Creekside Road",
+      "City": "Valencia",
+      "State": "CA",
+      "ZIP": "91355"
+    },
+    {
+      "Dealer": "Cabe Toyota Long Beach",
+      "Website": "",
+      "Phone": "(562) 595-7411",
+      "Email": "Ecom04033@toyota.com",
+      "Street": "2849 Long Beach Blvd.",
+      "City": "Long Beach",
+      "State": "CA",
+      "ZIP": "90806"
+    },
+    {
+      "Dealer": "AutoNation Toyota Cerritos",
+      "Website": "",
+      "Phone": "(562) 860-6561",
+      "Email": "Ecom04636@toyota.com",
+      "Street": "18700 Studebaker Road",
+      "City": "Cerritos",
+      "State": "CA",
+      "ZIP": "90703"
+    },
+    {
+      "Dealer": "Simi Valley Toyota",
+      "Website": "",
+      "Phone": "(805) 526-7500",
+      "Email": "",
+      "Street": "2380 First Street",
+      "City": "Simi Valley",
+      "State": "CA",
+      "ZIP": "93065"
+    },
+    {
+      "Dealer": "Toyota of Whittier",
+      "Website": "",
+      "Phone": "(562) 698-2591",
+      "Email": "",
+      "Street": "14577 East Whittier Blvd.",
+      "City": "Whittier",
+      "State": "CA",
+      "ZIP": "90605"
+    },
+    {
+      "Dealer": "West Coast Toyota of Long Beach",
+      "Website": "",
+      "Phone": "(562) 494-4444",
+      "Email": "",
+      "Street": "3399 E. Willow Street",
+      "City": "Long Beach",
+      "State": "CA",
+      "ZIP": "90806"
+    },
+    {
+      "Dealer": "Thousand Oaks Toyota",
+      "Website": "",
+      "Phone": "(818) 889-8919",
+      "Email": "Ecom04167@toyota.com",
+      "Street": "2401 E. Thousand Oaks Blvd.",
+      "City": "Thousand Oaks",
+      "State": "CA",
+      "ZIP": "91362"
+    },
+    {
+      "Dealer": "Puente Hills Toyota",
+      "Website": "",
+      "Phone": "(626) 964-7100",
+      "Email": "cmann@puentehillstoyota.com",
+      "Street": "17070 Gale Avenue",
+      "City": "City Of Industry",
+      "State": "CA",
+      "ZIP": "91748"
+    },
+    {
+      "Dealer": "AutoNation Toyota Buena Park",
+      "Website": "",
+      "Phone": "(714) 627-5562",
+      "Email": "Ecom04640@toyota.com",
+      "Street": "6400 Beach Blvd.",
+      "City": "Buena Park",
+      "State": "CA",
+      "ZIP": "90621"
+    },
+    {
+      "Dealer": "Envision Toyota of West Covina",
+      "Website": "",
+      "Phone": "(626) 859-7400",
+      "Email": "",
+      "Street": "205 N. Citrus Street",
+      "City": "West Covina",
+      "State": "CA",
+      "ZIP": "91791"
+    },
+    {
+      "Dealer": "Toyota of Anaheim",
+      "Website": "",
+      "Phone": "(714) 879-6300",
+      "Email": "Ecom04079@toyota.com",
+      "Street": "1331 N. Euclid Street",
+      "City": "Anaheim",
+      "State": "CA",
+      "ZIP": "92801"
+    },
+    {
+      "Dealer": "Toyota of Glendora",
+      "Website": "",
+      "Phone": "(909) 305-2000",
+      "Email": "Ecom04109@toyota.com",
+      "Street": "1949 Auto Centre Drive",
+      "City": "Glendora",
+      "State": "CA",
+      "ZIP": "91740"
+    },
+    {
+      "Dealer": "Toyota Place",
+      "Website": "",
+      "Phone": "(877) 289-5612",
+      "Email": "Ecom04356@toyota.com",
+      "Street": "9670 Trask Avenue",
+      "City": "Garden Grove",
+      "State": "CA",
+      "ZIP": "92844"
+    },
+    {
+      "Dealer": "Beach Cities Toyota Westminster",
+      "Website": "",
+      "Phone": "(714) 894-3322",
+      "Email": "Ecom04108@toyota.com",
+      "Street": "15300 Beach Boulevard",
+      "City": "Westminster",
+      "State": "CA",
+      "ZIP": "92683"
+    },
+    {
+      "Dealer": "Toyota of Huntington Beach",
+      "Website": "",
+      "Phone": "(714) 594-7493",
+      "Email": "Ecom04087@toyota.com",
+      "Street": "18881 Beach Blvd.",
+      "City": "Huntington Beach",
+      "State": "CA",
+      "ZIP": "92648"
+    },
+    {
+      "Dealer": "Toyota of Orange",
+      "Website": "",
+      "Phone": "(714) 639-6750",
+      "Email": "info@toyotaoforange.com",
+      "Street": "1400 N Tustin",
+      "City": "Orange",
+      "State": "CA",
+      "ZIP": "92867"
+    },
+    {
+      "Dealer": "Claremont Toyota",
+      "Website": "",
+      "Phone": "(909) 625-1500",
+      "Email": "",
+      "Street": "601 Auto Center Drive",
+      "City": "Claremont",
+      "State": "CA",
+      "ZIP": "91711"
+    },
+    {
+      "Dealer": "South Coast Toyota",
+      "Website": "",
+      "Phone": "(949) 722-2000",
+      "Email": "info@southcoasttoyota.com",
+      "Street": "1966 Harbor Blvd.",
+      "City": "Costa Mesa",
+      "State": "CA",
+      "ZIP": "92627"
+    },
+    {
+      "Dealer": "Toyota of Lancaster",
+      "Website": "",
+      "Phone": "(661) 948-0731",
+      "Email": "",
+      "Street": "43301 12th Street West",
+      "City": "Lancaster",
+      "State": "CA",
+      "ZIP": "93534"
+    },
+    {
+      "Dealer": "DCH Toyota of Oxnard",
+      "Website": "",
+      "Phone": "(805) 988-7900",
+      "Email": "",
+      "Street": "1631 Auto Center Drive",
+      "City": "Oxnard",
+      "State": "CA",
+      "ZIP": "93030"
+    },
+    {
+      "Dealer": "Tustin Toyota",
+      "Website": "",
+      "Phone": "(714) 832-3111",
+      "Email": "Ecom04543@toyota.com",
+      "Street": "36 Auto Center Drive",
+      "City": "Tustin",
+      "State": "CA",
+      "ZIP": "92782"
+    },
+    {
+      "Dealer": "Ventura Toyota",
+      "Website": "",
+      "Phone": "(805) 650-0510",
+      "Email": "Ecom04344@toyota.com",
+      "Street": "6360 Auto Center Drive",
+      "City": "Ventura",
+      "State": "CA",
+      "ZIP": "93003"
+    },
+    {
+      "Dealer": "Toyota of Corona",
+      "Website": "",
+      "Phone": "(951) 734-6020",
+      "Email": "",
+      "Street": "1700 West 6th Street",
+      "City": "Corona",
+      "State": "CA",
+      "ZIP": "92882"
+    },
+    {
+      "Dealer": "Crown Toyota",
+      "Website": "",
+      "Phone": "(909) 390-9700",
+      "Email": "",
+      "Street": "1201 Kettering Drive",
+      "City": "Ontario",
+      "State": "CA",
+      "ZIP": "91761"
+    },
+    {
+      "Dealer": "AutoNation Toyota Irvine",
+      "Website": "",
+      "Phone": "(949) 287-8766",
+      "Email": "Parts04638@toyota.com",
+      "Street": "9101 Research Drive",
+      "City": "Irvine",
+      "State": "CA",
+      "ZIP": "92618"
+    },
+    {
+      "Dealer": "Doral Toyota",
+      "Website": "",
+      "Phone": "(305) 261-2181",
+      "Email": "text@expresswaytoyota.com",
+      "Street": "9775 North West 12th Str",
+      "City": "Doral",
+      "State": "FL",
+      "ZIP": "33172"
+    },
+    {
+      "Dealer": "Toyota of North Miami",
+      "Website": "",
+      "Phone": "(305) 652-6500",
+      "Email": "",
+      "Street": "16600 NW 2nd Avenue",
+      "City": "Miami",
+      "State": "FL",
+      "ZIP": "33169"
+    },
+    {
+      "Dealer": "Kendall Toyota",
+      "Website": "",
+      "Phone": "(305) 665-6581",
+      "Email": "jenniferg@contactdealer.com",
+      "Street": "10943 S. Dixie Highway",
+      "City": "Miami",
+      "State": "FL",
+      "ZIP": "33156"
+    },
+    {
+      "Dealer": "Headquarter Toyota",
+      "Website": "",
+      "Phone": "(305) 364-9800",
+      "Email": "cindy.rosado@headquartertoyota.com",
+      "Street": "5895 N.W. 167th Street",
+      "City": "Hialeah",
+      "State": "FL",
+      "ZIP": "33015"
+    },
+    {
+      "Dealer": "West Kendall Toyota",
+      "Website": "",
+      "Phone": "(786) 345-2600",
+      "Email": "text@westkendalltoyota.com",
+      "Street": "13800 SW 137th Avenue",
+      "City": "Miami",
+      "State": "FL",
+      "ZIP": "33186"
+    },
+    {
+      "Dealer": "Toyota of Hollywood",
+      "Website": "",
+      "Phone": "(844) 821-8998",
+      "Email": "sales@toyotaofhollywood.com",
+      "Street": "1841 North State Road 7",
+      "City": "Hollywood",
+      "State": "FL",
+      "ZIP": "33021"
+    },
+    {
+      "Dealer": "AutoNation Toyota Weston",
+      "Website": "",
+      "Phone": "(954) 659-1800",
+      "Email": "rosenbaumh@autonation.com",
+      "Street": "4050 Weston Road",
+      "City": "Davie",
+      "State": "FL",
+      "ZIP": "33331"
+    },
+    {
+      "Dealer": "South Dade Toyota",
+      "Website": "",
+      "Phone": "(305) 248-6330",
+      "Email": "text@southdadetoyota.com",
+      "Street": "29330 S. Dixie Highway",
+      "City": "Homestead",
+      "State": "FL",
+      "ZIP": "33033"
+    },
+    {
+      "Dealer": "Lipton Toyota",
+      "Website": "",
+      "Phone": "(954) 735-1330",
+      "Email": "sales@liptontoyota.com",
+      "Street": "1700 W. Oakland Park Blvd",
+      "City": "Ft. Lauderdale",
+      "State": "FL",
+      "ZIP": "33311"
+    },
+    {
+      "Dealer": "Al Hendrickson Toyota",
+      "Website": "",
+      "Phone": "(954) 972-1100",
+      "Email": "",
+      "Street": "5201 West Sample Road",
+      "City": "Coconut Creek",
+      "State": "FL",
+      "ZIP": "33073"
+    },
+    {
+      "Dealer": "Toyota of Deerfield Beach",
+      "Website": "",
+      "Phone": "(954) 719-7300",
+      "Email": "rholroyd@vtaig.com",
+      "Street": "1441 S. Federal Hwy.",
+      "City": "Deerfield Beach",
+      "State": "FL",
+      "ZIP": "33441"
+    },
+    {
+      "Dealer": "Ed Morse Delray Toyota",
+      "Website": "",
+      "Phone": "(561) 276-5000",
+      "Email": "delraytoyota@edmorse.com",
+      "Street": "2800 South Federal Highway",
+      "City": "Delray Beach",
+      "State": "FL",
+      "ZIP": "33483"
+    },
+    {
+      "Dealer": "Mike Calvert Toyota",
+      "Website": "",
+      "Phone": "(713) 558-8100",
+      "Email": "internet@mikecalverttoyota.com",
+      "Street": "2333 South Loop West",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77054"
+    },
+    {
+      "Dealer": "AutoNation Toyota Gulf Freeway",
+      "Website": "",
+      "Phone": "(713) 489-2097",
+      "Email": "internet@championtoyotagulffreeway.com",
+      "Street": "12111 Gulf Freeway, Bldg. B",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77034"
+    },
+    {
+      "Dealer": "Community Toyota",
+      "Website": "",
+      "Phone": "(281) 839-7700",
+      "Email": "internet@communitytoyota.com",
+      "Street": "4701 Interstate 10 East",
+      "City": "Baytown",
+      "State": "TX",
+      "ZIP": "77521"
+    },
+    {
+      "Dealer": "Mac Haik Toyota",
+      "Website": "",
+      "Phone": "(281) 338-9700",
+      "Email": "",
+      "Street": "2112 Gulf Freeway",
+      "City": "League City",
+      "State": "TX",
+      "ZIP": "77573"
+    },
+    {
+      "Dealer": "Keating Toyota",
+      "Website": "",
+      "Phone": "(281) 388-8600",
+      "Email": "",
+      "Street": "4233 Del Bello Boulevard",
+      "City": "Manvel",
+      "State": "TX",
+      "ZIP": "77578"
+    },
+    {
+      "Dealer": "Sterling McCall Toyota",
+      "Website": "",
+      "Phone": "(713) 270-3900",
+      "Email": "internet@smccalltoyota.com",
+      "Street": "9400 Southwest Freeway",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Space City Toyota",
+      "Website": "",
+      "Phone": "(281) 446-0271",
+      "Email": "",
+      "Street": "19011 Highway 59 North",
+      "City": "Humble",
+      "State": "TX",
+      "ZIP": "77338"
+    },
+    {
+      "Dealer": "Don McGill Toyota",
+      "Website": "",
+      "Phone": "(281) 496-2000",
+      "Email": "internet@donmcgilltoyota.com",
+      "Street": "11800 Katy Freeway",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77079"
+    },
+    {
+      "Dealer": "Joe Myers Toyota",
+      "Website": "",
+      "Phone": "(281) 890-8700",
+      "Email": "internet@joemyerstoyota.com",
+      "Street": "19010 Northwest Freeway",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77065"
+    },
+    {
+      "Dealer": "Fred Haas Toyota World",
+      "Website": "",
+      "Phone": "(281) 297-7000",
+      "Email": "internet@fredhaastoyota.com",
+      "Street": "20400 Interstate 45 North",
+      "City": "Spring",
+      "State": "TX",
+      "ZIP": "77373"
+    },
+    {
+      "Dealer": "Fred Haas Toyota Country",
+      "Website": "",
+      "Phone": "(281) 357-4000",
+      "Email": "internet@fredhaastoyotacountry.com",
+      "Street": "22435 SH-249",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77070"
+    },
+    {
+      "Dealer": "Sterling McCall Toyota Fort Bend",
+      "Website": "",
+      "Phone": "(281) 341-5900",
+      "Email": "internet@fortbendtoyota.com",
+      "Street": "20465 Southwest Freeway",
+      "City": "Richmond",
+      "State": "TX",
+      "ZIP": "77469"
+    },
+    {
+      "Dealer": "Don McGill Toyota of Katy",
+      "Website": "",
+      "Phone": "(832) 772-1000",
+      "Email": "internetleads@donmcgilltoyotakaty.com",
+      "Street": "21555 Katy Freeway",
+      "City": "Katy",
+      "State": "TX",
+      "ZIP": "77450"
+    },
+    {
+      "Dealer": "Classic Toyota Galveston",
+      "Website": "",
+      "Phone": "(409) 744-5711",
+      "Email": "",
+      "Street": "7802 Broadway",
+      "City": "Galveston",
+      "State": "TX",
+      "ZIP": "77554"
+    },
+    {
+      "Dealer": "Gulf Coast Toyota",
+      "Website": "",
+      "Phone": "(713) 422-7200",
+      "Email": "gulfcoastauto@mywebpager.com",
+      "Street": "3000 N. 288 Freeway",
+      "City": "Angleton",
+      "State": "TX",
+      "ZIP": "77515"
+    },
+    {
+      "Dealer": "Gullo Toyota of Conroe",
+      "Website": "",
+      "Phone": "(936) 441-4141",
+      "Email": "internet@gullotoyota.com",
+      "Street": "500 I-45 South",
+      "City": "Conroe",
+      "State": "TX",
+      "ZIP": "77304"
+    },
+    {
+      "Dealer": "Toyota of Lincoln Park",
+      "Website": "",
+      "Phone": "(312) 707-9500",
+      "Email": "",
+      "Street": "1561 North Fremont Street",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60642"
+    },
+    {
+      "Dealer": "Victory Toyota of Midtown",
+      "Website": "",
+      "Phone": "(773) 622-6300",
+      "Email": "",
+      "Street": "3255 North Cicero Avenue",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60641"
+    },
+    {
+      "Dealer": "Chicago Northside Toyota",
+      "Website": "",
+      "Phone": "(773) 728-5000",
+      "Email": "ttrejo@blautogroup.com",
+      "Street": "6042 N. Western Avenue",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60659"
+    },
+    {
+      "Dealer": "Toyota on Western",
+      "Website": "",
+      "Phone": "(773) 776-4016",
+      "Email": "",
+      "Street": "6941 South Western Ave",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60636"
+    },
+    {
+      "Dealer": "Toyota of Lincolnwood",
+      "Website": "",
+      "Phone": "(847) 675-7100",
+      "Email": "",
+      "Street": "7225 N. Cicero Avenue",
+      "City": "Lincolnwood",
+      "State": "IL",
+      "ZIP": "60712"
+    },
+    {
+      "Dealer": "Oak Lawn Toyota",
+      "Website": "",
+      "Phone": "(708) 423-5200",
+      "Email": "Ecom12100@toyota.com",
+      "Street": "4320 West 95th Street",
+      "City": "Oak Lawn",
+      "State": "IL",
+      "ZIP": "60453"
+    },
+    {
+      "Dealer": "Continental Toyota",
+      "Website": "",
+      "Phone": "(708) 354-5800",
+      "Email": "Ecom12015@toyota.com",
+      "Street": "6701 S. La Grange Road",
+      "City": "Hodgkins",
+      "State": "IL",
+      "ZIP": "60525"
+    },
+    {
+      "Dealer": "Bredemann Toyota",
+      "Website": "",
+      "Phone": "(847) 655-1407",
+      "Email": "Ecom12077@toyota.com",
+      "Street": "1301 W. Dempster Street",
+      "City": "Park Ridge",
+      "State": "IL",
+      "ZIP": "60068"
+    },
+    {
+      "Dealer": "McGrath Elmhurst Toyota",
+      "Website": "",
+      "Phone": "(630) 279-2160",
+      "Email": "",
+      "Street": "440 West Lake Street",
+      "City": "Elmhurst",
+      "State": "IL",
+      "ZIP": "60126"
+    },
+    {
+      "Dealer": "Oakbrook Toyota in Westmont",
+      "Website": "",
+      "Phone": "(630) 789-9600",
+      "Email": "Ecom12134@toyota.com",
+      "Street": "550 East Ogden Avenue",
+      "City": "Westmont",
+      "State": "IL",
+      "ZIP": "60559"
+    },
+    {
+      "Dealer": "Toyota on Edens",
+      "Website": "",
+      "Phone": "(847) 272-0808",
+      "Email": "",
+      "Street": "1530 Frontage Road",
+      "City": "Northbrook",
+      "State": "IL",
+      "ZIP": "60062"
+    },
+    {
+      "Dealer": "Advantage Toyota of River Oaks",
+      "Website": "",
+      "Phone": "(708) 862-0700",
+      "Email": "",
+      "Street": "1970 River Oaks Drive",
+      "City": "Calumet City",
+      "State": "IL",
+      "ZIP": "60409"
+    },
+    {
+      "Dealer": "Lombard Toyota",
+      "Website": "",
+      "Phone": "(630) 629-3900",
+      "Email": "Ecom12074@toyota.com",
+      "Street": "725 West Roosevelt Road",
+      "City": "Lombard",
+      "State": "IL",
+      "ZIP": "60148"
+    },
+    {
+      "Dealer": "Orland Toyota",
+      "Website": "",
+      "Phone": "(708) 429-3900",
+      "Email": "leads@sales.orlandtoyota.com",
+      "Street": "8485 West 159th St",
+      "City": "Tinley Park",
+      "State": "IL",
+      "ZIP": "60487"
+    },
+    {
+      "Dealer": "Team Toyota",
+      "Website": "",
+      "Phone": "(219) 924-8100",
+      "Email": "Ecom13060@toyota.com",
+      "Street": "400 Indianapolis Blvd.",
+      "City": "Schererville",
+      "State": "IN",
+      "ZIP": "46375"
+    },
+    {
+      "Dealer": "Schaumburg Toyota",
+      "Website": "",
+      "Phone": "(888) 565-3540",
+      "Email": "Ecom12086@toyota.com",
+      "Street": "875 West Golf Road",
+      "City": "Schaumburg",
+      "State": "IL",
+      "ZIP": "60194"
+    },
+    {
+      "Dealer": "Gerald Toyota of Matteson",
+      "Website": "",
+      "Phone": "(708) 720-8600",
+      "Email": "",
+      "Street": "5540 Auto Court",
+      "City": "Matteson",
+      "State": "IL",
+      "ZIP": "60443"
+    },
+    {
+      "Dealer": "Arlington Toyota",
+      "Website": "",
+      "Phone": "(847) 485-1200",
+      "Email": "Ecom12102@toyota.com",
+      "Street": "2095 N. Rand Road",
+      "City": "Palatine",
+      "State": "IL",
+      "ZIP": "60074"
+    },
+    {
+      "Dealer": "Toyota of Naperville",
+      "Website": "",
+      "Phone": "(630) 357-1578",
+      "Email": "tsales@dnwolf.com",
+      "Street": "1488 West Ogden Avenue",
+      "City": "Naperville",
+      "State": "IL",
+      "ZIP": "60540"
+    },
+    {
+      "Dealer": "AutoNation Toyota Libertyville",
+      "Website": "",
+      "Phone": "(224) 993-9001",
+      "Email": "Ecom12144@toyota.com",
+      "Street": "1180 South Milwaukee Ave.",
+      "City": "Libertyville",
+      "State": "IL",
+      "ZIP": "60048"
+    },
+    {
+      "Dealer": "Elgin Toyota",
+      "Website": "",
+      "Phone": "(847) 741-2100",
+      "Email": "Ecom12141@toyota.com",
+      "Street": "1600 W. Lake Street",
+      "City": "Streamwood",
+      "State": "IL",
+      "ZIP": "60107"
+    },
+    {
+      "Dealer": "Romeoville Toyota",
+      "Website": "",
+      "Phone": "(815) 744-2760",
+      "Email": "Stayintouch@romeovilletoyota.com",
+      "Street": "684 S. Weber Road",
+      "City": "Romeoville",
+      "State": "IL",
+      "ZIP": "60446"
+    },
+    {
+      "Dealer": "Graff Toyota of Chesterton",
+      "Website": "",
+      "Phone": "(219) 787-8600",
+      "Email": "jhiller@hankgraff.com",
+      "Street": "244 Melton Road",
+      "City": "Burns Harbor",
+      "State": "IN",
+      "ZIP": "46304"
+    },
+    {
+      "Dealer": "Toyota of Merrillville",
+      "Website": "",
+      "Phone": "(219) 947-3325",
+      "Email": "Ecom13068@toyota.com",
+      "Street": "4450 E. Lincoln Highway",
+      "City": "Merrillville",
+      "State": "IN",
+      "ZIP": "46410"
+    },
+    {
+      "Dealer": "St. Charles Toyota",
+      "Website": "",
+      "Phone": "(630) 584-6655",
+      "Email": "info@toyota.net",
+      "Street": "2651 E. Main Street",
+      "City": "St. Charles",
+      "State": "IL",
+      "ZIP": "60174"
+    },
+    {
+      "Dealer": "Classic Toyota",
+      "Website": "",
+      "Phone": "(847) 336-4300",
+      "Email": "Ecom12137@toyota.com",
+      "Street": "515 N. Green Bay Road",
+      "City": "Waukegan",
+      "State": "IL",
+      "ZIP": "60085"
+    },
+    {
+      "Dealer": "Pauly Toyota",
+      "Website": "",
+      "Phone": "(815) 459-7100",
+      "Email": "Ecom12135@toyota.com",
+      "Street": "1035 S. Route 31",
+      "City": "Crystal Lake",
+      "State": "IL",
+      "ZIP": "60014"
+    },
+    {
+      "Dealer": "Toyota of Fox Lake",
+      "Website": "",
+      "Phone": "(847) 587-9200",
+      "Email": "",
+      "Street": "75 South Route 12",
+      "City": "Fox Lake",
+      "State": "IL",
+      "ZIP": "60020"
+    },
+    {
+      "Dealer": "Kenosha Toyota",
+      "Website": "",
+      "Phone": "(262) 857-1700",
+      "Email": "",
+      "Street": "8180 120th Avenue",
+      "City": "Kenosha",
+      "State": "WI",
+      "ZIP": "53142"
+    },
+    {
+      "Dealer": "Norm Reeves Toyota Dallas",
+      "Website": "",
+      "Phone": "(214) 324-0411",
+      "Email": "",
+      "Street": "9525 E. RL Thornton Frwy",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75228"
+    },
+    {
+      "Dealer": "Toyota of Dallas",
+      "Website": "",
+      "Phone": "(972) 241-6655",
+      "Email": "internet@toyota-dallas.com",
+      "Street": "2610 Forest Lane",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75234"
+    },
+    {
+      "Dealer": "John Eagle Sport City Toyota",
+      "Website": "",
+      "Phone": "(972) 681-3000",
+      "Email": "",
+      "Street": "12650 LBJ Freeway",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75228"
+    },
+    {
+      "Dealer": "Legacy Toyota of Dallas",
+      "Website": "",
+      "Phone": "(972) 780-1166",
+      "Email": "",
+      "Street": "39660 LBJ Freeway (I-20)",
+      "City": "Dallas",
+      "State": "TX",
+      "ZIP": "75237"
+    },
+    {
+      "Dealer": "Toyota of Irving",
+      "Website": "",
+      "Phone": "(972) 258-1200",
+      "Email": "jeremy_dodson@toyotaofirving.com",
+      "Street": "1999 West Airport Frwy.",
+      "City": "Irving",
+      "State": "TX",
+      "ZIP": "75062"
+    },
+    {
+      "Dealer": "Toyota of Richardson",
+      "Website": "",
+      "Phone": "(214) 446-8081",
+      "Email": "internet@toyotaofrichardson.com",
+      "Street": "1221 N Central Expressway",
+      "City": "Richardson",
+      "State": "TX",
+      "ZIP": "75080"
+    },
+    {
+      "Dealer": "Family Toyota of Arlington",
+      "Website": "",
+      "Phone": "(817) 505-0000",
+      "Email": "",
+      "Street": "1661 Wet 'N Wild Way",
+      "City": "Arlington",
+      "State": "TX",
+      "ZIP": "76011"
+    },
+    {
+      "Dealer": "Texas Toyota of Grapevine",
+      "Website": "",
+      "Phone": "(817) 329-5949",
+      "Email": "internet@toyotaofgrapevine.com",
+      "Street": "701 State Hwy. 114 East",
+      "City": "Grapevine",
+      "State": "TX",
+      "ZIP": "76051"
+    },
+    {
+      "Dealer": "Lone Star Toyota of Lewisville",
+      "Website": "",
+      "Phone": "(469) 671-5500",
+      "Email": "",
+      "Street": "1547 S. Stemmons Frwy.",
+      "City": "Lewisville",
+      "State": "TX",
+      "ZIP": "75067"
+    },
+    {
+      "Dealer": "Vandergriff Toyota",
+      "Website": "",
+      "Phone": "(817) 380-4144",
+      "Email": "internet@vandergrifftoyota.com",
+      "Street": "1000 West I-20",
+      "City": "Arlington",
+      "State": "TX",
+      "ZIP": "76017"
+    },
+    {
+      "Dealer": "Toyota of Plano",
+      "Website": "",
+      "Phone": "(972) 248-7777",
+      "Email": "internet@toyotaofplano.com",
+      "Street": "6888 State Hwy 121",
+      "City": "Plano",
+      "State": "TX",
+      "ZIP": "75024"
+    },
+    {
+      "Dealer": "Toyota of Rockwall",
+      "Website": "",
+      "Phone": "(469) 402-1300",
+      "Email": "230934Toyota@tpl.carlead.com",
+      "Street": "1250 East I30",
+      "City": "Rockwall",
+      "State": "TX",
+      "ZIP": "75087"
+    },
+    {
+      "Dealer": "Freeman Toyota",
+      "Website": "",
+      "Phone": "(817) 287-5200",
+      "Email": "internet@freemantoyota.com",
+      "Street": "204 Northeast Loop 820",
+      "City": "Hurst",
+      "State": "TX",
+      "ZIP": "76053"
+    },
+    {
+      "Dealer": "Pat Lobb Toyota of McKinney",
+      "Website": "",
+      "Phone": "(214) 544-8696",
+      "Email": "internet@patlobb.com",
+      "Street": "3350 S. Central Expresswy",
+      "City": "McKinney",
+      "State": "TX",
+      "ZIP": "75070"
+    },
+    {
+      "Dealer": "Longo Toyota of Prosper",
+      "Website": "",
+      "Phone": "(469) 296-4557",
+      "Email": "",
+      "Street": "2100 West University Drive",
+      "City": "Prosper",
+      "State": "TX",
+      "ZIP": "75078"
+    },
+    {
+      "Dealer": "Toyota of Denton",
+      "Website": "",
+      "Phone": "(940) 382-5481",
+      "Email": "",
+      "Street": "4100 South IH 35 East",
+      "City": "Denton",
+      "State": "TX",
+      "ZIP": "76210"
+    },
+    {
+      "Dealer": "Family Toyota of Burleson",
+      "Website": "",
+      "Phone": "(817) 447-4400",
+      "Email": "",
+      "Street": "801 S. Burleson Blvd.",
+      "City": "Burleson",
+      "State": "TX",
+      "ZIP": "76028"
+    },
+    {
+      "Dealer": "Toyota of Fort Worth",
+      "Website": "",
+      "Phone": "(817) 560-1500",
+      "Email": "",
+      "Street": "9001 Camp Bowie West Blvd.",
+      "City": "Fort Worth",
+      "State": "TX",
+      "ZIP": "76116"
+    },
+    {
+      "Dealer": "Camelback Toyota",
+      "Website": "",
+      "Phone": "(602) 264-2841",
+      "Email": "Ecom02036@toyota.com",
+      "Street": "1550 East Camelback Road",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85014"
+    },
+    {
+      "Dealer": "AutoNation Toyota Tempe",
+      "Website": "",
+      "Phone": "(480) 420-3425",
+      "Email": "Ecom02042@toyota.com",
+      "Street": "7970 South Autoplex Loop",
+      "City": "Tempe",
+      "State": "AZ",
+      "ZIP": "85284"
+    },
+    {
+      "Dealer": "Berge Toyota",
+      "Website": "",
+      "Phone": "(480) 655-4400",
+      "Email": "Ecom02053@toyota.com",
+      "Street": "2020 W Riverview Auto Dr",
+      "City": "Mesa",
+      "State": "AZ",
+      "ZIP": "85201"
+    },
+    {
+      "Dealer": "Avondale Toyota",
+      "Website": "",
+      "Phone": "(623) 936-7700",
+      "Email": "Ecom02050@toyota.com",
+      "Street": "10005 West Papago Frwy.",
+      "City": "Avondale",
+      "State": "AZ",
+      "ZIP": "85323"
+    },
+    {
+      "Dealer": "Bell Road Toyota",
+      "Website": "",
+      "Phone": "(602) 863-0600",
+      "Email": "",
+      "Street": "2020 West Bell Road",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85023"
+    },
+    {
+      "Dealer": "Right Toyota",
+      "Website": "",
+      "Phone": "(480) 778-2200",
+      "Email": "Ecom02044@toyota.com",
+      "Street": "7701 E Frank Lloyd Wright",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "ZIP": "85260"
+    },
+    {
+      "Dealer": "Larry H. Miller Toyota Peoria",
+      "Website": "",
+      "Phone": "(623) 876-3400",
+      "Email": "",
+      "Street": "8633 West Bell Road",
+      "City": "Peoria",
+      "State": "AZ",
+      "ZIP": "85382"
+    },
+    {
+      "Dealer": "Big Two Toyota of Chandler",
+      "Website": "",
+      "Phone": "(480) 898-6000",
+      "Email": "Ecom02016@toyota.com",
+      "Street": "1250 S. Gilbert Road",
+      "City": "Chandler",
+      "State": "AZ",
+      "ZIP": "85286"
+    },
+    {
+      "Dealer": "Earnhardt Toyota",
+      "Website": "",
+      "Phone": "(480) 807-9700",
+      "Email": "Ecom02051@toyota.com",
+      "Street": "6136 East Autoloop Avenue",
+      "City": "Mesa",
+      "State": "AZ",
+      "ZIP": "85206"
+    },
+    {
+      "Dealer": "Toyota of Surprise",
+      "Website": "",
+      "Phone": "(623) 312-3100",
+      "Email": "",
+      "Street": "13543 N. Auto Show Avenue",
+      "City": "Surprise",
+      "State": "AZ",
+      "ZIP": "85388"
+    },
+    {
+      "Dealer": "Toyota of Seattle",
+      "Website": "",
+      "Phone": "(206) 382-4300",
+      "Email": "Ecom46086@toyota.com",
+      "Street": "1925 Airport Way South",
+      "City": "Seattle",
+      "State": "WA",
+      "ZIP": "98134"
+    },
+    {
+      "Dealer": "Toyota of Lake City",
+      "Website": "",
+      "Phone": "(206) 367-0080",
+      "Email": "Ecom46094@toyota.com",
+      "Street": "13355 Lake City Way, N.E.",
+      "City": "Seattle",
+      "State": "WA",
+      "ZIP": "98125"
+    },
+    {
+      "Dealer": "Michael's Toyota of Bellevue",
+      "Website": "",
+      "Phone": "(425) 455-9500",
+      "Email": "",
+      "Street": "3080 148th Ave.SE Ste. A",
+      "City": "Bellevue",
+      "State": "WA",
+      "ZIP": "98007"
+    },
+    {
+      "Dealer": "Burien Toyota",
+      "Website": "",
+      "Phone": "(206) 243-0700",
+      "Email": "Ecom46076@toyota.com",
+      "Street": "15025 First Avenue South",
+      "City": "Burien",
+      "State": "WA",
+      "ZIP": "98148"
+    },
+    {
+      "Dealer": "Toyota of Kirkland",
+      "Website": "",
+      "Phone": "(425) 814-9696",
+      "Email": "Ecom46089@toyota.com",
+      "Street": "13210 NE 124th St",
+      "City": "Kirkland",
+      "State": "WA",
+      "ZIP": "98034"
+    },
+    {
+      "Dealer": "Toyota of Renton",
+      "Website": "",
+      "Phone": "(425) 228-4700",
+      "Email": "Ecom46101@toyota.com",
+      "Street": "150 SW 7th Street",
+      "City": "Renton",
+      "State": "WA",
+      "ZIP": "98057"
+    },
+    {
+      "Dealer": "Swickard Toyota",
+      "Website": "",
+      "Phone": "(425) 775-4422",
+      "Email": "",
+      "Street": "21300 Highway 99 South",
+      "City": "Edmonds",
+      "State": "WA",
+      "ZIP": "98026"
+    },
+    {
+      "Dealer": "Heartland Toyota",
+      "Website": "",
+      "Phone": "(360) 377-1200",
+      "Email": "Ecom46087@toyota.com",
+      "Street": "901 West Hills Blvd.",
+      "City": "Bremerton",
+      "State": "WA",
+      "ZIP": "98312"
+    },
+    {
+      "Dealer": "Doxon Toyota",
+      "Website": "",
+      "Phone": "(253) 833-4555",
+      "Email": "Ecom46003@toyota.com",
+      "Street": "3405 N. Auburn Way",
+      "City": "Auburn",
+      "State": "WA",
+      "ZIP": "98002"
+    },
+    {
+      "Dealer": "Rodland Toyota",
+      "Website": "",
+      "Phone": "(425) 353-1111",
+      "Email": "lindsay@rodlandtoyota.com",
+      "Street": "6816 Evergreen Way",
+      "City": "Everett",
+      "State": "WA",
+      "ZIP": "98203"
+    },
+    {
+      "Dealer": "Titus-Will Toyota",
+      "Website": "",
+      "Phone": "(253) 475-4151",
+      "Email": "Ecom46067@toyota.com",
+      "Street": "3506 S Sprague Avenue",
+      "City": "Tacoma",
+      "State": "WA",
+      "ZIP": "98409"
+    },
+    {
+      "Dealer": "Toyota of Puyallup",
+      "Website": "",
+      "Phone": "(253) 286-6000",
+      "Email": "Ecom46042@toyota.com",
+      "Street": "1400 River Road",
+      "City": "Puyallup",
+      "State": "WA",
+      "ZIP": "98371"
+    },
+    {
+      "Dealer": "Toyota of Tacoma",
+      "Website": "",
+      "Phone": "(253) 475-4816",
+      "Email": "Ecom46088@toyota.com",
+      "Street": "7815 South Tacoma Way",
+      "City": "Tacoma",
+      "State": "WA",
+      "ZIP": "98409"
+    },
+    {
+      "Dealer": "Marysville Toyota",
+      "Website": "",
+      "Phone": "(360) 651-0200",
+      "Email": "",
+      "Street": "16120 Smokey Point Blvd.",
+      "City": "Marysville",
+      "State": "WA",
+      "ZIP": "98271"
+    },
+    {
+      "Dealer": "Mountain States Toyota",
+      "Website": "",
+      "Phone": "(303) 302-8888",
+      "Email": "Ecom05067@toyota.com",
+      "Street": "201 West 70th Avenue",
+      "City": "Denver",
+      "State": "CO",
+      "ZIP": "80221"
+    },
+    {
+      "Dealer": "Stevinson Toyota East",
+      "Website": "",
+      "Phone": "(303) 340-2170",
+      "Email": "",
+      "Street": "444 South Havana Street",
+      "City": "Aurora",
+      "State": "CO",
+      "ZIP": "80012"
+    },
+    {
+      "Dealer": "Stevinson Toyota West",
+      "Website": "",
+      "Phone": "(303) 277-0550",
+      "Email": "",
+      "Street": "780 Denver W Colorado Mills Bl",
+      "City": "Lakewood",
+      "State": "CO",
+      "ZIP": "80401"
+    },
+    {
+      "Dealer": "Groove Toyota",
+      "Website": "",
+      "Phone": "(303) 761-3222",
+      "Email": "",
+      "Street": "5460 South Broadway",
+      "City": "Englewood",
+      "State": "CO",
+      "ZIP": "80113"
+    },
+    {
+      "Dealer": "AutoNation Toyota Arapahoe",
+      "Website": "",
+      "Phone": "(303) 578-6111",
+      "Email": "Ecom05063@toyota.com",
+      "Street": "10531 East Arapahoe Road",
+      "City": "Centennial",
+      "State": "CO",
+      "ZIP": "80112"
+    },
+    {
+      "Dealer": "Corwin Toyota Boulder",
+      "Website": "",
+      "Phone": "(303) 443-3250",
+      "Email": "",
+      "Street": "2465 48th Court",
+      "City": "Boulder",
+      "State": "CO",
+      "ZIP": "80301"
+    },
+    {
+      "Dealer": "Stapp Interstate Toyota, Inc.",
+      "Website": "",
+      "Phone": "(303) 776-1743",
+      "Email": "Ecom05043@toyota.com",
+      "Street": "8019 Raspberry Way",
+      "City": "Frederick",
+      "State": "CO",
+      "ZIP": "80504"
+    },
+    {
+      "Dealer": "Koons Toyota Arlington",
+      "Website": "",
+      "Phone": "(703) 522-6000",
+      "Email": "",
+      "Street": "4045 Cherry Hill Road",
+      "City": "Arlington",
+      "State": "VA",
+      "ZIP": "22207"
+    },
+    {
+      "Dealer": "Alexandria Toyota",
+      "Website": "",
+      "Phone": "(703) 684-0700",
+      "Email": "",
+      "Street": "3750 Richmond Highway",
+      "City": "Alexandria",
+      "State": "VA",
+      "ZIP": "22305"
+    },
+    {
+      "Dealer": "Toyota Certified at Capital Plaza",
+      "Website": "",
+      "Phone": "(301) 772-6900",
+      "Email": "",
+      "Street": "6100 Annapolis Road",
+      "City": "Greater Landover",
+      "State": "MD",
+      "ZIP": "20784"
+    },
+    {
+      "Dealer": "Passport Toyota",
+      "Website": "",
+      "Phone": "(301) 899-6000",
+      "Email": "Ecom19070@toyota.com",
+      "Street": "5001 Auth Way",
+      "City": "Suitland",
+      "State": "MD",
+      "ZIP": "20746"
+    },
+    {
+      "Dealer": "Bill Page Toyota",
+      "Website": "",
+      "Phone": "(703) 532-8800",
+      "Email": "Ecom45016@toyota.com",
+      "Street": "2923 Annandale Road",
+      "City": "Falls Church",
+      "State": "VA",
+      "ZIP": "22042"
+    },
+    {
+      "Dealer": "Jim Coleman Toyota",
+      "Website": "",
+      "Phone": "(301) 469-7100",
+      "Email": "Ecom19045@toyota.com",
+      "Street": "10400 Auto Park Avenue",
+      "City": "Bethesda",
+      "State": "MD",
+      "ZIP": "20817"
+    },
+    {
+      "Dealer": "DARCARS Toyota",
+      "Website": "",
+      "Phone": "(301) 622-0300",
+      "Email": "Ecom19043@toyota.com",
+      "Street": "12210 Cherry Hill Road",
+      "City": "Silver Spring",
+      "State": "MD",
+      "ZIP": "20904"
+    },
+    {
+      "Dealer": "Koons Toyota Tysons",
+      "Website": "",
+      "Phone": "(888) 386-0017",
+      "Email": "",
+      "Street": "8610 Leesburg Pike",
+      "City": "Vienna",
+      "State": "VA",
+      "ZIP": "22182"
+    },
+    {
+      "Dealer": "Priority Toyota Springfield",
+      "Website": "",
+      "Phone": "(703) 269-1400",
+      "Email": "",
+      "Street": "7601 Loisdale Road",
+      "City": "Springfield",
+      "State": "VA",
+      "ZIP": "22150"
+    },
+    {
+      "Dealer": "Ourisman Fairfax Toyota",
+      "Website": "",
+      "Phone": "(703) 359-1010",
+      "Email": "Ecom45055@toyota.com",
+      "Street": "10287 Fairfax Boulevard",
+      "City": "Fairfax",
+      "State": "VA",
+      "ZIP": "22030"
+    },
+    {
+      "Dealer": "355 Toyota",
+      "Website": "",
+      "Phone": "(301) 340-0900",
+      "Email": "Ecom19057@toyota.com",
+      "Street": "15625 Frederick Road",
+      "City": "Rockville",
+      "State": "MD",
+      "ZIP": "20855"
+    },
+    {
+      "Dealer": "Toyota of Bowie",
+      "Website": "",
+      "Phone": "(301) 867-1600",
+      "Email": "",
+      "Street": "16700 Governor Bridge Road",
+      "City": "Bowie",
+      "State": "MD",
+      "ZIP": "20716"
+    },
+    {
+      "Dealer": "Sheehy Toyota of Laurel",
+      "Website": "",
+      "Phone": "(301) 362-3399",
+      "Email": "chrisprender@sheehy.com",
+      "Street": "8801 Freestate Drive",
+      "City": "Laurel",
+      "State": "MD",
+      "ZIP": "20723"
+    },
+    {
+      "Dealer": "Waldorf Toyota",
+      "Website": "",
+      "Phone": "(301) 843-3700",
+      "Email": "",
+      "Street": "2600 Crain Highway",
+      "City": "Waldorf",
+      "State": "MD",
+      "ZIP": "20601"
+    },
+    {
+      "Dealer": "Fitzgerald Toyota Gaithersburg",
+      "Website": "",
+      "Phone": "(301) 921-0300",
+      "Email": "Ecom19052@toyota.com",
+      "Street": "907 N. Frederick Avenue",
+      "City": "Gaithersburg",
+      "State": "MD",
+      "ZIP": "20879"
+    },
+    {
+      "Dealer": "Antwerpen's Toyota",
+      "Website": "",
+      "Phone": "(410) 531-5700",
+      "Email": "Ecom19044@toyota.com",
+      "Street": "12420 Auto Drive",
+      "City": "Clarksville",
+      "State": "MD",
+      "ZIP": "21029"
+    },
+    {
+      "Dealer": "Toyota of Woodbridge",
+      "Website": "",
+      "Phone": "(703) 494-1800",
+      "Email": "",
+      "Street": "14227 Richmond Highway",
+      "City": "Woodbridge",
+      "State": "VA",
+      "ZIP": "22191"
+    },
+    {
+      "Dealer": "Ourisman Chantilly Toyota",
+      "Website": "",
+      "Phone": "(703) 378-2121",
+      "Email": "Ecom45079@toyota.com",
+      "Street": "4135 Auto Park Circle",
+      "City": "Chantilly",
+      "State": "VA",
+      "ZIP": "20151"
+    },
+    {
+      "Dealer": "Miller Toyota",
+      "Website": "",
+      "Phone": "(703) 369-3040",
+      "Email": "Ecom45040@toyota.com",
+      "Street": "8566 Sudley Road",
+      "City": "Manassas",
+      "State": "VA",
+      "ZIP": "20110"
+    },
+    {
+      "Dealer": "Koons Toyota Annapolis",
+      "Website": "",
+      "Phone": "(410) 268-6480",
+      "Email": "",
+      "Street": "1107 West Street",
+      "City": "Annapolis",
+      "State": "MD",
+      "ZIP": "21401"
+    },
+    {
+      "Dealer": "Safford Brown Toyota Glen Burnie",
+      "Website": "",
+      "Phone": "(410) 761-9000",
+      "Email": "JStefero@SaffordBrown.com",
+      "Street": "7167 Ritchie Highway",
+      "City": "Glen Burnie",
+      "State": "MD",
+      "ZIP": "21061"
+    },
+    {
+      "Dealer": "Heritage Toyota Catonsville",
+      "Website": "",
+      "Phone": "(410) 788-8400",
+      "Email": "",
+      "Street": "6324 Baltimore Ntl Pike",
+      "City": "Baltimore",
+      "State": "MD",
+      "ZIP": "21228"
+    },
+    {
+      "Dealer": "AutoNation Toyota Leesburg",
+      "Website": "",
+      "Phone": "(571) 357-3965",
+      "Email": "Ecom45083@toyota.com",
+      "Street": "1 Cardinal Park Drive, S.E.",
+      "City": "Leesburg",
+      "State": "VA",
+      "ZIP": "20175"
+    },
+    {
+      "Dealer": "Bayside Toyota",
+      "Website": "",
+      "Phone": "(410) 535-1500",
+      "Email": "Ecom19056@toyota.com",
+      "Street": "105 Auto Drive",
+      "City": "Prince Frederick",
+      "State": "MD",
+      "ZIP": "20678"
+    },
+    {
+      "Dealer": "DARCARS Toyota of Baltimore",
+      "Website": "",
+      "Phone": "(410) 633-2200",
+      "Email": "Ecom19069@toyota.com",
+      "Street": "6007 Eastern Avenue",
+      "City": "Baltimore",
+      "State": "MD",
+      "ZIP": "21224"
+    },
+    {
+      "Dealer": "Sheehy Toyota of Stafford",
+      "Website": "",
+      "Phone": "(540) 720-4700",
+      "Email": "mikewright@sheehy.com",
+      "Street": "95 Garrisonville Road",
+      "City": "Stafford",
+      "State": "VA",
+      "ZIP": "22554"
+    },
+    {
+      "Dealer": "Heritage Toyota Owings Mills",
+      "Website": "",
+      "Phone": "(410) 363-2000",
+      "Email": "",
+      "Street": "9801 Reisterstown Road",
+      "City": "Owings Mills",
+      "State": "MD",
+      "ZIP": "21117"
+    },
+    {
+      "Dealer": "DARCARS Toyota of Frederick",
+      "Website": "",
+      "Phone": "(301) 696-6300",
+      "Email": "Ecom19063@toyota.com",
+      "Street": "5293 Buckeystown Pike",
+      "City": "Frederick",
+      "State": "MD",
+      "ZIP": "21704"
+    },
+    {
+      "Dealer": "DARCARS Toyota of Frederick Service Center",
+      "Website": "",
+      "Phone": "(301) 662-8293",
+      "Email": "Ecom19066@toyota.com",
+      "Street": "1040 West Patrick Street",
+      "City": "Frederick",
+      "State": "MD",
+      "ZIP": "21701"
+    },
+    {
+      "Dealer": "Jerry's Toyota",
+      "Website": "",
+      "Phone": "(410) 661-5700",
+      "Email": "Ecom19037@toyota.com",
+      "Street": "8001 Belair Road",
+      "City": "Baltimore",
+      "State": "MD",
+      "ZIP": "21236"
+    },
+    {
+      "Dealer": "Warrenton Toyota",
+      "Website": "",
+      "Phone": "(540) 878-4100",
+      "Email": "Ecom45088@toyota.com",
+      "Street": "6449 Lee Highway",
+      "City": "Warrenton",
+      "State": "VA",
+      "ZIP": "20187"
+    },
+    {
+      "Dealer": "Sheehy Toyota of Timonium",
+      "Website": "",
+      "Phone": "(410) 666-8900",
+      "Email": "",
+      "Street": "10401 York Road",
+      "City": "Cockeysville",
+      "State": "MD",
+      "ZIP": "21030"
+    },
+    {
+      "Dealer": "Koons Toyota Westminster",
+      "Website": "",
+      "Phone": "(888) 461-7519",
+      "Email": "",
+      "Street": "375 Baltimore Blvd.",
+      "City": "Westminster",
+      "State": "MD",
+      "ZIP": "21157"
+    }
+  ]
+}
