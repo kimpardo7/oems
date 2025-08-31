@@ -1,0 +1,1534 @@
+{
+  "oem": "Bentley",
+  "zip_code": "multiple",
+  "total_dealers_found": 62,
+  "method": "bentley_html_extraction",
+  "dealers": [
+    {
+      "Dealer": "Bentley Atlanta",
+      "Street": "10995 Westside Parkway",
+      "City": "Alpharetta",
+      "State": "",
+      "ZIP": "30009",
+      "Phone": "+1 678 352 3572",
+      "Website": "https://www.bentleyatlanta.com",
+      "coordinates": {
+        "latitude": 34.04235,
+        "longitude": -84.32284
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Austin",
+      "Street": "12989 Research Boulevard",
+      "City": "Austin",
+      "State": "",
+      "ZIP": "78750-3204",
+      "Phone": "1-737-304-8189",
+      "Website": "https://www.bentleyaustin.com",
+      "coordinates": {
+        "latitude": 30.4386126,
+        "longitude": -97.7762751
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Austin",
+      "Street": "12971 Pond Springs Road",
+      "City": "Austin",
+      "State": "",
+      "ZIP": "78729",
+      "Phone": "1-737-304-8189",
+      "Website": "https://www.bentleyaustin.com",
+      "coordinates": {
+        "latitude": 30.4392841,
+        "longitude": -97.7736506
+      },
+      "opening_hours": {
+        "Monday": "07:30 - 18:00",
+        "Tuesday": "07:30 - 18:00",
+        "Wednesday": "07:30 - 18:00",
+        "Thursday": "07:30 - 18:00",
+        "Friday": "07:30 - 18:00",
+        "Saturday": "09:00 - 16:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Beverly Hills",
+      "Street": "8423 Wilshire Boulevard",
+      "City": "Beverly Hills",
+      "State": "",
+      "ZIP": "90211",
+      "Phone": "+1 323 648 5700",
+      "Website": "https://www.bentleybeverlyhills.com",
+      "coordinates": {
+        "latitude": 34.065234,
+        "longitude": -118.374711
+      },
+      "opening_hours": {
+        "Monday": "10:00 - 19:00",
+        "Tuesday": "10:00 - 19:00",
+        "Wednesday": "10:00 - 19:00",
+        "Thursday": "10:00 - 19:00",
+        "Friday": "10:00 - 19:00",
+        "Saturday": "10:00 - 17:00",
+        "Sunday": "00:00 - 00:00"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Beverly Hills",
+      "Street": "2240 Colby Avenue",
+      "City": "Los Angeles",
+      "State": "",
+      "ZIP": "90064",
+      "Phone": "+1 310 477 4263",
+      "Website": "https://www.bentleybeverlyhills.com",
+      "coordinates": {
+        "latitude": 34.0349457,
+        "longitude": -118.4460167
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 17:00",
+        "Tuesday": "08:00 - 17:00",
+        "Wednesday": "08:00 - 17:00",
+        "Thursday": "08:00 - 17:00",
+        "Friday": "08:00 - 17:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Boston",
+      "Street": "533 Boston Post Road",
+      "City": "Wayland",
+      "State": "",
+      "ZIP": "01778",
+      "Phone": "+1 508 650 0020",
+      "Website": "https://www.bentleyboston.com",
+      "coordinates": {
+        "latitude": 42.362668,
+        "longitude": -71.390063
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Charlotte",
+      "Street": "400 Tyvola Road",
+      "City": "Charlotte",
+      "State": "",
+      "ZIP": "28217",
+      "Phone": "855-655-8133",
+      "Website": "https://www.bentleycharlotte.com",
+      "coordinates": {
+        "latitude": 35.162546,
+        "longitude": -80.887312
+      },
+      "opening_hours": {
+        "Monday": "08:30 - 18:00",
+        "Tuesday": "08:30 - 18:00",
+        "Wednesday": "08:30 - 18:00",
+        "Thursday": "08:30 - 18:00",
+        "Friday": "08:30 - 18:00",
+        "Saturday": "08:30 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Cleveland",
+      "Street": "28300 Lorain Road",
+      "City": "North Olmstead",
+      "State": "",
+      "ZIP": "44070",
+      "Phone": "440 716 2000",
+      "Website": "https://Bentleycleveland.com",
+      "coordinates": {
+        "latitude": 41.410803,
+        "longitude": -81.935298
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 17:00",
+        "Saturday": "09:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Cleveland",
+      "Street": "14070 Brookpark Road",
+      "City": "Cleveland",
+      "State": "",
+      "ZIP": "44135",
+      "Phone": "440-771-2756",
+      "Website": "https://Bentleycleveland.com",
+      "coordinates": {
+        "latitude": 41.4190667,
+        "longitude": -81.7963783
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 17:00",
+        "Tuesday": "08:00 - 17:00",
+        "Wednesday": "08:00 - 17:00",
+        "Thursday": "08:00 - 17:00",
+        "Friday": "08:00 - 17:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Columbus",
+      "Street": "6335 Perimeter Loop Road",
+      "City": "Dublin",
+      "State": "",
+      "ZIP": "43017",
+      "Phone": "+1 888 536 6715",
+      "Website": "https://www.bentleycolumbus.com",
+      "coordinates": {
+        "latitude": 40.102,
+        "longitude": -83.15098
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 19:00",
+        "Tuesday": "09:00 - 19:00",
+        "Wednesday": "09:00 - 19:00",
+        "Thursday": "09:00 - 19:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Dallas",
+      "Street": "5300 Lemmon Avenue",
+      "City": "Dallas",
+      "State": "",
+      "ZIP": "75209",
+      "Phone": "+1 214 849 5300",
+      "Website": "https://www.bentleydallas.com",
+      "coordinates": {
+        "latitude": 32.825924,
+        "longitude": -96.821761
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Dallas",
+      "Street": "2425 W. Northwest Highway",
+      "City": "Dallas",
+      "State": "",
+      "ZIP": "75220",
+      "Phone": "+1 (214) 849-5300",
+      "Website": "https://www.bentleydallas.com",
+      "coordinates": {
+        "latitude": 32.859659,
+        "longitude": -96.882626
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 17:00",
+        "Tuesday": "08:00 - 17:00",
+        "Wednesday": "08:00 - 17:00",
+        "Thursday": "08:00 - 17:00",
+        "Friday": "08:00 - 17:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Denver",
+      "Street": "8301 Parkway Drive",
+      "City": "Lone Tree",
+      "State": "",
+      "ZIP": "Denver",
+      "Phone": "303-532-2750",
+      "Website": "https://www.bentleydenver.com",
+      "coordinates": {
+        "latitude": 39.56525,
+        "longitude": -104.89174
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Downers Grove",
+      "Street": "330 Ogden Avenue",
+      "City": "Downers Grove",
+      "State": "",
+      "ZIP": "60515",
+      "Phone": "+1 630 241 4848",
+      "Website": "https://www.bentleydownersgrove.com",
+      "coordinates": {
+        "latitude": 41.809968,
+        "longitude": -87.994266
+      },
+      "opening_hours": {
+        "Monday": "10:00 - 20:00",
+        "Tuesday": "10:00 - 20:00",
+        "Wednesday": "10:00 - 20:00",
+        "Thursday": "10:00 - 20:00",
+        "Friday": "10:00 - 20:00",
+        "Saturday": "09:00 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Edison",
+      "Street": "808 Route 1 North",
+      "City": "Edison",
+      "State": "",
+      "ZIP": "08817",
+      "Phone": "732-523-4006",
+      "Website": "https://bentleyedison.com",
+      "coordinates": {
+        "latitude": 40.511042,
+        "longitude": -74.380521
+      },
+      "opening_hours": {
+        "Monday": "10:00 - 18:00",
+        "Tuesday": "10:00 - 18:00",
+        "Wednesday": "10:00 - 18:00",
+        "Thursday": "10:00 - 18:00",
+        "Friday": "10:00 - 18:00",
+        "Saturday": "10:00 - 16:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Edison",
+      "Street": "816 Route 1 North",
+      "City": "Edison",
+      "State": "",
+      "ZIP": "08817",
+      "Phone": "732-523-4018",
+      "Website": "https://bentleyedison.com",
+      "coordinates": {
+        "latitude": 40.510985,
+        "longitude": -74.379113
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 17:00",
+        "Tuesday": "08:00 - 17:00",
+        "Wednesday": "08:00 - 17:00",
+        "Thursday": "08:00 - 17:00",
+        "Friday": "08:00 - 17:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Fort Lauderdale",
+      "Street": "900 East Sunrise Boulevard",
+      "City": "Fort Lauderdale",
+      "State": "",
+      "ZIP": "33304",
+      "Phone": "+1 954 779 2009",
+      "Website": "https://bentleyfortlauderdale.com",
+      "coordinates": {
+        "latitude": 26.1364664,
+        "longitude": -80.1363676
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 19:00",
+        "Tuesday": "09:00 - 19:00",
+        "Wednesday": "09:00 - 19:00",
+        "Thursday": "09:00 - 19:00",
+        "Friday": "09:00 - 19:00",
+        "Saturday": "09:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Gold Coast",
+      "Street": "834 North Rush Street",
+      "City": "Chicago",
+      "State": "",
+      "ZIP": "60611",
+      "Phone": "+1 312 280 4848",
+      "Website": "https://www.bentleygoldcoast.com",
+      "coordinates": {
+        "latitude": 41.89793,
+        "longitude": -87.62651
+      },
+      "opening_hours": {
+        "Monday": "10:00 - 20:00",
+        "Tuesday": "10:00 - 20:00",
+        "Wednesday": "10:00 - 20:00",
+        "Thursday": "10:00 - 20:00",
+        "Friday": "10:00 - 20:00",
+        "Saturday": "10:00 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Gold Coast",
+      "Street": "1100 North Clark Street",
+      "City": "Chicago",
+      "State": "",
+      "ZIP": "60610",
+      "Phone": "+1 773 883 5320",
+      "Website": "https://www.bentleygoldcoast.com",
+      "coordinates": {
+        "latitude": 41.9022104,
+        "longitude": -87.6340145
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 18:00",
+        "Tuesday": "08:00 - 18:00",
+        "Wednesday": "08:00 - 18:00",
+        "Thursday": "08:00 - 18:00",
+        "Friday": "08:00 - 18:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Greensboro",
+      "Street": "3604 West Wendover Avenue",
+      "City": "Greensboro",
+      "State": "",
+      "ZIP": "27407",
+      "Phone": "336-265-9973",
+      "Website": "https://bentleygreensboro.com",
+      "coordinates": {
+        "latitude": 36.0608249,
+        "longitude": -79.8712093
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Greenwich",
+      "Street": "275 West Putnam Avenue",
+      "City": "Greenwich",
+      "State": "",
+      "ZIP": "06830",
+      "Phone": "+1 203 661 3100",
+      "Website": "https://bentleyofgreenwich.com",
+      "coordinates": {
+        "latitude": 41.024109,
+        "longitude": -73.636682
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 16:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Greenwich",
+      "Street": "186 Magee Ave",
+      "City": "Stamford",
+      "State": "",
+      "ZIP": "06902",
+      "Phone": "+1 203 661 3100",
+      "Website": "https://bentleyofgreenwich.com",
+      "coordinates": {
+        "latitude": 41.043939,
+        "longitude": -73.526961
+      },
+      "opening_hours": {
+        "Monday": "07:30 - 17:00",
+        "Tuesday": "07:30 - 17:00",
+        "Wednesday": "07:30 - 17:00",
+        "Thursday": "07:30 - 17:00",
+        "Friday": "07:30 - 17:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Honolulu",
+      "Street": "888 Kapiolani Boulevard",
+      "City": "Commercial Unit A",
+      "State": "",
+      "ZIP": "Honolulu",
+      "Phone": "+1 808 377 4614",
+      "Website": "https://bentleyhonolulu.com",
+      "coordinates": {
+        "latitude": 21.299359,
+        "longitude": -157.852662
+      },
+      "opening_hours": {
+        "Monday": "10:00 - 18:00",
+        "Tuesday": "10:00 - 18:00",
+        "Wednesday": "10:00 - 18:00",
+        "Thursday": "10:00 - 18:00",
+        "Friday": "10:00 - 18:00",
+        "Saturday": "10:00 - 18:00",
+        "Sunday": "10:00 - 17:00"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Houston",
+      "Street": "1530 West Loop South",
+      "City": "Houston",
+      "State": "",
+      "ZIP": "77027",
+      "Phone": "+1 713 850 1530",
+      "Website": "https://www.bentleyhouston.com/",
+      "coordinates": {
+        "latitude": 29.751806,
+        "longitude": -95.456584
+      },
+      "opening_hours": {
+        "Monday": "07:30 - 17:30",
+        "Tuesday": "07:30 - 17:30",
+        "Wednesday": "07:30 - 17:30",
+        "Thursday": "07:30 - 17:30",
+        "Friday": "07:30 - 17:30",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Indianapolis",
+      "Street": "9450 N Aronson Road",
+      "City": "Indianapolis",
+      "State": "",
+      "ZIP": "46240",
+      "Phone": "317-688-9444",
+      "Website": "https://www.bentleyindianapolis.com",
+      "coordinates": {
+        "latitude": 39.9029,
+        "longitude": -86.13248
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Jacksonville",
+      "Street": "7137 Bentley Road",
+      "City": "Jacksonville",
+      "State": "",
+      "ZIP": "32256",
+      "Phone": "904 431 3700",
+      "Website": "https://bentleyjacksonville.com",
+      "coordinates": {
+        "latitude": 30.24478,
+        "longitude": -81.59647
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Las Vegas",
+      "Street": "5550 West Sahara Avenue",
+      "City": "Las Vegas",
+      "State": "",
+      "ZIP": "89146",
+      "Phone": "+1 702 932 7100",
+      "Website": "https://www.bentleylasvegas.com",
+      "coordinates": {
+        "latitude": 36.14545,
+        "longitude": -115.2173
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 17:00",
+        "Tuesday": "09:00 - 17:00",
+        "Wednesday": "09:00 - 17:00",
+        "Thursday": "09:00 - 17:00",
+        "Friday": "09:00 - 17:00",
+        "Saturday": "09:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Long Island",
+      "Street": "115 South Service Road",
+      "City": "Jericho",
+      "State": "",
+      "ZIP": "11753",
+      "Phone": "+1 516 367 9600",
+      "Website": "https://www.Bentleylongisland.com",
+      "coordinates": {
+        "latitude": 40.779813,
+        "longitude": -73.565992
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:30",
+        "Tuesday": "09:00 - 18:30",
+        "Wednesday": "09:00 - 18:30",
+        "Thursday": "09:00 - 18:30",
+        "Friday": "09:00 - 18:30",
+        "Saturday": "10:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Los Gatos",
+      "Street": "620 Blossom Hill Road",
+      "City": "Los Gatos",
+      "State": "",
+      "ZIP": "95032",
+      "Phone": "408 335 6389",
+      "Website": "https://www.bentleylosgatos.com",
+      "coordinates": {
+        "latitude": 37.236031,
+        "longitude": -121.965893
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Manhattan",
+      "Street": "711 Eleventh Avenue",
+      "City": "New York",
+      "State": "",
+      "ZIP": "10019",
+      "Phone": "+1 212 594 6200",
+      "Website": "https://www.bentleymanhattan.com",
+      "coordinates": {
+        "latitude": 40.7664611,
+        "longitude": -73.9945612
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Miami",
+      "Street": "2060 Biscayne Boulevard",
+      "City": "Miami",
+      "State": "",
+      "ZIP": "33137",
+      "Phone": "+1 305 571 1200",
+      "coordinates": {
+        "latitude": 25.796638,
+        "longitude": -80.1928353
+      },
+      "opening_hours": {
+        "Monday": "08:30 - 20:00",
+        "Tuesday": "08:30 - 20:00",
+        "Wednesday": "08:30 - 20:00",
+        "Thursday": "08:30 - 20:00",
+        "Friday": "08:30 - 20:00",
+        "Saturday": "09:00 - 18:00",
+        "Sunday": "11:00 - 17:00"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Miami",
+      "Street": "2060 Biscayne Boulevard",
+      "City": "Miami",
+      "State": "",
+      "ZIP": "33137",
+      "Phone": "+1 305 571 1205",
+      "coordinates": {
+        "latitude": 25.796891,
+        "longitude": -80.189532
+      },
+      "opening_hours": {
+        "Monday": "07:30 - 18:00",
+        "Tuesday": "07:30 - 18:00",
+        "Wednesday": "07:30 - 18:00",
+        "Thursday": "07:30 - 18:00",
+        "Friday": "07:30 - 18:00",
+        "Saturday": "08:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Minneapolis",
+      "Street": "7300 Wayzata Boulevard",
+      "City": "Golden Valley",
+      "State": "",
+      "ZIP": "55426",
+      "Website": "https://www.bentleyminneapolis.com",
+      "coordinates": {
+        "latitude": 44.9722858,
+        "longitude": -93.3755729
+      },
+      "opening_hours": {
+        "Monday": "07:00 - 18:00",
+        "Tuesday": "07:00 - 18:00",
+        "Wednesday": "07:00 - 18:00",
+        "Thursday": "07:00 - 18:00",
+        "Friday": "07:00 - 18:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Naples",
+      "Street": "800 Tamiami Trail North",
+      "City": "Naples",
+      "State": "",
+      "ZIP": "34102",
+      "Phone": "+1 239 280 5104",
+      "Website": "https://www.bentleynaples.com",
+      "coordinates": {
+        "latitude": 26.158146,
+        "longitude": -81.79668
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 19:00",
+        "Tuesday": "09:00 - 19:00",
+        "Wednesday": "09:00 - 19:00",
+        "Thursday": "09:00 - 19:00",
+        "Friday": "09:00 - 19:00",
+        "Saturday": "09:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Naples",
+      "Street": "900 Tamiami Trail North",
+      "City": "Naples",
+      "State": "",
+      "ZIP": "34102",
+      "Phone": "+1 239 280 5104",
+      "Website": "https://www.bentleynaples.com",
+      "coordinates": {
+        "latitude": 26.158934,
+        "longitude": -81.796845
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 18:00",
+        "Tuesday": "08:00 - 18:00",
+        "Wednesday": "08:00 - 18:00",
+        "Thursday": "08:00 - 18:00",
+        "Friday": "08:00 - 18:00",
+        "Saturday": "08:00 - 14:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Nashville",
+      "Street": "1599 Mallory Lane",
+      "City": "Brentwood",
+      "State": "",
+      "ZIP": "37027",
+      "Phone": "+1 615 261 0018",
+      "Website": "https://BentleyNashville.com",
+      "coordinates": {
+        "latitude": 35.9756027,
+        "longitude": -86.8109395
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Newport Beach",
+      "Street": "445 East Coast Highway",
+      "City": "California",
+      "State": "",
+      "ZIP": "Newport Beach",
+      "Phone": "+1 949 287 8765",
+      "Website": "https://www.bentleynewportbeach.com",
+      "coordinates": {
+        "latitude": 33.61512,
+        "longitude": -117.899267
+      },
+      "opening_hours": {
+        "Monday": "08:30 - 20:00",
+        "Tuesday": "08:30 - 20:00",
+        "Wednesday": "08:30 - 20:00",
+        "Thursday": "08:30 - 20:00",
+        "Friday": "08:30 - 20:00",
+        "Saturday": "09:00 - 19:00",
+        "Sunday": "10:00 - 18:00"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Newport Beach",
+      "Street": "385 Clinton Street",
+      "City": "California",
+      "State": "",
+      "ZIP": "Costa Mesa",
+      "Phone": "+1 949 287 8765",
+      "Website": "https://www.bentleynewportbeach.com",
+      "coordinates": {
+        "latitude": 33.6659701,
+        "longitude": -117.8778444
+      },
+      "opening_hours": {
+        "Monday": "07:00 - 18:30",
+        "Tuesday": "07:00 - 18:30",
+        "Wednesday": "07:00 - 18:30",
+        "Thursday": "07:00 - 18:30",
+        "Friday": "07:00 - 18:30",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Northbrook",
+      "Street": "100 Skokie Blvd",
+      "City": "Northbrook",
+      "State": "",
+      "ZIP": "60062",
+      "Phone": "847-892-1950",
+      "Website": "https://www.bentleynorthbrook.com",
+      "coordinates": {
+        "latitude": 42.150175,
+        "longitude": -87.801326
+      },
+      "opening_hours": {
+        "Monday": "07:30 - 18:00",
+        "Tuesday": "07:30 - 18:00",
+        "Wednesday": "07:30 - 18:00",
+        "Thursday": "07:30 - 18:00",
+        "Friday": "07:30 - 18:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Omaha",
+      "Street": "225 North 170th Street #101",
+      "City": "Omaha",
+      "State": "",
+      "ZIP": "68118",
+      "Website": "https://bentleywestomaha.com",
+      "coordinates": {
+        "latitude": 41.260015,
+        "longitude": -96.181124
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Orlando",
+      "Street": "2202 33rd Street",
+      "City": "Orlando",
+      "State": "",
+      "ZIP": "32839",
+      "Phone": "+1 407 339 3443",
+      "Website": "https://orlandobentley.com",
+      "coordinates": {
+        "latitude": 28.507569,
+        "longitude": -81.4097407
+      },
+      "opening_hours": {
+        "Monday": "07:30 - 17:30",
+        "Tuesday": "07:30 - 17:30",
+        "Wednesday": "07:30 - 17:30",
+        "Thursday": "07:30 - 17:30",
+        "Friday": "07:30 - 17:30",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Palm Beach",
+      "Street": "2801 Okeechobee Blvd.",
+      "City": "West Palm Beach",
+      "State": "",
+      "ZIP": "33409",
+      "Phone": "561 926 9111",
+      "Website": "http://www.bramanbentleypalmbeach.com/",
+      "coordinates": {
+        "latitude": 26.7073555,
+        "longitude": -80.0985919
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 18:00",
+        "Tuesday": "08:00 - 18:00",
+        "Wednesday": "08:00 - 18:00",
+        "Thursday": "08:00 - 18:00",
+        "Friday": "08:00 - 18:00",
+        "Saturday": "08:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Palmyra New Jersey",
+      "Street": "100 Route 73 North",
+      "City": "Palmyra",
+      "State": "",
+      "ZIP": "08065",
+      "Phone": "+1 856 829 8200",
+      "Website": "https://www.bentleypalmyra.com",
+      "coordinates": {
+        "latitude": 40.00396,
+        "longitude": -75.0373
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 20:00",
+        "Tuesday": "09:00 - 20:00",
+        "Wednesday": "09:00 - 20:00",
+        "Thursday": "09:00 - 20:00",
+        "Friday": "09:00 - 20:00",
+        "Saturday": "09:00 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Paramus",
+      "Street": "250 Route 46",
+      "City": "Parsippany",
+      "State": "",
+      "ZIP": "07054",
+      "Phone": "+1 973 575 7755",
+      "Website": "https://www.BentleyParsippany.com",
+      "coordinates": {
+        "latitude": 40.859089,
+        "longitude": -74.355927
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 17:00",
+        "Tuesday": "08:00 - 17:00",
+        "Wednesday": "08:00 - 17:00",
+        "Thursday": "08:00 - 17:00",
+        "Friday": "08:00 - 17:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Pasadena",
+      "Street": "285 West Colorado Boulevard",
+      "City": "Pasadena",
+      "State": "",
+      "ZIP": "91105",
+      "Phone": "+1 626 316 5606",
+      "Website": "https://www.bentleypasadena.com",
+      "coordinates": {
+        "latitude": 34.146074,
+        "longitude": -118.156435
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 17:00",
+        "Tuesday": "08:00 - 17:00",
+        "Wednesday": "08:00 - 17:00",
+        "Thursday": "08:00 - 17:00",
+        "Friday": "08:00 - 17:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Pittsburgh",
+      "Street": "15001 Perry Highway, Wexford, Pennsylvania",
+      "City": "Pittsburgh",
+      "State": "",
+      "ZIP": "15090",
+      "Phone": "412-344-6010",
+      "Website": "https://www.bentleypittsburgh.com",
+      "coordinates": {
+        "latitude": 40.6459303,
+        "longitude": -80.0741595
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 17:00",
+        "Tuesday": "08:00 - 17:00",
+        "Wednesday": "08:00 - 17:00",
+        "Thursday": "08:00 - 17:00",
+        "Friday": "08:00 - 17:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Rancho Mirage",
+      "Street": "71-387 Highway 111",
+      "City": "Rancho Mirage",
+      "State": "",
+      "ZIP": "92270",
+      "Phone": "+1 760 773 5000",
+      "Website": "https://www.bentleyofranchomirage.com",
+      "coordinates": {
+        "latitude": 33.745786,
+        "longitude": -116.418246
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 17:00",
+        "Tuesday": "09:00 - 17:00",
+        "Wednesday": "09:00 - 17:00",
+        "Thursday": "09:00 - 17:00",
+        "Friday": "09:00 - 17:00",
+        "Saturday": "09:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Salt Lake City",
+      "Street": "1231 South Jordan Parkway",
+      "City": "South Jordan",
+      "State": "",
+      "ZIP": "84095",
+      "Phone": "aswvfw",
+      "Website": "https://www.bentleysaltlakecity.com",
+      "coordinates": {
+        "latitude": 40.5619565,
+        "longitude": -111.9769902
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley San Antonio",
+      "Street": "27605 IH 10 West",
+      "City": "Boerne",
+      "State": "",
+      "ZIP": "78006",
+      "Phone": "TBC",
+      "Website": "https://www.bentleysanantonio.com",
+      "coordinates": {
+        "latitude": 29.709679,
+        "longitude": -98.660415
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley San Diego",
+      "Street": "16077 San Dieguito Road",
+      "City": "Rancho Santa Fe",
+      "State": "",
+      "ZIP": "92067",
+      "Phone": "(858) 454-1800",
+      "Website": "https://www.bentleysandiego.com",
+      "coordinates": {
+        "latitude": 32.991087,
+        "longitude": -117.19732
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "10:00 - 17:00",
+        "Sunday": "11:00 - 16:00"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley San Diego",
+      "Street": "11455 Sorrento Valley Road",
+      "City": "San Diego",
+      "State": "",
+      "ZIP": "92121",
+      "Phone": "(888) 874-7415",
+      "Website": "https://www.bentleysandiego.com",
+      "coordinates": {
+        "latitude": 32.910799,
+        "longitude": -117.229569
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 17:00",
+        "Tuesday": "08:00 - 17:00",
+        "Wednesday": "08:00 - 17:00",
+        "Thursday": "08:00 - 17:00",
+        "Friday": "08:00 - 17:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley San Francisco",
+      "Street": "620 Du Bois Street",
+      "City": "San Rafael,",
+      "State": "",
+      "ZIP": "94901",
+      "Phone": "415 526 7300",
+      "Website": "https://www.bentleysanfrancisco.com",
+      "coordinates": {
+        "latitude": 37.966204,
+        "longitude": -122.520308
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Santa Barbara",
+      "Street": "401 S Hope Ave, Ste D",
+      "City": "Santa Barbara",
+      "State": "",
+      "ZIP": "93105",
+      "Phone": "805 682 2000",
+      "Website": "https://www.bentleysantabarbara.com",
+      "coordinates": {
+        "latitude": 34.435006,
+        "longitude": -119.74803
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 18:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Scottsdale",
+      "Street": "7171 East Chauncey Lane",
+      "City": "Phoenix",
+      "State": "",
+      "ZIP": "85054",
+      "Phone": "+1 480 538 4300",
+      "Website": "https://www.bentleyscottsdale.com",
+      "coordinates": {
+        "latitude": 33.650898,
+        "longitude": -111.927059
+      },
+      "opening_hours": {
+        "Monday": "08:00 - 18:00",
+        "Tuesday": "08:00 - 18:00",
+        "Wednesday": "08:00 - 18:00",
+        "Thursday": "08:00 - 18:00",
+        "Friday": "08:00 - 18:00",
+        "Saturday": "08:30 - 18:00",
+        "Sunday": "12:00 - 17:00"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Seattle",
+      "Street": "13617 NE 20TH Street",
+      "City": "Bellevue",
+      "State": "",
+      "ZIP": "98005",
+      "Phone": "425-646-3111",
+      "Website": "https://bentleyseattle.com",
+      "coordinates": {
+        "latitude": 47.628051,
+        "longitude": -122.165584
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley St Louis",
+      "Street": "One Arnage Boulevard",
+      "City": "Chesterfield",
+      "State": "",
+      "ZIP": "63005",
+      "Phone": "636 449 0000",
+      "Website": "https://BentleyStLouis.com",
+      "coordinates": {
+        "latitude": 38.66933,
+        "longitude": -90.60972
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 09:00",
+        "Tuesday": "09:00 - 09:00",
+        "Wednesday": "09:00 - 09:00",
+        "Thursday": "09:00 - 09:00",
+        "Friday": "09:00 - 09:00",
+        "Saturday": "09:00 - 09:00",
+        "Sunday": "09:00 - 09:00"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Tampa Bay",
+      "Street": "3255 Gandy Boulevard",
+      "City": "Pinellas Park",
+      "State": "",
+      "ZIP": "33781",
+      "Phone": "+1 727-608-5740",
+      "Website": "https://www.bentleytampabay.com",
+      "coordinates": {
+        "latitude": 27.845167,
+        "longitude": -82.678071
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 19:00",
+        "Tuesday": "09:00 - 19:00",
+        "Wednesday": "09:00 - 19:00",
+        "Thursday": "09:00 - 19:00",
+        "Friday": "09:00 - 19:00",
+        "Saturday": "09:00 - 19:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Troy",
+      "Street": "1755 Maplelawn Drive",
+      "City": "Troy",
+      "State": "",
+      "ZIP": "48084",
+      "Phone": "248-617-1880",
+      "Website": "https://www.bentleytroy.com",
+      "coordinates": {
+        "latitude": 42.55191,
+        "longitude": -83.17052
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Walnut Creek",
+      "Street": "1425 Parkside Drive",
+      "City": "Walnut Creek",
+      "State": "",
+      "ZIP": "94596",
+      "Phone": "925 444 2000",
+      "Website": "https://www.Bentleywalnutcreek.com",
+      "coordinates": {
+        "latitude": 37.911834,
+        "longitude": -122.064482
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:30",
+        "Tuesday": "09:00 - 18:30",
+        "Wednesday": "09:00 - 18:30",
+        "Thursday": "09:00 - 18:30",
+        "Friday": "09:00 - 18:30",
+        "Saturday": "10:00 - 17:00",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales"
+      ]
+    },
+    {
+      "Dealer": "Bentley Walnut Creek",
+      "Street": "2255 North Main Street",
+      "City": "Walnut Creek",
+      "State": "",
+      "ZIP": "94596",
+      "Phone": "925 444 2000",
+      "Website": "https://www.Bentleywalnutcreek.com",
+      "coordinates": {
+        "latitude": 37.910781,
+        "longitude": -122.065416
+      },
+      "departments": [
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Washington DC",
+      "Street": "45180 Russell Branch Parkway",
+      "City": "Ashburn",
+      "State": "",
+      "ZIP": "Loudoun County",
+      "Phone": "+1 703 712 8324",
+      "Website": "https://www.BentleywashingtonDC.com",
+      "coordinates": {
+        "latitude": 39.0479444,
+        "longitude": -77.4493481
+      },
+      "opening_hours": {
+        "Monday": "07:30 - 18:00",
+        "Tuesday": "07:30 - 18:00",
+        "Wednesday": "07:30 - 18:00",
+        "Thursday": "07:30 - 18:00",
+        "Friday": "07:30 - 18:00",
+        "Saturday": "--",
+        "Sunday": "--"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    },
+    {
+      "Dealer": "Bentley Westlake",
+      "Street": "3610 East Thousand Oaks Boulevard",
+      "City": "Thousand Oaks",
+      "State": "",
+      "ZIP": "91362",
+      "Phone": "+1 805 418 9092",
+      "Website": "https://www.bentleywestlake.com/",
+      "coordinates": {
+        "latitude": 34.16391,
+        "longitude": -118.8305
+      },
+      "opening_hours": {
+        "Monday": "09:00 - 18:00",
+        "Tuesday": "09:00 - 18:00",
+        "Wednesday": "09:00 - 18:00",
+        "Thursday": "09:00 - 18:00",
+        "Friday": "09:00 - 18:00",
+        "Saturday": "09:00 - 17:00",
+        "Sunday": "00:00 - 00:00"
+      },
+      "departments": [
+        "New Car Sales",
+        "Pre-Owned Sales",
+        "Service"
+      ]
+    }
+  ]
+}
