@@ -512,6 +512,34 @@ curl -H "Accept: application/json" \
 
 **Example Call:** `curl -H "Accept: application/json" -H "Referer: https://www.ramtrucks.com/find-dealer.html" -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" "https://www.ramtrucks.com/bdlws/MDLSDealerLocator?brandCode=R&func=SALES&radius=100&resultsPage=1&resultsPerPage=50&zipCode=90210"`
 
+### 24. Honda
+**API Endpoint URL:** `https://automobiles.honda.com/platform/api/v2/dealer`  
+**Method:** GET  
+**Parameters:**
+- `productDivisionCode`: A (required - for Honda automobiles)
+- `excludeServiceCenters`: true/false (optional)
+- `zip`: 5-digit ZIP code (required for location-based search)
+- `maxResults`: number of results to return (optional, can be set high for bulk retrieval)
+
+**Pagination Strategy:** Use a high `maxResults` value (e.g., 5000) to retrieve all dealers in one call.  
+**Example Call:** `https://automobiles.honda.com/platform/api/v2/dealer?productDivisionCode=A&excludeServiceCenters=true&zip=90210&maxResults=5000`
+
+**Response Format:** JSON with comprehensive dealer data including:
+- Dealer ID, name, address, coordinates
+- Phone numbers (sales, parts, service)
+- Business hours for sales, parts, and service
+- Dealer attributes and certifications
+- Distance calculations and dealer website
+
+**Required Headers:**
+- `Accept: application/json`
+- `Referer: https://automobiles.honda.com/tools/dealership-locator`
+- `User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36`
+
+**Note:** The API returns dealers based on ZIP code proximity. Use multiple ZIP codes across different regions to retrieve all dealers.
+
+---
+
 ## Response Format Examples
 
 ### Typical JSON Response Structure

@@ -1,0 +1,14 @@
+"oem": "Polestar",
+"zip_code": "multiple",
+"total_dealers_found": 0,
+"method": "polestar_zip_code_extraction",
+"zip_codes_searched": 0,
+"dealers": [
+    {
+        "Dealer":"Polestar Portland",
+        "Website":none,
+        "Email":none,
+        "Phone": "(503) 644-9121",
+        "Street": "4180 SW 141st Ave Beaver",
+    
+]

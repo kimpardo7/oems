@@ -1,0 +1,159 @@
+{
+  "oem": "Nissan",
+  "zip_code": "90210",
+  "total_dealers_found": 15,
+  "method": "nissan_simple_extraction",
+  "extraction_date": "2025-09-14T12:01:46.875039",
+  "dealers": [
+    {
+      "Dealer": "NISSAN OF VAN NUYS",
+      "Website": "https://www.nissanofvannuys.com",
+      "Phone": "(818) 787-8400",
+      "Email": "",
+      "Street": "5425 Van Nuys Boulevard",
+      "City": "Sherman",
+      "State": "Oaks",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GLENDALE NISSAN",
+      "Website": "https://www.glendalenissanla.com",
+      "Phone": "(818) 696-9301",
+      "Email": "",
+      "Street": "727 S Brand Blvd",
+      "City": "Glendale",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF DOWNTOWN LA",
+      "Website": "https://www.downtownnissan.com",
+      "Phone": "(213) 748-4501",
+      "Email": "",
+      "Street": "635 W Washington Blvd",
+      "City": "Los",
+      "State": "Angeles",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF MISSION HILLS",
+      "Website": "https://www.nissanofmissionhills.com",
+      "Phone": "(818) 838-4444",
+      "Email": "",
+      "Street": "11000 Sepulveda Blvd",
+      "City": "Mission",
+      "State": "Hills",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF ALHAMBRA",
+      "Website": "https://www.nissanofalhambra.com",
+      "Phone": "(626) 281-4000",
+      "Email": "",
+      "Street": "1811 West Main Street",
+      "City": "Alhambra",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GARDENA NISSAN",
+      "Website": "https://www.gardenanissan.com",
+      "Phone": "(310) 532-1600",
+      "Email": "",
+      "Street": "1670 W Redondo Beach Blvd",
+      "City": "Gardena",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF TORRANCE",
+      "Website": "https://www.nissanoftorrance.com",
+      "Phone": "(310) 536-4000",
+      "Email": "",
+      "Street": "20550 Hawthorne Blvd",
+      "City": "Torrance",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "DOWNEY NISSAN",
+      "Website": "https://www.downeynissan.com",
+      "Phone": "(562) 334-1091",
+      "Email": "",
+      "Street": "7321 Firestone Blvd",
+      "City": "Downey",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CARSON NISSAN",
+      "Website": "https://www.carsonnissan.com",
+      "Phone": "(310) 221-5119",
+      "Email": "",
+      "Street": "1505 E 223rd Street",
+      "City": "Carson",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "EL MONTE NISSAN",
+      "Website": "https://www.elmontenissan.com",
+      "Phone": "(626) 350-8868",
+      "Email": "",
+      "Street": "3428 N Peck Road",
+      "City": "El",
+      "State": "Monte",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF VALENCIA",
+      "Website": "https://www.nissanofvalencia.com",
+      "Phone": "(661) 505-7800",
+      "Email": "",
+      "Street": "24055 Magic Mountain Pkwy",
+      "City": "Valencia",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "FIRST NISSAN",
+      "Website": "https://www.1stnissan.com",
+      "Phone": "(805) 433-9365",
+      "Email": "",
+      "Street": "2325 1st St",
+      "City": "Simi",
+      "State": "Valley",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CERRITOS NISSAN",
+      "Website": "https://www.cerritosnissan.com",
+      "Phone": "(562) 382-8077",
+      "Email": "",
+      "Street": "18707 Studebaker Rd",
+      "City": "Cerritos",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF THOUSAND OAKS",
+      "Website": "https://www.nissanthousandoaks.com",
+      "Phone": "(805) 494-1200",
+      "Email": "",
+      "Street": "3570 Thousand Oaks Blvd",
+      "City": "Westlake",
+      "State": "Village",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "SIERRA NISSAN OF DUARTE",
+      "Website": "https://www.sierranissan.com",
+      "Phone": "(626) 303-1000",
+      "Email": "",
+      "Street": "1125 Central Avenue",
+      "City": "Duarte",
+      "State": "",
+      "ZIP": ""
+    }
+  ]
+}
