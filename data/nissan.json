@@ -1,9 +1,10 @@
 {
   "oem": "Nissan",
-  "zip_code": "90210",
-  "total_dealers_found": 15,
-  "method": "nissan_simple_extraction",
-  "extraction_date": "2025-09-14T12:01:46.875039",
+  "zip_code": "multiple",
+  "total_dealers_found": 210,
+  "method": "nissan_comprehensive_extraction",
+  "zip_codes_searched": 96,
+  "extraction_date": "2025-09-14T14:36:06.809658",
   "dealers": [
     {
       "Dealer": "NISSAN OF VAN NUYS",
@@ -11,8 +12,8 @@
       "Phone": "(818) 787-8400",
       "Email": "",
       "Street": "5425 Van Nuys Boulevard",
-      "City": "Sherman",
-      "State": "Oaks",
+      "City": "Sherman Oaks",
+      "State": "",
       "ZIP": ""
     },
     {
@@ -31,8 +32,8 @@
       "Phone": "(213) 748-4501",
       "Email": "",
       "Street": "635 W Washington Blvd",
-      "City": "Los",
-      "State": "Angeles",
+      "City": "Los Angeles",
+      "State": "",
       "ZIP": ""
     },
     {
@@ -41,8 +42,8 @@
       "Phone": "(818) 838-4444",
       "Email": "",
       "Street": "11000 Sepulveda Blvd",
-      "City": "Mission",
-      "State": "Hills",
+      "City": "Mission Hills",
+      "State": "",
       "ZIP": ""
     },
     {
@@ -101,8 +102,8 @@
       "Phone": "(626) 350-8868",
       "Email": "",
       "Street": "3428 N Peck Road",
-      "City": "El",
-      "State": "Monte",
+      "City": "El Monte",
+      "State": "",
       "ZIP": ""
     },
     {
@@ -121,8 +122,8 @@
       "Phone": "(805) 433-9365",
       "Email": "",
       "Street": "2325 1st St",
-      "City": "Simi",
-      "State": "Valley",
+      "City": "Simi Valley",
+      "State": "",
       "ZIP": ""
     },
     {
@@ -141,8 +142,8 @@
       "Phone": "(805) 494-1200",
       "Email": "",
       "Street": "3570 Thousand Oaks Blvd",
-      "City": "Westlake",
-      "State": "Village",
+      "City": "Westlake Village",
+      "State": "",
       "ZIP": ""
     },
     {
@@ -152,6 +153,1956 @@
       "Email": "",
       "Street": "1125 Central Avenue",
       "City": "Duarte",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "LITHIA NISSAN OF EUGENE",
+      "Website": "https://www.lithianissaneugene.com",
+      "Phone": "(541) 686-2211",
+      "Email": "",
+      "Street": "2060 Martin Luther King",
+      "City": "Eugene",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "KIEFER NISSAN",
+      "Website": "https://www.kiefernissanofcorvallis.com",
+      "Phone": "(541) 753-1694",
+      "Email": "",
+      "Street": "900 Nw Fourth Street",
+      "City": "Corvallis",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "UNDERRINER NISSAN OF THE DALLES",
+      "Website": "https://www.underrinernissanofthedalles.com",
+      "Phone": "(541) 296-4613",
+      "Email": "",
+      "Street": "2400 W 6th St",
+      "City": "The Dalles",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CAPITOL NISSAN OF SALEM",
+      "Website": "https://www.capitol-nissan.com",
+      "Phone": "(503) 581-3849",
+      "Email": "",
+      "Street": "3235 Cherry Avenue Ne",
+      "City": "Salem",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "DICK HANNAH NISSAN",
+      "Website": "https://www.dickhannahnissan.com",
+      "Phone": "(503) 486-4751",
+      "Email": "",
+      "Street": "19505 Mcloughlin Blvd",
+      "City": "Gladstone",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "KOEPPEL NISSAN",
+      "Website": "https://www.koeppelnissan.com",
+      "Phone": "(718) 898-7800",
+      "Email": "",
+      "Street": "74-15 Northern Blvd",
+      "City": "Jackson Heights",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "HUDSON NISSAN",
+      "Website": "https://www.hudsonnissan.com",
+      "Phone": "(201) 435-2003",
+      "Email": "",
+      "Street": "585 State Route 440",
+      "City": "Jersey City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "EMPIRE NISSAN OF BAY RIDGE",
+      "Website": "https://www.shopempirenissan.com",
+      "Phone": "(718) 238-8000",
+      "Email": "",
+      "Street": "6501 5th Ave",
+      "City": "Brooklyn",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF QUEENS",
+      "Website": "https://www.nissanofqueens.com",
+      "Phone": "(718) 835-8300",
+      "Email": "",
+      "Street": "93-25 Rockaway Blvd",
+      "City": "Ozone Park",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ROUTE 17 NISSAN",
+      "Website": "https://www.route17nissan.com",
+      "Phone": "(201) 796-5050",
+      "Email": "",
+      "Street": "45 Route 17 South",
+      "City": "Hasbrouck Heights",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "KINGS NISSAN",
+      "Website": "https://www.kingsnissan.com",
+      "Phone": "(718) 376-0538",
+      "Email": "",
+      "Street": "20 Neptune Ave",
+      "City": "Brooklyn",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "STAR NISSAN",
+      "Website": "https://www.starnissanofbayside.com",
+      "Phone": "(718) 423-0500",
+      "Email": "",
+      "Street": "20602 Northern Blvd",
+      "City": "Bayside",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "RIVERSIDE NISSAN",
+      "Website": "https://www.riversidenissanauto.com/index.cfm",
+      "Phone": "(201) 489-6330",
+      "Email": "",
+      "Street": "400 River Street",
+      "City": "Hackensack",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "LYNNES NISSAN CITY",
+      "Website": "https://www.lynnesnissan.com",
+      "Phone": "(973) 743-2111",
+      "Email": "",
+      "Street": "318 Bloomfield Ave",
+      "City": "Bloomfield",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF STATEN ISLAND",
+      "Website": "https://www.nissanofstatenisland.com",
+      "Phone": "(718) 447-3800",
+      "Email": "",
+      "Street": "1976 Hylan Blvd",
+      "City": "Staten Island",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "EMPIRE NISSAN OF HILLSIDE",
+      "Website": "https://www.shopempirenissanofhillside.com",
+      "Phone": "(908) 964-8700",
+      "Email": "",
+      "Street": "56 Route 22 East",
+      "City": "Hillside",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BRONX NISSAN",
+      "Website": "https://www.nissanofthebronx.com",
+      "Phone": "(718) 515-1111",
+      "Email": "",
+      "Street": "3660 Boston Road",
+      "City": "Bronx",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "FAMILY NISSAN",
+      "Website": "https://www.nissanfamily.com",
+      "Phone": "(516) 239-0100",
+      "Email": "",
+      "Street": "600 Burnside Ave",
+      "City": "Inwood",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF NEW ROCHELLE",
+      "Website": "https://www.nissanofnewrochelle.com",
+      "Phone": "(914) 576-7600",
+      "Email": "",
+      "Street": "2533 Palmer Ave",
+      "City": "New Rochelle",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN 46",
+      "Website": "https://www.route46nissan.com",
+      "Phone": "(973) 256-1200",
+      "Email": "",
+      "Street": "440 Route 46",
+      "City": "Totowa",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN CITY OF SPRINGFIELD",
+      "Website": "https://www.springfieldnissan.com",
+      "Phone": "(973) 376-8821",
+      "Email": "",
+      "Street": "146-162 Rt 22 West",
+      "City": "Springfield",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CENTRAL AVENUE NISSAN",
+      "Website": "https://www.centralavenissan.com",
+      "Phone": "(914) 961-3900",
+      "Email": "",
+      "Street": "1919 Central Park Ave",
+      "City": "Yonkers",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "SANSONE NISSAN",
+      "Website": "https://www.sansonesnissan.com",
+      "Phone": "(732) 815-2500",
+      "Email": "",
+      "Street": "90-100 Route 1",
+      "City": "Avenel",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF GARDEN CITY",
+      "Website": "https://WWW.NISSANOFGARDENCITY.COM",
+      "Phone": "(516) 483-5150",
+      "Email": "",
+      "Street": "316 N Franklin St",
+      "City": "Hempstead",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF ROCKVILLE CENTRE",
+      "Website": "https://www.nissanofrockvillecentre.com",
+      "Phone": "(516) 504-3007",
+      "Email": "",
+      "Street": "700 Sunrise Highway",
+      "City": "Rockville Centre",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BARON NISSAN",
+      "Website": "https://www.baronnissan.com",
+      "Phone": "(516) 621-2300",
+      "Email": "",
+      "Street": "235 Glen Cove Rd",
+      "City": "Greenvale",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "HILLTOP NISSAN",
+      "Website": "https://www.hilltopnissan.com",
+      "Phone": "(973) 887-5400",
+      "Email": "",
+      "Street": "258 Route 10",
+      "City": "East Hanover",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "RAMSEY NISSAN",
+      "Website": "https://www.ramseynissan.com",
+      "Phone": "(201) 825-4040",
+      "Email": "",
+      "Street": "401 Route 17 South",
+      "City": "Upper Saddle Riv",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF WESTBURY",
+      "Website": "https://nissanofwestbury.com",
+      "Phone": "(516) 338-5600",
+      "Email": "",
+      "Street": "939 Old Country Road",
+      "City": "Westbury",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF WHITE PLAINS",
+      "Website": "https://www.nissanofwp.com",
+      "Phone": "(914) 246-5220",
+      "Email": "",
+      "Street": "500 Tarrytown Road",
+      "City": "White Plains",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PINE BELT NISSAN/KEYPORT",
+      "Website": "https://www.nissan36.com",
+      "Phone": "(732) 264-4333",
+      "Email": "",
+      "Street": "111 State Route 36",
+      "City": "Keyport",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "RUSTOM NISSAN OF PORTLAND",
+      "Website": "https://www.nissanofportland.com",
+      "Phone": "(503) 251-3349",
+      "Email": "",
+      "Street": "1212 Ne 122nd Ave",
+      "City": "Portland",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ALAN WEBB NISSAN",
+      "Website": "https://www.alanwebbnissan.com",
+      "Phone": "(360) 892-9004",
+      "Email": "",
+      "Street": "3608 Ne Auto Mall Dr",
+      "City": "Vancouver",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "KENDALL NISSAN OF NAMPA",
+      "Website": "https://www.kendallnissannampa.com",
+      "Phone": "(208) 258-7666",
+      "Email": "",
+      "Street": "15885 Idaho Center Blvd",
+      "City": "Nampa",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "DENNIS DILLON NISSAN",
+      "Website": "https://www.dennisdillonnissan.com",
+      "Phone": "(208) 388-4400",
+      "Email": "",
+      "Street": "8727 Fairview Avenue",
+      "City": "Boise",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF WALLA WALLA",
+      "Website": "https://www.nissanwallawalla.com",
+      "Phone": "(509) 529-7000",
+      "Email": "",
+      "Street": "1395 Dalles Military Rd",
+      "City": "Walla Walla",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BILL ROBERTSON NISSAN",
+      "Website": "https://www.billrobertsonnissan.com",
+      "Phone": "(509) 545-3000",
+      "Email": "",
+      "Street": "928 N. 28th Avenue",
+      "City": "Pasco",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "SPECK NISSAN",
+      "Website": "https://www.specknissan.com",
+      "Phone": "(509) 837-5501",
+      "Email": "",
+      "Street": "61 E Allen Rd",
+      "City": "Sunnyside",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MEDFORD NISSAN",
+      "Website": "https://www.medfordnissan.com",
+      "Phone": "(541) 773-3655",
+      "Email": "",
+      "Street": "4560 Grumman Drive",
+      "City": "Medford",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PRICE NISSAN OF YAKIMA VALLEY",
+      "Website": "https://www.pricenissanofyakimavalley.com",
+      "Phone": "(509) 453-3125",
+      "Email": "",
+      "Street": "1010 S 1st Street",
+      "City": "Yakima",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TONKIN NISSAN",
+      "Website": "https://www.tonkinwilsonvillenissan.com",
+      "Phone": "(503) 222-2277",
+      "Email": "",
+      "Street": "26700 Sw 95th Ave",
+      "City": "Wilsonville",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BEAVERTON NISSAN",
+      "Website": "https://www.beavertonnissan.com",
+      "Phone": "(503) 643-8676",
+      "Email": "",
+      "Street": "3855 Sw Cedar Hills Blvd",
+      "City": "Beaverton",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GRANTS PASS NISSAN",
+      "Website": "https://www.grantspassnissan.com",
+      "Phone": "(541) 476-0811",
+      "Email": "",
+      "Street": "1601 Ne 7th St",
+      "City": "Grants Pass",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CHUCK COLVIN NISSAN",
+      "Website": "https://www.colvinnissan.com",
+      "Phone": "(503) 472-6124",
+      "Email": "",
+      "Street": "1925 N Highway 99w",
+      "City": "Mcminnville",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ROB GREEN NISSAN",
+      "Website": "https://www.robgreennissan.com",
+      "Phone": "(208) 733-1825",
+      "Email": "",
+      "Street": "1080 Blue Lakes Blvd N",
+      "City": "Twin Falls",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "OLYMPIA NISSAN",
+      "Website": "https://www.olympianissan.com",
+      "Phone": "(360) 754-5525",
+      "Email": "",
+      "Street": "2220 Carriage Dr Sw",
+      "City": "Olympia",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BILL KORUM'S PUYALLUP NISSAN",
+      "Website": "https://www.puyallupnissan.com",
+      "Phone": "(253) 848-4507",
+      "Email": "",
+      "Street": "101 Valley Ave Nw",
+      "City": "Puyallup",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TACOMA NISSAN",
+      "Website": "https://www.tacomanissan.com",
+      "Phone": "(253) 579-1200",
+      "Email": "",
+      "Street": "4030 S. Tacoma Way",
+      "City": "Tacoma",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "RAIRDON'S NISSAN OF AUBURN",
+      "Website": "https://www.nissanofauburn.com",
+      "Phone": "(253) 833-4700",
+      "Email": "",
+      "Street": "713 35th Street Ne",
+      "City": "Auburn",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "YOUNKER NISSAN",
+      "Website": "https://www.younkernissan.com",
+      "Phone": "(425) 251-8100",
+      "Email": "",
+      "Street": "3401 East Valley Road",
+      "City": "Renton",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BURIEN NISSAN",
+      "Website": "https://www.buriennissan.com",
+      "Phone": "(206) 242-7070",
+      "Email": "",
+      "Street": "16042 First Avenue South",
+      "City": "Burien",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ADVANTAGE NISSAN",
+      "Website": "https://www.advantagenissan.com",
+      "Phone": "(360) 373-6300",
+      "Email": "",
+      "Street": "5101 Auto Center Blvd",
+      "City": "Bremerton",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BELLEVUE NISSAN",
+      "Website": "https://WWW.BELLEVUENISSAN.COM",
+      "Phone": "(425) 688-8800",
+      "Email": "",
+      "Street": "14762 Se Eastgate Way",
+      "City": "Bellevue",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "LEE JOHNSON NISSAN OF KIRKLAND",
+      "Website": "https://www.kirklandnissan.com",
+      "Phone": "(425) 821-1400",
+      "Email": "",
+      "Street": "13400 Ne 124th St",
+      "City": "Kirkland",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CAMPBELL NISSAN OF EDMONDS",
+      "Website": "https://www.campbellnissanofedmonds.com",
+      "Phone": "(425) 774-2174",
+      "Email": "",
+      "Street": "24325 Highway 99",
+      "City": "Edmonds",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TOWN NISSAN",
+      "Website": "https://www.townnissan.com",
+      "Phone": "(509) 662-5125",
+      "Email": "",
+      "Street": "555 3rd Street Se",
+      "City": "East Wenatchee",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF EVERETT",
+      "Website": "https://www.nissanofeverett.com",
+      "Phone": "(425) 347-5763",
+      "Email": "",
+      "Street": "10500 Highway 99 South",
+      "City": "Everett",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "DAN WILDER NISSAN",
+      "Website": "https://www.wildernissan.com",
+      "Phone": "(360) 452-9268",
+      "Email": "",
+      "Street": "53 Jetta Way",
+      "City": "Port Angeles",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CLAY COOLEY NISSAN IRVING",
+      "Website": "https://www.irvingnissan.com",
+      "Phone": "(972) 554-2200",
+      "Email": "",
+      "Street": "1000 E Airport Fwy",
+      "City": "Irving",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "METRO NISSAN OF DALLAS",
+      "Website": "https://www.metronissandallas.com",
+      "Phone": "(972) 450-2400",
+      "Email": "",
+      "Street": "4707 Lyndon B Johnson Fwy",
+      "City": "Farmers Branch",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TROPHY NISSAN",
+      "Website": "https://www.trophynissan.com",
+      "Phone": "(214) 390-9250",
+      "Email": "",
+      "Street": "5031 N Galloway Ave",
+      "City": "Mesquite",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CLAY COOLEY NISSAN",
+      "Website": "https://www.ClayCooleyNissan.com",
+      "Phone": "(972) 709-2000",
+      "Email": "",
+      "Street": "39690 Lbj Freeway",
+      "City": "Dallas",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CLAY COOLEY NISSAN RICHARDSON",
+      "Website": "https://www.courtesynissan.com",
+      "Phone": "(972) 231-2600",
+      "Email": "",
+      "Street": "1777 N Central Expy",
+      "City": "Richardson",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "DON DAVIS NISSAN",
+      "Website": "https://www.dondavisnissan.com",
+      "Phone": "(817) 588-5475",
+      "Email": "",
+      "Street": "1320 E Interstate 20",
+      "City": "Arlington",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF LEWISVILLE",
+      "Website": "https://www.nissanoflewisville.com",
+      "Phone": "(972) 763-5527",
+      "Email": "",
+      "Street": "1601 S Stemmons Fwy",
+      "City": "Lewisville",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TEXAS NISSAN OF GRAPEVINE",
+      "Website": "https://www.texasnissan.com",
+      "Phone": "(817) 380-4082",
+      "Email": "",
+      "Street": "1401 W State Highway 114",
+      "City": "Grapevine",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CREST NISSAN OF FRISCO",
+      "Website": "https://www.crestnissan.com",
+      "Phone": "(469) 606-4093",
+      "Email": "",
+      "Street": "6600 State Highway 121",
+      "City": "Frisco",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CAVENDER NISSAN OF ROCKWALL",
+      "Website": "https://www.cavendernissanrockwall.com",
+      "Phone": "(972) 961-9888",
+      "Email": "",
+      "Street": "1700 E Interstate 30",
+      "City": "Rockwall",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF MCKINNEY",
+      "Website": "https://www.nissanofmckinney.com",
+      "Phone": "(214) 390-5370",
+      "Email": "",
+      "Street": "3800 S Central Expressway",
+      "City": "Mckinney",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "FOUR STARS NISSAN OF DENTON",
+      "Website": "https://www.Fourstarsnissanofdenton.com",
+      "Phone": "(940) 270-9000",
+      "Email": "",
+      "Street": "5650 S Interstate 35e",
+      "City": "Corinth",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "WAXAHACHIE NISSAN",
+      "Website": "https://www.waxahachienissan.com",
+      "Phone": "(972) 938-0444",
+      "Email": "",
+      "Street": "1900 W Hwy 287 Bypass",
+      "City": "Waxahachie",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BURLESON NISSAN",
+      "Website": "https://www.burlesonnissan.com",
+      "Phone": "(817) 484-3500",
+      "Email": "",
+      "Street": "300 N Burleson Blvd",
+      "City": "Burleson",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "FORT WORTH NISSAN",
+      "Website": "https://www.fortworthnissan.com",
+      "Phone": "(817) 560-9000",
+      "Email": "",
+      "Street": "3451 W. Loop 820 S.",
+      "City": "Fort Worth",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF GREENVILLE",
+      "Website": "https://www.nissanofgreenville.com",
+      "Phone": "(903) 454-1930",
+      "Email": "",
+      "Street": "6403 I-30",
+      "City": "Greenville",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "SOUTHWEST NISSAN",
+      "Website": "https://www.southwestnissantx.com",
+      "Phone": "(817) 596-3811",
+      "Email": "",
+      "Street": "3050 Fort Worth Hwy",
+      "City": "Weatherford",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GRANBURY NISSAN",
+      "Website": "https://www.granburynissan.com",
+      "Phone": "(817) 736-8200",
+      "Email": "",
+      "Street": "4601 E Hwy 377",
+      "City": "Granbury",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PLATINUM NISSAN OF TEXOMA",
+      "Website": "https://www.platinumnissantx.com",
+      "Phone": "(903) 463-9800",
+      "Email": "",
+      "Street": "2010 Us Highway 75 North",
+      "City": "Denison",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "DOUGLASS NISSAN OF WACO",
+      "Website": "https://www.douglassnissanofwaco.com",
+      "Phone": "(254) 776-8016",
+      "Email": "",
+      "Street": "5605 Legendlake Parkway",
+      "City": "Waco",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PELTIER NISSAN",
+      "Website": "https://www.peltiernissan.net",
+      "Phone": "(903) 561-7300",
+      "Email": "",
+      "Street": "3201 Ssw Loop 323",
+      "City": "Tyler",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MATHEWS NISSAN OF PARIS",
+      "Website": "https://www.parisnissan.com",
+      "Phone": "(903) 706-5100",
+      "Email": "",
+      "Street": "3411 Ne Loop 286",
+      "City": "Paris",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "RED RIVER NISSAN",
+      "Website": "https://www.redrivernissan.com",
+      "Phone": "(580) 223-1500",
+      "Email": "",
+      "Street": "1625 N Rockford Rd",
+      "City": "Ardmore",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BRAVO NISSAN OF BAYTOWN",
+      "Website": "https://www.bravonissanbaytown.com",
+      "Phone": "(281) 421-7442",
+      "Email": "",
+      "Street": "5755 East Freeway",
+      "City": "Baytown",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CENTRAL HOUSTON NISSAN",
+      "Website": "https://www.centralhoustonnissan.com",
+      "Phone": "(713) 661-9955",
+      "Email": "",
+      "Street": "2901 South Loop West",
+      "City": "Houston",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "SOUTH HOUSTON NISSAN",
+      "Website": "https://www.southhoustonnissan.com",
+      "Phone": "(713) 941-0600",
+      "Email": "",
+      "Street": "11911 Gulf Fwy",
+      "City": "Houston",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MOSSY NISSAN",
+      "Website": "https://www.mossynissanhouston.com",
+      "Phone": "(281) 496-2200",
+      "Email": "",
+      "Street": "12150 Katy Freeway",
+      "City": "Houston",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GROUP 1 NISSAN SOUTHWEST HOUSTON",
+      "Website": "https://www.sterlingmccallnissan.com",
+      "Phone": "(281) 243-8600",
+      "Email": "",
+      "Street": "12230 Southwest Fwy",
+      "City": "Stafford",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TOM PEACOCK NISSAN",
+      "Website": "https://www.tompeacocknissan.com",
+      "Phone": "(281) 821-4000",
+      "Email": "",
+      "Street": "15300 North Fwy",
+      "City": "Houston",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ROBBINS NISSAN",
+      "Website": "https://www.robbinsnissan.com",
+      "Phone": "(281) 446-3181",
+      "Email": "",
+      "Street": "18711 Highway 59 North",
+      "City": "Humble",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BAKER NISSAN NORTH",
+      "Website": "https://www.bakernissan.com",
+      "Phone": "(281) 890-5656",
+      "Email": "",
+      "Street": "19630 Northwest Fwy",
+      "City": "Houston",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "FRED HAAS NISSAN",
+      "Website": "https://www.fredhaasnissan.com",
+      "Phone": "(281) 516-6700",
+      "Email": "",
+      "Street": "24202 Tomball Pkwy  Sh249",
+      "City": "Tomball",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "RELIANCE NISSAN",
+      "Website": "https://www.reliancenissan.com",
+      "Phone": "(832) 862-2500",
+      "Email": "",
+      "Street": "3485 Fm 528 Rd",
+      "City": "Alvin",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CLEAR LAKE NISSAN",
+      "Website": "https://www.clearlakenissan.com",
+      "Phone": "(281) 557-5303",
+      "Email": "",
+      "Street": "2150 Gulf Freeway",
+      "City": "League City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ABC NISSAN",
+      "Website": "https://www.abcnissan.com",
+      "Phone": "(602) 388-1261",
+      "Email": "",
+      "Street": "1300 E Camelback Rd",
+      "City": "Phoenix",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "AUTONATION NISSAN TEMPE",
+      "Website": "https://www.autonationnissantempe.com",
+      "Phone": "(480) 630-2829",
+      "Email": "",
+      "Street": "7755 S Autoplex Loop",
+      "City": "Tempe",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "LARRY H MILLER NISSAN MESA",
+      "Website": "https://www.lhmnissanmesa.com",
+      "Phone": "(480) 655-4000",
+      "Email": "",
+      "Street": "2025 W Riverview Auto Dr",
+      "City": "Mesa",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "AVONDALE NISSAN",
+      "Website": "https://www.avondalenissan.com",
+      "Phone": "(623) 904-2055",
+      "Email": "",
+      "Street": "10305 W Papago Freeway",
+      "City": "Avondale",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MIDWAY NISSAN",
+      "Website": "https://www.midwaynissan.com",
+      "Phone": "(602) 635-3135",
+      "Email": "",
+      "Street": "2201 W Bell Rd",
+      "City": "Phoenix",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PINNACLE NISSAN",
+      "Website": "https://www.pinnaclenissan.com",
+      "Phone": "(480) 676-4877",
+      "Email": "",
+      "Street": "7601 E Frank Lloyd Wright",
+      "City": "Scottsdale",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PEORIA NISSAN",
+      "Website": "https://www.peorianissan.com",
+      "Phone": "(623) 298-5598",
+      "Email": "",
+      "Street": "9151 W Bell Rd",
+      "City": "Peoria",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "AUTONATION NISSAN CHANDLER",
+      "Website": "https://www.autonationnissanchandler.com",
+      "Phone": "(480) 461-4300",
+      "Email": "",
+      "Street": "1350 S Gilbert Rd Bld A",
+      "City": "Chandler",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "COURTESY NISSAN OF MESA",
+      "Website": "https://www.courtesynissanofmesa.com",
+      "Phone": "(480) 324-8800",
+      "Email": "",
+      "Street": "6354 E Test Dr",
+      "City": "Mesa",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "COULTER NISSAN",
+      "Website": "https://www.coulternissan.com",
+      "Phone": "(623) 934-3444",
+      "Email": "",
+      "Street": "13301 N Autoshow Ave",
+      "City": "Surprise",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "KEN GARFF NISSAN RIVERDALE",
+      "Website": "https://www.kengarffnissanogden.com",
+      "Phone": "(877) 452-2981",
+      "Email": "",
+      "Street": "615 W Riverdale Rd",
+      "City": "Riverdale",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TIM DAHLE NISSAN BOUNTIFUL",
+      "Website": "https://www.timdahlebountiful.com",
+      "Phone": "(801) 693-7100",
+      "Email": "",
+      "Street": "955 N 400 E",
+      "City": "N Salt Lake City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "KEN GARFF NISSAN OF SALT LAKE",
+      "Website": "https://www.kengarffnissanslc.com",
+      "Phone": "(801) 933-1882",
+      "Email": "",
+      "Street": "777 S West Temple",
+      "City": "Salt Lake City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TIM DAHLE NISSAN",
+      "Website": "https://www.timdahlemurray.com",
+      "Phone": "(801) 262-5521",
+      "Email": "",
+      "Street": "4528 S State St",
+      "City": "Murray",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TIM DAHLE NISSAN SOUTHTOWNE",
+      "Website": "https://www.timdahlesouthtowne.com",
+      "Phone": "(801) 495-3800",
+      "Email": "",
+      "Street": "11155 S Jordan Gateway",
+      "City": "South Jordan",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "KEN GARFF NISSAN OF OREM",
+      "Website": "https://www.kengarffnissanorem.com",
+      "Phone": "(801) 494-8694",
+      "Email": "",
+      "Street": "285 W University Pkwy",
+      "City": "Orem",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "WILSON NISSAN",
+      "Website": "https://www.wilsonmotornissan.com",
+      "Phone": "(435) 752-7355",
+      "Email": "",
+      "Street": "328 North Main Street",
+      "City": "Logan",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "COLE NISSAN",
+      "Website": "https://www.colenissanpocatello.com",
+      "Phone": "(208) 232-1062",
+      "Email": "",
+      "Street": "1900 Flandro Drive",
+      "City": "Pocatello",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "SAYER NISSAN",
+      "Website": "https://www.sayernissan.com",
+      "Phone": "(208) 523-0603",
+      "Email": "",
+      "Street": "3125 South Fork Blvd",
+      "City": "Idaho Falls",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CROWN NISSAN",
+      "Website": "https://www.crownmotorsnissan.com",
+      "Phone": "(530) 223-2177",
+      "Email": "",
+      "Street": "300 E Cypress Ave",
+      "City": "Redding",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ANTELOPE VALLEY NISSAN",
+      "Website": "https://www.avnissan.com",
+      "Phone": "(661) 274-4700",
+      "Email": "",
+      "Street": "451 Auto Center Dr",
+      "City": "Palmdale",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TEAM NISSAN",
+      "Website": "https://www.teamnissandirect.com",
+      "Phone": "(805) 485-8787",
+      "Email": "",
+      "Street": "1801 Auto Center Dr",
+      "City": "Oxnard",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PUENTE HILLS NISSAN",
+      "Website": "https://www.puentehillsnissan.com",
+      "Phone": "(626) 626-2600",
+      "Email": "",
+      "Street": "17320 E Gale Avenue",
+      "City": "City Of Industry",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "HGREG NISSAN BUENA PARK",
+      "Website": "https://www.buenaparknissan.com",
+      "Phone": "(714) 591-0087",
+      "Email": "",
+      "Street": "6501 Auto Center Drive",
+      "City": "Buena Park",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "METRO NISSAN OF MONTCLAIR",
+      "Website": "https://www.metronissanmontclair.com",
+      "Phone": "(909) 625-5575",
+      "Email": "",
+      "Street": "9440 Autoplex Drive",
+      "City": "Montclair",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GARDEN GROVE NISSAN",
+      "Website": "https://www.nissangardengrove.com",
+      "Phone": "(714) 537-0900",
+      "Email": "",
+      "Street": "9222 Trask Ave",
+      "City": "Garden Grove",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF ORANGE",
+      "Website": "https://www.nissanorange.com",
+      "Phone": "(714) 633-8430",
+      "Email": "",
+      "Street": "1140 W Katella Ave",
+      "City": "Orange",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "SURF CITY NISSAN",
+      "Website": "https://www.surfcitynissan.com",
+      "Phone": "(714) 500-6000",
+      "Email": "",
+      "Street": "17331 Beach Blvd",
+      "City": "Huntington Beach",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF BAKERSFIELD",
+      "Website": "https://www.nissanofbakersfield.com",
+      "Phone": "(661) 835-8600",
+      "Email": "",
+      "Street": "2800 Pacheco Rd",
+      "City": "Bakersfield",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF COSTA MESA",
+      "Website": "https://www.nisssanofcostamesa.com",
+      "Phone": "(714) 444-4220",
+      "Email": "",
+      "Street": "2850 Harbor Blvd",
+      "City": "Costa Mesa",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "EMPIRE NISSAN",
+      "Website": "https://www.empirenissan.com",
+      "Phone": "(909) 390-9977",
+      "Email": "",
+      "Street": "1377 Kettering Loop",
+      "City": "Ontario",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF DEARBORN",
+      "Website": "https://www.nissanofdearborn.com",
+      "Phone": "(313) 749-3200",
+      "Email": "",
+      "Street": "24501 Michigan Ave",
+      "City": "Dearborn",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "JEFFREY NISSAN",
+      "Website": "https://www.jeffreynissan.com",
+      "Phone": "(586) 460-7229",
+      "Email": "",
+      "Street": "30800 Gratiot Ave",
+      "City": "Roseville",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "LAFONTAINE NISSAN TROY",
+      "Website": "https://www.lafontainenissantroy.com",
+      "Phone": "(248) 422-3033",
+      "Email": "",
+      "Street": "1816 Maplelawn Dr",
+      "City": "Troy",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TAMAROFF NISSAN",
+      "Website": "https://www.tamaroffnissan.com",
+      "Phone": "(248) 283-3660",
+      "Email": "",
+      "Street": "28585 Telegraph Rd",
+      "City": "Southfield",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "SUBURBAN NISSAN OF FARMINGTON HILLS",
+      "Website": "https://www.SUBURBANNISSANOFFARMINGTONHILLS.COM",
+      "Phone": "(248) 471-0044",
+      "Email": "",
+      "Street": "37901 Grand River Ave",
+      "City": "Farmington Hills",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF MACOMB",
+      "Website": "https://www.nissanofmacomb.com",
+      "Phone": "(586) 913-0600",
+      "Email": "",
+      "Street": "22100 Hall Rd",
+      "City": "Clinton Township",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF CANTON",
+      "Website": "https://www.nissanofcanton.com",
+      "Phone": "(734) 495-1000",
+      "Email": "",
+      "Street": "42175 Michigan Ave",
+      "City": "Canton",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TONY SERRA HIGHLAND NISSAN",
+      "Website": "https://www.tonyserrahighlandnissan.com",
+      "Phone": "(248) 887-8900",
+      "Email": "",
+      "Street": "2530 E Highland Road",
+      "City": "Highland",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GERWECK NISSAN",
+      "Website": "https://www.gerwecknissan.com",
+      "Phone": "(734) 457-0100",
+      "Email": "",
+      "Street": "15407 S Monroe St",
+      "City": "Monroe",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "FOX ANN ARBOR NISSAN",
+      "Website": "https://www.foxannarbornissan.com",
+      "Phone": "(734) 663-7770",
+      "Email": "",
+      "Street": "3977 Jackson Road",
+      "City": "Ann Arbor",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GRAND BLANC NISSAN",
+      "Website": "https://www.grandblancnissan.net",
+      "Phone": "(810) 893-6510",
+      "Email": "",
+      "Street": "8346 N. Holly Rd",
+      "City": "Grand Blanc",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ED MARTIN NISSAN",
+      "Website": "https://www.edmartinnissan.com",
+      "Phone": "(317) 359-9231",
+      "Email": "",
+      "Street": "802 N Shadeland Ave",
+      "City": "Indianapolis",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ANDY MOHR NISSAN",
+      "Website": "https://www.andymohr-nissan.com",
+      "Phone": "(317) 298-2000",
+      "Email": "",
+      "Street": "4302 Lafayette Rd",
+      "City": "Indianapolis",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "HUBLER NISSAN",
+      "Website": "https://www.hublernissan.com",
+      "Phone": "(317) 888-9227",
+      "Email": "",
+      "Street": "8435 Us Highway 31 South",
+      "City": "Indianapolis",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TOM WOOD NISSAN",
+      "Website": "https://www.tomwoodnissan.com",
+      "Phone": "(317) 848-8888",
+      "Email": "",
+      "Street": "4150 E 96th St",
+      "City": "Indianapolis",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ANDY MOHR AVON NISSAN",
+      "Website": "https://www.andymohravonnissan.com",
+      "Phone": "(317) 279-3333",
+      "Email": "",
+      "Street": "8867 E Us Highway 36",
+      "City": "Avon",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ED MARTIN NISSAN OF FISHERS",
+      "Website": "https://www.edmartinnissanoffishers.com",
+      "Phone": "(317) 863-2424",
+      "Email": "",
+      "Street": "13397 Britton Park Road",
+      "City": "Fishers",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ORR NISSAN EAST",
+      "Website": "https://www.orrnissaneast.com",
+      "Phone": "(405) 600-7900",
+      "Email": "",
+      "Street": "5108 Se 15th Street",
+      "City": "Del City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ORR NISSAN CENTRAL",
+      "Website": "https://www.orrnissancentral.com",
+      "Phone": "(405) 631-7771",
+      "Email": "",
+      "Street": "200 E I 240 Service Rd",
+      "City": "Oklahoma City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BOB HOWARD NISSAN",
+      "Website": "https://www.bobhowardnissan.com",
+      "Phone": "(405) 478-5380",
+      "Email": "",
+      "Street": "13200 Broadway Ext",
+      "City": "Oklahoma City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ORR NISSAN WEST",
+      "Website": "https://www.orrnissanwest.com",
+      "Phone": "(405) 495-4700",
+      "Email": "",
+      "Street": "8800 Nw Expressway",
+      "City": "Oklahoma City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BOB MOORE NISSAN / NORMAN",
+      "Website": "https://www.bobmoorenissan.com",
+      "Phone": "(405) 217-7000",
+      "Email": "",
+      "Street": "3901 Journey Parkway",
+      "City": "Norman",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TYNAN'S NISSAN",
+      "Website": "https://www.tynansnissanaurora.com",
+      "Phone": "(303) 341-7330",
+      "Email": "",
+      "Street": "780 South Havana Street",
+      "City": "Aurora",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "EMPIRE LAKEWOOD NISSAN",
+      "Website": "https://www.empirelakewoodnissan.com",
+      "Phone": "(303) 232-8881",
+      "Email": "",
+      "Street": "14707 W. Colfax Ave",
+      "City": "Lakewood",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ALPINE NISSAN OF DENVER",
+      "Website": "https://www.alpinenissan.com",
+      "Phone": "(303) 578-6116",
+      "Email": "",
+      "Street": "2400 W 104th Ave",
+      "City": "Denver",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "SCHOMP NISSAN",
+      "Website": "https://www.schompnissan.com",
+      "Phone": "(303) 904-7700",
+      "Email": "",
+      "Street": "5067 S Wadsworth Blvd",
+      "City": "Littleton",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MCDONALD NISSAN",
+      "Website": "https://www.mcdonaldnissanhr.com",
+      "Phone": "(720) 274-5200",
+      "Email": "",
+      "Street": "1320 Plum Valley Lane",
+      "City": "Highlands Ranch",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "BOULDER NISSAN",
+      "Website": "https://www.bouldernissan.com",
+      "Phone": "(303) 443-8110",
+      "Email": "",
+      "Street": "2285 28th St",
+      "City": "Boulder",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "VALLEY NISSAN",
+      "Website": "https://www.valleynissan.com",
+      "Phone": "(303) 776-0443",
+      "Email": "",
+      "Street": "1005 Ken Pratt Blvd",
+      "City": "Longmont",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GREELEY NISSAN",
+      "Website": "https://www.greeleynissan.com",
+      "Phone": "(970) 353-5333",
+      "Email": "",
+      "Street": "2625 35th Ave",
+      "City": "Greeley",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "UNITED NISSAN",
+      "Website": "https://www.unitednissan.com",
+      "Phone": "(702) 207-8000",
+      "Email": "",
+      "Street": "3025 E Sahara Ave",
+      "City": "Las Vegas",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "GLORY NISSAN",
+      "Website": "https://www.glorynissan.com",
+      "Phone": "(702) 307-0999",
+      "Email": "",
+      "Street": "5605 W Sahara Ave",
+      "City": "Las Vegas",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "FINDLAY NISSAN HENDERSON",
+      "Website": "https://www.findlaynissanhenderson.com",
+      "Phone": "(702) 558-5800",
+      "Email": "",
+      "Street": "295 Auto Mall Dr",
+      "City": "Henderson",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PLANET NISSAN",
+      "Website": "https://www.planet-nissan.com",
+      "Phone": "(702) 876-8000",
+      "Email": "",
+      "Street": "5850 Centennial Ctr Blvd",
+      "City": "Las Vegas",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "777 NISSAN",
+      "Website": "https://www.777nissan.com",
+      "Phone": "(725) 696-0777",
+      "Email": "",
+      "Street": "8056 Rafael Rivera Way",
+      "City": "Las Vegas",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "STEVENS CREEK NISSAN",
+      "Website": "https://www.stevenscreeknissan.com",
+      "Phone": "(408) 983-5900",
+      "Email": "",
+      "Street": "4855 Stevens Creek Blvd",
+      "City": "Santa Clara",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CAPITOL NISSAN",
+      "Website": "https://www.capitolnissansj.com",
+      "Phone": "(408) 978-1234",
+      "Email": "",
+      "Street": "1120 W Capitol Expressway",
+      "City": "San Jose",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PREMIER NISSAN OF FREMONT",
+      "Website": "https://www.premiernissanoffremont.com",
+      "Phone": "(510) 668-8700",
+      "Email": "",
+      "Street": "5701 Cushing Parkway",
+      "City": "Fremont",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "REDWOOD CITY NISSAN",
+      "Website": "https://www.redwoodcitynissan.com",
+      "Phone": "(650) 241-2525",
+      "Email": "",
+      "Street": "543 El Camino Real",
+      "City": "Redwood City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "HAYWARD NISSAN",
+      "Website": "https://www.haywardnissan.com",
+      "Phone": "(510) 372-2800",
+      "Email": "",
+      "Street": "24644 Mission Blvd",
+      "City": "Hayward",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "DUBLIN NISSAN",
+      "Website": "https://www.dublinnissan.com",
+      "Phone": "(925) 452-8000",
+      "Email": "",
+      "Street": "3800 Kaiser Rd",
+      "City": "Dublin",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "ED HICKS NISSAN",
+      "Website": "https://www.edhicksnissan.com",
+      "Phone": "(361) 654-1955",
+      "Email": "",
+      "Street": "3000 S Padre Island Dr",
+      "City": "Corpus Christi",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "HICKS FAMILY NISSAN",
+      "Website": "https://www.hicksfamilynissan.com",
+      "Phone": "(361) 651-5910",
+      "Email": "",
+      "Street": "3002 Ih 69 Access Road",
+      "City": "Robstown",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "HACIENDA NISSAN",
+      "Website": "https://www.haciendanissan.com",
+      "Phone": "(361) 592-2661",
+      "Email": "",
+      "Street": "2501 S Us Hwy 77",
+      "City": "Kingsville",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF VICTORIA",
+      "Website": "https://www.victorianissan.com",
+      "Phone": "(361) 578-5000",
+      "Email": "",
+      "Street": "6003 N Navarro Street",
+      "City": "Victoria",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TORRE NISSAN",
+      "Website": "https://www.torrenissan.com",
+      "Phone": "(760) 777-8999",
+      "Email": "",
+      "Street": "79-125 Highway 111",
+      "City": "La Quinta",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PALM SPRINGS NISSAN",
+      "Website": "https://www.palmspringsnissan.com",
+      "Phone": "(760) 328-2828",
+      "Email": "",
+      "Street": "68-177 Kyle Road",
+      "City": "Cathedral City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "PEDDER NISSAN",
+      "Website": "https://www.peddernissan.com",
+      "Phone": "(951) 766-1446",
+      "Email": "",
+      "Street": "200 Carriage Circle",
+      "City": "Hemet",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "TEMECULA NISSAN",
+      "Website": "https://www.temeculanissan.com",
+      "Phone": "(951) 972-8400",
+      "Email": "",
+      "Street": "41895 Motor Car Pkwy",
+      "City": "Temecula",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF REDLANDS",
+      "Website": "https://www.nissanofredlands.com",
+      "Phone": "(909) 793-3377",
+      "Email": "",
+      "Street": "1665 Industrial Park Ave",
+      "City": "Redlands",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "RACEWAY NISSAN",
+      "Website": "https://www.racewaynissan.com",
+      "Phone": "(951) 571-9300",
+      "Email": "",
+      "Street": "6030 Sycamore Canyon Blvd",
+      "City": "Riverside",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF SAN BERNARDINO",
+      "Website": "https://www.nissanofsb.com",
+      "Phone": "(909) 885-3883",
+      "Email": "",
+      "Street": "735 West Showcase Drive S",
+      "City": "San Bernardino",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MOSSY NISSAN ESCONDIDO",
+      "Website": "https://www.mossyescondido.com",
+      "Phone": "(760) 746-5050",
+      "Email": "",
+      "Street": "1546 Auto Park Way",
+      "City": "Escondido",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "RIVERSIDE NISSAN",
+      "Website": "https://www.nissanriverside.com",
+      "Phone": "(951) 688-9420",
+      "Email": "",
+      "Street": "8330 Indiana Ave",
+      "City": "Riverside",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MOSSY NISSAN POWAY",
+      "Website": "https://www.mossypoway.com",
+      "Phone": "(858) 668-3600",
+      "Email": "",
+      "Street": "14100 Poway Rd",
+      "City": "Poway",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MOSSY NISSAN OCEANSIDE",
+      "Website": "https://www.mossynissanoceanside.com",
+      "Phone": "(760) 720-9797",
+      "Email": "",
+      "Street": "3535 College Blvd",
+      "City": "Oceanside",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "FONTANA NISSAN",
+      "Website": "https://www.fontananissan.com",
+      "Phone": "(909) 574-2288",
+      "Email": "",
+      "Street": "16444 S Highland Ave",
+      "City": "Fontana",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CORONA NISSAN",
+      "Website": "https://www.coronanissan.com",
+      "Phone": "(951) 281-2600",
+      "Email": "",
+      "Street": "2575 Wardlow Rd",
+      "City": "Corona",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "UNITED NISSAN IMPERIAL",
+      "Website": "https://www.unitednissanimperial.com",
+      "Phone": "(760) 352-2900",
+      "Email": "",
+      "Street": "2361 Hwy 86",
+      "City": "Imperial",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MOSSY NISSAN EL CAJON",
+      "Website": "https://www.mossynissanelcajon.com",
+      "Phone": "(619) 588-0500",
+      "Email": "",
+      "Street": "1170 W Main St",
+      "City": "El Cajon",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "VALLEY HI NISSAN",
+      "Website": "https://www.valleyhinissan.com",
+      "Phone": "(760) 241-1700",
+      "Email": "",
+      "Street": "15722 Valley Park Lane",
+      "City": "Victorville",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MOSSY NISSAN KEARNY MESA",
+      "Website": "https://www.mossykearnymesa.com",
+      "Phone": "(858) 565-4411",
+      "Email": "",
+      "Street": "8104 Clairemont Mesa Blvd",
+      "City": "San Diego",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF IRVINE",
+      "Website": "https://www.nissanofirvine.com",
+      "Phone": "(949) 951-7575",
+      "Email": "",
+      "Street": "32 Auto Center Dr",
+      "City": "Irvine",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "NISSAN OF TUSTIN",
+      "Website": "https://www.nissanoftustin.com",
+      "Phone": "(714) 669-8282",
+      "Email": "",
+      "Street": "30 Auto Center Drive",
+      "City": "Tustin",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MOJAVE NISSAN OF BARSTOW",
+      "Website": "https://www.mojavenissanofbarstow.com",
+      "Phone": "(760) 256-2241",
+      "Email": "",
+      "Street": "1010 W Main Street",
+      "City": "Barstow",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MOSSY NISSAN NATIONAL CITY",
+      "Website": "https://www.mossynationalcity.com",
+      "Phone": "(619) 474-7011",
+      "Email": "",
+      "Street": "2700 National City Blvd",
+      "City": "National City",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MOSSY NISSAN CHULA VISTA",
+      "Website": "https://www.mossychulavista.com",
+      "Phone": "(619) 397-6578",
+      "Email": "",
+      "Street": "1885 Auto Park Place",
+      "City": "Chula Vista",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CASA NISSAN",
+      "Website": "https://www.casanissan.com",
+      "Phone": "(915) 772-1488",
+      "Email": "",
+      "Street": "5855 Montana Ave",
+      "City": "El Paso",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "VIVA NISSAN",
+      "Website": "https://www.vivanissan.com",
+      "Phone": "(915) 629-5500",
+      "Email": "",
+      "Street": "1310 N Zaragoza Rd",
+      "City": "El Paso",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "CHARLIE CLARK NISSAN EL PASO",
+      "Website": "https://www.charlieclarknissanelpaso.net",
+      "Phone": "(915) 706-4100",
+      "Email": "",
+      "Street": "6451 S Desert Blvd",
+      "City": "El Paso",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "MELLOY NISSAN",
+      "Website": "https://www.melloynissan.com",
+      "Phone": "(505) 265-8721",
+      "Email": "",
+      "Street": "7707 Lomas Blvd Ne",
+      "City": "Albuquerque",
+      "State": "",
+      "ZIP": ""
+    },
+    {
+      "Dealer": "RELIABLE NISSAN",
+      "Website": "https://www.reliablenissan.com",
+      "Phone": "(505) 404-9869",
+      "Email": "",
+      "Street": "9951 Coors Blvd Nw",
+      "City": "Albuquerque",
       "State": "",
       "ZIP": ""
     }
