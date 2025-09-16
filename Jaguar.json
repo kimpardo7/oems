@@ -1,0 +1,378 @@
+{
+  "brand": "Jaguar",
+  "data_collection_date": "2025-01-30",
+  "total_zip_codes_searched": 3,
+  "zip_codes": {
+    "10001": {
+      "zip_code": "10001",
+      "location": "New York, NY",
+      "total_retailers_found": 10,
+      "retailers": [
+        {
+          "distance": "22.9 miles",
+          "name": "Jaguar White Plains",
+          "address": "295 E Main St, Elmsford, NY, 10523-3413",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(914) 259-8158",
+            "(914) 468-4201"
+          ],
+          "email": "wernerg@autonation.com"
+        },
+        {
+          "distance": "1.4 miles",
+          "name": "Jaguar Manhattan Certified Pre-Owned & Service",
+          "address": "787 11th Ave, New York, NY, 10019-3538",
+          "services": [
+            "Repairs",
+            "Approved Certified Pre-owned",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(212) 459-2430"
+          ],
+          "email": null
+        },
+        {
+          "distance": "5.3 miles",
+          "name": "NY City Automotive",
+          "address": "622 Court Street, Brooklyn, NY, 11231",
+          "services": [
+            "Bodyshop",
+            "Electric Vehicle Repair and Service"
+          ],
+          "phones": [
+            "212-956-3809"
+          ],
+          "email": "nycautomotive@gmail.com"
+        },
+        {
+          "distance": "8.4 miles",
+          "name": "Rojo Collision Center",
+          "address": "8720 Foster Ave, Brooklyn, NY, 11236",
+          "services": [
+            "Bodyshop",
+            "Electric Vehicle Repair and Service"
+          ],
+          "phones": [
+            "(718)649-2704"
+          ],
+          "email": "rojocollision@aol.com"
+        },
+        {
+          "distance": "10.0 miles",
+          "name": "Class A Autobody",
+          "address": "40 Railroad Ave, Hackensack, NJ, 07601-3337",
+          "services": [
+            "Bodyshop",
+            "Electric Vehicle Repair and Service"
+          ],
+          "phones": [
+            "(201)488-3777"
+          ],
+          "email": "george@classaautobody.com"
+        },
+        {
+          "distance": "10.7 miles",
+          "name": "Frank & Son Auto Body",
+          "address": "1530 Stillwell Ave, Bronx, NY, 10461",
+          "services": [
+            "Bodyshop",
+            "Electric Vehicle Repair and Service"
+          ],
+          "phones": [],
+          "email": null
+        },
+        {
+          "distance": "11.3 miles",
+          "name": "Brooklyn Motors",
+          "address": "2575 Stillwell Ave, Brooklyn, NY, 11223",
+          "services": [
+            "Bodyshop",
+            "Electric Vehicle Repair and Service"
+          ],
+          "phones": [
+            "718-975-0261"
+          ],
+          "email": "max.brooklynmotorsny@gmail.com"
+        },
+        {
+          "distance": "11.3 miles",
+          "name": "Prospect Auto Body",
+          "address": "3313 Laconia Ave, Bronx, NY, 10469",
+          "services": [
+            "Bodyshop",
+            "Electric Vehicle Repair and Service"
+          ],
+          "phones": [
+            "(718)881-3099"
+          ],
+          "email": "emilio@prospectauto.net"
+        },
+        {
+          "distance": "11.7 miles",
+          "name": "Jaguar Brooklyn Authorized Service",
+          "address": "809 Neptune Avenue, Brooklyn, NY, 11224",
+          "services": [
+            "Repairs",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "929-583-6400"
+          ],
+          "email": null
+        },
+        {
+          "distance": "12.6 miles",
+          "name": "East Collision Inc",
+          "address": "2266 Tillotson Ave, Bronx, NY, 10475",
+          "services": [
+            "Bodyshop",
+            "Electric Vehicle Repair and Service"
+          ],
+          "phones": [
+            "718-994-4900"
+          ],
+          "email": "rotondip.pr@gmail.com"
+        }
+      ]
+    },
+    "90210": {
+      "zip_code": "90210",
+      "location": "Beverly Hills, CA",
+      "total_retailers_found": 7,
+      "retailers": [
+        {
+          "distance": "3.3 miles",
+          "name": "Jaguar Los Angeles",
+          "address": "400 S La Brea Ave, Los Angeles, CA, 90036-3524",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(310) 432-5900"
+          ],
+          "email": null
+        },
+        {
+          "distance": "5.1 miles",
+          "name": "Jaguar Santa Monica",
+          "address": "3020 Santa Monica Blvd, Santa Monica, CA, 90404-2506",
+          "services": [
+            "Sales",
+            "Plug-in Hybrid Electric Vehicle Dealer (PHEV)"
+          ],
+          "phones": [
+            "(424) 291-5710"
+          ],
+          "email": null
+        },
+        {
+          "distance": "10.5 miles",
+          "name": "Jaguar Van Nuys",
+          "address": "15500 Roscoe Blvd, Van Nuys, CA, 91406-1347",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(818)894-3800"
+          ],
+          "email": "vmartirosyan@galpin.com"
+        },
+        {
+          "distance": "13.9 miles",
+          "name": "Jaguar Woodland Hills",
+          "address": "22006 West Erwin Street, Woodland Hills, CA, 91367",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "818-990-9870"
+          ],
+          "email": null
+        },
+        {
+          "distance": "22.5 miles",
+          "name": "Jaguar Cerritos",
+          "address": "10861 183rd St, Cerritos, CA, 90703-8011",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(562) 356-1000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "27.9 miles",
+          "name": "Jaguar Puente Hills",
+          "address": "17673 Gale Ave, City of Industry, CA, 91748-1524",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(626)923-5400"
+          ],
+          "email": "delliott@socalpenske.com"
+        },
+        {
+          "distance": "43.5 miles",
+          "name": "Jaguar Newport Beach",
+          "address": "1540 Jamboree Rd, Newport Beach, CA, 92660-5912",
+          "services": [
+            "Sales",
+            "Battery Electric Vehicle Dealer (BEV)"
+          ],
+          "phones": [
+            "(949) 640-6445"
+          ],
+          "email": null
+        }
+      ]
+    },
+    "60601": {
+      "zip_code": "60601",
+      "location": "Chicago, IL",
+      "total_retailers_found": 7,
+      "retailers": [
+        {
+          "distance": "3.2 miles",
+          "name": "Jaguar Chicago",
+          "address": "1919 N Paulina St, Chicago, IL, 60622",
+          "services": [
+            "Sales",
+            "Battery Electric Vehicle Dealer (BEV)"
+          ],
+          "phones": [
+            "(773) 227-3200"
+          ],
+          "email": null
+        },
+        {
+          "distance": "17.3 miles",
+          "name": "Jaguar Northfield",
+          "address": "670 W Frontage Rd, Northfield, IL, 60093-1254",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(847)446-6665"
+          ],
+          "email": "anthony.thommes@fieldsauto.com"
+        },
+        {
+          "distance": "22.1 miles",
+          "name": "Jaguar Orland Park",
+          "address": "8301 W 159th Street, Tinley Park, IL, 60477-1214",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(708)864-4850"
+          ],
+          "email": "jzielinski@iaorlandpark.com"
+        },
+        {
+          "distance": "27.1 miles",
+          "name": "Jaguar Schaumburg",
+          "address": "920 W Golf Rd, Schaumburg, IL, 60194-1330",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(847)252-7800"
+          ],
+          "email": "paulwalter@zeigler.com"
+        },
+        {
+          "distance": "29.5 miles",
+          "name": "Imperial Motors Jaguar of Lake Bluff",
+          "address": "150 Skokie Hwy, Lake Bluff, IL, 60044-2211",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(847)615-0606"
+          ],
+          "email": "lgray@imperialmotors.com"
+        },
+        {
+          "distance": "30.0 miles",
+          "name": "Jaguar Naperville",
+          "address": "1559 W Ogden Ave, Naperville, IL, 60540-3906",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(630)300-5000"
+          ],
+          "email": "tportuese@patrickcars.com"
+        },
+        {
+          "distance": "30.8 miles",
+          "name": "Jaguar South Shore",
+          "address": "5781 US Hwy 30, Schererville, IN, 46375",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(219)245-2500"
+          ],
+          "email": "jkarl@southshorejlr.com"
+        }
+      ]
+    }
+  }
+}

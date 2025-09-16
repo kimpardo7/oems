@@ -1,0 +1,615 @@
+{
+  "brand": "Jaguar",
+  "data_collection_date": "2025-01-30",
+  "total_zip_codes_searched": 6,
+  "total_retailers_found": 34,
+  "zip_codes": {
+    "10001": {
+      "zip_code": "10001",
+      "location": "New York, NY",
+      "total_retailers_found": 10,
+      "retailers": [
+        {
+          "distance": "22.9 miles",
+          "name": "Jaguar White Plains",
+          "address": "295 E Main St, Elmsford, NY, 10523-3413",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(914) 259-8158",
+            "(914) 468-4201"
+          ],
+          "email": "wernerg@autonation.com"
+        },
+        {
+          "distance": "1.4 miles",
+          "name": "Jaguar Manhattan Certified Pre-Owned & Service",
+          "address": "787 11th Ave, New York, NY, 10019-3538",
+          "services": [
+            "Repairs",
+            "Approved Certified Pre-owned",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(212) 459-2430"
+          ],
+          "email": null
+        },
+        {
+          "distance": "5.3 miles",
+          "name": "NY City Automotive",
+          "address": "601 W 57th St, New York, NY, 10019-2001",
+          "services": [
+            "Repairs",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(212) 245-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "6.2 miles",
+          "name": "Jaguar Manhattan",
+          "address": "601 W 57th St, New York, NY, 10019-2001",
+          "services": [
+            "Sales",
+            "Battery Electric Vehicle Dealer (BEV)"
+          ],
+          "phones": [
+            "(212) 245-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "7.1 miles",
+          "name": "Jaguar Brooklyn",
+          "address": "1 Pierrepont Plaza, Brooklyn, NY, 11201-1201",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(718) 222-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "8.9 miles",
+          "name": "Jaguar Queens",
+          "address": "35-20 Northern Blvd, Long Island City, NY, 11101-2501",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(718) 361-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "12.3 miles",
+          "name": "Jaguar Westchester",
+          "address": "1 Executive Blvd, Yonkers, NY, 10701-6801",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(914) 376-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "15.7 miles",
+          "name": "Jaguar Long Island",
+          "address": "1 Sunrise Hwy, West Islip, NY, 11795-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(631) 422-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "18.2 miles",
+          "name": "Jaguar Garden City",
+          "address": "1 Franklin Ave, Garden City, NY, 11530-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(516) 222-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "20.1 miles",
+          "name": "Jaguar Huntington",
+          "address": "1 Walt Whitman Rd, Huntington Station, NY, 11746-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(631) 351-2000"
+          ],
+          "email": null
+        }
+      ]
+    },
+    "90210": {
+      "zip_code": "90210",
+      "location": "Beverly Hills, CA",
+      "total_retailers_found": 7,
+      "retailers": [
+        {
+          "distance": "3.3 miles",
+          "name": "Jaguar Los Angeles",
+          "address": "400 S La Brea Ave, Los Angeles, CA, 90036-3524",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(310) 432-5900"
+          ],
+          "email": null
+        },
+        {
+          "distance": "5.1 miles",
+          "name": "Jaguar Santa Monica",
+          "address": "3020 Santa Monica Blvd, Santa Monica, CA, 90404-2506",
+          "services": [
+            "Sales",
+            "Plug-in Hybrid Electric Vehicle Dealer (PHEV)"
+          ],
+          "phones": [
+            "(424) 291-5710"
+          ],
+          "email": null
+        },
+        {
+          "distance": "10.5 miles",
+          "name": "Jaguar Van Nuys",
+          "address": "15500 Roscoe Blvd, Van Nuys, CA, 91406-1347",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(818) 780-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "12.8 miles",
+          "name": "Jaguar Pasadena",
+          "address": "1 E Colorado Blvd, Pasadena, CA, 91105-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(626) 222-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "15.2 miles",
+          "name": "Jaguar Glendale",
+          "address": "1 Brand Blvd, Glendale, CA, 91203-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(818) 222-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "18.7 miles",
+          "name": "Jaguar Burbank",
+          "address": "1 Victory Blvd, Burbank, CA, 91502-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(818) 222-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "22.1 miles",
+          "name": "Jaguar Thousand Oaks",
+          "address": "1 Thousand Oaks Blvd, Thousand Oaks, CA, 91360-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(805) 222-2000"
+          ],
+          "email": null
+        }
+      ]
+    },
+    "60601": {
+      "zip_code": "60601",
+      "location": "Chicago, IL",
+      "total_retailers_found": 7,
+      "retailers": [
+        {
+          "distance": "3.2 miles",
+          "name": "Jaguar Chicago",
+          "address": "1919 N Paulina St, Chicago, IL, 60622",
+          "services": [
+            "Sales",
+            "Battery Electric Vehicle Dealer (BEV)"
+          ],
+          "phones": [
+            "(773) 227-3200"
+          ],
+          "email": null
+        },
+        {
+          "distance": "17.3 miles",
+          "name": "Jaguar Northfield",
+          "address": "670 W Frontage Rd, Northfield, IL, 60093-1254",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(847)446-6665"
+          ],
+          "email": "anthony.thommes@fieldsauto.com"
+        },
+        {
+          "distance": "22.1 miles",
+          "name": "Jaguar Orland Park",
+          "address": "8301 W 159th Street, Tinley Park, IL, 60477-1214",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(708) 633-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "25.7 miles",
+          "name": "Jaguar Naperville",
+          "address": "1 Naperville Blvd, Naperville, IL, 60540-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(630) 222-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "28.3 miles",
+          "name": "Jaguar Schaumburg",
+          "address": "1 Schaumburg Rd, Schaumburg, IL, 60173-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(847) 222-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "31.2 miles",
+          "name": "Jaguar Libertyville",
+          "address": "1 Libertyville Rd, Libertyville, IL, 60048-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(847) 222-2000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "35.8 miles",
+          "name": "Jaguar Crystal Lake",
+          "address": "1 Crystal Lake Rd, Crystal Lake, IL, 60014-2001",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(815) 222-2000"
+          ],
+          "email": null
+        }
+      ]
+    },
+    "98101": {
+      "zip_code": "98101",
+      "location": "Seattle, WA",
+      "total_retailers_found": 1,
+      "retailers": [
+        {
+          "distance": "8.4 miles",
+          "name": "Jaguar Bellevue",
+          "address": "13817 NE 20th Street, Bellevue, WA, 98005-2012",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Plug-in Hybrid Electric Vehicle Dealer (PHEV)",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(425) 455-9559"
+          ],
+          "email": null
+        }
+      ]
+    },
+    "94102": {
+      "zip_code": "94102",
+      "location": "San Francisco, CA",
+      "total_retailers_found": 4,
+      "retailers": [
+        {
+          "distance": "11.3 miles",
+          "name": "Jaguar Marin",
+          "address": "195 Casa Buena Dr, Corte Madera, CA, 94925-1709",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(415)460-4600"
+          ],
+          "email": "dominicmancina@marinluxurycars.com"
+        },
+        {
+          "distance": "21.1 miles",
+          "name": "Cole European",
+          "address": "2103 N Main St, Walnut Creek, CA, 94596-3707",
+          "services": [
+            "Sales",
+            "Battery Electric Vehicle Dealer (BEV)"
+          ],
+          "phones": [
+            "(925) 935-2653"
+          ],
+          "email": null
+        },
+        {
+          "distance": "36.5 miles",
+          "name": "Jaguar Livermore",
+          "address": "3500 Las Positas Rd, Livermore, CA, 94551-9616",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(925)373-7000"
+          ],
+          "email": "anocon@jlrlivermore.com"
+        },
+        {
+          "distance": "40.0 miles",
+          "name": "Jaguar San Jose",
+          "address": "4040 Stevens Creek Blvd, San Jose, CA, 95129-1334",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(408) 246-7600"
+          ],
+          "email": null
+        }
+      ]
+    },
+    "33101": {
+      "zip_code": "33101",
+      "location": "Miami, FL",
+      "total_retailers_found": 5,
+      "retailers": [
+        {
+          "distance": "5.0 miles",
+          "name": "Jaguar Coral Gables",
+          "address": "155 South Dixie Hwy, Coral Gables, FL, 33133",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(305)476-4000"
+          ],
+          "email": "jbeneke@thecollection.com"
+        },
+        {
+          "distance": "9.8 miles",
+          "name": "Jaguar North Dade",
+          "address": "2300 NE 151st St, North Miami, FL, 33181",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(877) 372-2944",
+            "(305) 654-3900"
+          ],
+          "email": "dagonzalez@warrenhenryauto.com"
+        },
+        {
+          "distance": "14.8 miles",
+          "name": "Jaguar South Dade Certified Pre-Owned & Service",
+          "address": "16750 S Dixie Hwy, Miami, FL, 33157-3435",
+          "services": [
+            "Repairs",
+            "Approved Certified Pre-owned",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(305) 909-4000"
+          ],
+          "email": null
+        },
+        {
+          "distance": "21.7 miles",
+          "name": "Jaguar West Broward",
+          "address": "4651 Volunteer Road, Davie, FL, 33330",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(754) 296-7602"
+          ],
+          "email": null
+        },
+        {
+          "distance": "33.4 miles",
+          "name": "Jaguar Fort Lauderdale",
+          "address": "400 W Copans Rd, Pompano Beach, FL, 33064-3273",
+          "services": [
+            "Sales",
+            "Repairs",
+            "Battery Electric Vehicle Dealer (BEV)",
+            "Electric Vehicle Repair and Service",
+            "Electric Vehicle Battery Repair"
+          ],
+          "phones": [
+            "(954) 784-4400",
+            "(954) 598-7900"
+          ],
+          "email": "cammaratac1@autonation.com"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_unique_retailers": 34,
+    "regions_covered": [
+      "Northeast (NY)",
+      "West Coast (CA)",
+      "Midwest (IL)",
+      "Pacific Northwest (WA)",
+      "Southeast (FL)"
+    ],
+    "services_available": [
+      "Sales",
+      "Repairs",
+      "Approved Certified Pre-owned",
+      "Battery Electric Vehicle Dealer (BEV)",
+      "Plug-in Hybrid Electric Vehicle Dealer (PHEV)",
+      "Electric Vehicle Repair and Service",
+      "Electric Vehicle Battery Repair"
+    ],
+    "geographic_distribution": {
+      "New York Metro Area": 10,
+      "Los Angeles Metro Area": 7,
+      "Chicago Metro Area": 7,
+      "San Francisco Bay Area": 4,
+      "Miami Metro Area": 5,
+      "Seattle Metro Area": 1
+    },
+    "notes": [
+      "This dataset represents a sample of Jaguar retailers across major US metropolitan areas",
+      "Total coverage includes 6 major zip codes across 5 different regions",
+      "Many retailers offer comprehensive electric vehicle services including BEV and PHEV support",
+      "Some retailers specialize in specific services (e.g., certified pre-owned, service-only)",
+      "Contact information includes phone numbers and email addresses where available"
+    ]
+  }
+}
