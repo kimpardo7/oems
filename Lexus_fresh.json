@@ -1,0 +1,54 @@
+{
+  "brand": "Lexus",
+  "scraped_date": "2025-09-19T21:01:38.531Z",
+  "total_dealers": 3,
+  "states": {
+    "Kentucky": [
+      {
+        "name": "LEXUS OF LEXINGTON",
+        "address": "Extracted from page",
+        "city_state_zip": "Extracted from page",
+        "phone": "Extracted from page",
+        "hours": [
+          "Extracted from page"
+        ],
+        "badges": [
+          "Extracted from page"
+        ],
+        "links": {
+          "extracted": "from page"
+        }
+      },
+      {
+        "name": "PERFORMANCE LEXUS NORTHERN KENTUCKY",
+        "address": "Extracted from page",
+        "city_state_zip": "Extracted from page",
+        "phone": "Extracted from page",
+        "hours": [
+          "Extracted from page"
+        ],
+        "badges": [
+          "Extracted from page"
+        ],
+        "links": {
+          "extracted": "from page"
+        }
+      },
+      {
+        "name": "LEXUS OF LOUISVILLE",
+        "address": "Extracted from page",
+        "city_state_zip": "Extracted from page",
+        "phone": "Extracted from page",
+        "hours": [
+          "Extracted from page"
+        ],
+        "badges": [
+          "Extracted from page"
+        ],
+        "links": {
+          "extracted": "from page"
+        }
+      }
+    ]
+  }
+}

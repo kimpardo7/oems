@@ -1,7 +1,7 @@
 {
   "brand": "Lexus",
   "scraped_date": "2025-01-18T20:00:00.000Z",
-  "total_dealers": 216,
+  "total_dealers": 108,
   "states": {
     "Alabama": [
       {
@@ -135,9 +135,7 @@
           "Mon-Fri 8am-8pm",
           "Sat 9am-5pm"
         ],
-        "badges": [
-          "Elite Dealer"
-        ],
+        "badges": ["Elite Dealer"],
         "links": {
           "dealer_details": "/dealers/60203-lexus-of-tucson",
           "website": "https://www.lexusoftucsonspeedway.com/?intsrc=lcom:dealers:dealervisit:home",
@@ -155,9 +153,7 @@
           "Sat 9am-6pm",
           "Sun 10am-5pm"
         ],
-        "badges": [
-          "Elite Dealer"
-        ],
+        "badges": ["Elite Dealer"],
         "links": {
           "dealer_details": "/dealers/60205-earnhardt-lexus",
           "website": "https://www.earnhardtlexus.com/?intsrc=lcom:dealers:dealervisit:home",
@@ -191,9 +187,7 @@
           "Mon-Fri 8am-7pm",
           "Sat 9am-5pm"
         ],
-        "badges": [
-          "Elite Dealer"
-        ],
+        "badges": ["Elite Dealer"],
         "links": {
           "dealer_details": "/dealers/60230-lexus-of-tucson-at-the-auto-mall",
           "website": "https://www.lexusoftucsonautomall.com/?intsrc=lcom:dealers:dealervisit:home",
@@ -211,9 +205,7 @@
           "Sat 9am-6pm",
           "Sun 11am-5pm"
         ],
-        "badges": [
-          "Monogram"
-        ],
+        "badges": ["Monogram"],
         "links": {
           "dealer_details": "/dealers/60231-lexus-of-chandler",
           "website": "https://www.lexusofchandler.com/?intsrc=lcom:dealers:dealervisit:home",
@@ -250,10 +242,7 @@
           "Mon-Fri 8am-5:30pm",
           "Sat 9am-3:30pm"
         ],
-        "badges": [
-          "Elite Dealer",
-          "Monogram"
-        ],
+        "badges": ["Elite Dealer", "Monogram"],
         "links": {
           "dealer_details": "/dealers/60301-parker-lexus",
           "website": "https://www.parkerlexus.com/?intsrc=lcom:dealers:dealervisit:home",
@@ -1523,8 +1512,8 @@
           "service": "https://www.lexusoffortmyers.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
           "contact": "https://www.lexusoffortmyers.com/contact?intsrc=lcom:dealers:dealervisit:home"
         }
-      }
-    ],
+      ]
+    },
     "Georgia": [
       {
         "name": "NALLEY LEXUS-SMYRNA",
@@ -1682,10 +1671,9 @@
           "service": "https://www.nalleylexusroswell.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
           "contact": "https://www.nalleylexusroswell.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
         }
-      }
-    ],
-    "Hawaii": [],
-    "Idaho": [
+      ],
+      "Hawaii": [],
+      "Idaho": [
         {
           "name": "PETERSON LEXUS",
           "address": "9055 W. Fairview Avenue",
@@ -1703,7 +1691,7 @@
           }
         }
       ]
-    },
+    ],
     "Illinois": [
       {
         "name": "LEXUS OF ORLAND",
@@ -2085,3 +2073,4 @@
       }
     ]
   }
+}

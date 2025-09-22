@@ -1,0 +1,329 @@
+{
+  "brand": "Hyundai",
+  "search_date": "2024-01-01",
+  "total_dealers": 46,
+  "dealers": [
+    {
+      "name": "Team Hyundai of Bend",
+      "phone": "(541) 749-4025",
+      "address": null,
+      "rating": 4.4,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Hyundai of Albany SE",
+      "phone": "(541) 248-2048",
+      "address": "1620 Fescue St",
+      "rating": 4.7,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Dick's Hillsboro Hyundai",
+      "phone": "(503) 640-6401",
+      "address": null,
+      "rating": 4.4,
+      "hours": "Closed⋅ Opens 8:30 AM"
+    },
+    {
+      "name": "Kendall Hyundai of Vancouver6802 NE 40th St",
+      "phone": "(360) 397-7095",
+      "address": null,
+      "rating": 4.3,
+      "hours": "Closed⋅ Opens 8 AM"
+    },
+    {
+      "name": "Tonkin Gladstone Hyundai ⋅",
+      "phone": "(503) 258-5700",
+      "address": "19300 SE McLoughlin Blvd",
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Bud Clary Hyundai700 7th Ave",
+      "phone": "(360) 423-4321",
+      "address": null,
+      "rating": 4.5,
+      "hours": "Closed⋅ Opens 8:30 AM"
+    },
+    {
+      "name": "Beaverton Hyundai ⋅",
+      "phone": "(503) 641-2889",
+      "address": "13255 SW Farmington Rd",
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Hyundai of Yakima",
+      "phone": "(509) 457-1380",
+      "address": "3204 Fruitvale Blvd",
+      "rating": 4.7,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Bud Clary Auburn Hyundai2807 Auburn Wy N ⋅",
+      "phone": "(253) 833-2465",
+      "address": null,
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Dick Hannah Hyundai of Portland ⋅",
+      "phone": "(503) 622-9614",
+      "address": "12345 E Burnside St",
+      "rating": 4.5,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Ron Tonkin Hyundai ⋅",
+      "phone": "(503) 832-6682",
+      "address": "675 NE Burnside Rd",
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Hyundai Eugene",
+      "phone": "(458) 250-6409",
+      "address": "89320 N Game Farm Rd",
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Withnell HyundaiCar dealer SE",
+      "phone": "(888) 670-5792",
+      "address": "1996 Mission St",
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Speck Hyundai of Tri-Cities",
+      "phone": "(509) 715-6598",
+      "address": "2910 W Clearwater Ave",
+      "rating": 4.5,
+      "hours": "Closed⋅ Opens 8 AM"
+    },
+    {
+      "name": "Hyundai Medford",
+      "phone": "(541) 245-5335",
+      "address": "5000 Crater Lake Ave",
+      "rating": null,
+      "hours": "Closed⋅ Opens 8:30 AM"
+    },
+    {
+      "name": "Haselwood Hyundai ⋅",
+      "phone": "(360) 377-3855",
+      "address": "5008 Auto Center Blvd",
+      "rating": 4.3,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Korum Hyundai",
+      "phone": "(253) 845-6600",
+      "address": "111 River Rd",
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Northwood Hyundai221 7th St",
+      "phone": "(707) 832-4097",
+      "address": null,
+      "rating": 4.3,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Kendall Hyundai of Nampa ⋅",
+      "phone": "(208) 376-8562",
+      "address": "15715 N Idaho Center Blvd",
+      "rating": null,
+      "hours": "Closes soon⋅ 9 PM"
+    },
+    {
+      "name": "Kendall Hyundai of Boise ⋅",
+      "phone": "(208) 376-8549",
+      "address": "9250 W Fairview Ave",
+      "rating": null,
+      "hours": "Closes soon⋅ 9 PM"
+    },
+    {
+      "name": "Titus-Will Hyundai2255 Carriage Loop SW ⋅",
+      "phone": "(360) 528-3912",
+      "address": null,
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Larson Hyundai ⋅",
+      "phone": "(253) 474-0621",
+      "address": "7601 S Tacoma Way",
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Lee Johnson Hyundai of Everett7800 Evergreen Wy ⋅",
+      "phone": "(425) 258-9100",
+      "address": null,
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Lithia Hyundai of Reno ⋅",
+      "phone": "(775) 800-5703",
+      "address": "2620 Kietzke Ln",
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Rairdon's Hyundai of Bellingham ⋅",
+      "phone": "(360) 395-2595",
+      "address": "1801 Iowa St",
+      "rating": 4.8,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Hyundai of Kirkland11706 124th Ave NE ⋅",
+      "phone": "(425) 500-1081",
+      "address": null,
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Ken Garff Hyundai Downtown",
+      "phone": "(801) 384-1809",
+      "address": "717 S W Temple St",
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Manly Hyundai",
+      "phone": "(707) 545-7212",
+      "address": "2755 Corby Ave",
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Hyundai of Vacaville ⋅",
+      "phone": "(707) 392-4484",
+      "address": "641 Orange Dr",
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Vallejo Hyundai ⋅",
+      "phone": "(707) 606-1914",
+      "address": "3287 Sonoma Blvd",
+      "rating": 4.3,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Midway Hyundai Post Falls",
+      "phone": "(208) 619-2500",
+      "address": "1665 E Edmonton Ave",
+      "rating": 4.9,
+      "hours": "Closed⋅ Opens 8 AM"
+    },
+    {
+      "name": "Clark Hyundai2955 US-93",
+      "phone": "(406) 755-5274",
+      "address": null,
+      "rating": 4.6,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Ken Garff Hyundai Southtowne",
+      "phone": "(801) 912-9880",
+      "address": "10770 S Auto Mall Dr",
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Carson City Hyundai",
+      "phone": "(775) 301-4600",
+      "address": "3659 S Carson St",
+      "rating": 4.6,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Car Pros Hyundai Renton201 S 7th StOpen⋅ Closes 9 PM",
+      "phone": "(425) 226-1275",
+      "address": null,
+      "rating": null,
+      "hours": null
+    },
+    {
+      "name": "Elk Grove Hyundai ⋅",
+      "phone": "(279) 348-2562",
+      "address": "8480 Auto Passage Dr",
+      "rating": null,
+      "hours": "Closes soon⋅ 8 PM"
+    },
+    {
+      "name": "Murdock Hyundai of Logan",
+      "phone": "(866) 372-8250",
+      "address": "3131 N Main St",
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Schomp Hyundai",
+      "phone": "(720) 863-7324",
+      "address": "100 Havana St",
+      "rating": null,
+      "hours": "Closed⋅ Opens 10 AM"
+    },
+    {
+      "name": "#1 Phil Long Hyundai of Motor City170 W Motor Wy",
+      "phone": "(719) 453-0549",
+      "address": null,
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Team Hyundai of Bend Service DepartmentCar repair and maintenance service 20 Suite A",
+      "phone": "(541) 229-9068",
+      "address": null,
+      "rating": 5.0,
+      "hours": "Closed⋅ Opens 8 AM"
+    },
+    {
+      "name": "Hyundai of Greeley4533 W 29th St",
+      "phone": "(970) 330-3801",
+      "address": null,
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Ron Tonkin Hyundai ServiceAuto repair shop",
+      "phone": "(503) 832-6682",
+      "address": "675 NE Burnside Rd",
+      "rating": 4.7,
+      "hours": "Closed⋅ Opens 7:30 AM"
+    },
+    {
+      "name": "Mountain Hyundai7300 Broadway",
+      "phone": "(720) 604-1989",
+      "address": null,
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Rob Green Hyundai N",
+      "phone": "(208) 733-1825",
+      "address": "1070 Blue Lakes Blvd",
+      "rating": 4.6,
+      "hours": "Closed⋅ Opens 8:30 AM"
+    },
+    {
+      "name": "OpenRoad Hyundai Richmond13251 Smallwood Pl +1",
+      "phone": "604-278-6736",
+      "address": null,
+      "rating": null,
+      "hours": "Closed⋅ Opens 9 AM"
+    },
+    {
+      "name": "Murray Hyundai White Rock Surrey",
+      "phone": "(866) 606-1087",
+      "address": "3150 King George Blvd",
+      "rating": null,
+      "hours": "Closed⋅ Opens 8:30 AM"
+    }
+  ]
+}

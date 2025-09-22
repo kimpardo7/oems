@@ -1,0 +1,12 @@
+{
+  "oem": "BMW",
+  "test": true,
+  "total_dealers_found": 0,
+  "zip_codes_tested": [
+    "10001",
+    "90210",
+    "33101"
+  ],
+  "extraction_date": "2025-09-14T15:46:20.452922",
+  "dealers": []
+}

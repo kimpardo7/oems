@@ -1,0 +1,116 @@
+{
+  "scrape_date": "2025-01-17T18:58:00.000Z",
+  "total_dealerships": 10,
+  "dealerships": [
+    {
+      "name": "Genesis of Las Vegas",
+      "rating": "4.7",
+      "reviews_count": "984",
+      "address": "7150 W Sahara Ave",
+      "phone": "(725) 201-9532",
+      "status": "Open ⋅ Closes 8 PM",
+      "website": "https://www.genesisoflasvegas.net/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=sales",
+      "category": "Genesis dealer",
+      "review_text": "The used car I bought was in excellent condition and at a fair price."
+    },
+    {
+      "name": "Genesis of Atlanta",
+      "rating": "4.8",
+      "reviews_count": "1,146",
+      "address": "5917 Peachtree Blvd",
+      "phone": "(770) 625-1180",
+      "status": "Closed ⋅ Opens 7:30 AM Thu",
+      "website": "https://www.genesisatlanta.com/?utm_source=gmb&utm_medium=organic&utm_campaign=google_my_business",
+      "category": "Genesis dealer",
+      "review_text": "Their top-notch service makes the entire car-buying process a breeze."
+    },
+    {
+      "name": "Genesis of Cherry Hill",
+      "rating": "4.7",
+      "reviews_count": "457",
+      "address": "451 NJ-73",
+      "phone": "(856) 463-2023",
+      "status": "Closed ⋅ Opens 9 AM Thu",
+      "website": "https://www.genesisofcherryhill.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb%20listing",
+      "category": "Genesis dealer",
+      "review_text": "Great customer service, beautiful vehicles and no-hassle negotiations."
+    },
+    {
+      "name": "Genesis of Dublin",
+      "rating": "3.9",
+      "reviews_count": "184",
+      "address": "6015 Scarlett Ct",
+      "phone": "(925) 557-7875",
+      "status": "Open ⋅ Closes 9 PM",
+      "website": "https://www.dublingenesis.com/?utm_source=GBP_listing&utm_medium=organic&utm_campaign=sales_listing&utm_id=website",
+      "category": "Genesis dealer",
+      "review_text": "... me trade out of my Range Rover and into my brand new Genesis."
+    },
+    {
+      "name": "Genesis of Charlotte",
+      "rating": "4.5",
+      "reviews_count": "1,142",
+      "address": "2500 Crownpoint Executive Dr",
+      "phone": "(704) 368-0704",
+      "status": "Closed ⋅ Opens 7 AM Thu",
+      "website": "https://www.genesisofcharlotte.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-main",
+      "category": "Car dealer",
+      "review_text": "Paul absolutely amazing got me the car I wanted at the most reasonable price"
+    },
+    {
+      "name": "Genesis of Southwest Houston",
+      "rating": "4.5",
+      "reviews_count": "844",
+      "address": "10155 Southwest Fwy",
+      "phone": "(346) 651-1300",
+      "status": "Closed ⋅ Opens 9 AM Thu",
+      "website": "https://www.genesisofsouthwesthouston.com/?utm_source=google&utm_medium=organic&utm_campaign=Homepage",
+      "category": "Car dealer",
+      "review_text": "I got the exact car I wanted at a fair price."
+    },
+    {
+      "name": "Genesis of Corona",
+      "rating": "4.5",
+      "reviews_count": "407",
+      "address": "2683 Wardlow Rd",
+      "phone": "(951) 916-9611",
+      "status": "Open ⋅ Closes 8 PM",
+      "website": "https://www.genesisofcorona.com/",
+      "category": "Genesis dealer",
+      "review_text": "He found the exact car I wanted, great financing, and Starbucks to boot!"
+    },
+    {
+      "name": "Genesis of San Bruno",
+      "rating": "4.5",
+      "reviews_count": "388",
+      "address": "1178 El Camino Real",
+      "phone": "(650) 761-4411",
+      "status": "Open ⋅ Closes 8 PM",
+      "website": "https://www.genesisofsanbruno.com/",
+      "category": "Genesis dealer",
+      "review_text": "Had the most pain free stressless car buying experience ever!"
+    },
+    {
+      "name": "Genesis Santa Monica",
+      "rating": "4.3",
+      "reviews_count": "687",
+      "address": "2450 Santa Monica Blvd",
+      "phone": "(310) 409-1299",
+      "status": "Open ⋅ Closes 8 PM",
+      "website": "https://www.genesissantamonica.com/",
+      "category": "Used car dealer",
+      "review_text": "Staff was friendly, not pushy, and I got an incredible car for a fair price."
+    },
+    {
+      "name": "Genesis of Kearny Mesa",
+      "rating": "3.7",
+      "reviews_count": "139",
+      "address": "4797 Convoy St Suite #1",
+      "phone": "(858) 422-3932",
+      "status": "Closes soon ⋅ 7 PM ⋅ Opens 9 AM Thu",
+      "website": "https://www.genesisofkearnymesa.com/?utm_source=gmb&utm_medium=organic&utm_campaign=website&utm_id=honestdigital",
+      "category": "Genesis dealer",
+      "review_text": "High end luxury vehicle for far less than BMW and Mercedes Benz."
+    }
+  ]
+}

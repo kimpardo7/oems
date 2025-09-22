@@ -1,0 +1,87 @@
+{
+  "test_date": "2025-09-14T15:55:57.118996",
+  "zip_code": "10001",
+  "dealers_found": 20,
+  "dealers": [
+    {
+      "name": "BMW of Manhattan",
+      "location": "1.28 mi  \u2022 555 W 57th St\n              New York, NY 10019\n               Certified Center"
+    },
+    {
+      "name": "BMW of Manhattan Executive Sales",
+      "location": "1.28 mi  \u2022 555 W 57th St\n              New York, NY 10019"
+    },
+    {
+      "name": "BMW of Brooklyn",
+      "location": "9.52 mi  \u2022 9326 4th Ave\n              Brooklyn, NY 11209"
+    },
+    {
+      "name": "Park Avenue BMW",
+      "location": "11.39 mi  \u2022 210 State Rt 17 N\n              Rochelle Park, NJ 07662\n               Certified Center"
+    },
+    {
+      "name": "BMW of Bloomfield",
+      "location": "10.79 mi  \u2022 425 Bloomfield Ave\n              Bloomfield, NJ 07003"
+    },
+    {
+      "name": "BMW of Bayside",
+      "location": "13.39 mi  \u2022 24721 Northern Blvd\n              Douglaston, NY 11362\n               Certified Center"
+    },
+    {
+      "name": "BMW of Tenafly",
+      "location": "12.76 mi  \u2022 301 County Rd\n              Tenafly, NJ 07670"
+    },
+    {
+      "name": "BMW of Springfield",
+      "location": "18.43 mi  \u2022 391 US 22\n              Springfield, NJ 07081\n               Certified Center"
+    },
+    {
+      "name": "BMW of Greenwich-Mamaroneck",
+      "location": "19.12 mi  \u2022 236 W Boston Post Rd\n              Mamaroneck, NY 10543\n               Certified Center"
+    },
+    {
+      "name": "Paul Miller BMW",
+      "location": "19.22 mi  \u2022 1515 Route 23 South\n              Wayne, NJ 07470\n               Certified Center"
+    },
+    {
+      "name": "BMW of Freeport",
+      "location": "21.95 mi  \u2022 291 W Sunrise Hwy\n              Freeport, NY 11520"
+    },
+    {
+      "name": "BMW of Westchester",
+      "location": "22.54 mi  \u2022 543 Tarrytown Road\n              White Plains, NY 10607\n               Certified Center"
+    },
+    {
+      "name": "BMW of Ramsey",
+      "location": "22.89 mi  \u2022 985 State Route 17\n              Ramsey, NJ 07446\n               Certified Center"
+    },
+    {
+      "name": "Rallye BMW",
+      "location": "22.90 mi  \u2022 1 Brush Hollow Rd\n              Westbury, NY 11590\n               Certified Center"
+    },
+    {
+      "name": "BMW of Greenwich",
+      "location": "26.40 mi  \u2022 355 W Putnam Ave\n              Greenwich, CT 06830\n               Certified Center"
+    },
+    {
+      "name": "Wide World BMW",
+      "location": "24.63 mi  \u2022 125 E Route 59\n              Spring Valley, NY 10977\n               Certified Center"
+    },
+    {
+      "name": "BMW of Morristown",
+      "location": "24.82 mi  \u2022 111 Ridgedale Ave\n              Morristown, NJ 07960\n               Certified Center"
+    },
+    {
+      "name": "Open Road BMW",
+      "location": "26.55 mi  \u2022 720 US Highway 1\n              Edison, NJ 08817\n               Certified Center"
+    },
+    {
+      "name": "Circle BMW",
+      "location": "31.99 mi  \u2022 500 State Route 36\n              Eatontown, NJ 07724\n               Certified Center"
+    },
+    {
+      "name": "Habberstad BMW",
+      "location": "32.93 mi  \u2022 945 E. Jericho Tpke\n              Huntington Station, NY 11746\n               Certified Center"
+    }
+  ]
+}

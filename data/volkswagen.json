@@ -1,0 +1,1479 @@
+{
+  "oem": "Volkswagen",
+  "zip_code": "multiple",
+  "total_dealers_found": 114,
+  "method": "comprehensive_state_search",
+  "states_searched": 13,
+  "states": {
+    "California": {
+      "state": "California",
+      "total_dealers": 9,
+      "dealers": [
+        {
+          "name": "Volkswagen Marin",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Boardwalk VW of Redwood City",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Merced Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen Bakersfield",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Central Valley Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Cardinale Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Tracy Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of Santa Cruz",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of Clovis",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        }
+      ]
+    },
+    "Texas": {
+      "state": "Texas",
+      "total_dealers": 6,
+      "dealers": [
+        {
+          "name": "Southwest Volkswagen of Weatherford",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Killeen Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of Waco",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Garlyn Shelton Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of Midland-Odessa",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of Abilene",
+          "address": "1350 S Clack St Abilene, TX 79605",
+          "phone": "3256734663",
+          "hours": "Closed until Monday 8:00 AM",
+          "services": ["Flexible Payment Option-Citi", "Online Tire Store", "Service Credit Card", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.7",
+          "reviews": "123 Reviews",
+          "distance": "53 miles"
+        }
+      ]
+    },
+    "Florida": {
+      "state": "Florida",
+      "total_dealers": 14,
+      "dealers": [
+        {
+          "name": "Wallace Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Sunrise Volkswagen of Fort Pierce",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Lakeland Volkswagen",
+          "address": "209 S Lake Parker Ave Lakeland, FL 33801",
+          "phone": "8636888112",
+          "hours": "Closed until Monday 8:00 AM",
+          "services": ["EV Repair (Excluding Battery)", "Flexible Payment Option-Citi", "Online Parts Store", "Online Tire Store", "Service Credit Card", "VW Care Maintenance"],
+          "rating": "4.6",
+          "reviews": "234 Reviews",
+          "distance": "59 miles"
+        },
+        {
+          "name": "Volkswagen of Wesley Chapel",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of New Port Richey",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Lokey Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Prestige Volkswagen of Melbourne",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Orlando Volkswagen South",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Napleton's Volkswagen of Orlando",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen Brandon",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Norm Reeves VW Port Charlotte",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Bob Boast Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Bert Smith International",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Sunset Volkswagen of Sarasota",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        }
+      ]
+    },
+    "New York": {
+      "state": "New York",
+      "total_dealers": 13,
+      "dealers": [
+        {
+          "name": "Island Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Bayside Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Jack Daniels Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Sunrise Volkswagen, Inc.",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Teddy Volkswagen of the Bronx",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Bay Ridge Volkswagen",
+          "address": "8910 4th Ave # 8916 Brooklyn, NY 11209",
+          "phone": "7183517000",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["EV Repair (Excluding Battery)", "Flexible Payment Option-Citi", "Online Tire Store", "Service Credit Card", "VW Care Maintenance"],
+          "rating": "4.5",
+          "reviews": "161 Reviews",
+          "distance": "10 miles"
+        },
+        {
+          "name": "Brooklyn Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Open Road Volkswagen of Manhattan",
+          "address": "802 11th Avenue New York, NY 10019",
+          "phone": "6463588100",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["EV Repair (Excluding Battery)", "VW Care Maintenance"],
+          "rating": "4.8",
+          "reviews": "166 Reviews",
+          "distance": "6 miles"
+        },
+        {
+          "name": "Gensinger Motors, Inc.",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Performance Volkswagen of Lyndhurst",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Tom's Volkswagen of Union",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Douglas Volkswagen of Summit",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Reydel Volkswagen of Linden",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        }
+      ]
+    },
+    "Illinois": {
+      "state": "Illinois",
+      "total_dealers": 13,
+      "dealers": [
+        {
+          "name": "Volkswagen of Quad Cities",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen Iowa City",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of Peoria",
+          "address": "2322 W Van Winkle Way Peoria, IL 61615",
+          "phone": "3092431101",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["Flexible Payment Option-Citi", "Flexible Payment Option-Sunbit", "Online Parts Store", "Service Credit Card", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.8",
+          "reviews": "153 Reviews",
+          "distance": "27 miles"
+        },
+        {
+          "name": "Volkswagen of Bloomington Normal",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Sierra Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Napleton's Volkswagen of Urbana",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Dixon Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Green Volkswagen of Springfield",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Gurley-Leep Volkswagen of Michiana",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Dreyer & Reinbold of Greenwood",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Royal Volkswagen of Bloomington",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Lafayette Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Hawk Volkswagen of Joliet",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        }
+      ]
+    },
+    "Pennsylvania": {
+      "state": "Pennsylvania",
+      "total_dealers": 14,
+      "dealers": [
+        {
+          "name": "Autohaus Lancaster, Inc.",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Jack Metzer Volkswagen",
+          "address": "1857 Montour Blvd Danville, PA 17821",
+          "phone": "5702752212",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["EV Repair (Excluding Battery)", "Flexible Payment Option-Citi", "Online Tire Store", "Service Credit Card", "VW Care Maintenance"],
+          "rating": "4.8",
+          "reviews": "45 Reviews",
+          "distance": "59 miles"
+        },
+        {
+          "name": "Koch 33 Volkswagen of Easton",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Ciocca Volkswagen of State College",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "J. Bertolet, Inc.",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Sutliff Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Autohaus Lebanon Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen Reading",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Faulkner Volkswagen Mechanicsburg",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Ciocca Volkswagen of Allentown",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Fiore Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Kelly Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Bergey's Volkswagen of Wilkes-Barre",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Ciocca Volkswagen of Williamsport",
+          "address": "207 Lycoming Mall Drive Muncy, PA 17756",
+          "phone": "5707577300",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["EV Repair (Excluding Battery)", "Online Tire Store", "VW Care Maintenance"],
+          "rating": "4.6",
+          "reviews": "73 Reviews",
+          "distance": "32 miles"
+        }
+      ]
+    },
+    "Ohio": {
+      "state": "Ohio",
+      "total_dealers": 8,
+      "dealers": [
+        {
+          "name": "Bill Marine VW of Springfield",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Byers Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Germain Volkswagen of Columbus",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Evans Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of Canton",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Firelands Volkswagen of Wooster",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "MAG Volkswagen of Dublin",
+          "address": "6335 Perimeter Loop Road Dublin, OH 43017",
+          "phone": "6147174843",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["Flexible Payment Option-Citi", "Online Parts Store", "Online Tire Store", "Service Xpress", "Service Credit Card", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.7",
+          "reviews": "364 Reviews",
+          "distance": "41 miles"
+        },
+        {
+          "name": "Germain Volkswagen of Westerville",
+          "address": "750 Polaris Pkwy Westerville, OH 43082",
+          "phone": "6149567200",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["Online Tire Store", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.8",
+          "reviews": "268 Reviews",
+          "distance": "30 miles"
+        }
+      ]
+    },
+    "Michigan": {
+      "state": "Michigan",
+      "total_dealers": 9,
+      "dealers": [
+        {
+          "name": "Williams Volkswagen, Inc.",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Thelen Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Serra Volkswagen of Traverse City",
+          "address": "1747 S Garfield Ave Traverse City, MI 49686",
+          "phone": "2319465540",
+          "hours": "Closed until Monday 8:30 AM",
+          "services": ["Flexible Payment Option-Citi", "Online Tire Store", "Service Credit Card", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.9",
+          "reviews": "174 Reviews",
+          "distance": "47 miles"
+        },
+        {
+          "name": "Volkswagen of Grand Blanc",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Frank Boucher Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Crown Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Van Horn Volkswagen Sheboygan",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "My Volkswagen of Muskegon",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Bergstrom Volkswagen of Green Bay",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        }
+      ]
+    },
+    "Washington": {
+      "state": "Washington",
+      "total_dealers": 5,
+      "dealers": [
+        {
+          "name": "Rairdon's Volkswagen of Everett",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Campbell Volkswagen of Edmonds",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Bud Clary Auburn Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Haselwood Volkswagen of Bremerton",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of Kirkland",
+          "address": "12612 Ne 124th Street Kirkland, WA 98034",
+          "phone": "4258982500",
+          "hours": "Open until 7:00 PM",
+          "services": ["Flexible Payment Option-Citi", "Flexible Payment Option-Dignifi", "Online Tire Store", "Service Xpress", "Service Credit Card", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.6",
+          "reviews": "241 Reviews",
+          "distance": "107 miles"
+        }
+      ]
+    },
+    "Oregon": {
+      "state": "Oregon",
+      "total_dealers": 5,
+      "dealers": [
+        {
+          "name": "Medford Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Volkswagen of Bend",
+          "address": "1975 Ne Highway 20 Bend, OR 97701",
+          "phone": "5413821711",
+          "hours": "Closed until Monday 8:00 AM",
+          "services": ["Flexible Payment Option-Citi", "Flexible Payment Option-Sunbit", "Service Credit Card", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.8",
+          "reviews": "157 Reviews",
+          "distance": "64 miles"
+        },
+        {
+          "name": "Volkswagen Eugene",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Overturf Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Boise Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        }
+      ]
+    },
+    "Nevada": {
+      "state": "Nevada",
+      "total_dealers": 2,
+      "dealers": [
+        {
+          "name": "Centennial Volkswagen",
+          "address": "7500 W Azure Dr Las Vegas, NV 89130",
+          "phone": "7029824800",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["Online Tire Store", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.7",
+          "reviews": "388 Reviews",
+          "distance": "299 miles"
+        },
+        {
+          "name": "Lithia Volkswagen of Reno",
+          "address": "1050 E Plumb Ln # 110 Reno, NV 89502",
+          "phone": "7758523300",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["EV Repair (Excluding Battery)", "Online Tire Store", "Service Xpress", "VW Care Maintenance"],
+          "rating": "4.9",
+          "reviews": "241 Reviews",
+          "distance": "301 miles"
+        }
+      ]
+    },
+    "Georgia": {
+      "state": "Georgia",
+      "total_dealers": 8,
+      "dealers": [
+        {
+          "name": "Volkswagen of Warner Robins",
+          "address": "741 Russell Pkwy Warner Robins, GA 31088",
+          "phone": "4782931701",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["EV Repair (Excluding Battery)", "Online Tire Store", "VW Care Maintenance"],
+          "rating": "4.8",
+          "reviews": "179 Reviews",
+          "distance": "84 miles"
+        },
+        {
+          "name": "Volkswagen of Macon",
+          "address": "4786 Riverside Dr Macon, GA 31210",
+          "phone": "4787817701",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["EV Repair (Excluding Battery)", "Flexible Payment Option-Citi", "Flexible Payment Option-Sunbit", "Online Tire Store", "Service Credit Card", "VW Care Maintenance"],
+          "rating": "4.8",
+          "reviews": "98 Reviews",
+          "distance": "114 miles"
+        },
+        {
+          "name": "Dothan Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "AutoNation Volkswagen Columbus",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "O'Steen Volkswagen of Valdosta",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Gerald Jones Volkswagen",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "AutoNation Volkswagen Savannah",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "AutoNation Volkswagen Hilton Head",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        }
+      ]
+    },
+    "North Carolina": {
+      "state": "North Carolina",
+      "total_dealers": 8,
+      "dealers": [
+        {
+          "name": "Flow Volkswagen of Burlington",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Flow Volkswagen of Winston-Salem",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Flow Volkswagen of Durham",
+          "address": "3823 Durham Chapel Hill Blvd Durham, NC 27707",
+          "phone": "9194937411",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["Flexible Payment Option-Sunbit", "Online Tire Store", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.8",
+          "reviews": "355 Reviews",
+          "distance": "24 miles"
+        },
+        {
+          "name": "Valley Auto World, Inc.",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Flow Volkswagen of Greensboro",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Sport Durst Volkswagen of Goldsboro",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        },
+        {
+          "name": "Leith Volkswagen of Cary",
+          "address": "2300 Auto Park Boulevard Cary, NC 27511",
+          "phone": "9192971640",
+          "hours": "Closed until Monday 9:00 AM",
+          "services": ["Online Tire Store", "EV Repair (Including Battery)", "VW Care Maintenance"],
+          "rating": "4.7",
+          "reviews": "477 Reviews",
+          "distance": "19 miles"
+        },
+        {
+          "name": "Leith Volkswagen of Raleigh",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "services": [],
+          "rating": "",
+          "reviews": "",
+          "distance": ""
+        }
+      ]
+    }
+  },
+  "legacy_dealers": [
+    {
+      "Dealer": "Open Road Volkswagen of Manhattan",
+      "Website": "https://www.openroadvw.com/",
+      "Phone": "646-358-8100",
+      "Email": "",
+      "Street": "802 11th Avenue",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": "10019"
+    },
+    {
+      "Dealer": "Performance Volkswagen of Lyndhurst",
+      "Website": "https://www.performancevw.com/",
+      "Phone": "201-933-8383",
+      "Email": "",
+      "Street": "701 Riverside Ave",
+      "City": "Lyndhurst",
+      "State": "NJ",
+      "ZIP": "07071"
+    },
+    {
+      "Dealer": "Galpin VW of San Fernando Valley",
+      "Website": "https://www.galpinvolkswagen.com/",
+      "Phone": "818-895-3800",
+      "Email": "",
+      "Street": "15421 Roscoe Blvd",
+      "City": "North Hills",
+      "State": "CA",
+      "ZIP": "91343"
+    },
+    {
+      "Dealer": "New Century Volkswagen",
+      "Website": "https://www.newcenturyvw.com/",
+      "Phone": "818-552-6263",
+      "Email": "",
+      "Street": "1220 S Brand Blvd",
+      "City": "Glendale",
+      "State": "CA",
+      "ZIP": "91204"
+    },
+    {
+      "Dealer": "Jim Ellis Volkswagen of Chamblee",
+      "Website": "https://www.jimellisvwatlanta.com/",
+      "Phone": "770-458-6811",
+      "Email": "",
+      "Street": "5901 Peachtree Blvd.",
+      "City": "Atlanta",
+      "State": "GA",
+      "ZIP": "30341"
+    },
+    {
+      "Dealer": "Volkswagen of Marietta",
+      "Website": "https://www.vwofmarietta.com/",
+      "Phone": "770-955-6565",
+      "Email": "",
+      "Street": "1860 Cobb Parkway SE",
+      "City": "Marietta",
+      "State": "GA",
+      "ZIP": "30060"
+    },
+    {
+      "Dealer": "Volkswagen of Downtown Chicago",
+      "Website": "https://www.vwofchicago.com/",
+      "Phone": "312-628-4800",
+      "Email": "",
+      "Street": "1111 N Clark St",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60610"
+    },
+    {
+      "Dealer": "City Volkswagen of Chicago",
+      "Website": "https://www.cityvwchicago.com/",
+      "Phone": "773-794-7800",
+      "Email": "",
+      "Street": "5330 W Irving Park Rd",
+      "City": "Chicago",
+      "State": "IL",
+      "ZIP": "60641"
+    },
+    {
+      "Dealer": "Momentum Volkswagen",
+      "Website": "https://www.momentumvolkswagen.com/",
+      "Phone": "713-596-3300",
+      "Email": "",
+      "Street": "2405 Richmond Ave",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77098"
+    },
+    {
+      "Dealer": "Archer Volkswagen",
+      "Website": "https://www.archervw.com/",
+      "Phone": "713-272-1700",
+      "Email": "",
+      "Street": "10400 Southwest Fwy",
+      "City": "Houston",
+      "State": "TX",
+      "ZIP": "77074"
+    },
+    {
+      "Dealer": "Camelback Volkswagen",
+      "Website": "https://www.camelbackvw.com/",
+      "Phone": "602-265-6600",
+      "Email": "",
+      "Street": "1499 E. Camelback Road",
+      "City": "Phoenix",
+      "State": "AZ",
+      "ZIP": "85014"
+    },
+    {
+      "Dealer": "Chapman Volkswagen",
+      "Website": "https://www.chapmanvw.com/",
+      "Phone": "480-949-7600",
+      "Email": "",
+      "Street": "3700 N. 89th Street",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "ZIP": "85251"
+    },
+    {
+      "Dealer": "Swickard Volkswagen of Anchorage",
+      "Website": "https://www.swickardvolkswagen.com/",
+      "Phone": "907-563-2000",
+      "Email": "",
+      "Street": "1234 Old Seward Hwy",
+      "City": "Anchorage",
+      "State": "AK",
+      "ZIP": "99515"
+    },
+    {
+      "Dealer": "Emich Volkswagen",
+      "Website": "https://www.emichvw.com",
+      "Phone": "303-757-7751",
+      "Email": "",
+      "Street": "350 S Santa Fe Dr",
+      "City": "Denver",
+      "State": "CO",
+      "ZIP": "80223"
+    },
+    {
+      "Dealer": "O'Meara Volkswagen of Thornton",
+      "Website": "https://www.omearavw.com",
+      "Phone": "303-438-5200",
+      "Email": "",
+      "Street": "1900 W 104th Ave",
+      "City": "Denver",
+      "State": "CO",
+      "ZIP": "80234"
+    },
+    {
+      "Dealer": "Tynan's Volkswagen, Inc.",
+      "Website": "https://www.tynansvolkswagen.com",
+      "Phone": "303-343-8180",
+      "Email": "",
+      "Street": "700 S Havana St",
+      "City": "Aurora",
+      "State": "CO",
+      "ZIP": "80012"
+    },
+    {
+      "Dealer": "McDonald Volkswagen",
+      "Website": "https://www.mcdonaldvw.com",
+      "Phone": "303-795-1100",
+      "Email": "",
+      "Street": "6000 S Broadway",
+      "City": "Littleton",
+      "State": "CO",
+      "ZIP": "80121"
+    },
+    {
+      "Dealer": "Larry H. Miller Volkswagen Lakewood",
+      "Website": "https://www.lhmvw.com",
+      "Phone": "303-237-1311",
+      "Email": "",
+      "Street": "8303 W Colfax Ave",
+      "City": "Lakewood",
+      "State": "CO",
+      "ZIP": "80214"
+    },
+    {
+      "Dealer": "Deel Volkswagen Coral Gables",
+      "Website": "https://www.deelvw.com",
+      "Phone": "305-448-3335",
+      "Email": "",
+      "Street": "3601 Bird Road",
+      "City": "Miami",
+      "State": "FL",
+      "ZIP": "33133"
+    },
+    {
+      "Dealer": "Gunther Volkswagen Pompano Beach",
+      "Website": "https://www.gunthervwpompano.com",
+      "Phone": "754-293-1920",
+      "Email": "",
+      "Street": "855 S Federal Hwy",
+      "City": "Pompano Beach",
+      "State": "FL",
+      "ZIP": "33062"
+    },
+    {
+      "Dealer": "Gunther Volkswagen of Coconut Creek",
+      "Website": "https://www.gunthervwcoconutcreek.com",
+      "Phone": "954-590-3750",
+      "Email": "",
+      "Street": "4300 N State Road 7",
+      "City": "Coconut Creek",
+      "State": "FL",
+      "ZIP": "33073"
+    },
+    {
+      "Dealer": "Doral Volkswagen",
+      "Website": "https://www.doralvw.com",
+      "Phone": "305-477-6666",
+      "Email": "",
+      "Street": "10455 Nw 12th St Ste C",
+      "City": "Doral",
+      "State": "FL",
+      "ZIP": "33172"
+    },
+    {
+      "Dealer": "Rick Case Volkswagen Weston",
+      "Website": "https://www.rickcasevolkswagen.com",
+      "Phone": "954-903-5500",
+      "Email": "",
+      "Street": "3520 Weston Rd",
+      "City": "Davie",
+      "State": "FL",
+      "ZIP": "33331"
+    },
+    {
+      "Dealer": "Volkswagen of South Miami",
+      "Website": "https://www.vwofsouthmiami.com",
+      "Phone": "305-256-2470",
+      "Email": "",
+      "Street": "17930 S Dixie Hwy",
+      "City": "Miami",
+      "State": "FL",
+      "ZIP": "33157"
+    },
+    {
+      "Dealer": "Gunther Volkswagen",
+      "Website": "https://www.gunthervw.com",
+      "Phone": "954-797-1660",
+      "Email": "",
+      "Street": "1660 S State Road 7",
+      "City": "Fort Lauderdale",
+      "State": "FL",
+      "ZIP": "33317"
+    }
+  ]
+}

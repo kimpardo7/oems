@@ -1,0 +1,57 @@
+{
+  "brand": "Lexus",
+  "scraped_date": "2025-09-19T02:57:38.889Z",
+  "total_dealers": 2,
+  "states": {
+    "Alabama": [
+      {
+        "name": "LEXUS OF BIRMINGHAM",
+        "address": "CONTACT DEALER",
+        "city_state_zip": "Irondale, AL 35210",
+        "phone": "(205) 252-5000",
+        "hours": [
+          "Mon-Fri 8:30am-7:30pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram",
+          "Certified Collision Center Tool Tip"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60105-lexus-of-birmingham",
+          "website": "https://www.lexusofbirmingham.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofbirmingham.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofbirmingham.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Alaska": [
+      {
+        "name": "KENDALL LEXUS OF ALASKA",
+        "address": "CONTACT DEALER",
+        "city_state_zip": "Anchorage, AK 99518",
+        "phone": "(907) 279-8506",
+        "hours": [
+          "Mon-Fri 8am-9pm",
+          "Sat 9am-9pm",
+          "Sun 10am-8pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/65002-kendall-lexus-of-alaska",
+          "website": "https://www.kendalllexusofalaska.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.kendalllexusofalaska.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.kendalllexusofalaska.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Arizona": [],
+    "Arkansas": [],
+    "California": [],
+    "Colorado": [],
+    "Connecticut": []
+  }
+}

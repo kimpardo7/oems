@@ -1,0 +1,5209 @@
+{
+  "brand": "Lexus",
+  "scraped_date": "2025-01-18T20:00:00.000Z",
+  "total_dealers": 216,
+  "states": {
+    "Alabama": [
+      {
+        "name": "LEXUS OF MOBILE",
+        "address": "3024 Government Blvd.",
+        "city_state_zip": "Mobile, AL 36606",
+        "phone": "(251) 478-3300",
+        "hours": [
+          "Mon-Thu 8:30am-7pm",
+          "Fri-Sat 8:30am-6pm"
+        ],
+        "badges": [
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60104-lexus-of-mobile",
+          "website": "https://www.lexusofmobile.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofmobile.com/service?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofmobile.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF BIRMINGHAM",
+        "address": "1001 Tom Williams Way",
+        "city_state_zip": "Irondale, AL 35210",
+        "phone": "(205) 252-5000",
+        "hours": [
+          "Mon-Fri 8:30am-7:30pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60105-lexus-of-birmingham",
+          "website": "https://www.lexusofbirmingham.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofbirmingham.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofbirmingham.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF MONTGOMERY",
+        "address": "911 Eastern Blvd",
+        "city_state_zip": "Montgomery, AL 36117",
+        "phone": "(334) 270-0605",
+        "hours": [
+          "Mon-Fri 8:30am-7pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60107-lexus-of-montgomery",
+          "website": "https://www.lexusmontgomery.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusmontgomery.com/service/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusmontgomery.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF HUNTSVILLE",
+        "address": "6580 University Drive N.W.",
+        "city_state_zip": "Huntsville, AL 35806",
+        "phone": "(256) 721-9560",
+        "hours": [
+          "Mon-Fri 8:30am-7pm",
+          "Sat 8:30am-6pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60108-lexus-of-huntsville",
+          "website": "https://www.lexusofhuntsville.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofhuntsville.com/service.aspx?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofhuntsville.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Alaska": [
+      {
+        "name": "KENDALL LEXUS OF ALASKA",
+        "address": "6930 Old Seward Highway",
+        "city_state_zip": "Anchorage, AK 99518",
+        "phone": "(907) 279-8506",
+        "hours": [
+          "Mon-Fri 8am-9pm",
+          "Sat 9am-9pm",
+          "Sun 10am-8pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/65002-kendall-lexus-of-alaska",
+          "website": "https://www.kendalllexusofalaska.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.kendalllexusofalaska.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.kendalllexusofalaska.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Arizona": [
+      {
+        "name": "BELL LEXUS NORTH SCOTTSDALE",
+        "address": "18555 N. Scottsdale Road",
+        "city_state_zip": "Scottsdale, AZ 85255",
+        "phone": "(480) 502-5000",
+        "hours": [
+          "Mon-Fri 8am-8pm",
+          "Sat 9am-6pm",
+          "Sun 11am-5pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60201-bell-lexus-north-scottsdale",
+          "website": "https://www.belllexusnorthscottsdale.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.belllexusnorthscottsdale.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.belllexusnorthscottsdale.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF TUCSON",
+        "address": "4373 E. Speedway Blvd",
+        "city_state_zip": "Tucson, AZ 85712",
+        "phone": "(520) 477-0582",
+        "hours": [
+          "Mon-Fri 8am-8pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60203-lexus-of-tucson",
+          "website": "https://www.lexusoftucsonspeedway.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusoftucsonspeedway.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusoftucsonspeedway.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "EARNHARDT LEXUS",
+        "address": "800 East Camelback Road",
+        "city_state_zip": "Phoenix, AZ 85014",
+        "phone": "(480) 990-7000",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-6pm",
+          "Sun 10am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60205-earnhardt-lexus",
+          "website": "https://www.earnhardtlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.earnhardtlexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.earnhardtlexus.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "SUPERSTITION SPRINGS LEXUS",
+        "address": "6206 East Test Drive",
+        "city_state_zip": "Mesa, AZ 85206",
+        "phone": "(480) 324-8900",
+        "hours": [
+          "Mon-Sat 8am-8pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60206-superstition-springs-lexus",
+          "website": "https://www.sslexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.sslexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.sslexus.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF TUCSON AT THE AUTO MALL",
+        "address": "4670 North Circuit Drive",
+        "city_state_zip": "Tucson, AZ 85705",
+        "phone": "(520) 477-0561",
+        "hours": [
+          "Mon-Fri 8am-7pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60230-lexus-of-tucson-at-the-auto-mall",
+          "website": "https://www.lexusoftucsonautomall.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusoftucsonautomall.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusoftucsonautomall.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF CHANDLER",
+        "address": "7430 West Orchid Lane",
+        "city_state_zip": "Chandler, AZ 85226",
+        "phone": "(480) 421-4000",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-6pm",
+          "Sun 11am-5pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60231-lexus-of-chandler",
+          "website": "https://www.lexusofchandler.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofchandler.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofchandler.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "ARROWHEAD LEXUS",
+        "address": "9238 West Bell Road",
+        "city_state_zip": "Peoria, AZ 85382",
+        "phone": "(623) 872-4000",
+        "hours": [
+          "Mon-Fri 8am-8pm",
+          "Sat 8am-6pm",
+          "Sun 11am-5pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60232-arrowhead-lexus",
+          "website": "https://www.arrowheadlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.arrowheadlexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.arrowheadlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Arkansas": [
+      {
+        "name": "PARKER LEXUS",
+        "address": "1 Shackleford West",
+        "city_state_zip": "Little Rock, AR 72211",
+        "phone": "(501) 221-1700",
+        "hours": [
+          "Mon-Fri 8am-5:30pm",
+          "Sat 9am-3:30pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60301-parker-lexus",
+          "website": "https://www.parkerlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.parkerlexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.parkerlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "California": [
+      {
+        "name": "LONGO LEXUS",
+        "address": "3530 N. Peck Road",
+        "city_state_zip": "El Monte, CA 91731",
+        "phone": "(626) 580-6200",
+        "hours": [
+          "Mon-Sat 9am-8pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60402-longo-lexus",
+          "website": "https://www.longolexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.longolexus.com/schedule-service.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.longolexus.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF THOUSAND OAKS",
+        "address": "3755 Auto Mall Drive",
+        "city_state_zip": "Thousand Oaks, CA 91362",
+        "phone": "(805) 267-3400",
+        "hours": [
+          "Mon-Sat 9am-8pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60403-lexus-of-thousand-oaks",
+          "website": "https://www.lexusofthousandoaks.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofthousandoaks.com/parts-and-service/lexus-service.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofthousandoaks.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS CARLSBAD",
+        "address": "5444 Paseo Del Norte",
+        "city_state_zip": "Carlsbad, CA 92008",
+        "phone": "(760) 438-2300",
+        "hours": [
+          "Mon-Fri 8am-9pm",
+          "Sat 8am-6pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60404-lexus-carlsbad",
+          "website": "https://www.lexuscarlsbad.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexuscarlsbad.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexuscarlsbad.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF WESTMINSTER",
+        "address": "13590 Beach Blvd.",
+        "city_state_zip": "Westminster, CA 92683",
+        "phone": "(714) 892-6906",
+        "hours": [
+          "Mon-Sat 10am-7pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60405-lexus-of-westminster",
+          "website": "https://www.lexuswestminster.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexuswestminster.com/serviceapptform/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexuswestminster.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS SANTA MONICA",
+        "address": "1501 Santa Monica Blvd.",
+        "city_state_zip": "Santa Monica, CA 90404",
+        "phone": "(310) 453-9900",
+        "hours": [
+          "Mon-Fri 9am-8pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60406-lexus-santa-monica",
+          "website": "https://www.lexussantamonica.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexussantamonica.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexussantamonica.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "KEYES LEXUS",
+        "address": "5905 Van Nuys Blvd",
+        "city_state_zip": "Van Nuys, CA 91401",
+        "phone": "(818) 379-4000",
+        "hours": [
+          "Mon-Fri 7:30am-5pm",
+          "Sat 8am-5pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60409-keyes-lexus",
+          "website": "https://www.keyeslexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.keyeslexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.keyeslexus.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "PUTNAM LEXUS",
+        "address": "390 Convention Way",
+        "city_state_zip": "Redwood City, CA 94063",
+        "phone": "(650) 363-8500",
+        "hours": [
+          "Mon-Sat 10am-7pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60410-putnam-lexus",
+          "website": "https://www.putnamlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.putnamlexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.putnamlexus.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "TUSTIN LEXUS",
+        "address": "45 Auto Center Drive",
+        "city_state_zip": "Tustin, CA 92782",
+        "phone": "(714) 544-4800",
+        "hours": [
+          "Mon-Sat 9am-8pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60411-tustin-lexus",
+          "website": "https://www.tustinlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.tustinlexus.com/service/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.tustinlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS SAN DIEGO",
+        "address": "4970 Kearny Mesa Road",
+        "city_state_zip": "San Diego, CA 92111",
+        "phone": "(858) 268-8000",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-6pm",
+          "Sun 11am-5pm"
+        ],
+        "badges": [
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60413-lexus-san-diego",
+          "website": "https://www.lexussandiego.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexussandiego.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexussandiego.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "SOUTH BAY LEXUS",
+        "address": "24777 Crenshaw Boulevard",
+        "city_state_zip": "Torrance, CA 90505",
+        "phone": "(310) 325-9999",
+        "hours": [
+          "Mon-Sat 9am-8pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60414-south-bay-lexus",
+          "website": "https://www.southbaylexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.southbaylexus.com/serviceapptform/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.southbaylexus.com/contact/?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "NEWPORT LEXUS",
+        "address": "3901 Macarthur Blvd.",
+        "city_state_zip": "Newport Beach, CA 92660",
+        "phone": "(949) 477-7000",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-7pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60415-newport-lexus",
+          "website": "https://www.newportlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.newportlexus.com/service/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.newportlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF FREMONT",
+        "address": "5600 Cushing Parkway",
+        "city_state_zip": "Fremont, CA 94538",
+        "phone": "(510) 657-6600",
+        "hours": [
+          "Mon-Fri 7am-6pm",
+          "Sat 7am-5pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60416-lexus-of-fremont",
+          "website": "https://www.lexusfremont.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusfremont.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusfremont.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF SERRAMONTE",
+        "address": "700 Serramonte Boulevard",
+        "city_state_zip": "Colma, CA 94014",
+        "phone": "(650) 994-2255",
+        "hours": [
+          "Mon-Fri 9:30am-8pm",
+          "Sat 9:30am-6pm",
+          "Sun 11am-6pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60417-lexus-of-serramonte",
+          "website": "https://www.lexusserramonte.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusserramonte.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusserramonte.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF SACRAMENTO",
+        "address": "2600 Fulton Avenue",
+        "city_state_zip": "Sacramento, CA 95821",
+        "phone": "(916) 485-3987",
+        "hours": [
+          "Mon-Sat 8:30am-8pm",
+          "Sun 9am-7pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60420-lexus-of-sacramento",
+          "website": "https://www.lexusofsacramento.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofsacramento.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofsacramento.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS MONTEREY PENINSULA",
+        "address": "1721 Del Monte Blvd",
+        "city_state_zip": "Seaside, CA 93955",
+        "phone": "(831) 393-3030",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-6pm",
+          "Sun 11am-5pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60425-lexus-monterey-peninsula",
+          "website": "https://www.lexusmontereypeninsula.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusmontereypeninsula.com/service/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusmontereypeninsula.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF OXNARD",
+        "address": "1640 Auto Center Dr.",
+        "city_state_zip": "Oxnard, CA 93036",
+        "phone": "(805) 988-8500",
+        "hours": [
+          "Mon-Fri 8:30am-9pm",
+          "Sat 9am-8pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60426-lexus-of-oxnard",
+          "website": "https://www.lexusofoxnard.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofoxnard.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofoxnard.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF CONCORD, LLC",
+        "address": "2001 Market Street",
+        "city_state_zip": "Concord, CA 94520",
+        "phone": "(925) 682-3033",
+        "hours": [
+          "Mon-Fri 9am-9pm",
+          "Sat 9am-8pm",
+          "Sun 11am-7pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60428-lexus-of-concord--llc",
+          "website": "https://www.lexusofconcord.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofconcord.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofconcord.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF PLEASANTON",
+        "address": "4345 Rosewood Dr.",
+        "city_state_zip": "Pleasanton, CA 94588",
+        "phone": "(925) 847-0678",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-6pm",
+          "Sun 10am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60429-lexus-of-pleasanton",
+          "website": "https://www.lexusofpleasanton.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofpleasanton.com/service-xtime-scheduler.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofpleasanton.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "FREEMAN LEXUS",
+        "address": "2845 Corby Avenue",
+        "city_state_zip": "Santa Rosa, CA 95407",
+        "phone": "(707) 545-9255",
+        "hours": [
+          "Mon-Sat 9am-7pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60431-freeman-lexus",
+          "website": "https://www.freemanlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.freemanlexus.com/schedule-service.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.freemanlexus.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF ROSEVILLE",
+        "address": "300 Auto Mall Drive",
+        "city_state_zip": "Roseville, CA 95661",
+        "phone": "(916) 783-9111",
+        "hours": [
+          "Mon-Sat 8:30am-8pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60432-lexus-of-roseville",
+          "website": "https://www.lexusofroseville.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofroseville.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofroseville.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF SANTA BARBARA",
+        "address": "350 Hitchcock Way",
+        "city_state_zip": "Santa Barbara, CA 93105",
+        "phone": "(805) 979-3600",
+        "hours": [
+          "Mon-Sat 9am-7pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60433-lexus-of-santa-barbara",
+          "website": "https://www.lexusofsantabarbara.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofsantabarbara.com/serviceapptform?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofsantabarbara.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "SHOTTENKIRK DESERT LEXUS",
+        "address": "67-855 E. Palm Canyon Drive",
+        "city_state_zip": "Cathedral City, CA 92234",
+        "phone": "(760) 321-5750",
+        "hours": [
+          "Mon-Fri 8:30am-7pm",
+          "Sat 9am-6pm",
+          "Sun 11am-5pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60435-shottenkirk-desert-lexus",
+          "website": "https://www.desertlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.desertlexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.desertlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "KEYES LEXUS OF VALENCIA",
+        "address": "24033 Creekside Road",
+        "city_state_zip": "Valencia, CA 91355",
+        "phone": "(661) 705-6300",
+        "hours": [
+          "Mon-Fri 8am-6pm",
+          "Sat 8am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60436-keyes-lexus-of-valencia",
+          "website": "https://www.lexusofvalencia.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofvalencia.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofvalencia.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "JIM FALK LEXUS OF BEVERLY HILLS",
+        "address": "9230 Wilshire Blvd",
+        "city_state_zip": "Beverly Hills, CA 90212",
+        "phone": "(310) 274-5200",
+        "hours": [
+          "Mon-Sat 9am-7pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60438-jim-falk-lexus-of-beverly-hills",
+          "website": "https://www.jimfalkbeverlyhillslexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.jimfalkbeverlyhillslexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.jimfalkbeverlyhillslexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "TEMECULA VALLEY LEXUS",
+        "address": "42081 Dlr Drive",
+        "city_state_zip": "Temecula, CA 92591",
+        "phone": "(951) 225-0555",
+        "hours": [
+          "Mon-Sat 9am-7pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60440-temecula-valley-lexus",
+          "website": "https://www.tvlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.tvlexus.com/ServiceApptForm/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.tvlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "VALLEY LEXUS",
+        "address": "4701 McHenry Ave",
+        "city_state_zip": "Modesto, CA 95356",
+        "phone": "(209) 575-3987",
+        "hours": [
+          "Mon-Sat 9am-6pm",
+          "Sun 11am-5pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60442-valley-lexus",
+          "website": "https://www.valleylexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.valleylexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.valleylexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "MOTOR CITY LEXUS OF BAKERSFIELD",
+        "address": "5101 Gasoline Alley",
+        "city_state_zip": "Bakersfield, CA 93313",
+        "phone": "(661) 835-3987",
+        "hours": [
+          "Mon-Fri 8am-8pm",
+          "Sat 8am-7pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60443-motor-city-lexus-of-bakersfield",
+          "website": "https://www.motorcitylexusofbakersfield.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.motorcitylexusofbakersfield.com/schedule-service.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.motorcitylexusofbakersfield.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF CERRITOS",
+        "address": "18800 Studebaker Road",
+        "city_state_zip": "Cerritos, CA 90703",
+        "phone": "(562) 865-7447",
+        "hours": [
+          "Mon-Sat 8:30am-9pm",
+          "Sun 10am-8pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60445-lexus-of-cerritos",
+          "website": "https://www.cerritoslexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.cerritoslexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.cerritoslexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF MARIN",
+        "address": "513 Francisco Blvd. East",
+        "city_state_zip": "San Rafael, CA 94901",
+        "phone": "(415) 460-6000",
+        "hours": [
+          "Mon-Sat 9am-7pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60446-lexus-of-marin",
+          "website": "https://www.lexusmarin.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusmarin.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusmarin.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS STEVENS CREEK",
+        "address": "3333 Stevens Creek Blvd.",
+        "city_state_zip": "San Jose, CA 95117",
+        "phone": "(408) 296-2223",
+        "hours": [
+          "Mon-Sat 9am-8pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60448-lexus-stevens-creek",
+          "website": "https://www.lexusstevenscreek.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusstevenscreek.com/schedule-service-appointment.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusstevenscreek.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "COLISEUM LEXUS OF OAKLAND",
+        "address": "7273 Oakport Street",
+        "city_state_zip": "Oakland, CA 94621",
+        "phone": "(510) 895-3987",
+        "hours": [
+          "Mon-Sat 9am-7pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60449-coliseum-lexus-of-oakland",
+          "website": "https://www.coliseumlexusofoakland.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.coliseumlexusofoakland.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.coliseumlexusofoakland.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "CROWN LEXUS",
+        "address": "1125 S. Kettering Drive",
+        "city_state_zip": "Ontario, CA 91761",
+        "phone": "(909) 390-9800",
+        "hours": [
+          "Mon-Sat 9am-9pm",
+          "Sun 10am-8pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60451-crown-lexus",
+          "website": "https://www.crownlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.crownlexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.crownlexus.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "FRESNO LEXUS",
+        "address": "777 W. Palmdon Drive",
+        "city_state_zip": "Fresno, CA 93704",
+        "phone": "(559) 354-5500",
+        "hours": [
+          "Mon-Sat 9am-9pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60452-fresno-lexus",
+          "website": "https://www.fresnolexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.fresnolexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.fresnolexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS ESCONDIDO",
+        "address": "1205 Auto Park Way",
+        "city_state_zip": "Escondido, CA 92029",
+        "phone": "(760) 747-2300",
+        "hours": [
+          "Mon-Fri 8am-9pm",
+          "Sat 8am-6pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60455-lexus-escondido",
+          "website": "https://www.lexusescondido.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusescondido.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusescondido.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "SOUTH COUNTY LEXUS AT MISSION VIEJO",
+        "address": "28242 Marguerite Parkway",
+        "city_state_zip": "Mission Viejo, CA 92692",
+        "phone": "(949) 364-0664",
+        "hours": [
+          "Mon-Sat 8:30am-9pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60456-south-county-lexus-at-mission-viejo",
+          "website": "https://www.southcountylexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.southcountylexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.southcountylexus.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS EL CAJON",
+        "address": "1000 Arnele Avenue",
+        "city_state_zip": "El Cajon, CA 92020",
+        "phone": "(619) 440-5398",
+        "hours": [
+          "Mon-Sat 9am-8pm",
+          "Sun 10am-6pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60457-lexus-el-cajon",
+          "website": "https://www.lexuselcajon.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexuselcajon.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexuselcajon.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF WOODLAND HILLS",
+        "address": "21701 Ventura Boulevard",
+        "city_state_zip": "Woodland Hills, CA 91364",
+        "phone": "(818) 888-2777",
+        "hours": [
+          "Mon-Sat 9am-9pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60458-lexus-of-woodland-hills",
+          "website": "https://www.lexusofwoodlandhills.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofwoodlandhills.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofwoodlandhills.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF GLENDALE",
+        "address": "1221 S. Brand Blvd.",
+        "city_state_zip": "Glendale, CA 91204",
+        "phone": "(818) 507-1300",
+        "hours": [
+          "Mon-Sat 8:30am-8pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60462-lexus-of-glendale",
+          "website": "https://www.lexusofglendale.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofglendale.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofglendale.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF RIVERSIDE",
+        "address": "3150 Adams Street",
+        "city_state_zip": "Riverside, CA 92504",
+        "phone": "(951) 353-0903",
+        "hours": [
+          "Mon-Fri 9am-9pm",
+          "Sat 9am-8pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60470-lexus-of-riverside",
+          "website": "https://www.lexusofriverside.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofriverside.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofriverside.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Colorado": [
+      {
+        "name": "LEXUS OF GREENWOOD VILLAGE",
+        "address": "5150 S. Quebec Street",
+        "city_state_zip": "Greenwood Village, CO 80111",
+        "phone": "(303) 798-9500",
+        "hours": [
+          "Mon-Sat 9am-7pm"
+        ],
+        "badges": [
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60503-lexus-of-greenwood-village",
+          "website": "https://www.lexusofgreenwoodvillage.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofgreenwoodvillage.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofgreenwoodvillage.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF COLORADO SPRINGS",
+        "address": "5590 N. Nevada Avenue",
+        "city_state_zip": "Colorado Springs, CO 80918",
+        "phone": "(719) 385-0111",
+        "hours": [
+          "Mon-Fri 7am-6pm",
+          "Sat 8am-4pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60505-lexus-of-colorado-springs",
+          "website": "https://www.lexusofcoloradosprings.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofcoloradosprings.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofcoloradosprings.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "STEVINSON LEXUS OF LAKEWOOD",
+        "address": "801 Denver W Colorado Mills Bl",
+        "city_state_zip": "Lakewood, CO 80401",
+        "phone": "(303) 277-9339",
+        "hours": [
+          "Mon-Sat 9am-6pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60506-stevinson-lexus-of-lakewood",
+          "website": "https://www.stevinsonlexusoflakewood.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.stevinsonlexusoflakewood.com/ServiceApptForm/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.stevinsonlexusoflakewood.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "STEVINSON LEXUS OF FREDERICK",
+        "address": "8337 Raspberry Way",
+        "city_state_zip": "Frederick, CO 80504",
+        "phone": "(303) 772-5999",
+        "hours": [
+          "Mon-Fri 7am-6pm",
+          "Sat 8am-4pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60532-stevinson-lexus-of-frederick",
+          "website": "https://www.stevinsonlexusoffrederick.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.stevinsonlexusoffrederick.com/service-department/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.stevinsonlexusoffrederick.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Connecticut": [
+      {
+        "name": "HOFFMAN LEXUS",
+        "address": "750 Connecticut Boulevard",
+        "city_state_zip": "East Hartford, CT 06108",
+        "phone": "(860) 525-3987",
+        "hours": [
+          "Mon-Thu 8:30am-7pm",
+          "Fri 8:30am-6pm",
+          "Sat 8:30am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60602-hoffman-lexus",
+          "website": "https://www.hoffmanlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.hoffmanlexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.hoffmanlexus.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "NEW COUNTRY LEXUS OF WESTPORT",
+        "address": "1317 Post Road East",
+        "city_state_zip": "Westport, CT 06880",
+        "phone": "(203) 255-1531",
+        "hours": [
+          "Mon-Thu 9am-8pm",
+          "Fri-Sat 9am-6pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60605-new-country-lexus-of-westport",
+          "website": "https://www.newcountrylexusofwestport.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.newcountrylexusofwestport.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.newcountrylexusofwestport.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "DARCARS LEXUS OF GREENWICH",
+        "address": "19 Railroad Avenue",
+        "city_state_zip": "Greenwich, CT 06830",
+        "phone": "(203) 869-8740",
+        "hours": [
+          "Mon-Sat 9am-7:30pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60606-darcars-lexus-of-greenwich",
+          "website": "http://www.lexusofgreenwich.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofgreenwich.com/schedule-service.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofgreenwich.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "CRABTREE LEXUS OF NEW HAVEN",
+        "address": "655 Main Street",
+        "city_state_zip": "East Haven, CT 06512",
+        "phone": "(203) 466-9999",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-7pm",
+          "Sun 11am-4pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60608-crabtree-lexus-of-new-haven",
+          "website": "https://www.crabtreelexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.crabtreelexus.com/service/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "/contact?intsrc=lcom%3Adealers%3Adealervisit%3Ahome"
+        }
+      }
+    ],
+    "Delaware": [
+      {
+        "name": "LEXUS OF WILMINGTON",
+        "address": "2100 Pennsylvania Ave",
+        "city_state_zip": "Wilmington, DE 19806",
+        "phone": "(302) 427-4400",
+        "hours": [
+          "Mon-Thu 7am-7pm",
+          "Fri 7am-6pm",
+          "Sat 7am-4pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60704-lexus-of-wilmington",
+          "website": "https://www.lexusofwilmington.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofwilmington.com/schedule-service.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofwilmington.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Florida": [
+      {
+        "name": "LEXUS OF TAMPA BAY",
+        "address": "5852 N. Dale Mabry",
+        "city_state_zip": "Tampa, FL 33614",
+        "phone": "(813) 888-8221",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-6pm",
+          "Sun 12pm-5pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60901-lexus-of-tampa-bay",
+          "website": "https://www.lexusoftampabay.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusoftampabay.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusoftampabay.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF PEMBROKE PINES",
+        "address": "16150 Pines Blvd.",
+        "city_state_zip": "Pembroke Pines, FL 33027",
+        "phone": "(954) 443-2020",
+        "hours": [
+          "Mon-Sat 9am-9pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60904-lexus-of-pembroke-pines",
+          "website": "https://www.lexusofpembrokepines.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofpembrokepines.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofpembrokepines.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "JM LEXUS",
+        "address": "5350 West Sample Road",
+        "city_state_zip": "Margate, FL 33073",
+        "phone": "(954) 972-2200",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-7pm",
+          "Sun 11am-6pm"
+        ],
+        "badges": [
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60905-jm-lexus",
+          "website": "https://www.jmlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.jmlexus.com/schedule-service.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.jmlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF WINTER PARK",
+        "address": "305 North Semoran Blvd",
+        "city_state_zip": "Winter Park, FL 32792",
+        "phone": "(407) 671-0000",
+        "hours": [
+          "Mon-Sat 9am-8pm",
+          "Sun 11am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60906-lexus-of-winter-park",
+          "website": "https://www.lexusofwinterpark.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofwinterpark.com/ServiceApptFormNew/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofwinterpark.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF KENDALL",
+        "address": "10943 South Dixie Highway",
+        "city_state_zip": "Miami, FL 33156",
+        "phone": "(786) 460-4830",
+        "hours": [
+          "Mon-Sat 9am-9pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60915-lexus-of-kendall",
+          "website": "https://www.lexusofkendall.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofkendall.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofkendall.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF PALM BEACH",
+        "address": "5700 Okeechobee Boulevard",
+        "city_state_zip": "West Palm Beach, FL 33417",
+        "phone": "(561) 683-2600",
+        "hours": [
+          "Mon-Fri 9am-9pm",
+          "Sat 9am-7pm",
+          "Sun 12pm-5pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60916-lexus-of-palm-beach",
+          "website": "https://www.lexusofpalmbeach.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofpalmbeach.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofpalmbeach.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF MELBOURNE",
+        "address": "6927 Bromley Drive",
+        "city_state_zip": "Viera, FL 32940",
+        "phone": "(800) 245-3987",
+        "hours": [
+          "Mon-Fri 8:30am-7pm",
+          "Sat 8:30am-6pm",
+          "Sun 12pm-5pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60917-lexus-of-melbourne",
+          "website": "https://www.lexusofmelbourne.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofmelbourne.com/schedule-service.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofmelbourne.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "TREASURE COAST LEXUS",
+        "address": "5121 U.S. Highway 1",
+        "city_state_zip": "Ft. Pierce, FL 34982",
+        "phone": "(772) 460-0000",
+        "hours": [
+          "Mon-Fri 8:30am-7pm",
+          "Sat 8:30am-6pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60918-treasure-coast-lexus",
+          "website": "https://www.treasurecoastlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.treasurecoastlexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.treasurecoastlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF JACKSONVILLE",
+        "address": "10259 Atlantic Blvd.",
+        "city_state_zip": "Jacksonville, FL 32225",
+        "phone": "(904) 721-5000",
+        "hours": [
+          "Mon-Fri 7am-6pm",
+          "Sat 8am-4pm"
+        ],
+        "badges": [
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60919-lexus-of-jacksonville",
+          "website": "https://www.lexusofjacksonville.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofjacksonville.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofjacksonville.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "GERMAIN LEXUS OF NAPLES",
+        "address": "13491 N. Tamiami Trail",
+        "city_state_zip": "Naples, FL 34110",
+        "phone": "(239) 592-5533",
+        "hours": [
+          "Mon-Thu 8am-7pm",
+          "Fri 8am-6pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60920-germain-lexus-of-naples",
+          "website": "https://www.lexusofnaples.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofnaples.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofnaples.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF WESLEY CHAPEL",
+        "address": "5350 Eagleston Blvd.",
+        "city_state_zip": "Wesley Chapel, FL 33544",
+        "phone": "(813) 907-5350",
+        "hours": [
+          "Mon-Sat 9am-8pm",
+          "Sun 11am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60922-lexus-of-wesley-chapel",
+          "website": "https://www.lexusofwesleychapel.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofwesleychapel.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofwesleychapel.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF SARASOTA",
+        "address": "4883 Clark Road",
+        "city_state_zip": "Sarasota, FL 34233",
+        "phone": "(941) 924-3040",
+        "hours": [
+          "Mon-Thu 8:30am-7pm",
+          "Fri-Sat 8:30am-6pm",
+          "Sun 11am-6pm"
+        ],
+        "badges": [
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60923-lexus-of-sarasota",
+          "website": "https://www.lexusofsarasota.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofsarasota.com/service/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofsarasota.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF CLEARWATER",
+        "address": "27547 U.S. Highway 19 N.",
+        "city_state_zip": "Clearwater, FL 33761",
+        "phone": "(727) 726-6000",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-6pm",
+          "Sun 12pm-5pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60930-lexus-of-clearwater",
+          "website": "https://www.lexusofclearwater.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofclearwater.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofclearwater.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF NORTH MIAMI",
+        "address": "14100 Biscayne Blvd.",
+        "city_state_zip": "North Miami, FL 33181",
+        "phone": "(305) 372-1400",
+        "hours": [
+          "Mon-Sat 9am-9pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60931-lexus-of-north-miami",
+          "website": "https://www.lexusofnorthmiami.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofnorthmiami.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofnorthmiami.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF WEST KENDALL",
+        "address": "13750 S.W. 136th Street",
+        "city_state_zip": "Miami, FL 33186",
+        "phone": "(786) 886-1124",
+        "hours": [
+          "Mon-Sat 9am-9pm",
+          "Sun 10am-7pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60932-lexus-of-west-kendall",
+          "website": "https://www.lexusofwestkendall.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofwestkendall.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofwestkendall.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF ORANGE PARK",
+        "address": "7040 Blanding Blvd.",
+        "city_state_zip": "Jacksonville, FL 32244",
+        "phone": "(904) 777-5100",
+        "hours": [
+          "Mon-Fri 7am-6pm",
+          "Sat 8am-4pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60933-lexus-of-orange-park",
+          "website": "https://www.lexusoforangepark.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusoforangepark.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusoforangepark.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF ORLANDO",
+        "address": "5725 Major Blvd.",
+        "city_state_zip": "Orlando, FL 32819",
+        "phone": "(407) 678-5100",
+        "hours": [
+          "Mon-Sat 9am-8pm",
+          "Sun 11am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/60934-lexus-of-orlando",
+          "website": "https://www.lexusoforlando.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusoforlando.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusoforlando.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF FORT MYERS",
+        "address": "14200 South Tamiami Trail",
+        "city_state_zip": "Fort Myers, FL 33912",
+        "phone": "(239) 481-9797",
+        "hours": [],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/60935-lexus-of-fort-myers",
+          "website": "https://www.lexusoffortmyers.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusoffortmyers.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusoffortmyers.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Georgia": [
+      {
+        "name": "NALLEY LEXUS-SMYRNA",
+        "address": "2750 South Cobb Parkway",
+        "city_state_zip": "Smyrna, GA 30080",
+        "phone": "(770) 428-9600",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61001-nalley-lexus-smyrna",
+          "website": "https://www.nalleylexussmyrna.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.nalleylexussmyrna.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.nalleylexussmyrna.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "HENNESSY LEXUS OF ATLANTA",
+        "address": "5955 Peachtree Ind. Blvd.",
+        "city_state_zip": "Atlanta, GA 30341",
+        "phone": "(770) 457-6800",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61002-hennessy-lexus-of-atlanta",
+          "website": "https://www.lexusatlanta.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusatlanta.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusatlanta.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "BUTLER LEXUS",
+        "address": "4550 Riverside Drive",
+        "city_state_zip": "Macon, GA 31210",
+        "phone": "(478) 477-0700",
+        "hours": [
+          "Mon-Fri 9am-6:30pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61003-butler-lexus",
+          "website": "https://www.butlerlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.butlerlexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.butlerlexus.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "CHATHAM PARKWAY LEXUS",
+        "address": "1120 Chatham Parkway",
+        "city_state_zip": "Savannah, GA 31405",
+        "phone": "(912) 231-0005",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61004-chatham-parkway-lexus",
+          "website": "https://www.chathamparkwaylexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.chathamparkwaylexus.com/schedule-service.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.chathamparkwaylexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "JIM HUDSON LEXUS, AUGUSTA",
+        "address": "3410 Washington Road",
+        "city_state_zip": "Martinez, GA 30907",
+        "phone": "(706) 650-9999",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61006-jim-hudson-lexus--augusta",
+          "website": "https://www.augustalexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.augustalexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.augustalexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "BUTLER LEXUS OF SOUTH ATLANTA",
+        "address": "4025 Jonesboro Road",
+        "city_state_zip": "Union City, GA 30291",
+        "phone": "(678) 619-3045",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61008-butler-lexus-of-south-atlanta",
+          "website": "https://www.butlerlexussouthatlanta.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.butlerlexussouthatlanta.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.butlerlexussouthatlanta.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "HENNESSY LEXUS OF GWINNETT",
+        "address": "3383 Satellite Blvd.",
+        "city_state_zip": "Duluth, GA 30096",
+        "phone": "(770) 680-1000",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61030-hennessy-lexus-of-gwinnett",
+          "website": "https://www.lexusgwinnett.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusgwinnett.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusgwinnett.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "NALLEY LEXUS - ROSWELL",
+        "address": "980 Mansell Road",
+        "city_state_zip": "Roswell, GA 30076",
+        "phone": "(678) 461-0800",
+        "hours": [
+          "Mon-Fri 8:30am-8pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61031-nalley-lexus---roswell",
+          "website": "https://www.nalleylexusroswell.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.nalleylexusroswell.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.nalleylexusroswell.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Hawaii": [],
+    "Idaho": [
+        {
+          "name": "PETERSON LEXUS",
+          "address": "9055 W. Fairview Avenue",
+          "city_state_zip": "Boise, ID 83704",
+          "phone": "(208) 378-9009",
+          "hours": [
+            "Mon-Sat 8:30am-7pm"
+          ],
+          "badges": [],
+          "links": {
+            "dealer_details": "/dealers/61101-peterson-lexus",
+            "website": "https://www.petersonlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+            "service": "https://www.petersonlexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+            "contact": "https://www.petersonlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+          }
+        }
+      ]
+    ],
+    "Illinois": [
+      {
+        "name": "LEXUS OF ORLAND",
+        "address": "8300 W. 159th Street",
+        "city_state_zip": "Orland Park, IL 60462",
+        "phone": "(708) 614-8700",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61201-lexus-of-orland",
+          "website": "https://www.lexusoforland.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusoforland.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusoforland.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF ARLINGTON",
+        "address": "1510 West Dundee Road",
+        "city_state_zip": "Arlington Heights, IL 60004",
+        "phone": "(847) 991-0444",
+        "hours": [
+          "Mon-Fri 8am-9pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61202-lexus-of-arlington",
+          "website": "https://www.lexusofarlington.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofarlington.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofarlington.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF NAPERVILLE",
+        "address": "2480 Aurora Avenue",
+        "city_state_zip": "Naperville, IL 60540",
+        "phone": "(630) 717-1578",
+        "hours": [
+          "Mon-Fri 10am-7pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61203-lexus-of-naperville",
+          "website": "https://www.lexusofnaperville.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofnaperville.com/schedule-service/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofnaperville.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "WOODFIELD LEXUS",
+        "address": "350 East Golf Road",
+        "city_state_zip": "Schaumburg, IL 60173",
+        "phone": "(847) 882-0200",
+        "hours": [
+          "Mon-Fri 9am-8pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61204-woodfield-lexus",
+          "website": "https://www.woodfieldlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.woodfieldlexus.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.woodfieldlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF HIGHLAND PARK",
+        "address": "2930 Skokie Valley Road",
+        "city_state_zip": "Highland Park, IL 60035",
+        "phone": "(847) 432-1900",
+        "hours": [
+          "Mon-Fri 10am-6pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61205-lexus-of-highland-park",
+          "website": "https://www.lexusofhighlandpark.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofhighlandpark.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofhighlandpark.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "MCGRATH LEXUS OF WESTMONT",
+        "address": "500 East Ogden Avenue",
+        "city_state_zip": "Westmont, IL 60559",
+        "phone": "(630) 323-5600",
+        "hours": [
+          "Mon-Thu 9am-8pm",
+          "Fri-Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61207-mcgrath-lexus-of-westmont",
+          "website": "https://www.mcgrathlex.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.mcgrathlex.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.mcgrathlex.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF ROCKFORD",
+        "address": "4100 North Perryville Road",
+        "city_state_zip": "Loves Park, IL 61111",
+        "phone": "(815) 397-8900",
+        "hours": [
+          "Mon-Thu 8:30am-7pm",
+          "Fri-Sat 8:30am-6pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/61209-lexus-of-rockford",
+          "website": "https://www.lexusofrockford.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofrockford.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofrockford.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "FIELDS LEXUS GLENVIEW",
+        "address": "2000 N. Waukegan Road",
+        "city_state_zip": "Glenview, IL 60025",
+        "phone": "(847) 510-5535",
+        "hours": [
+          "Mon-Thu 9am-8pm",
+          "Fri-Sat 9am-6pm"
+        ],
+        "badges": [
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61211-fields-lexus-glenview",
+          "website": "https://www.fieldslexusglenview.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.fieldslexusglenview.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.fieldslexusglenview.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF PEORIA",
+        "address": "7301 North Allen Road",
+        "city_state_zip": "Peoria, IL 61614",
+        "phone": "(309) 689-3000",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61212-lexus-of-peoria",
+          "website": "https://www.lexusofpeoria.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofpeoria.com/serviceapptform.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofpeoria.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "MCGRATH LEXUS OF CHICAGO",
+        "address": "1250 W. Division Street",
+        "city_state_zip": "Chicago, IL 60642",
+        "phone": "(773) 342-6300",
+        "hours": [
+          "Mon-Thu 9am-8pm",
+          "Fri-Sat 9am-6pm"
+        ],
+        "badges": [
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61230-mcgrath-lexus-of-chicago",
+          "website": "https://www.mcgrathlexusofchicago.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://scheduleanywhere2.dealer-fx.com/2181/search?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.mcgrathlexusofchicago.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Indiana": [
+      {
+        "name": "TOM WOOD LEXUS",
+        "address": "4610A East 96th Street",
+        "city_state_zip": "Indianapolis, IN 46240",
+        "phone": "(317) 580-6888",
+        "hours": [
+          "Mon-Fri 9am-6pm",
+          "Sat 10am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61301-tom-wood-lexus",
+          "website": "https://www.tomwoodlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.tomwoodlexus.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.tomwoodlexus.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF FT. WAYNE",
+        "address": "5920 Illinois Road",
+        "city_state_zip": "Ft. Wayne, IN 46804",
+        "phone": "(260) 212-5136",
+        "hours": [
+          "Mon-Fri 9am-7pm",
+          "Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61302-lexus-of-ft--wayne",
+          "website": "https://www.lexusofftwayne.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofftwayne.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofftwayne.com/contactus.aspx?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "KENNY KENT LEXUS",
+        "address": "5600 East Division Street",
+        "city_state_zip": "Evansville, IN 47715",
+        "phone": "(812) 473-5600",
+        "hours": [
+          "Mon-Fri 8:30am-8pm",
+          "Sat 8:30am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61305-kenny-kent-lexus",
+          "website": "https://www.kennykentlexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.kennykentlexus.com/servicespecials/?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.kennykentlexus.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF MERRILLVILLE",
+        "address": "3957 West U.S. Route 30",
+        "city_state_zip": "Merrillville, IN 46410",
+        "phone": "(219) 769-4545",
+        "hours": [
+          "Mon-Fri 8am-8pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [],
+        "links": {
+          "dealer_details": "/dealers/61306-lexus-of-merrillville",
+          "website": "https://www.lexusofmerrillville.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofmerrillville.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofmerrillville.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "JORDAN LEXUS OF MISHAWAKA",
+        "address": "4325 North Grape Road",
+        "city_state_zip": "Mishawaka, IN 46545",
+        "phone": "(574) 243-7700",
+        "hours": [
+          "Mon-Tue 8:30am-8pm",
+          "Wed 8:30am-6pm",
+          "Thu 8:30am-8pm",
+          "Fri 8:30am-6pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61307-jordan-lexus-of-mishawaka",
+          "website": "https://www.jordanlexusofmishawaka.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.jordanlexusofmishawaka.com/schedule-service.html?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.jordanlexusofmishawaka.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Iowa": [
+      {
+        "name": "WILLIS LEXUS",
+        "address": "2131 NW 100th Street",
+        "city_state_zip": "Clive, IA 50325",
+        "phone": "(515) 253-9900",
+        "hours": [
+          "Mon 8am-8pm",
+          "Tue 8am-6pm",
+          "Wed-Thu 8am-8pm",
+          "Fri 8am-6pm",
+          "Sat 9am-5pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61401-willis-lexus",
+          "website": "https://www.willislexus.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.willislexus.com/schedule-service.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.willislexus.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "SMART LEXUS OF QUAD CITIES",
+        "address": "101 W. Kimberly Road",
+        "city_state_zip": "Davenport, IA 52806",
+        "phone": "(563) 388-2898",
+        "hours": [
+          "Mon 9am-8pm",
+          "Tue-Wed 9am-6pm",
+          "Thu 9am-8pm",
+          "Fri-Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61403-smart-lexus-of-quad-cities",
+          "website": "https://www.smartlexusofquadcities.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.smartlexusofquadcities.com/ServiceApptForm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.smartlexusofquadcities.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Kansas": [
+      {
+        "name": "HENDRICK LEXUS KANSAS CITY",
+        "address": "6935 W. Frontage Road",
+        "city_state_zip": "Merriam, KS 66203",
+        "phone": "(913) 789-5100",
+        "hours": [
+          "Mon-Thu 9am-7pm",
+          "Fri-Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Certified Collision Center"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61503-hendrick-lexus-kansas-city",
+          "website": "https://www.hendricklexuskansascity.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.hendricklexuskansascity.com/ServiceApptForm.htm?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.hendricklexuskansascity.com/contact.htm?intsrc=lcom:dealers:dealervisit:home"
+        }
+      },
+      {
+        "name": "LEXUS OF WICHITA",
+        "address": "1555 N. Greenwich Road",
+        "city_state_zip": "Wichita, KS 67206",
+        "phone": "(316) 221-3475",
+        "hours": [
+          "Mon-Thu 9am-8pm",
+          "Fri-Sat 9am-6pm"
+        ],
+        "badges": [
+          "Elite Dealer"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61504-lexus-of-wichita",
+          "website": "https://www.lexusofwichita.com/?intsrc=lcom:dealers:dealervisit:home",
+          "service": "https://www.lexusofwichita.com/serviceapptform?intsrc=lcom:dealers:dealervisit:service",
+          "contact": "https://www.lexusofwichita.com/contact?intsrc=lcom:dealers:dealervisit:home"
+        }
+      }
+    ],
+    "Kentucky": [
+      {
+        "id": "61602",
+        "dealerName": "Lexus of Lexington",
+        "marketName": "Lexington",
+        "marketingTitle": "Lexus of Lexington",
+        "dealerAddress": null,
+        "address1": "1264 East New Circle Road",
+        "zipCode": "40505",
+        "zipCodeFive": "40505",
+        "city": "Lexington",
+        "state": "KY""hours": [
+          "Mon-Fri": "9am-7pm",
+          "Sat": "9am-6pm",
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61602-lexus-of-lexington",
+        },
+        {
+          "id": "61604",
+          "dealerName": "Performance Lexus Northern Kentucky",
+          "marketName": "Cincinnati",
+          "marketingTitle": "Cincinnati Area Dealers",
+          "dealerAddress": {
+            "address1": "709 Wright's Summit Parkway",
+            "zipCode": "41011",
+            "zipCodeFive": "41011",
+            "city": "Fort Wright",
+            "state": "KY""hours": [
+              "Mon-Thu": "9am-8pm",
+              "Fri-Sat": "9am-6pm",
+              "Sun": "12pm-4pm"
+            ]
+                  "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/61604-performance-lexus-northern-kentucky",
+            },
+            {
+              "id": "61605",
+              "dealerName": "Lexus of Louisville",
+              "marketName": "Louisville",
+              "marketingTitle": "Lexus Of Louisville",
+              "dealerAddress": {
+                "address1": "2400 Blankenbaker Parkway",
+                "zipCode": "40299",
+                "zipCodeFive": "40299",
+                "city": "Louisville",
+                "state": "KY"
+              },
+              "hours": [
+                "Mon-Fri": "9am-7pm",
+                "Sat": "9am-6pm",
+                "Sun": "12pm-4pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/61605-lexus-of-louisville",
+              },
+            },
+          }
+        ],
+        "Louisiana": [
+          {
+            "id": "61702",
+            "dealerName": "Lexus of New Orleans",
+            "marketName": "New Orleans",
+            "marketingTitle": "Lexus Of New Orleans",
+            "dealerAddress": null,
+            "address1": "8811 Veterans Memorial Bl",
+            "zipCode": "70003",
+            "zipCodeFive": "70003",
+            "city": "Metairie",
+            "state": "LA"
+          },
+          "hours": [
+            "Mon-Fri": "9am-7pm",
+            "Sat": "9am-6pm",
+            "Sun": "12pm-4pm"
+          ],
+          "badges": [
+            "Elite Dealer",
+            "Monogram"
+          ],
+          "links": {
+            "dealer_details": "/dealers/61702-lexus-of-new-orleans",
+          },
+        },
+        {
+          "id": "61703",
+          "dealerName": "Lexus of Shreveport - Bossier City",
+          "marketName": "Shreveport",
+          "marketingTitle": "Lexus Of Shreveport - Bossier City",
+          "dealerAddress": null,
+          "address1": "2901 Benton Road",
+          "zipCode": "71111",
+          "zipCodeFive": "71111",
+          "city": "Bossier City",
+          "state": "LA"
+        },
+        "hours": [
+          "Mon-Fri": "9am-7pm",
+          "Sat": "9am-6pm",
+          "Sun": "12pm-4pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/61703-lexus-of-shreveport-bossier-city",
+        },
+      },
+      {
+        "id": "61704",
+        "dealerName": "Price LeBlanc Lexus",
+        "marketName": "Baton Rouge",
+        "marketingTitle": "Price Leblanc Lexus",
+        "dealerAddress": null,
+        "address1": "13200 Airline Highway",
+        "zipCode": "70817",
+        "zipCodeFive": "70817",
+        "city": "Baton Rouge",
+        "state": "LA"
+      },
+             hours": ["Mon-Fri": "8:30am-8pm",
+      "Sat": "8:30am-7pm"
+    ],
+    "badges": [
+      "Elite Dealer",
+      "Monogram"
+    ],
+    "links": {
+      "dealer_details": "/dealers/61704-price-leblanc-lexus",
+    },
+  ],
+  "Maine": [
+    {
+      "id": "61802",
+      "dealerName": "Berlin City Lexus of Portland",
+      "marketName": "Portland, ME",
+      "marketingTitle": "Lexus of Portland",
+      "dealerAddress": null,
+      "address1": "191 Riverside Street",
+      "zipCode": "04103",
+      "zipCodeFive": "04103",
+      "city": "Portland",
+      "state": "ME"
+    },
+    "hours": [
+      "Mon-Fri": "9am-7pm",
+      "Sat": "9am-6pm",
+      "Sun": "12pm-4pm"
+    ],
+    "badges": [
+      "Elite Dealer",
+      "Monogram"
+    ],
+    "links": {
+      "dealer_details": "/dealers/61802-berlin-city-lexus-of-portland",
+    },
+  ],
+  "Maryland": [
+    {
+      "id": "61902",
+      "dealerName": "Len Stoler Lexus",
+      "marketName": "Baltimore",
+      "marketingTitle": "Baltimore Dealers",
+      "dealerAddress": null,
+      "address1": "11311 Reisterstown Rd",
+      "zipCode": "21117",
+      "zipCodeFive": "21117",
+      "city": "Owings Mills",
+      "state": "MD"
+    },
+    "hours": [
+      "Mon-Fri": "9am-9pm",
+      "Sat": "9am-5pm"
+    ],
+    "badges": [
+      "Elite Dealer",
+      "Monogram"
+    ],
+    "links": {
+      "dealer_details": "/dealers/61902-len-stoler-lexus",
+    },
+  },
+  {
+    "id": "61903",
+    "dealerName": "DARCARS Lexus of Silver Spring",
+    "marketName": "Washington, DC",
+    "marketingTitle": "Washington, DC Dealers",
+    "dealerAddress": null,
+    "address1": "2505 Prosperity Terrace",
+    "zipCode": "20904",
+    "zipCodeFive": "20904",
+    "city": "Silver Spring",
+    "state": "MD"
+  },
+  "hours": [
+    "Mon-Fri": "9am-9pm",
+    "Sat": "9am-8pm",
+    "Sun": "12pm-5pm"
+  ],
+  "badges": [
+    "Elite Dealer",
+    "Monogram"
+  ],
+  "links": {
+    "dealer_details": "/dealers/61903-darcars-lexus-of-silver-spring",
+  },
+},
+{
+  "id": "61904",
+  "dealerName": "Sheehy Lexus of Annapolis",
+  "marketName": "Baltimore",
+  "marketingTitle": "Baltimore Dealers",
+  "dealerAddress": null,
+  "address1": "121 Ferguson Road",
+  "zipCode": "21409",
+  "zipCodeFive": "21409",
+  "city": "Annapolis",
+  "state": "MD"
+},
+"hours": [
+  "Mon-Thu": "9am-8pm",
+  "Fri": "9am-7pm",
+  "Sat": "9am-6pm"
+],
+"badges": [
+  "Elite Dealer",
+  "Monogram"
+],
+"links": {
+  "dealer_details": "/dealers/61904-sheehy-lexus-of-annapolis",
+},
+},
+{
+"id": "61930",
+"dealerName": "Lexus of Towson",
+"marketName": "Baltimore",
+"marketingTitle": "Baltimore Dealers",
+"dealerAddress": null,
+"address1": "1040 York Road",
+"zipCode": "21204",
+"zipCodeFive": "21204",
+"city": "Towson",
+"state": "MD"
+},
+"hours": [
+"Mon-Fri": "9am-8pm",
+"Sat": "9am-5pm"
+],
+"badges": [
+"Elite Dealer",
+"Monogram"
+],
+"links": {
+"dealer_details": "/dealers/61930-lexus-of-towson",
+},
+},
+"Massachusetts": [
+{
+"id": "62002",
+"dealerName": "Lexus of Watertown",
+"marketName": "Boston",
+"marketingTitle": "Boston Dealers",
+"dealerAddress": null,
+"address1": "330 Arsenal Street",
+"zipCode": "02472",
+"zipCodeFive": "02472",
+"city": "Watertown",
+"state": "MA"
+},
+"hours": [
+"Mon-Thu": "9am-8pm",
+"Fri-Sat": "9am-6pm",
+"Sun": "12pm-5pm"
+],
+"badges": [
+"Elite Dealer",
+"Monogram"
+],
+"links": {
+"dealer_details": "/dealers/62002-lexus-of-watertown",
+},
+},
+}       {
+"id": "62003",
+"dealerName": "Balise Lexus",
+"marketName": "Springfield, MA",
+"marketingTitle": "Balise Lexus",
+"dealerAddress": null,
+"address1": "1385 Riverdale Street",
+"zipCode": "01089",
+"zipCodeFive": "01089",
+"city": "West Springfield",
+"state": "MA"
+},
+"hours": [
+"Mon-Fri": "9am-6pm",
+ "Sat": "9am-4pm"
+],
+"badges": [
+"Elite Dealer",
+"Monogram"
+],
+"links": {
+"dealer_details": "/dealers/62003-balise-lexus",
+},
+ "id": "62005",
+ "dealerName": "Ira Lexus",
+"marketName": "Boston",
+"marketingTitle": "Boston Dealers",
+ "dealerAddress": null,
+  "address1": "101 Andover Street",
+  "zipCode": "01923",
+ "zipCodeFive": "01923",
+  "city": "Danvers",
+  "state": "MA"
+},
+"hours": [
+ "Mon-Thu": "9am-7pm",
+"Fri-Sat": "9am-6pm",
+"Sun": "11:30am-5pm"
+],
+"badges": [
+"Elite Dealer",
+"Monogram"
+],
+"links": {
+"dealer_details": "/dealers/62005-ira-lexus",
+},
+}
+ "id": "62006",
+            "dealerName": "Lexus of Northborough",
+            "marketName": "Boston",
+            "marketingTitle": "Boston Dealers",
+            "dealerAddress": null,
+                "address1": "14-24 Belmont Street",
+                "zipCode": "01532",
+                "zipCodeFive": "01532",
+                "city": "Northborough",
+                "state": "MA"
+},
+"hours": [
+"Mon-Thu": "8am-7pm",
+                    "Fri": "8am-6pm",
+                    "Sat": "8am-4pm"
+],
+"badges": [
+"Elite Dealer",
+"Monogram"
+],
+"links": {
+"dealer_details": "/dealers/62006-lexus-of-northborough",
+},
+}
+ "id": "62031",
+            "dealerName": "Herb Chambers Lexus Hingham",
+            "marketName": "Boston",
+            "dealerAddress": null,
+                "address1": "141 Derby Street",
+                "zipCode": "02043",
+                "zipCodeFive": "02043",
+                "city": "Hingham",
+                "state": "MA"
+    },
+    "hours": [
+      "Mon-Fri": "7am-6pm",
+      "Sat": "8am-5pm"
+    ],
+    "badges": [
+      "Elite Dealer",
+      "Monogram"
+    ],
+    "links": {
+      "dealer_details": "/dealers/62031-herb-chambers-lexus-hingham",
+    },
+},
+"Michigan": [
+    {
+"id": "62101",
+            "dealerName": "Meade Lexus of Southfield",
+            "marketName": "Detroit",
+            "marketingTitle": "Detroit Area Dealers",
+            "dealerAddress": null,
+                "address1": "28300 Northwestern Hwy.",
+                "zipCode": "48034",
+                "zipCodeFive": "48034",
+                "city": "Southfield",
+                "state": "MI"
+    },
+    "hours": [
+       "Mon": "9am-8pm",
+                    "Tue-Wed": "9am-6pm",
+                    "Thu": "9am-8pm",
+                    "Fri": "9am-6pm",
+                    "Sat": "9am-3pm"
+    ],
+    "badges": [
+      "Elite Dealer",
+      "Monogram"  
+    ],
+    "links": {
+      "dealer_details": "/dealers/62101-meade-lexus-of-southfield",
+    },
+  },
+  {
+"id": "62102",
+            "dealerName": "Harvey Lexus of Grand Rapids",
+            "marketName": "Grand Rapids",
+            "marketingTitle": "Harvey Lexus Of Grand Rapids",
+            "dealerAddress": null,
+                "address1": "2550 28th Street, SE",
+                "zipCode": "49512",
+                "zipCodeFive": "49512",
+                "city": "Grand Rapids",
+                "state": "MI"
+  },
+  "hours": [
+    "Mon": "9am-7pm",
+                    "Tue": "9am-6pm",
+                    "Wed": "9am-7pm",
+                    "Thu-Fri": "9am-6pm",
+                    "Sat": "9am-3pm"
+  ],
+  "badges": [
+    "Elite Dealer",
+    "Monogram"
+  ],
+  "links": {
+    "dealer_details": "/dealers/62102-harvey-lexus-of-grand-rapids",
+  },
+},
+{
+ "id": "62105",
+            "dealerName": "Serra Lexus Lansing",
+            "marketName": "Lansing",
+            "marketingTitle": "Serra Lexus Lansing",
+            "dealerAddress": null,
+                "address1": "2761 Jolly Rd.",
+                "zipCode": "48864",
+                "zipCodeFive": "48864",
+                "city": "Okemos",
+                "state": "MI"
+},
+"hours": [
+"Mon-Fri": "9am-6pm",
+"Sat": "9am-3pm"
+],
+"badges": [
+  "Elite Dealer",
+  "Monogram"
+],
+"links": {
+  "dealer_details": "/dealers/62105-serra-lexus-lansing",
+},
+},
+{
+"id": "62106",
+            "dealerName": "Germain Lexus of Ann Arbor",
+            "marketName": "Detroit",
+            "marketingTitle": "Detroit Area Dealers",
+            "dealerAddress": null,
+                "address1": "590 Auto Mall Drive",
+                "zipCode": "48103",
+                "zipCodeFive": "48103",
+                "city": "Ann Arbor",
+                "state": "MI"
+},
+"hours": [
+    "Mon": "9am-8pm",
+                    "Tue-Wed": "9am-6pm",
+                    "Thu": "9am-8pm",
+                    "Fri": "9am-6pm",
+                    "Sat": "10am-5pm"
+],
+"badges": [
+  "Elite Dealer",
+  "Monogram"
+],
+"links": {
+  "dealer_details": "/dealers/62106-germain-lexus-of-ann-arbor",
+},
+},
+    {
+"id": "62130",
+            "dealerName": "Meade Lexus of Lakeside",
+            "marketName": "Detroit",
+            "marketingTitle": "Detroit Area Dealers",
+            "dealerAddress": null,
+                "address1": "45001 Northpointe Blvd.",
+                "zipCode": "48315",
+                "zipCodeFive": "48315",
+                "city": "Utica",
+                "state": "MI"
+    },
+    "hours": [
+                         "Mon": "9am-8pm",
+                    "Tue-Wed": "9am-6pm",
+                    "Thu": "9am-8pm",
+                    "Fri": "9am-6pm",
+                    "Sat": "9am-3pm"
+    ],
+    "badges": [
+      "Elite Dealer",
+      "Monogram"
+    ],
+    "links": {
+      "dealer_details": "/dealers/62130-meade-lexus-of-lakeside",
+    },
+},
+"Minnesota": [
+    {
+"id": "62202",
+            "dealerName": "Lexus of Wayzata",
+            "marketName": "Minneapolis",
+            "marketingTitle": "Minneapolis/St. Paul Dealers",
+            "dealerAddress": null,
+                "address1": "16100 Wayzata Boulevard",
+                "zipCode": "55391",
+                "zipCodeFive": "55391",
+                "city": "Wayzata",
+                "state": "MN"
+    },
+    "hours": [
+      "Mon-Fri": "7am-6pm",
+                    "Sat": "8am-6pm"
+    ],
+    "badges": [
+      "Elite Dealer",
+      "Monogram"
+    ],
+    "links": {
+      "dealer_details": "/dealers/62202-lexus-of-wayzata",
+    },
+    {
+    "id": "62231",
+            "dealerName": "Lexus of Maplewood",
+            "marketName": "Minneapolis",
+            "marketingTitle": "Minneapolis/St. Paul Dealers",
+            "dealerAddress": null,
+                "address1": "3000 Highway 61 North",
+                "zipCode": "55109",
+                "zipCodeFive": "55109",
+                "city": "Maplewood",
+                "state": "MN"
+    },
+    "hours": [
+      "Mon-Thu": "8:30am-8pm",
+                    "Fri-Sat": "8:30am-6pm"
+    ],
+    "badges": [
+      "Elite Dealer",
+      "Monogram"
+    ],
+    "links": {
+      "dealer_details": "/dealers/62231-lexus-of-maplewood",
+    },
+}
+    Mississippi": [
+    {
+      "id": "62302",
+      "dealerName": "Herrin-Gear Lexus",
+      "marketName": "Jackson",
+      "marketingTitle": "Herrin-Gear Lexus",
+      "dealerAddress": null,
+          "address1": "1685 High Street",
+          "zipCode": "39202",
+          "zipCodeFive": "39202",
+          "city": "Jackson",
+          "state": "MS"
+    },
+    "hours": [
+      "Mon-Fri": "7:30am-5:30pm"
+    ],
+    "badges": [
+      "Elite Dealer",
+      "Monogram"
+    ],
+    "links": {
+      "dealer_details": "/dealers/62302-herrin-gear-lexus",
+    },
+{
+  "Missouri": [
+    {
+      "id": "62403",
+      "dealerName": "Mungenast Lexus of St. Louis",
+      "marketName": "St. Louis",
+      "marketingTitle": "St. Louis Area Dealers",
+      "dealerAddress": null,
+          "address1": "13700 Manchester Road",
+          "zipCode": "63011",
+          "zipCodeFive": "63011",
+          "city": "Manchester",
+          "state": "MO"
+},
+"hours": [
+  "Mon": "8am-7pm",
+  "Tue": "8am-6pm",
+  "Wed": "8am-7pm",
+  "Thu": "8am-6pm",
+  "Fri": "8am-7pm",
+  "Sat": "8am-5pm"
+],
+"badges": [
+  "Elite Dealer",
+  "Monogram"
+],
+"links": {
+  "dealer_details": "/dealers/62403-mungenast-lexus-of-st-louis",
+},
+},
+{
+  "id": "62404",
+            "dealerName": "Reliable Lexus",
+            "marketName": "Springfield, MO",
+            "marketingTitle": "Reliable Lexus",
+            "dealerAddress": null,
+                "address1": "3521 East Sunshine",
+                "zipCode": "65809",
+                "zipCodeFive": "65809",
+                "city": "Springfield",
+                "state": "MO"
+},
+"hours": [
+  "Mon-Fri": "7:30am-5:30pm",
+   "Sat": "8am-5pm"
+],
+"badges": [
+  "Elite Dealer",
+  "Monogram"
+],
+"links": {
+  "dealer_details": "/dealers/62404-reliable-lexus",
+},
+{
+  "id": "62406",
+            "dealerName": "Spirit Lexus",
+            "marketName": "St. Louis",
+            "marketingTitle": "St. Louis Area Dealers",
+            "dealerAddress": null,
+                "address1": "10176 Corporate Square Dr.",
+                "zipCode": "63132",
+                "zipCodeFive": "63132",
+                "city": "St. Louis",
+                "state": "MO"
+},
+"hours": [
+  "Mon": "9am-7pm",
+                    "Tue": "9am-6pm",
+                    "Wed": "9am-7pm",
+                    "Thu": "9am-6pm",
+                    "Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+],
+"badges": [
+  "Elite Dealer",
+  "Monogram"
+],
+"links": {
+  "dealer_details": "/dealers/62406-spirit-lexus",
+},
+},
+{
+  "id": "62430",
+            "dealerName": "Hendrick Lexus Kansas City North",
+            "marketName": "Kansas City",
+            "marketingTitle": "Kansas City Area Dealers",
+            "dealerAddress": null,
+                "address1": "9300 NW Prairie View Road",
+                "zipCode": "64153",
+                "zipCodeFive": "64153",
+                "city": "Kansas City",
+                "state": "MO"
+            },
+            "hours": [
+              "Mon-Thu": "9am-7pm",
+                    "Fri-Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/62430-hendrick-lexus-kansas-city-north",
+            },
+             {
+              Nebraska": [
+              {
+               "id": "62601",
+            "dealerName": "Lexus of Omaha",
+            "marketName": "Omaha",
+            "marketingTitle": "Lexus Of Omaha",
+            "dealerAddress": null,
+                "address1": "13025 W. Dodge Road",
+                "zipCode": "68154",
+                "zipCodeFive": "68154",
+                "city": "Omaha",
+                "state": "NE"
+            },
+            "hours": [
+              "Mon-Fri": "9am-8pm",
+              "Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/62601-lexus-of-omaha",
+            },
+             }
+            {
+             "id": "62630",
+            "dealerName": "Lexus of Lincoln",
+            "marketName": "Lincoln",
+            "marketingTitle": "Lexus Of Lincoln",
+            "dealerAddress": null,
+                "address1": "8585 S. 37th Street",
+                "zipCode": "68516",
+                "zipCodeFive": "68516",
+                "city": "Lincoln",
+                "state": "NE"
+             },
+             "hours": [
+             "Mon-Thu": "9am-8pm",
+              "Fri-Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/62630-lexus-of-lincoln",
+            },
+}           {
+            {
+            Nevada": [
+              {
+                "id": "62702",
+                "dealerName": "Dolan Lexus",
+                "marketName": "Reno",
+                "marketingTitle": "Dolan Lexus",
+                "dealerAddress": null,
+                    "address1": "7175 S. Virginia Street",
+                    "zipCode": "89511",
+                    "zipCodeFive": "89511",
+                    "city": "Reno",
+                    "state": "NV"
+              },
+              "hours": [
+                "Mon-Fri": "7am-6pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              {
+                "id": "62703",
+            "dealerName": "Lexus of Las Vegas",
+            "marketName": "Las Vegas",
+            "marketingTitle": "Las Vegas & Henderson Dealers",
+            "dealerAddress": null,
+                "address1": "6600 W. Sahara Avenue",
+                "zipCode": "89146",
+                "zipCodeFive": "89146",
+                "city": "Las Vegas",
+                "state": "NV"
+              },
+              "hours": [
+               "Mon-Fri": "7am-6pm",
+                    "Sat": "8am-4pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/62703-lexus-of-las-vegas",
+              },
+            },
+            {
+              "id": "62730",
+            "dealerName": "Lexus of Henderson",
+            "marketName": "Las Vegas",
+            "marketingTitle": "Las Vegas & Henderson Dealers",
+            "dealerAddress": null,
+                "address1": "7736 Eastgate Road",
+                "zipCode": "89011",
+                "zipCodeFive": "89011",
+                "city": "Henderson",
+                "state": "NV"
+              },
+              "hours": [
+                "Mon-Fri": "8:30am-9pm",
+                    "Sat": "9am-7pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/62730-lexus-of-henderson",
+              },
+            },
+            {
+              "New Hampshire": [
+            {
+              "id": "62803",
+            "dealerName": "Lexus of Manchester",
+            "marketName": "Boston",
+            "marketingTitle": "Boston Dealers",
+            "dealerAddress": null,
+                "address1": "18 Kilton Road",
+                "zipCode": "03110",
+                "zipCodeFive": "03110",
+                "city": "Bedford",
+                "state": "NH"
+            },
+            "hours": [
+              "Mon-Thu": "9am-7pm",
+              "Fri-Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/62803-lexus-of-manchester",
+            },
+          },
+          {
+             "id": "62901",
+            "dealerName": "Lexus of Cherry Hill",
+            "marketName": "Philadelphia",
+            "marketingTitle": "New Jersey, Delaware, Pennsylvania Dealers",
+            "dealerAddress": null,
+                "address1": "1230 Route 73 South",
+                "zipCode": "08054",
+                "zipCodeFive": "08054",
+                "city": "Mt. Laurel",
+                "state": "NJ"
+          },
+          "hours": [
+            "Mon-Thu": "9am-8pm",
+          "Fri": "9am-6pm",
+          "Sat": "9am-5:30pm"
+          ],
+          "badges": [
+            "Elite Dealer",
+            "Monogram"
+          ],
+          "links": {
+            "dealer_details": "/dealers/62901-lexus-of-cherry-hill",
+          },
+        },
+            {
+        "id": "62906",
+            "dealerName": "Haldeman Lexus of Princeton",
+            "marketName": "Philadelphia",
+            "marketingTitle": "New Jersey, Delaware, Pennsylvania Dealers",
+            "dealerAddress": null,
+                "address1": "2630 Business Rte 1 North",
+                "zipCode": "08648",
+                "zipCodeFive": "08648",
+                "city": "Lawrenceville",
+                "state": "NJ"
+            },
+            "hours": [
+               "Mon-Fri": "8:45am-8pm",
+                "Sat": "8:45am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          },
+          {
+            "id": "62907",
+            "dealerName": "Tri-County Lexus",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "700 Route 46 West",
+                "zipCode": "07424",
+                "zipCodeFive": "07424",
+                "city": "Little Falls",
+                "state": "NJ"
+            },
+            "hours": [
+              "Mon-Fri": "7am-7pm",
+              "Sat": "7am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          },
+          {
+           "id": "62909",
+            "dealerName": "Lexus of Atlantic City",
+            "marketName": "Philadelphia",
+            "marketingTitle": "New Jersey, Delaware, Pennsylvania Dealers",
+            "dealerAddress": null,
+                "address1": "3169 Fire Road",
+                "zipCode": "08234",
+                "zipCodeFive": "08234",
+                "city": "Egg Harbor Township",
+                "state": "NJ"
+            },
+            "hours": [
+              "Mon-Thu": "9am-5pm",
+                    "Fri": "9am-4pm",
+                    "Sat": "9am-3pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          }
+          {
+          "id": "62910",
+            "dealerName": "Ray Catena Lexus of Monmouth",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+              "dealerAddress": null,
+                "address1": "2135 Route 35",
+                "zipCode": "07755",
+                "zipCodeFive": "07755",
+                "city": "Oakhurst",
+                "state": "NJ"
+            },
+            "hours": [
+            "Mon-Thu": "8am-7:30pm",
+                    "Fri": "8am-7pm",
+                    "Sat": "8am-2pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/62910-ray-catena-lexus-of-monmouth",
+            },
+          },
+          {
+          "id": "62912",
+            "dealerName": "Lexus of Route 10",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "130 Route 10 West",
+                "zipCode": "07981",
+                "zipCodeFive": "07981",
+                "city": "Whippany",
+                "state": "NJ"
+            },
+            "hours": [
+                "Mon-Fri": "9am-7pm",
+                    "Sat": "10am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/62912-lexus-of-route-10",
+            },
+          },
+          {
+             "id": "62914",
+            "dealerName": "Prestige Lexus of Ramsey",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "1000 Route 17 North",
+                "zipCode": "07446",
+                "zipCodeFive": "07446",
+                "city": "Ramsey",
+                "state": "NJ"
+            },
+            "hours": [
+              "Mon-Fri": "9am-8pm",
+              "Sat": "9am-7pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/62914-prestige-lexus-of-ramsey",
+            },
+          },
+          {
+            "id": "62915",
+            "dealerName": "Lexus of Bridgewater",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "1550 US-22",
+                "zipCode": "08807",
+                "zipCodeFive": "08807",
+                "city": "Bridgewater",
+                "state": "NJ"
+            },
+            "hours": [
+              "Mon-Sat": "8am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/62915-lexus-of-bridgewater",
+            },
+          },
+          {
+           "id": "62916",
+            "dealerName": "DARCARS Lexus of Englewood",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "53-59 Engle Street",
+                "zipCode": "07631",
+                "zipCodeFive": "07631",
+                "city": "Englewood",
+                "state": "NJ"
+            },
+            "hours": [
+              "Mon-Sat": "9am-8pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          }
+            "id": "62930",
+            "dealerName": "Ray Catena Lexus of Freehold",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "4264 Route 9 South",
+                "zipCode": "07728",
+                "zipCodeFive": "07728",
+                "city": "Freehold",
+                "state": "NJ"
+            },
+            "hours": [
+               "Mon-Thu": "8:30am-8am",
+                    "Fri": "8:30am-7am",
+                    "Sat": "8:30am-6am"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          },
+          {
+          "id": "62932",
+            "dealerName": "Lexus of Edison",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "711 U.S. Route 1 South",
+                "zipCode": "08817",
+                "zipCodeFive": "08817",
+                "city": "Edison",
+                "state": "NJ"
+            },
+            "hours": [
+              "Mon": "9am-8pm",
+                    "Tue-Sat": "9am-6pm""
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          {
+            "id": "63003",
+            "dealerName": "Lexus of Albuquerque",
+            "marketName": "Albuquerque",
+            "marketingTitle": "Albuquerque Dealers",
+            "dealerAddress": null,
+                "address1": "4821 Pan American Freeway NE",
+                "zipCode": "87109",
+                "zipCodeFive": "87109",
+                "city": "Albuquerque",
+                "state": "NM"
+          },
+          "hours": [
+             "Mon-Fri": "8am-3pm"
+          ],
+          "badges": [
+            "Elite Dealer",
+            "Monogram"
+          ],
+        {
+          "id": "63031",
+          "dealerName": "Lexus of Santa Fe",
+          "marketName": "Albuquerque",
+          "marketingTitle": "Albuquerque Dealers",
+          "dealerAddress": null,
+              "address1": "6824 Cerrillos Road",
+              "zipCode": "87507",
+              "zipCodeFive": "87507",
+              "city": "Santa Fe",
+              "state": "NM"
+        },
+        "hours": [
+          "Mon-Fri": "7am-6pm",
+          "Sat": "9am-1pm"
+        ],
+        "badges": [
+          "Elite Dealer",
+          "Monogram"
+        ],
+        "links": {
+          "dealer_details": "/dealers/63031-lexus-of-santa-fe",
+        },
+      {
+        "id": "63101",
+            "dealerName": "Lexus of Brooklyn",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "6502 5th Avenue",
+                "zipCode": "11220",
+                "zipCodeFive": "11220",
+                "city": "Brooklyn",
+                "state": "NY"
+            },
+            "hours": [
+               "Mon-Fri": "7am-5:30pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63101-lexus-of-brooklyn",
+            },
+            {
+              "id": "63103",
+            "dealerName": "Lexus of Smithtown",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "700 Middle Country Road",
+                "zipCode": "11780",
+                "zipCodeFive": "11780",
+                "city": "St. James",
+                "state": "NY"
+            },
+            "hours": [
+              "Mon-Fri": "9am-8pm",
+              "Sat": "9am-6pm",
+              "Sun": "11am-4pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63103-lexus-of-smithtown",
+            },
+          {
+           "id": "63105",
+            "dealerName": "Rallye Lexus",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+              "dealerAddress": null,
+                "address1": "20 Cedar Swamp Road",
+                "zipCode": "11542",
+                "zipCodeFive": "11542",
+                "city": "Glen Cove",
+                "state": "NY" 
+            },
+            "hours": [
+              "Tue-Fri": "9am-7pm",
+                    "Sat": "9am-6pm",
+                    "Sun": "11am-4pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63105-rallye-lexus",
+            },
+         {
+          "id": "63106",
+            "dealerName": "Burdick Lexus",
+            "marketName": "Syracuse",
+            "marketingTitle": "Burdick Lexus",
+            "dealerAddress": null,
+                "address1": "5947 East Circle Drive",
+                "zipCode": "13039",
+                "zipCodeFive": "13039",
+                "city": "Cicero",
+                "state": "NY"
+            },
+            "hours": [
+             "Mon-Thu": "8:30am-7pm",
+                    "Fri": "8:30am-6pm",
+                    "Sat": "8:30am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+    
+          {
+            "id": "63108",
+            "dealerName": "New Country Lexus of Latham",
+            "marketName": "Albany",
+            "marketingTitle": "New Country Lexus Of Latham",
+            "dealerAddress": null,
+                "address1": "999 New Loudon Road",
+                "zipCode": "12110",
+                "zipCodeFive": "12110",
+                "city": "Latham",
+                "state": "NY"
+            },
+            "hours": [
+               "Mon-Thu": "9am-8pm",
+                    "Fri": "9am-6pm",
+                    "Sat": "9am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+         {
+
+          "id": "63109",
+          "dealerName": "Ray Catena Lexus",
+          "marketName": "New York",
+          "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+          "dealerAddress": null,
+              "address1": "1435 Boston Post Road",
+              "zipCode": "10538",
+              "zipCodeFive": "10538",
+              "city": "Larchmont",
+              "state": "NY"
+            },
+            "hours": [
+              "Mon-Thu": "9am-8pm",
+                    "Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          {
+           "id": "63110",
+            "dealerName": "Lexus of Manhattan",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "677-679 11th Avenue",
+                "zipCode": "10019",
+                "zipCodeFive": "10019",
+                "city": "New York City",
+                "state": "NY" 
+            },
+            "hours": [
+             "Mon-Fri": "9am-6pm",
+                    "Sat": "9am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63110-lexus-of-manhattan",
+            },
+          },
+          {
+            "id": "63111",
+            "dealerName": "New Country Lexus of Great Neck",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "250 Northern Boulevard",
+                "zipCode": "11021",
+                "zipCodeFive": "11021",
+                "city": "Great Neck",
+                "state": "NY"
+            },
+            "hours": [
+              "Mon-Fri": "9am-7pm",
+              "Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          {
+            "id": "63112",
+            "dealerName": "Stoler Lexus",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "2040-2090 Broadhollow Road",
+                "zipCode": "11735",
+                "zipCodeFive": "11735",
+                "city": "Farmingdale",
+                "state": "NY"
+            },
+            "hours": [
+              "Mon-Fri": "9am-8pm",
+                    "Sat": "9am-6pm",
+                    "Sun": "12pm-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          {
+            "id": "63113",
+            "dealerName": "Bob Johnson Lexus",
+            "marketName": "Rochester",
+            "marketingTitle": "Bob Johnson Lexus",
+            "dealerAddress": null,
+                "address1": "4700 West Henrietta Road",
+                "zipCode": "14467",
+                "zipCodeFive": "14467",
+                "city": "Henrietta",
+                "state": "NY"
+            },
+            "hours": [
+              "Mon-Thu": "9am-7pm",
+              "Fri": "9am-6pm",
+              "Sat": "9am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          },
+          {
+            "id": "63131",
+            "dealerName": "Lexus of Southampton",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "299 County Road 39A",
+                "zipCode": "11968",
+                "zipCodeFive": "11968",
+                "city": "Southampton",
+                "state": "NY"
+          },
+          "hours": [
+            "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-6pm",
+                    "Sun": "11am-4pm"
+          ],
+          "badges": [
+            "Elite Dealer",
+            "Monogram"
+          ],
+          "links": {
+            "dealer_details": "/dealers/63131-lexus-of-southampton",
+          },
+        {
+         "id": "63132",
+            "dealerName": "Lexus of Queens",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "36-20 Steinway Street",
+                "zipCode": "11101",
+                "zipCodeFive": "11101",
+                "city": "Queens",
+                "state": "NY" 
+            },
+            "hours": [
+                    "Mon-Fri": "9am-6pm",
+                    "Sat": "9am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63132-lexus-of-queens",
+            },
+          {
+            "id": "63133",
+            "dealerName": "Ray Catena Lexus of White Plains",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "525 Tarrytown Road",
+                "zipCode": "10607",
+                "zipCodeFive": "10607",
+                "city": "White Plains",
+                "state": "NY"
+            },
+            "hours": [
+              "Mon-Thu": "9am-8pm",
+                    "Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          {
+            "id": "63136",
+            "dealerName": "Lexus of Orange County",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "3496 Route 6",
+                "zipCode": "10940",
+                "zipCodeFive": "10940",
+                "city": "Middletown",
+                "state": "NY"  
+            },
+            "hours": [
+              "Mon-Fri": "7:30am-6pm",
+                    "Sat": "7:30am-4pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            {
+              "id": "63137",
+            "dealerName": "DARCARS Lexus of Mt. Kisco",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "275 Kisco Ave",
+                "zipCode": "10549",
+                "zipCodeFive": "10549",
+                "city": "Mount Kisco",
+                "state": "NY"
+            },
+            "hours": [
+                "General": [
+                    "Mon-Sat": "7:30am-7:30pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          {
+            "id": "63138",
+            "dealerName": "Lexus of Freeport",
+            "marketName": "New York",
+            "marketingTitle": "New York, New Jersey, Connecticut Dealers",
+            "dealerAddress": null,
+                "address1": "70 West Sunrise Highway",
+                "zipCode": "11520",
+                "zipCodeFive": "11520",
+                "city": "Freeport",
+                "state": "NY"
+            },
+            "hours": [
+              "Mon-Fri": "8am-6am",
+                    "Sat": "8am-4am"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          {
+            "North Carolina": [
+            {
+            "id": "63201",
+            "dealerName": "Hendrick Lexus Charlotte",
+            "marketName": "Charlotte",
+            "marketingTitle": "Charlotte Area Dealers",
+            "dealerAddress": null,
+                "address1": "6025 E. Independence Blvd",
+                "zipCode": "28212",
+                "zipCodeFive": "28212",
+                "city": "Charlotte",
+                "state": "NC"
+            },
+            "hours": [
+              "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+               links": {
+              "dealer_details": "/dealers/63201-hendrick-lexus-charlotte",
+            },
+          }
+            ],
+            {
+              "id": "63202",
+              "dealerName": "Flow Lexus of Winston-Salem",
+              "marketName": "Winston-Salem",
+              "marketingTitle": "Greensboro-Winston Salem Area Dealers",
+              "dealerAddress": null,
+                  "address1": "805 Jonestown Road",
+                  "zipCode": "27103",
+                  "zipCodeFive": "27103",
+                  "city": "Winston-Salem",
+                  "state": "NC"
+            },
+            "hours": [
+             "Mon-Fri": "9am-7pm",
+              "Sat": "9am-5:30pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          },
+          {
+            "id": "63203",
+            "dealerName": "Johnson Lexus of Raleigh",
+            "marketName": "Raleigh",
+            "marketingTitle": "Raleigh-Durham Dealers",
+            "dealerAddress": null,
+                "address1": "5839 Capital Boulevard",
+                "zipCode": "27616",
+                "zipCodeFive": "27616",
+                "city": "Raleigh",
+                "state": "NC"
+            },
+            "hours": [
+              "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ]
+            links": {
+              "dealer_details": "/dealers/63203-johnson-lexus-of-raleigh",
+            },
+          {
+            "id": "63230",
+            "dealerName": "Flow Lexus of Greensboro",
+            "marketName": "Winston-Salem",
+            "marketingTitle": "Greensboro-Winston Salem Area Dealers",
+            "dealerAddress": null,
+                "address1": "825 Norwalk Street",
+                "zipCode": "27407",
+                "zipCodeFive": "27407",
+                "city": "Greensboro",
+                "state": "NC"
+          }
+          "hours": [
+          "Mon-Fri": "9am-7pm",
+          "Sat": "9am-5:30pm"
+
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],  
+            "links": {
+              "dealer_details": "/dealers/63230-flow-lexus-of-greensboro",
+            },
+          }
+          {
+          "id": "63231",
+            "dealerName": "Johnson Lexus of Durham",
+            "marketName": "Raleigh",
+            "marketingTitle": "Raleigh-Durham Dealers",
+            "dealerAddress": null,
+                "address1": "1013 Southpoint Auto Park",
+                "zipCode": "27713",
+                "zipCodeFive": "27713",
+                "city": "Durham",
+                "state": "NC"
+          },
+          "hours": [
+            "Mon-Sat": "8am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63231-johnson-lexus-of-durham",
+            },
+          }
+          {
+          "id": "63232",
+            "dealerName": "Hendrick Lexus Northlake",
+            "marketName": "Charlotte",
+            "marketingTitle": "Charlotte Area Dealers",
+            "dealerAddress": null,
+                "address1": "10830 Northlake Auto Plaza",
+                "zipCode": "28269",
+                "zipCodeFive": "28269",
+                "city": "Charlotte",
+                "state": "NC"
+          },
+          "hours": [
+            "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63232-hendrick-lexus-northlake",
+            },
+          }
+            Ohio: [
+            {
+            "id": "63401",
+            "dealerName": "Germain Lexus of Dublin",
+            "marketName": "Columbus",
+            "marketingTitle": "Columbus Area Dealers",
+            "dealerAddress": null,
+                "address1": "3885 W. Dublin-Granville",
+                "zipCode": "43017",
+                "zipCodeFive": "43017",
+                "city": "Dublin",
+                "state": "OH"
+          },
+          "hours": [
+            "Mon-Thu": "9am-7pm",
+                    "Fri-Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63401-germain-lexus-of-dublin",
+            },
+          }
+            ],
+          {
+           "id": "63402",
+            "dealerName": "Performance Lexus",
+            "marketName": "Cincinnati",
+            "marketingTitle": "Cincinnati Area Dealers",
+            "dealerAddress": null,
+                "address1": "4328 Kingswater Drive",
+                "zipCode": "45249",
+                "zipCodeFive": "45249",
+                "city": "Cincinnati",
+                "state": "OH"
+          },
+          "hours": [
+            "Mon-Thu": "9am-8pm",
+                    "Fri-Sat": "9am-6pm",
+                    "Sun": "12pm-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63402-performance-lexus",
+            },
+          }
+          {
+           "id": "63404",
+            "dealerName": "Classic Lexus",
+            "marketName": "Cleveland",
+            "marketingTitle": "Cleveland/Akron Dealers",
+            "dealerAddress": null,
+                "address1": "2551 Som Center Road",
+                "zipCode": "44094",
+                "zipCodeFive": "44094",
+                "city": "Willoughby Hills",
+                "state": "OH"
+          },
+          "hours": [
+            "Mon-Thu": "9am-7pm",
+                    "Fri-Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63404-classic-lexus",
+            },
+          {
+           "id": "63406",
+            "dealerName": "Jim White Lexus of Toledo",
+            "marketName": "Toledo",
+            "marketingTitle": "Jim White Lexus Of Toledo",
+            "dealerAddress": null,
+                "address1": "7505 W. Central Avenue",
+                "zipCode": "43617",
+                "zipCodeFive": "43617",
+                "city": "Toledo",
+                "state": "OH" 
+          },
+          "hours": [
+              "Mon": "9am-8pm",
+                    "Tue-Wed": "9am-6pm",
+                    "Thu": "9am-8pm",
+                    "Fri": "9am-6pm",
+                    "Sat": "9am-4pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63406-jim-white-lexus-of-toledo",
+            },
+          }
+          {
+             "id": "63409",
+            "dealerName": "Lexus of Dayton",
+            "marketName": "Dayton",
+            "marketingTitle": "Lexus Of Dayton",
+            "dealerAddress": null,
+                "address1": "8111 Yankee Street",
+                "zipCode": "45458",
+                "zipCodeFive": "45458",
+                "city": "Centerville",
+                "state": "OH"          
+          },
+          "hours": [
+             "Mon-Thu": "9am-8pm",
+                    "Fri": "9am-6pm",
+                    "Sat": "9am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63409-lexus-of-dayton",
+            },
+          {
+           "id": "63410",
+            "dealerName": "Lexus of Cleveland",
+            "marketName": "Cleveland",
+            "marketingTitle": "Cleveland/Akron Dealers",
+            "dealerAddress": null,
+                "address1": "13600 Brookpark Road",
+                "zipCode": "44135",
+                "zipCodeFive": "44135",
+                "city": "Cleveland",
+                "state": "OH" 
+          },
+          "hours": [
+              "Mon-Fri": "7am-6pm",
+                    "Sat": "8am-4pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          }
+          {
+          "id": "63431",
+            "dealerName": "Germain Lexus of Easton",
+            "marketName": "Columbus",
+            "marketingTitle": "Columbus Area Dealers",
+            "dealerAddress": null,
+                "address1": "4130 Morse Crossing",
+                "zipCode": "43219",
+                "zipCodeFive": "43219",
+                "city": "Columbus",
+                "state": "OH"
+          },
+          "hours": [
+              "Mon-Thu": "9am-7pm",
+                    "Fri-Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63431-germain-lexus-of-easton",
+            },
+          }
+          {
+              "id": "63433",
+            "dealerName": "Lexus of Akron-Canton",
+            "marketName": "Cleveland",
+            "marketingTitle": "Cleveland/Akron Dealers",
+            "dealerAddress": null,
+                "address1": "1000 Interstate Parkway",
+                "zipCode": "44312",
+                "zipCodeFive": "44312",
+                "city": "Akron",
+                "state": "OH"
+          },
+          "hours": [
+             "Mon-Fri": "7am-6pm",
+                    "Sat": "8am-4pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63433-lexus-of-akron-canton",
+            },
+          }
+            Oklahoma: [
+          {
+            "id": "63501",
+            "dealerName": "Eskridge Lexus of Oklahoma City",
+            "marketName": "Oklahoma City",
+            "marketingTitle": "Eskridge Lexus Of Oklahoma City",
+              "dealerAddress": null,
+                "address1": "700 W. Memorial Road",
+                "zipCode": "73114",
+                "zipCodeFive": "73114",
+                "city": "Oklahoma City",
+                "state": "OK"
+          },
+          "hours": [
+             "Mon-Fri": "8am-8pm",
+                    "Sat": "9am-6pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63501-eskridge-lexus-of-oklahoma-city",
+            },
+          }
+          {
+            "id": "63503",
+            "dealerName": "Lexus of Tulsa",
+            "marketName": "Tulsa",
+            "marketingTitle": "Lexus Of Tulsa",
+            "dealerAddress": {
+                "address1": "4210 South Memorial",
+                "zipCode": "74145",
+                "zipCodeFive": "74145",
+                "city": "Tulsa",
+                "state": "OK"
+          },
+          "hours": [
+      "Mon-Fri": "7am-6pm",
+                    "Sat": "8am-5pm
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+          {
+            Oregon: [
+              {
+                "id": "63601",
+            "dealerName": "Lexus of Portland",
+            "marketName": "Portland, OR",
+            "marketingTitle": "Lexus of Portland",
+            "dealerAddress": null,
+                "address1": "8840 S.W. Canyon Road",
+                "zipCode": "97225",
+                "zipCodeFive": "97225",
+                "city": "Portland",
+                "state": "OR"
+              },
+              "hours": [
+                "Mon-Fri": "8am-8pm",
+                "Sat": "9am-7pm",
+                "Sun": "10am-6pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/63601-lexus-of-portland",
+              },
+            }
+          {
+            "id": "63602",
+            "dealerName": "Kendall Lexus of Eugene",
+            "marketName": "Eugene",
+            "marketingTitle": "Kendall Lexus Of Eugene",
+            "dealerAddress": null,
+                "address1": "330 Goodpasture Island Road",
+                "zipCode": "97401",
+                "zipCodeFive": "97401",
+                "city": "Eugene",
+                "state": "OR"
+          },
+          "hours": [
+            "Mon-Fri": "8am-7pm",
+            "Sat": "9am-6pm",
+            "Sun": "10am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63602-kendall-lexus-of-eugene",
+            },
+          }
+          {
+            Pennsylvania: [
+              {
+                "id": "63701",
+            "dealerName": "Wilkie Lexus",
+            "marketName": "Philadelphia",
+            "marketingTitle": "New Jersey, Delaware, Pennsylvania Dealers",
+            "dealerAddress": null,
+                "address1": "568 West Lancaster Avenue",
+                "zipCode": "19041",
+                "zipCodeFive": "19041",
+                "city": "Haverford",
+                "state": "PA"
+              }
+              "hours": [
+                 "Mon-Fri": "8:30am-8pm",
+                    "Sat": "8:30am-5pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/63701-wilkie-lexus",
+              },
+            }
+          }
+          {
+            
+            "id": "63702",
+            "dealerName": "Thompson Lexus Doylestown",
+            "marketName": "Philadelphia",
+            "marketingTitle": "New Jersey, Delaware, Pennsylvania Dealers",
+            "dealerAddress": null,
+                "address1": "50 West Swamp Road",
+                "zipCode": "18901",
+                "zipCodeFive": "18901",
+                "city": "Doylestown",
+                "state": "PA"
+          },
+          "hours": [
+            "Mon-Thu": "8am-7pm",
+                    "Fri": "8am-6pm",
+                    "Sat": "8am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63702-thompson-lexus-doylestown",
+            },
+          {
+            "id": "63703",
+            "dealerName": "Rohrich Lexus",
+            "marketName": "Pittsburgh",
+            "marketingTitle": "Pittsburgh Dealers",
+            "dealerAddress": null,
+                "address1": "2540 Washington Road",
+                "zipCode": "15317",
+                "zipCodeFive": "15317",
+                "city": "Canonsburg",
+                "state": "PA"
+          },
+          "hours": [
+            "Mon-Thu": "7:30am-8pm",
+            "Fri": "7:30am-6pm",
+            "Sat": "7:30am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63703-rohrich-lexus",
+            },
+          {
+            "id": "63704",
+            "dealerName": "Lexus of Lehigh Valley",
+            "marketName": "Philadelphia",
+            "marketingTitle": "New Jersey, Delaware, Pennsylvania Dealers",
+            "dealerAddress": null,
+                "address1": "4500 Broadway",
+                "zipCode": "18104",
+                "zipCodeFive": "18104",
+                "city": "Allentown",
+                "state": "PA"
+          },
+          "hours": [
+            "Mon-Fri": "7:30am-6pm",
+                    "Sat": "8am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63704-lexus-of-lehigh-valley",
+            },
+          {
+            "id": "63705",
+            "dealerName": "Bobby Rahal Lexus",
+            "marketName": "Harrisburg",
+            "marketingTitle": "Bobby Rahal Lexus",
+            "dealerAddress": null,
+                "address1": "6715 Carlisle Pike",
+                "zipCode": "17050",
+                "zipCodeFive": "17050",
+                "city": "Mechanicsburg",
+                "state": "PA"
+          },
+          "hours": [
+           "Mon-Thu": "7:30am-3pm",
+                    "Fri": "7:30am-2:30pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63705-bobby-rahal-lexus",
+            },
+         {
+          "id": "63709",
+          "dealerName": "Motorworld Lexus",
+          "marketName": "Wilkes-Barre",
+          "marketingTitle": "Motor World Lexus",
+          "dealerAddress": null,
+              "address1": "150 Motorworld Drive",
+              "zipCode": "18702",
+              "zipCodeFive": "18702",
+              "city": "Wilkes-Barre",
+              "state": "PA"
+          },
+          "hours": [
+            "Mon-Fri": "7:30am-6pm",
+                    "Sat": "8am-4pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63709-motorworld-lexus",
+            },
+          
+          {
+            "id": "63730",
+            "dealerName": "Lexus of North Hills",
+            "marketName": "Pittsburgh",
+            "marketingTitle": "Pittsburgh Dealers",
+            "dealerAddress": null,
+                "address1": "15025 Perry Highway",
+                "zipCode": "15090",
+                "zipCodeFive": "15090",
+                "city": "Wexford",
+                "state": "PA"
+          },
+          "hours": [
+            "Mon-Fri": "8am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63730-lexus-of-north-hills",
+            },
+            {
+              "id": "63731",
+            "dealerName": "Lexus of Chester Springs",
+            "marketName": "Philadelphia",
+            "marketingTitle": "New Jersey, Delaware, Pennsylvania Dealers",
+            "dealerAddress": null,
+                "address1": "400 Pottstown Pike",
+                "zipCode": "19425",
+                "zipCodeFive": "19425",
+                "city": "Chester Springs",
+                "state": "PA"
+            },
+            "hours": [
+              "Mon-Fri": "8:30am-8pm",
+                    "Sat": "8:30am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63731-lexus-of-chester-springs",
+            },
+         {
+          "id": "63732",
+            "dealerName": "Thompson Lexus Willow Grove",
+            "marketName": "Philadelphia",
+            "marketingTitle": "New Jersey, Delaware, Pennsylvania Dealers",
+            "dealerAddress": null,
+                "address1": "2560 Maryland Road",
+                "zipCode": "19090",
+                "zipCodeFive": "19090",
+                "city": "Willow Grove",
+                "state": "PA"
+          },
+          "hours": [
+            "Mon-Thu": "7:30am-7pm",
+            "Fri": "7:30am-6pm",
+            "Sat": "8am-5pm"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ],
+            "links": {
+              "dealer_details": "/dealers/63732-thompson-lexus-willow-grove",
+            },
+          {
+            Rhode Island: [
+              {
+                "id": "63802",
+            "dealerName": "Lexus of Warwick",
+            "marketName": "Providence",
+            "marketingTitle": "Lexus of Warwick",
+            "dealerAddress": null,
+                "address1": "1095 Centerville Road",
+                "zipCode": "02886",
+                "zipCodeFive": "02886",
+                "city": "Warwick",
+                "state": "RI"
+              },
+              "hours": [
+                "Mon-Fri": "7:30am-6pm",
+                "Sat": "8am-5pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/63802-lexus-of-warwick",
+              },
+            {
+              South Carolina: [
+                {
+                  "id": "63904",
+            "dealerName": "Jim Hudson Lexus, Columbia",
+            "marketName": "Columbia",
+            "marketingTitle": "Jim Hudson Lexus Of Columbia",
+            "dealerAddress": null,
+                "address1": "328 Killian Road",
+                "zipCode": "29203",
+                "zipCodeFive": "29203",
+                "city": "Columbia",
+                "state": "SC"
+                },
+                "hours": [
+                  "Mon-Fri": "7am-6pm",
+                    "Sat": "7am-3:30pm"
+                ],
+                "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                ],
+                "links": {
+                  "dealer_details": "/dealers/63904-jim-hudson-lexus-columbia",
+                },
+              {
+                "id": "63905",
+            "dealerName": "Hendrick Lexus Charleston",
+            "marketName": "Charleston, SC",
+            "marketingTitle": "Hendrick Lexus Charleston",
+            "dealerAddress": null,
+                "address1": "2424 Savannah Highway",
+                "zipCode": "29414",
+                "zipCodeFive": "29414",
+                "city": "Charleston",
+                "state": "SC"
+              },
+              "hours": [
+                  "Mon-Fri": "8am-6pm",
+                    "Sat": "7:30am-3pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/63905-hendrick-lexus-charleston",
+              },
+              {
+                "id": "63907",
+            "dealerName": "Lexus of Greenville",
+            "marketName": "Greenville",
+            "marketingTitle": "Lexus Of Greenville",
+            "dealerAddress": null,
+                "address1": "2836 Laurens Road",
+                "zipCode": "29607",
+                "zipCodeFive": "29607",
+                "city": "Greenville",
+                "state": "SC"
+              },
+              "hours": [
+                    "Mon-Fri": "9am-7:30pm",
+                    "Sat": "9am-7pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/63907-lexus-of-greenville",
+              },
+              {
+                "id": "63930",
+            "dealerName": "Hilton Head Lexus",
+            "marketName": "Savannah",
+            "marketingTitle": "Savannah Dealers",
+            "dealerAddress": null,
+                "address1": "540 New River Parkway",
+                "zipCode": "29927",
+                "zipCodeFive": "29927",
+                "city": "Hardeeville",
+                "state": "SC"
+              },
+              "hours": [
+                "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/63930-hilton-head-lexus",
+              },
+            {
+             Tenneessee: [
+              {
+                "id": "64101",
+            "dealerName": "Lexus of Cool Springs",
+            "marketName": "Nashville",
+            "marketingTitle": "Nashville Dealers",
+            "dealerAddress": null,
+                "address1": "1636 Westgate Circle",
+                "zipCode": "37027",
+                "zipCodeFive": "37027",
+                "city": "Brentwood",
+                "state": "TN"
+              },
+              "hours": [
+                "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/64101-lexus-of-cool-springs",
+              },
+              {
+                "id": "64104",
+            "dealerName": "Lexus of Kingsport",
+            "marketName": "Kingsport/Tri Cities",
+            "marketingTitle": "Lexus Of Kingsport",
+            "dealerAddress": null,
+                "address1": "2527 East Stone Drive",
+                "zipCode": "37660",
+                "zipCodeFive": "37660",
+                "city": "Kingsport",
+                "state": "TN"
+              },
+              "hours": [
+                 "Mon-Fri": "9am-6pm",
+                    "Sat": "9am-5pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/64104-lexus-of-kingsport",
+              },
+            {
+              "id": "64105",
+            "dealerName": "Lexus of Chattanooga",
+            "marketName": "Chattanooga",
+            "marketingTitle": "Lexus Of Chattanooga",
+            "dealerAddress": null,
+                "address1": "2135 Chapman Road",
+                "zipCode": "37421",
+                "zipCodeFive": "37421",
+                "city": "Chattanooga",
+                "state": "TN"
+            },
+            "hours": [
+              "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-6am"
+            ],
+            "badges": [
+              "Elite Dealer",
+              "Monogram"
+            ]
+            links": {
+              "dealer_details": "/dealers/64105-lexus-of-chattanooga"
+            },
+          {
+            "id": "64106",
+            "dealerName": "Lexus of Knoxville",
+            "marketName": "Knoxville",
+            "marketingTitle": "Lexus Of Knoxville",
+            "dealerAddress": null,
+                "address1": "10315 Parkside Drive",
+                "zipCode": "37922",
+                "zipCodeFive": "37922",
+                "city": "Knoxville",
+                "state": "TN"
+              },
+              "hours": [
+                "Mon-Fri": "9am-8pm",
+                    "Sat": "9am-6pm",
+                    "Sun": "1pm-5pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              links": {
+                "dealer_details": "/dealers/64106-lexus-of-knoxville"
+              },
+              {
+                "id": "64107",
+            "dealerName": "Lexus of Memphis",
+            "marketName": "Memphis",
+            "marketingTitle": "Lexus Of Memphis",
+            "dealerAddress": null,
+                "address1": "2600 Ridgeway Road",
+                "zipCode": "38119",
+                "zipCodeFive": "38119",
+                "city": "Memphis",
+                "state": "TN"
+              },
+              "hours": [
+               "Mon-Fri": "8:30am-6pm",
+                    "Sat": "9am-6pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/64107-lexus-of-memphis"
+              },
+            {
+
+            "id": "64130",
+            "dealerName": "Lexus of Nashville",
+            "marketName": "Nashville",
+            "marketingTitle": "Nashville Dealers",
+            "dealerAddress": null,
+                "address1": "2010 Rosa L. Parks Blvd.",
+                "zipCode": "37228",
+                "zipCodeFive": "37228",
+                "city": "Nashville",
+                "state": "TN"   
+              },
+              "hours": [
+                "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+              ],
+              "badges": [
+                "Elite Dealer",
+                "Monogram"
+              ],
+              "links": {
+                "dealer_details": "/dealers/64130-lexus-of-nashville"
+              },
+              {
+                Texas: [
+                  {
+                    "id": "64201",
+            "dealerName": "Westside Lexus",
+            "marketName": "Houston",
+            "marketingTitle": "Houston Dealers",
+            "dealerAddress": null,
+                "address1": "12000 Katy Freeway",
+                "zipCode": "77079",
+                "zipCodeFive": "77079",
+                "city": "Houston",
+                "state": "TX"
+                  },
+                  "hours": [
+                    "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+                  ],
+                  "badges": [
+                    "Elite Dealer",
+                    "Monogram"
+                  ],
+                  "links": {
+                    "dealer_details": "/dealers/64201-westside-lexus"
+                  },
+                {
+                  "id": "64203",
+            "dealerName": "Lexus Southwest Houston",
+            "marketName": "Houston",
+            "marketingTitle": "Houston Dealers",
+            "dealerAddress": null,
+                "address1": "10025 Southwest Freeway",
+                "zipCode": "77074",
+                "zipCodeFive": "77074",
+                "city": "Houston",
+                "state": "TX" 
+                },
+                "hours": [
+                   "Mon-Fri": "7am-6pm",
+                    "Sat": "7am-5pm"
+                ],
+                "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                ],
+                "links": {
+                  "dealer_details": "/dealers/64203-lexus-southwest-houston"
+                },
+                 {
+                  "id": "64204",
+            "dealerName": "Sewell Lexus",
+            "marketName": "Dallas/Ft. Worth",
+            "marketingTitle": "Dallas-Fort Worth Area Dealers",
+            "dealerAddress": null,
+                "address1": "6421 Lemmon Avenue",
+                "zipCode": "75209",
+                "zipCodeFive": "75209",
+                "city": "Dallas",
+                "state": "TX"
+                 },
+                 "hours": [
+                  "Mon-Wed": "7:30am-7pm",
+                    "Thu": "8am-7pm",
+                    "Fri": "7:30am-7pm",
+                    "Sat": "7:30am-5pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64204-sewell-lexus"
+                 },
+                 {
+                  "id": "64208",
+                  "dealerName": "Fox Lexus of El Paso",
+                  "marketName": "El Paso",
+                  "marketingTitle": "Fox Lexus of El Paso",
+                  "dealerAddress": null,
+                      "address1": "11165 Gateway West",
+                      "zipCode": "79935",
+                      "zipCodeFive": "79935",
+                      "city": "El Paso",
+                      "state": "TX"
+                 },
+                 "hours": [
+                   "Mon-Sat": "8am-7pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64208-fox-lexus-of-el-paso"
+                 },
+                {
+                  "id": "64210",
+            "dealerName": "North Park Lexus of San Antonio",
+            "marketName": "San Antonio",
+            "marketingTitle": "San Antonio Dealers",
+            "dealerAddress": null,
+                "address1": "611 Lockhill-Selma",
+                "zipCode": "78216",
+                "zipCodeFive": "78216",
+                "city": "San Antonio",
+                "state": "TX"
+                },
+                "hours": [
+                 "Mon-Fri": "8:30am-8pm",
+                    "Sat": "8:30am-7pm"
+                ],
+                "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                ],
+                "links": {
+                  "dealer_details": "/dealers/64210-north-park-lexus-of-san-antonio"
+                },
+                {
+                  "id": "64211",
+                  "dealerName": "Sewell Lexus of Ft. Worth",
+                  "marketName": "Dallas/Ft. Worth",
+                  "marketingTitle": "Dallas-Fort Worth Area Dealers",
+                  "dealerAddress": null,
+                      "address1": "5100 Bryant Irvin Road",
+                      "zipCode": "76132",
+                      "zipCodeFive": "76132",
+                      "city": "Ft. Worth",
+                      "state": "TX"
+                },
+                "hours": [
+                   "Mon-Fri": "8am-5pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64211-sewell-lexus-of-ft--worth"
+                 },
+                 {
+                  "id": "64212",
+                  "dealerName": "North Park Lexus Rio Grande Valley",
+                  "marketName": "McAllen",
+                  "marketingTitle": "North Park Lexus Rio Grande Valley",
+                  "dealerAddress": null,
+                      "address1": "410 W. IH 2",
+                      "zipCode": "78589",
+                      "zipCodeFive": "78589",
+                      "city": "San Juan",
+                      "state": "TX"
+                 },
+                 "hours": [
+                  "Mon-Sat": "8am-7pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64212-north-park-lexus-rio-grande-valley"
+                 },
+                 {
+                  "id": "64213",
+                  "dealerName": "Lexus of Austin",
+                  "marketName": "Austin",
+                  "marketingTitle": "Austin Area Dealers",
+                  "dealerAddress": null,
+                      "address1": "9910 Stonelake Blvd.",
+                      "zipCode": "78759",
+                      "zipCodeFive": "78759",
+                      "city": "Austin",
+                      "state": "TX" 
+                 },
+                 "hours": [
+                  "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64213-lexus-of-austin"
+                 },
+                 {
+                  "id": "64214",
+                  "dealerName": "Park Place Lexus Plano",
+                  "marketName": "Dallas/Ft. Worth",
+                  "marketingTitle": "Dallas-Fort Worth Area Dealers",
+                  "dealerAddress": null,
+                      "address1": "6785 Dallas Parkway",
+                      "zipCode": "75024",
+                      "zipCodeFive": "75024",
+                      "city": "Plano",
+                      "state": "TX"
+                 },
+                 "hours": [
+                  "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64214-park-place-lexus-plano"
+                 },
+                 {
+                  "id": "64230",
+                  "dealerName": "Northside Lexus",
+                  "marketName": "Houston",
+                  "marketingTitle": "Houston Dealers",
+                  "dealerAddress": null,
+                      "address1": "24222 Interstate 45",
+                      "zipCode": "77386",
+                      "zipCodeFive": "77386",
+                      "city": "Spring",
+                      "state": "TX"
+                 },
+                 "hours": [
+                  "Mon-Thu": "9am-7:30pm",
+                    "Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64230-northside-lexus"
+                 },
+                 {
+                  "id": "64231",
+            "dealerName": "Lexus Clear Lake",
+            "marketName": "Houston",
+            "marketingTitle": "Houston Dealers",
+            "dealerAddress": null,
+                "address1": "18160 Gulf Freeway",
+                "zipCode": "77546",
+                "zipCodeFive": "77546",
+                "city": "Friendswood",
+                "state": "TX"
+                 },
+                 "hours": [
+                     "Mon-Fri": "8:30am-7:30pm",
+                    "Sat": "9am-7:30pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64231-lexus-clear-lake"
+                 },
+                 {
+                  "id": "64233",
+                  "dealerName": "North Park Lexus at Dominion",
+                  "marketName": "San Antonio",
+                  "marketingTitle": "San Antonio Dealers",
+                  "dealerAddress": null,
+                      "address1": "21531 W. I. 10 Frontage Road",
+                      "zipCode": "78257",
+                      "zipCodeFive": "78257",
+                      "city": "San Antonio",
+                      "state": "TX"
+                 },
+                 "hours": [
+                   "Mon-Fri": "7am-6pm",
+                    "Sat": "8am-2pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64233-north-park-lexus-at-dominion"
+                 },
+                 {
+                  "id": "64236",
+                  "dealerName": "Lexus of Lakeway",
+                  "marketName": "Austin",
+                  "marketingTitle": "Austin Area Dealers",
+                  "dealerAddress": null,
+                      "address1": "108 RR 620 South",
+                      "zipCode": "78734",
+                      "zipCodeFive": "78734",
+                      "city": "Austin",
+                      "state": "TX"
+                 },
+                 "hours": [
+                  "Mon-Fri": "9am-6pm",
+                    "Sat": "9am-5pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64236-lexus-of-lakeway"
+                 },
+                 {
+                  "id": "64237",
+            "dealerName": "Park Place Lexus Grapevine",
+            "marketName": "Dallas/Ft. Worth",
+            "marketingTitle": "Dallas-Fort Worth Area Dealers",
+            "dealerAddress": null,
+                "address1": "901 E. State Highway 114",
+                "zipCode": "76051",
+                "zipCodeFive": "76051",
+                "city": "Grapevine",
+                "state": "TX"
+                 },
+                 "hours": [
+                  "Mon-Fri": "10am-7pm",
+                    "Sat": "9am-6pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64237-park-place-lexus-grapevine"
+                 },
+                 {
+                  "id": "64238",
+                  "dealerName": "Cavender Lexus of Lubbock",
+                  "marketName": "Lubbock",
+                  "marketingTitle": "Cavender Lexus of Lubbock",
+                  "dealerAddress": null,
+                      "address1": "1302 19th Street",
+                      "zipCode": "79401",
+                      "zipCodeFive": "79401",
+                      "city": "Lubbock",
+                      "state": "TX"
+                 },
+                 "hours": [
+                   "Mon-Sun": "7am-10pm"
+                 ],
+                 "badges": [
+                  "Elite Dealer",
+                  "Monogram"
+                 ],
+                 "links": {
+                  "dealer_details": "/dealers/64238-cavender-lexus-of-lubbock"
+                 },
+                 {
+                  Utah: [
+                    {
+                      "id": "64303",
+                      "dealerName": "Lexus of Murray",
+                      "marketName": "Salt Lake City",
+                      "marketingTitle": "Salt Lake City Dealers",
+                      "dealerAddress": null,
+                          "address1": "5686 S. State Street",
+                          "zipCode": "84107",
+                          "zipCodeFive": "84107",
+                          "city": "Murray",
+                          "state": "UT"
+                    },
+                    "hours": [
+                      "Mon-Fri": "7am-6pm",
+                    "Sat": "7am-3pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64303-lexus-of-murray"
+                    },
+                    {
+                      "id": "64332",
+            "dealerName": "Lexus of Lindon",
+            "marketName": "Salt Lake City",
+            "marketingTitle": "Salt Lake City Dealers",
+            "dealerAddress": null,
+                "address1": "544 South Lindon Park Drive",
+                "zipCode": "84042",
+                "zipCodeFive": "84042",
+                "city": "Lindon",
+                "state": "UT" 
+                    },
+                    "hours": [
+                      "Mon-Fri": "9am-7pm",
+                    "Sat": "9am-6pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64332-lexus-of-lindon"
+                    },
+                    {
+                      "Virginia: [
+                    {
+                      "id": "64502",
+            "dealerName": "Lindsay Lexus of Alexandria",
+            "marketName": "Washington, DC",
+            "marketingTitle": "Washington, DC Dealers",
+            "dealerAddress": null,
+                "address1": "1725 Kenwood Avenue",
+                "zipCode": "22302",
+                "zipCodeFive": "22302",
+                "city": "Alexandria",
+                "state": "VA"
+                    },
+                    "hours": [
+                     "Mon-Fri": "9am-8pm",
+                    "Sat": "9am-6pm",
+                    "Sun": "12pm-5pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64502-lindsay-lexus-of-alexandria"
+                    },
+                    }
+                     "id": "64504",
+            "dealerName": "Pohanka Lexus of Chantilly",
+            "marketName": "Washington, DC",
+            "marketingTitle": "Washington, DC Dealers",
+            "dealerAddress": null,
+                "address1": "13909 Route 50",
+                "zipCode": "20151",
+                "zipCodeFive": "20151",
+                "city": "Chantilly",
+                "state": "VA"
+                    },
+                    "hours": [
+                     "Mon-Fri": "9am-9pm",
+                    "Sat": "9am-6pm",
+                    "Sun": "11am-4pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64504-pohanka-lexus-of-chantilly"
+                    },
+                    {
+                    "id": "64506",
+            "dealerName": "Priority Lexus Virginia Beach",
+            "marketName": "Norfolk",
+            "marketingTitle": "Norfolk Dealers",
+            "dealerAddress": null,
+                "address1": "3909 Virginia Beach Blvd.",
+                "zipCode": "23452",
+                "zipCodeFive": "23452",
+                "city": "Virginia Beach",
+                "state": "VA"
+                    },
+                    "hours": [
+                     "Mon-Fri": "9am-8pm",
+                    "Sat": "9am-6pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64506-priority-lexus-virginia-beach"
+                    },
+                    {
+                    "id": "64507",
+            "dealerName": "Sheehy Lexus of Richmond",
+            "marketName": "Richmond",
+            "marketingTitle": "Lexus Of Richmond",
+            "dealerAddress": null,
+                "address1": "9703 Midlothian Pike",
+                "zipCode": "23235",
+                "zipCodeFive": "23235",
+                "city": "Richmond",
+                "state": "VA"
+                    },
+                    "hours": [
+                     "Mon-Fri": "9am-8pm",
+                    "Sat": "9am-6pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64507-sheehy-lexus-of-richmond"
+                    },
+                    {
+                    "id": "64531",
+            "dealerName": "Priority Lexus Newport News",
+            "marketName": "Norfolk",
+            "marketingTitle": "Norfolk Dealers",
+            "dealerAddress": null,
+                "address1": "12831 Jefferson Avenue",
+                "zipCode": "23608",
+                "zipCodeFive": "23608",
+                "city": "Newport News",
+                "state": "VA"
+                    },
+                    "hours": [
+                      "Mon-Fri": "9am-8pm",
+                    "Sat": "9am-6pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64531-priority-lexus-newport-news"
+                    },
+                    {
+                    "id": "64602",
+            "dealerName": "Lexus of Bellevue",
+            "marketName": "Seattle",
+            "marketingTitle": "Seattle Area Dealers",
+            "dealerAddress": null,
+                "address1": "101 116th Avenue S.E.",
+                "zipCode": "98004",
+                "zipCodeFive": "98004",
+                "city": "Bellevue",
+                "state": "WA"
+                    },
+                    "hours": [
+                        "Mon-Fri": "9am-9pm",
+                    "Sat": "9am-8pm",
+                    "Sun": "10am-7pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    {
+                     "id": "64606",
+            "dealerName": "Lexus of Seattle, LLC",
+            "marketName": "Seattle",
+            "marketingTitle": "Seattle Area Dealers",
+            "dealerAddress": null,
+                "address1": "20300 Highway 99",
+                "zipCode": "98036",
+                "zipCodeFive": "98036",
+                "city": "Lynnwood",
+                "state": "WA"
+                    },
+                    "hours": [
+                      "Mon-Sat": "9am-7pm",
+                    "Sun": "10am-5pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    {
+                     "id": "64608",
+            "dealerName": "Findlay Lexus of Spokane",
+            "marketName": "Spokane",
+            "marketingTitle": "Findlay Lexus Of Spokane",
+              "dealerAddress": null,
+                "address1": "1030 West Third Avenue",
+                "zipCode": "99201",
+                "zipCodeFive": "99201",
+                "city": "Spokane",
+                "state": "WA"
+                    }
+                 hours": [
+                  "Mon-Sat": "9am-7pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    },
+                    "links": {
+                      "dealer_details": "/dealers/64608-findlay-lexus-of-spokane"
+                    },
+                    {
+                     "id": "64630",
+            "dealerName": "Lexus of Tacoma at Fife",
+            "marketName": "Seattle",
+            "marketingTitle": "Seattle Area Dealers",
+            "dealerAddress": null,
+                "address1": "1708 40th Ave. Court East",
+                "zipCode": "98424",
+                "zipCodeFive": "98424",
+                "city": "Fife",
+                "state": "WA" 
+                    },
+                    "hours": [
+                      "Mon-Fri": "8:30am-8:30pm",
+                    "Sat": "8:30am-7:30pm",
+                    "Sun": "11am-6pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64630-lexus-of-tacoma-at-fife"
+                    },
+                    {
+                      West Virginia: [
+                        {
+                        "id": "64702",
+            "dealerName": "Moses Lexus",
+            "marketName": "Charleston, WV",
+            "marketingTitle": "Moses Lexus",
+            "dealerAddress": null,
+                "address1": "1433 MacCorkle Avenue",
+                "zipCode": "25177",
+                "zipCodeFive": "25177",
+                "city": "St. Albans",
+                "state": "WV"
+                      },
+                      "hours": [
+                        "Mon-Fri": "9am-8pm",
+                    "Sat": "9am-6pm",
+                    "Sun": "1pm-5pm"
+                        ],
+                        "badges": [
+                          "Elite Dealer",
+                          "Monogram"
+                        ],
+                        "links": {
+                          "dealer_details": "/dealers/64702-moses-lexus"
+                        },
+                        {
+                          Wisconsin: [
+                            {
+                              "id": "64804",
+            "dealerName": "Bergstrom Lexus of Appleton",
+            "marketName": "Green Bay",
+            "marketingTitle": "Bergstrom Lexus",
+            "dealerAddress": null,
+                "address1": "3060 Victory Lane",
+                "zipCode": "54913",
+                "zipCodeFive": "54913",
+                "city": "Appleton",
+                "state": "WI"
+                            },
+                            "hours": [
+                             "Mon-Thu": "9am-7pm",
+                    "Fri": "9am-6pm",
+                    "Sat": "9am-5pm"
+                            ],
+                            "badges": [
+                              "Elite Dealer",
+                              "Monogram"
+                            ],
+                            "links": {
+                              "dealer_details": "/dealers/64804-bergstrom-lexus-of-appleton"
+                            },
+                            {
+                            "id": "64806",
+            "dealerName": "Lexus of Brookfield",
+            "marketName": "Milwaukee",
+            "marketingTitle": "Milwaukee Area Dealers",
+            "dealerAddress": null,
+                "address1": "20001 West Bluemound",
+                "zipCode": "53045",
+                "zipCodeFive": "53045",
+                "city": "Brookfield",
+                "state": "WI"
+                           },
+                           "hours": [
+                            "Mon-Thu": "8am-8pm",
+                            "Fri": "8am-6pm",
+                            "Sat": "8am-5pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64806-lexus-of-brookfield"
+                    },
+                    {
+                      "id": "64807",
+            "dealerName": "Bergstrom Lexus of Madison",
+            "marketName": "Madison",
+            "marketingTitle": "Bergstrom Lexus of Madison",
+            "dealerAddress": null,
+                "address1": "8000 Airport Road",
+                "zipCode": "53562",
+                "zipCodeFive": "53562",
+                "city": "Middleton",
+                "state": "WI"
+                    },
+                    "hours": [
+                     "Mon-Fri": "9am-6pm",
+                    "Sat": "9am-4pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64807-bergstrom-lexus-of-madison"
+                    },
+                    {
+                      "id": "64831",
+            "dealerName": "Lexus of Milwaukee",
+            "marketName": "Milwaukee",
+            "marketingTitle": "Milwaukee Area Dealers",
+            "dealerAddress": null,
+                "address1": "1433 W. Silver Spring Drive",
+                "zipCode": "53209",
+                "zipCodeFive": "53209",
+                "city": "Glendale",
+                "state": "WI"
+                    },
+                    "hours": [
+                      "Mon-Fri": "8:30am-8pm",
+                    "Sat": "8:30am-6pm"
+                    ],
+                    "badges": [
+                      "Elite Dealer",
+                      "Monogram"
+                    ],
+                    "links": {
+                      "dealer_details": "/dealers/64831-lexus-of-milwaukee"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

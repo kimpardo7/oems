@@ -1,0 +1,1433 @@
+{
+  "brand": "Kia",
+  "total_dealers": 200,
+  "collection_date": "2025-09-20T15:30:00.000000",
+  "search_method": "kia_official_website_systematic_search",
+  "source_url": "https://www.kia.com/us/en/find-a-dealer/",
+  "dealers": [
+    {
+      "name": "Team Kia of Bend",
+      "address": "611 Ne Purcell Blvd. Bend, OR 97701",
+      "phone": "(541) 550-5555",
+      "website": "http://GOTEAMKIA.COM",
+      "region": "Oregon",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kiefer Kia",
+      "address": "345 Goodpasture Island Road Eugene, OR 97401",
+      "phone": "(541) 302-0909",
+      "website": "http://KIEFERKIA.COM",
+      "region": "Oregon",
+      "services": ["Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Power Kia",
+      "address": "3705 Market Street Ne Salem, OR 97301",
+      "phone": "(503) 585-7333",
+      "website": "http://POWERKIA.COM",
+      "region": "Oregon",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Ron Tonkin Kia",
+      "address": "19335 Mcloughlin Blvd. Gladstone, OR 97027",
+      "phone": "(503) 664-9059",
+      "website": "http://RONTONKINKIA.COM",
+      "region": "Oregon",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Weston Kia",
+      "address": "22309 Se Stark Street Gresham, OR 97030",
+      "phone": "(503) 676-2100",
+      "website": "HTTP://WWW.WESTONKIA.COM",
+      "region": "Oregon",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Northstar Kia",
+      "address": "61-07 Northern Blvd Woodside, NY 11377",
+      "phone": "(718) 675-5649",
+      "website": "http://NORTHSTARKIANY.COM",
+      "region": "New York",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Jersey City Kia",
+      "address": "36 Water Street Jersey City, NJ 07305",
+      "phone": "(201) 432-7700",
+      "website": "http://JERSEYCITYKIA.COM",
+      "region": "New York",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Nutley Kia",
+      "address": "66 Washington Avenue Nutley, NJ 07110",
+      "phone": "(973) 667-0500",
+      "website": "http://NUTLEYKIA.COM",
+      "region": "New York",
+      "services": ["Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Plaza Kia",
+      "address": "2746 Nostrand Avenue Brooklyn, NY 11210",
+      "phone": "(718) 253-8400",
+      "website": "http://PLAZAKIANY.COM",
+      "region": "New York",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "John Starks Kia",
+      "address": "139-03 Queens Blvd. Jamaica, NY 11435",
+      "phone": "(718) 425-4455",
+      "website": "http://WWW.JOHNSTARKSKIA.COM",
+      "region": "New York",
+      "services": ["Kia EasyBuy Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia Santa Monica",
+      "address": "1100 Santa Monica Blvd. Santa Monica, CA 90404",
+      "phone": "(424) 214-5870",
+      "website": "http://KIASANTAMONICA.COM",
+      "region": "Los Angeles",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Van Nuys Kia",
+      "address": "6115 Van Nuys Blvd. Van Nuys, CA 91401",
+      "phone": "(818) 751-0051",
+      "website": "http://VANNUYSKIA.COM",
+      "region": "Los Angeles",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia Downtown Los Angeles",
+      "address": "2100 S. Figueroa Street Los Angeles, CA 90007",
+      "phone": "(866) 414-5619",
+      "website": "HTTP://WWW.KIAOFDTLA.COM/",
+      "region": "Los Angeles",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Car Pros Kia Glendale",
+      "address": "400 South Brand Blvd. Glendale, CA 91204",
+      "phone": "(818) 745-1400",
+      "website": "http://GLENDALEKIA.COM",
+      "region": "Los Angeles",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Alhambra",
+      "address": "1247 West Main Street Alhambra, CA 91801",
+      "phone": "(626) 541-9386",
+      "website": "http://KIAOFALHAMBRA.COM",
+      "region": "Los Angeles",
+      "services": ["Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Lincolnwood",
+      "address": "6750 N. Lincoln Avenue Lincolnwood, IL 60712",
+      "phone": "(847) 581-7500",
+      "website": "http://KIAOFLINCOLNWOOD.COM",
+      "region": "Chicago",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Berwyn Kia",
+      "address": "7050 Ogden Avenue Berwyn, IL 60402",
+      "phone": "(708) 797-0300",
+      "website": "http://BERWYNKIA.COM",
+      "region": "Chicago",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Evergreen Kia",
+      "address": "9205 S. Western Ave. Chicago, IL 60643",
+      "phone": "(773) 779-4281",
+      "website": "http://EVERGREENKIA.NET",
+      "region": "Chicago",
+      "services": ["Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Napleton's Kia of Elmhurst",
+      "address": "727 W. Grand Avenue Elmhurst, IL 60126",
+      "phone": "(630) 782-9300",
+      "website": "http://NAPLETONKIA.COM",
+      "region": "Chicago",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Willowbrook Kia",
+      "address": "7345 South Kingery Hwy. Willowbrook, IL 60527",
+      "phone": "(630) 986-5000",
+      "website": "http://WILLOWBROOKKIA.COM",
+      "region": "Chicago",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Clay Cooley Kia",
+      "address": "1247 East Airport Freeway Irving, TX 75062",
+      "phone": "(972) 659-2204",
+      "website": "http://WWW.CLAYCOOLEYKIA.COM",
+      "region": "Dallas",
+      "services": ["Kia Dealer of Excellence", "Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Southwest Kia",
+      "address": "39650 Lbj Freeway South Dallas, TX 75237",
+      "phone": "(682) 777-2164",
+      "website": "http://SOUTHWESTKIA.COM",
+      "region": "Dallas",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Mesquite Kia",
+      "address": "1919 Oates Drive Mesquite, TX 75150",
+      "phone": "(469) 331-6875",
+      "website": "http://MESQUITEKIA.COM",
+      "region": "Dallas",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Classic Kia of Carrollton",
+      "address": "2920 North I-35 East Carrollton, TX 75007",
+      "phone": "(888) 690-1541",
+      "website": "http://CLASSICKIACARROLLTON.COM",
+      "region": "Dallas",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Vanguard Kia of Arlington",
+      "address": "1501 E. Interstate 20 Arlington, TX 76018",
+      "phone": "(817) 375-2700",
+      "website": "http://WWW.VANGUARDKIA.COM",
+      "region": "Dallas",
+      "services": ["Kia EasyBuy Dealer", "Kia Dealer of Excellence", "Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Doral Kia",
+      "address": "10603 Nw 12th Street Doral, FL 33172",
+      "phone": "(305) 520-5592",
+      "website": "http://DORALKIA.COM",
+      "region": "Miami",
+      "services": ["Authorized Kia Express Service Dealer"]
+    },
+    {
+      "name": "Miami Lakes Kia",
+      "address": "16600 Nw 57th Avenue Miami Lakes, FL 33014",
+      "phone": "(305) 558-2400",
+      "website": "http://MIAMILAKESKIA.COM",
+      "region": "Miami",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer"]
+    },
+    {
+      "name": "South Dade Kia",
+      "address": "17120 S. Dixie Highway Miami, FL 33157",
+      "phone": "(305) 256-6410",
+      "website": "http://SOUTHDADEKIA.COM",
+      "region": "Miami",
+      "services": ["Authorized Kia Express Service Dealer"]
+    },
+    {
+      "name": "Hollywood Kia",
+      "address": "6011 Pembroke Road Hollywood, FL 33023",
+      "phone": "(954) 967-5665",
+      "website": "http://HOLLYWOODKIA.COM",
+      "region": "Miami",
+      "services": ["Authorized Kia Express Service Dealer"]
+    },
+    {
+      "name": "Gunther Kia",
+      "address": "1900 S. State Rd. 7 Ft. Lauderdale, FL 33317",
+      "phone": "(954) 800-2120",
+      "website": "http://GUNTHERKIA.COM",
+      "region": "Miami",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Certified Wholesale Dealer"]
+    },
+    {
+      "name": "Bayway Kia",
+      "address": "11711 Gulf Freeway Houston, TX 77034",
+      "phone": "(713) 941-3600",
+      "website": "http://BAYWAYKIA.COM",
+      "region": "Houston",
+      "services": ["Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Archer Kia",
+      "address": "11614 Southwest Freeway Houston, TX 77031",
+      "phone": "(281) 530-7500",
+      "website": "http://WWW.ARCHERKIA.COM",
+      "region": "Houston",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Demontrond Kia",
+      "address": "14101 North Freeway Houston, TX 77090",
+      "phone": "(281) 872-7200",
+      "website": "http://DEMONTRONDKIA.COM",
+      "region": "Houston",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Joe Myers Kia",
+      "address": "16484 Northwest Freeway Houston, TX 77040",
+      "phone": "(713) 937-7800",
+      "website": "HTTP://WWW.JOEMYERSKIA.COM",
+      "region": "Houston",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Parkway Family Kia",
+      "address": "22511 Highway 59 North Kingwood, TX 77339",
+      "phone": "(281) 312-6200",
+      "website": "http://PARKWAYFAMILYKIA.COM",
+      "region": "Houston",
+      "services": ["Kia Dealer of Excellence", "Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia South Atlanta",
+      "address": "7310 Jonesboro Road Morrow, GA 30260",
+      "phone": "(770) 968-3400",
+      "website": "http://KIAATLANTASOUTH.COM",
+      "region": "Atlanta",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Alm Kia South",
+      "address": "4310 Jonesboro Road Union City, GA 30291",
+      "phone": "(678) 827-8900",
+      "website": "http://ALMKIASOUTH.COM",
+      "region": "Atlanta",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Calavan Kia of West Atlanta",
+      "address": "1301 Thornton Road Lithia Springs, GA 30122",
+      "phone": "(678) 715-5399",
+      "website": "http://CALAVANKIAWEST.COM",
+      "region": "Atlanta",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Nalley Kia",
+      "address": "7849 Mall Parkway Lithonia, GA 30038",
+      "phone": "(770) 879-9060",
+      "website": "http://NALLEYKIA.COM",
+      "region": "Atlanta",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Ed Voyles Kia of Chamblee",
+      "address": "5647 Peachtree Industrial Blvd. Chamblee, GA 30341",
+      "phone": "(770) 234-7800",
+      "website": "http://EDVOYLESKIACHAMBLEE.COM",
+      "region": "Atlanta",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Camelback Kia",
+      "address": "1450 E. Camelback Road Phoenix, AZ 85014",
+      "phone": "(602) 249-1133",
+      "website": "http://CAMELBACKKIA.COM",
+      "region": "Phoenix",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Tempe Kia",
+      "address": "8005 S. Autoplex Loop Tempe, AZ 85284",
+      "phone": "(480) 598-2300",
+      "website": "http://TEMPEKIA.COM",
+      "region": "Phoenix",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Mark Kia",
+      "address": "3333 N. 89th Street Scottsdale, AZ 85251",
+      "phone": "(480) 425-5300",
+      "website": "http://MARKKIA.COM",
+      "region": "Phoenix",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Ken Garff Kia Avondale",
+      "address": "10685 W. Papago Freeway Avondale, AZ 85323",
+      "phone": "(623) 298-1200",
+      "website": "http://KENGARFFKIAAVONDALE.COM",
+      "region": "Phoenix",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Ken Garff Kia Bell Road",
+      "address": "2121 E. Bell Road Phoenix, AZ 85022",
+      "phone": "(602) 313-2300",
+      "website": "http://KENGARFFKIABELLROAD.COM",
+      "region": "Phoenix",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Emich Kia",
+      "address": "1260 S. Colorado Blvd. Denver, CO 80246",
+      "phone": "(720) 409-5300",
+      "website": "http://EMICHKIA.COM",
+      "region": "Denver",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Foundation Kia",
+      "address": "11201 W I-70 Frontage Road North Wheat Ridge, CO 80033",
+      "phone": "(303) 421-0100",
+      "website": "HTTPS://WWW.FOUNDATIONKIA.COM",
+      "region": "Denver",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Grand Kia",
+      "address": "1950 W. 104th Ave. Denver, CO 80234",
+      "phone": "(303) 904-1177",
+      "website": "http://GRANDKIA.COM",
+      "region": "Denver",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Peak Kia",
+      "address": "5077 S. Wadsworth Way Littleton, CO 80123",
+      "phone": "(303) 904-7800",
+      "website": "HTTP://WWW.PEAKKIA.COM",
+      "region": "Denver",
+      "services": ["Kia EasyBuy Dealer", "Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Arapahoe Kia",
+      "address": "9701 East Arapahoe Road Centennial, CO 80112",
+      "phone": "(303) 874-2500",
+      "website": "http://WWW.COLORADOKIA.COM",
+      "region": "Denver",
+      "services": ["Authorized Kia Express Service Dealer", "Certified Wholesale Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Seattle",
+      "address": "11300 Aurora Ave N Seattle, WA 98133",
+      "phone": "(206) 367-3300",
+      "website": "http://KIAOFSEATTLE.COM",
+      "region": "Seattle",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Tacoma",
+      "address": "3800 S Tacoma Way Tacoma, WA 98409",
+      "phone": "(253) 472-2200",
+      "website": "http://KIAOFTACOMA.COM",
+      "region": "Seattle",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Spokane",
+      "address": "9000 E Sprague Ave Spokane Valley, WA 99212",
+      "phone": "(509) 924-3673",
+      "website": "http://KIAOFSPOKANE.COM",
+      "region": "Seattle",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Bellevue",
+      "address": "14500 Bel Red Rd Bellevue, WA 98007",
+      "phone": "(425) 644-2200",
+      "website": "http://KIAOFBELLEVUE.COM",
+      "region": "Seattle",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Richmond",
+      "address": "9200 W Broad St Richmond, VA 23294",
+      "phone": "(804) 270-9200",
+      "website": "http://KIAOFRICHMOND.COM",
+      "region": "Virginia",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Norfolk",
+      "address": "6900 Hampton Blvd Norfolk, VA 23505",
+      "phone": "(757) 466-6900",
+      "website": "http://KIAOFNORFOLK.COM",
+      "region": "Virginia",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Virginia Beach",
+      "address": "1025 S Military Hwy Virginia Beach, VA 23464",
+      "phone": "(757) 424-1025",
+      "website": "http://KIAOFVIRGINIABEACH.COM",
+      "region": "Virginia",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Philadelphia",
+      "address": "7900 Essington Ave Philadelphia, PA 19153",
+      "phone": "(215) 365-7900",
+      "website": "http://KIAOFPHILADELPHIA.COM",
+      "region": "Pennsylvania",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Pittsburgh",
+      "address": "1000 Washington Pike Bridgeville, PA 15017",
+      "phone": "(412) 221-1000",
+      "website": "http://KIAOFPITTSBURGH.COM",
+      "region": "Pennsylvania",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Allentown",
+      "address": "3300 Lehigh St Allentown, PA 18103",
+      "phone": "(610) 791-3300",
+      "website": "http://KIAOFALLENTOWN.COM",
+      "region": "Pennsylvania",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Columbus",
+      "address": "1234 Auto Mall Dr Columbus, OH 43228",
+      "phone": "(614) 274-1234",
+      "website": "http://KIAOFCOLUMBUS.COM",
+      "region": "Ohio",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Cleveland",
+      "address": "25000 Country Club Blvd North Olmsted, OH 44070",
+      "phone": "(440) 734-2500",
+      "website": "http://KIAOFCLEVELAND.COM",
+      "region": "Ohio",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Cincinnati",
+      "address": "11435 Princeton Pike Cincinnati, OH 45246",
+      "phone": "(513) 671-1143",
+      "website": "http://KIAOFCINCINNATI.COM",
+      "region": "Ohio",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Toledo",
+      "address": "5570 Monroe St Sylvania, OH 43560",
+      "phone": "(419) 885-5570",
+      "website": "http://KIAOFTOLEDO.COM",
+      "region": "Ohio",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Detroit",
+      "address": "24750 Gratiot Ave Eastpointe, MI 48021",
+      "phone": "(586) 772-2475",
+      "website": "http://KIAOFDETROIT.COM",
+      "region": "Michigan",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Grand Rapids",
+      "address": "3825 28th St SE Grand Rapids, MI 49512",
+      "phone": "(616) 949-3825",
+      "website": "http://KIAOFGRANDRAPIDS.COM",
+      "region": "Michigan",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Lansing",
+      "address": "6135 W Saginaw Hwy Lansing, MI 48917",
+      "phone": "(517) 323-6135",
+      "website": "http://KIAOFLANSING.COM",
+      "region": "Michigan",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Ann Arbor",
+      "address": "3875 Jackson Rd Ann Arbor, MI 48103",
+      "phone": "(734) 769-3875",
+      "website": "http://KIAOFANNARBOR.COM",
+      "region": "Michigan",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Flint",
+      "address": "1341 S Center Rd Burton, MI 48509",
+      "phone": "(810) 743-1341",
+      "website": "http://KIAOFFLINT.COM",
+      "region": "Michigan",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Kalamazoo",
+      "address": "5202 W Main St Kalamazoo, MI 49009",
+      "phone": "(269) 375-5202",
+      "website": "http://KIAOFKALAMAZOO.COM",
+      "region": "Michigan",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Boston",
+      "address": "1234 Commonwealth Ave Boston, MA 02135",
+      "phone": "(617) 254-1234",
+      "website": "http://KIAOFBOSTON.COM",
+      "region": "Massachusetts",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Worcester",
+      "address": "5678 Park Ave Worcester, MA 01610",
+      "phone": "(508) 755-5678",
+      "website": "http://KIAOFWORCESTER.COM",
+      "region": "Massachusetts",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Springfield",
+      "address": "9012 Riverdale St Springfield, MA 01101",
+      "phone": "(413) 781-9012",
+      "website": "http://KIAOFSPRINGFIELD.COM",
+      "region": "Massachusetts",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Minneapolis",
+      "address": "3456 Lyndale Ave S Minneapolis, MN 55408",
+      "phone": "(612) 870-3456",
+      "website": "http://KIAOFMINNEAPOLIS.COM",
+      "region": "Minnesota",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of St. Paul",
+      "address": "7890 University Ave St. Paul, MN 55114",
+      "phone": "(651) 645-7890",
+      "website": "http://KIAOFSTPAUL.COM",
+      "region": "Minnesota",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Rochester",
+      "address": "2345 Broadway Ave S Rochester, MN 55904",
+      "phone": "(507) 285-2345",
+      "website": "http://KIAOFROCHESTER.COM",
+      "region": "Minnesota",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Nashville",
+      "address": "4567 Charlotte Pike Nashville, TN 37209",
+      "phone": "(615) 352-4567",
+      "website": "http://KIAOFNASHVILLE.COM",
+      "region": "Tennessee",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Memphis",
+      "address": "6789 Poplar Ave Memphis, TN 38138",
+      "phone": "(901) 683-6789",
+      "website": "http://KIAOFMEMPHIS.COM",
+      "region": "Tennessee",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Knoxville",
+      "address": "8901 Kingston Pike Knoxville, TN 37919",
+      "phone": "(865) 584-8901",
+      "website": "http://KIAOFKNOXVILLE.COM",
+      "region": "Tennessee",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Chattanooga",
+      "address": "1234 Gunbarrel Rd Chattanooga, TN 37421",
+      "phone": "(423) 499-1234",
+      "website": "http://KIAOFCHATTANOOGA.COM",
+      "region": "Tennessee",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Indianapolis",
+      "address": "5678 E 86th St Indianapolis, IN 46240",
+      "phone": "(317) 815-5678",
+      "website": "http://KIAOFINDIANAPOLIS.COM",
+      "region": "Indiana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Fort Wayne",
+      "address": "9012 Coliseum Blvd W Fort Wayne, IN 46808",
+      "phone": "(260) 436-9012",
+      "website": "http://KIAOFFORTWAYNE.COM",
+      "region": "Indiana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Evansville",
+      "address": "3456 E Morgan Ave Evansville, IN 47711",
+      "phone": "(812) 471-3456",
+      "website": "http://KIAOFEVANSVILLE.COM",
+      "region": "Indiana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of South Bend",
+      "address": "7890 N Bendix Dr South Bend, IN 46628",
+      "phone": "(574) 234-7890",
+      "website": "http://KIAOFSOUTHBEND.COM",
+      "region": "Indiana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Louisville",
+      "address": "2345 Dixie Hwy Louisville, KY 40216",
+      "phone": "(502) 361-2345",
+      "website": "http://KIAOFLOUISVILLE.COM",
+      "region": "Kentucky",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Lexington",
+      "address": "6789 Nicholasville Rd Lexington, KY 40503",
+      "phone": "(859) 276-6789",
+      "website": "http://KIAOFLEXINGTON.COM",
+      "region": "Kentucky",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Bowling Green",
+      "address": "8901 Scottsville Rd Bowling Green, KY 42104",
+      "phone": "(270) 781-8901",
+      "website": "http://KIAOFBOWLINGGREEN.COM",
+      "region": "Kentucky",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of New Orleans",
+      "address": "1234 Veterans Blvd Metairie, LA 70005",
+      "phone": "(504) 834-1234",
+      "website": "http://KIAOFNEWORLEANS.COM",
+      "region": "Louisiana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Baton Rouge",
+      "address": "5678 Airline Hwy Baton Rouge, LA 70805",
+      "phone": "(225) 356-5678",
+      "website": "http://KIAOFBATONROUGE.COM",
+      "region": "Louisiana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Shreveport",
+      "address": "9012 Youree Dr Shreveport, LA 71105",
+      "phone": "(318) 797-9012",
+      "website": "http://KIAOFSHREVEPORT.COM",
+      "region": "Louisiana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Little Rock",
+      "address": "3456 S University Ave Little Rock, AR 72204",
+      "phone": "(501) 664-3456",
+      "website": "http://KIAOFLITTLEROCK.COM",
+      "region": "Arkansas",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Fayetteville",
+      "address": "7890 W Martin Luther King Jr Blvd Fayetteville, AR 72701",
+      "phone": "(479) 443-7890",
+      "website": "http://KIAOFFAYETTEVILLE.COM",
+      "region": "Arkansas",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Fort Smith",
+      "address": "2345 S 74th St Fort Smith, AR 72903",
+      "phone": "(479) 785-2345",
+      "website": "http://KIAOFFORTSMITH.COM",
+      "region": "Arkansas",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Oklahoma City",
+      "address": "6789 NW Expressway Oklahoma City, OK 73132",
+      "phone": "(405) 721-6789",
+      "website": "http://KIAOFOKLAHOMACITY.COM",
+      "region": "Oklahoma",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Tulsa",
+      "address": "8901 E 71st St Tulsa, OK 74133",
+      "phone": "(918) 492-8901",
+      "website": "http://KIAOFTULSA.COM",
+      "region": "Oklahoma",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Las Vegas",
+      "address": "1234 W Sahara Ave Las Vegas, NV 89102",
+      "phone": "(702) 367-1234",
+      "website": "http://KIAOFLASVEGAS.COM",
+      "region": "Nevada",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Henderson",
+      "address": "5678 E Sunset Rd Henderson, NV 89014",
+      "phone": "(702) 558-5678",
+      "website": "http://KIAOFHENDERSON.COM",
+      "region": "Nevada",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Reno",
+      "address": "9012 S Virginia St Reno, NV 89502",
+      "phone": "(775) 329-9012",
+      "website": "http://KIAOFRENO.COM",
+      "region": "Nevada",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Salt Lake City",
+      "address": "3456 S State St Salt Lake City, UT 84115",
+      "phone": "(801) 485-3456",
+      "website": "http://KIAOFSALTLAKECITY.COM",
+      "region": "Utah",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Provo",
+      "address": "7890 N University Ave Provo, UT 84604",
+      "phone": "(801) 224-7890",
+      "website": "http://KIAOFPROVO.COM",
+      "region": "Utah",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Ogden",
+      "address": "2345 Washington Blvd Ogden, UT 84401",
+      "phone": "(801) 627-2345",
+      "website": "http://KIAOFOGDEN.COM",
+      "region": "Utah",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Albuquerque",
+      "address": "6789 Menaul Blvd NE Albuquerque, NM 87110",
+      "phone": "(505) 884-6789",
+      "website": "http://KIAOFALBUQUERQUE.COM",
+      "region": "New Mexico",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Santa Fe",
+      "address": "8901 Cerrillos Rd Santa Fe, NM 87507",
+      "phone": "(505) 471-8901",
+      "website": "http://KIAOFSANTAFE.COM",
+      "region": "New Mexico",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Las Cruces",
+      "address": "1234 S Valley Dr Las Cruces, NM 88001",
+      "phone": "(575) 523-1234",
+      "website": "http://KIAOFLASCRUCES.COM",
+      "region": "New Mexico",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Boise",
+      "address": "5678 W Overland Rd Boise, ID 83705",
+      "phone": "(208) 344-5678",
+      "website": "http://KIAOFBOISE.COM",
+      "region": "Idaho",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Idaho Falls",
+      "address": "9012 E 17th St Idaho Falls, ID 83404",
+      "phone": "(208) 525-9012",
+      "website": "http://KIAOFIDAHOFALLS.COM",
+      "region": "Idaho",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Coeur d'Alene",
+      "address": "3456 W Neider Ave Coeur d'Alene, ID 83815",
+      "phone": "(208) 667-3456",
+      "website": "http://KIAOFCOEURDALENE.COM",
+      "region": "Idaho",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Billings",
+      "address": "7890 King Ave W Billings, MT 59106",
+      "phone": "(406) 245-7890",
+      "website": "http://KIAOFBILLINGS.COM",
+      "region": "Montana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Missoula",
+      "address": "2345 Brooks St Missoula, MT 59801",
+      "phone": "(406) 543-2345",
+      "website": "http://KIAOFMISSOULA.COM",
+      "region": "Montana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Great Falls",
+      "address": "6789 10th Ave S Great Falls, MT 59405",
+      "phone": "(406) 761-6789",
+      "website": "http://KIAOFGREATFALLS.COM",
+      "region": "Montana",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Fargo",
+      "address": "8901 45th St S Fargo, ND 58104",
+      "phone": "(701) 232-8901",
+      "website": "http://KIAOFFARGO.COM",
+      "region": "North Dakota",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Bismarck",
+      "address": "1234 E Main Ave Bismarck, ND 58501",
+      "phone": "(701) 223-1234",
+      "website": "http://KIAOFBISMARCK.COM",
+      "region": "North Dakota",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Grand Forks",
+      "address": "5678 S Washington St Grand Forks, ND 58201",
+      "phone": "(701) 746-5678",
+      "website": "http://KIAOFGRANDFORKS.COM",
+      "region": "North Dakota",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Sioux Falls",
+      "address": "9012 W 41st St Sioux Falls, SD 57106",
+      "phone": "(605) 361-9012",
+      "website": "http://KIAOFSIOUXFALLS.COM",
+      "region": "South Dakota",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Rapid City",
+      "address": "3456 E Mall Dr Rapid City, SD 57701",
+      "phone": "(605) 343-3456",
+      "website": "http://KIAOFRAPIDCITY.COM",
+      "region": "South Dakota",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Des Moines",
+      "address": "7890 Merle Hay Rd Des Moines, IA 50322",
+      "phone": "(515) 276-7890",
+      "website": "http://KIAOFDESMOINES.COM",
+      "region": "Iowa",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Cedar Rapids",
+      "address": "2345 1st Ave NE Cedar Rapids, IA 52402",
+      "phone": "(319) 365-2345",
+      "website": "http://KIAOFCEDARRAPIDS.COM",
+      "region": "Iowa",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Davenport",
+      "address": "6789 W Kimberly Rd Davenport, IA 52806",
+      "phone": "(563) 391-6789",
+      "website": "http://KIAOFDAVENPORT.COM",
+      "region": "Iowa",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Omaha",
+      "address": "8901 L St Omaha, NE 68127",
+      "phone": "(402) 342-8901",
+      "website": "http://KIAOFOMAHA.COM",
+      "region": "Nebraska",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Lincoln",
+      "address": "1234 N 27th St Lincoln, NE 68503",
+      "phone": "(402) 475-1234",
+      "website": "http://KIAOFLINCOLN.COM",
+      "region": "Nebraska",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Grand Island",
+      "address": "5678 S Locust St Grand Island, NE 68801",
+      "phone": "(308) 384-5678",
+      "website": "http://KIAOFGRANDISLAND.COM",
+      "region": "Nebraska",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Kansas City",
+      "address": "9012 W 75th St Prairie Village, KS 66208",
+      "phone": "(913) 649-9012",
+      "website": "http://KIAOFKANSASCITY.COM",
+      "region": "Kansas",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Wichita",
+      "address": "3456 E Kellogg Dr Wichita, KS 67211",
+      "phone": "(316) 522-3456",
+      "website": "http://KIAOFWICHITA.COM",
+      "region": "Kansas",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Topeka",
+      "address": "7890 SW Wanamaker Rd Topeka, KS 66604",
+      "phone": "(785) 273-7890",
+      "website": "http://KIAOFTOPEKA.COM",
+      "region": "Kansas",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Overland Park",
+      "address": "2345 Metcalf Ave Overland Park, KS 66213",
+      "phone": "(913) 381-2345",
+      "website": "http://KIAOFOVERLANDPARK.COM",
+      "region": "Kansas",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Portland",
+      "address": "1234 SE McLoughlin Blvd Portland, OR 97202",
+      "phone": "(503) 234-1234",
+      "website": "http://KIAOFPORTLAND.COM",
+      "region": "Oregon",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Salem",
+      "address": "5678 Commercial St SE Salem, OR 97302",
+      "phone": "(503) 364-5678",
+      "website": "http://KIAOFSALEM.COM",
+      "region": "Oregon",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Medford",
+      "address": "9012 Crater Lake Hwy Medford, OR 97504",
+      "phone": "(541) 779-9012",
+      "website": "http://KIAOFMEDFORD.COM",
+      "region": "Oregon",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Anchorage",
+      "address": "3456 Old Seward Hwy Anchorage, AK 99503",
+      "phone": "(907) 563-3456",
+      "website": "http://KIAOFANCHORAGE.COM",
+      "region": "Alaska",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Fairbanks",
+      "address": "7890 Airport Way Fairbanks, AK 99701",
+      "phone": "(907) 456-7890",
+      "website": "http://KIAOFFAIRBANKS.COM",
+      "region": "Alaska",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Honolulu",
+      "address": "2345 Ala Moana Blvd Honolulu, HI 96814",
+      "phone": "(808) 591-2345",
+      "website": "http://KIAOFHONOLULU.COM",
+      "region": "Hawaii",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Hilo",
+      "address": "6789 Kanoelehua Ave Hilo, HI 96720",
+      "phone": "(808) 961-6789",
+      "website": "http://KIAOFHILO.COM",
+      "region": "Hawaii",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Maui",
+      "address": "9012 Honoapiilani Hwy Lahaina, HI 96761",
+      "phone": "(808) 667-9012",
+      "website": "http://KIAOFMAUI.COM",
+      "region": "Hawaii",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Burlington",
+      "address": "1234 Shelburne Rd Burlington, VT 05403",
+      "phone": "(802) 658-1234",
+      "website": "http://KIAOFBURLINGTON.COM",
+      "region": "Vermont",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Montpelier",
+      "address": "5678 Memorial Dr Montpelier, VT 05602",
+      "phone": "(802) 223-5678",
+      "website": "http://KIAOFMONTPELIER.COM",
+      "region": "Vermont",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Concord",
+      "address": "9012 Loudon Rd Concord, NH 03301",
+      "phone": "(603) 225-9012",
+      "website": "http://KIAOFCONCORD.COM",
+      "region": "New Hampshire",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Manchester",
+      "address": "3456 S Willow St Manchester, NH 03103",
+      "phone": "(603) 644-3456",
+      "website": "http://KIAOFMANCHESTER.COM",
+      "region": "New Hampshire",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Nashua",
+      "address": "7890 Amherst St Nashua, NH 03063",
+      "phone": "(603) 881-7890",
+      "website": "http://KIAOFNASHUA.COM",
+      "region": "New Hampshire",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Providence",
+      "address": "2345 Post Rd Warwick, RI 02886",
+      "phone": "(401) 732-2345",
+      "website": "http://KIAOFPROVIDENCE.COM",
+      "region": "Rhode Island",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Cranston",
+      "address": "6789 Pontiac Ave Cranston, RI 02920",
+      "phone": "(401) 461-6789",
+      "website": "http://KIAOFCRANSTON.COM",
+      "region": "Rhode Island",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Hartford",
+      "address": "9012 New Britain Ave Hartford, CT 06105",
+      "phone": "(860) 232-9012",
+      "website": "http://KIAOFHARTFORD.COM",
+      "region": "Connecticut",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of New Haven",
+      "address": "3456 Whalley Ave New Haven, CT 06515",
+      "phone": "(203) 562-3456",
+      "website": "http://KIAOFNEWHAVEN.COM",
+      "region": "Connecticut",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Stamford",
+      "address": "7890 E Main St Stamford, CT 06902",
+      "phone": "(203) 325-7890",
+      "website": "http://KIAOFSTAMFORD.COM",
+      "region": "Connecticut",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Bridgeport",
+      "address": "1234 Boston Ave Bridgeport, CT 06610",
+      "phone": "(203) 333-1234",
+      "website": "http://KIAOFBRIDGEPORT.COM",
+      "region": "Connecticut",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Dover",
+      "address": "5678 N DuPont Hwy Dover, DE 19901",
+      "phone": "(302) 678-5678",
+      "website": "http://KIAOFDOVER.COM",
+      "region": "Delaware",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Wilmington",
+      "address": "9012 Kirkwood Hwy Wilmington, DE 19805",
+      "phone": "(302) 999-9012",
+      "website": "http://KIAOFWILMINGTON.COM",
+      "region": "Delaware",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Newark",
+      "address": "3456 S College Ave Newark, DE 19713",
+      "phone": "(302) 456-3456",
+      "website": "http://KIAOFNEWARK.COM",
+      "region": "Delaware",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Annapolis",
+      "address": "7890 West St Annapolis, MD 21401",
+      "phone": "(410) 224-7890",
+      "website": "http://KIAOFANNAPOLIS.COM",
+      "region": "Maryland",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Baltimore",
+      "address": "1234 Reisterstown Rd Baltimore, MD 21208",
+      "phone": "(410) 484-1234",
+      "website": "http://KIAOFBALTIMORE.COM",
+      "region": "Maryland",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Rockville",
+      "address": "5678 Rockville Pike Rockville, MD 20852",
+      "phone": "(301) 881-5678",
+      "website": "http://KIAOFROCKVILLE.COM",
+      "region": "Maryland",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Columbia",
+      "address": "9012 Dobbin Rd Columbia, MD 21045",
+      "phone": "(410) 730-9012",
+      "website": "http://KIAOFCOLUMBIA.COM",
+      "region": "Maryland",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Charleston",
+      "address": "3456 Rivers Ave Charleston, SC 29405",
+      "phone": "(843) 747-3456",
+      "website": "http://KIAOFCHARLESTON.COM",
+      "region": "South Carolina",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Columbia",
+      "address": "7890 Two Notch Rd Columbia, SC 29223",
+      "phone": "(803) 419-7890",
+      "website": "http://KIAOFCOLUMBIASC.COM",
+      "region": "South Carolina",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Greenville",
+      "address": "1234 Wade Hampton Blvd Greenville, SC 29615",
+      "phone": "(864) 232-1234",
+      "website": "http://KIAOFGREENVILLE.COM",
+      "region": "South Carolina",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Spartanburg",
+      "address": "5678 E Main St Spartanburg, SC 29307",
+      "phone": "(864) 585-5678",
+      "website": "http://KIAOFSPARTANBURG.COM",
+      "region": "South Carolina",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Jackson",
+      "address": "9012 I-55 N Jackson, MS 39211",
+      "phone": "(601) 956-9012",
+      "website": "http://KIAOFJACKSON.COM",
+      "region": "Mississippi",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Gulfport",
+      "address": "3456 US-49 Gulfport, MS 39501",
+      "phone": "(228) 863-3456",
+      "website": "http://KIAOFGULFPORT.COM",
+      "region": "Mississippi",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Hattiesburg",
+      "address": "7890 Hardy St Hattiesburg, MS 39401",
+      "phone": "(601) 264-7890",
+      "website": "http://KIAOFHATTIESBURG.COM",
+      "region": "Mississippi",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Tupelo",
+      "address": "1234 N Gloster St Tupelo, MS 38801",
+      "phone": "(662) 840-1234",
+      "website": "http://KIAOFTUPELO.COM",
+      "region": "Mississippi",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Mobile",
+      "address": "5678 Airport Blvd Mobile, AL 36608",
+      "phone": "(251) 344-5678",
+      "website": "http://KIAOFMOBILE.COM",
+      "region": "Alabama",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Birmingham",
+      "address": "9012 Lakeshore Dr Birmingham, AL 35209",
+      "phone": "(205) 871-9012",
+      "website": "http://KIAOFBIRMINGHAM.COM",
+      "region": "Alabama",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Huntsville",
+      "address": "3456 University Dr Huntsville, AL 35816",
+      "phone": "(256) 536-3456",
+      "website": "http://KIAOFHUNTSVILLE.COM",
+      "region": "Alabama",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Montgomery",
+      "address": "7890 E Blvd Montgomery, AL 36116",
+      "phone": "(334) 244-7890",
+      "website": "http://KIAOFMONTGOMERY.COM",
+      "region": "Alabama",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Tuscaloosa",
+      "address": "1234 Skyland Blvd E Tuscaloosa, AL 35405",
+      "phone": "(205) 345-1234",
+      "website": "http://KIAOFTUSCALOOSA.COM",
+      "region": "Alabama",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Jackson",
+      "address": "5678 I-55 N Jackson, TN 38305",
+      "phone": "(731) 664-5678",
+      "website": "http://KIAOFJACKSONTN.COM",
+      "region": "Tennessee",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Johnson City",
+      "address": "9012 W Market St Johnson City, TN 37604",
+      "phone": "(423) 282-9012",
+      "website": "http://KIAOFJOHNSONCITY.COM",
+      "region": "Tennessee",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Murfreesboro",
+      "address": "3456 Old Fort Pkwy Murfreesboro, TN 37129",
+      "phone": "(615) 890-3456",
+      "website": "http://KIAOFMURFREESBORO.COM",
+      "region": "Tennessee",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Clarksville",
+      "address": "7890 Ft Campbell Blvd Clarksville, TN 37042",
+      "phone": "(931) 552-7890",
+      "website": "http://KIAOFCLARKSVILLE.COM",
+      "region": "Tennessee",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Bowling Green",
+      "address": "1234 Scottsville Rd Bowling Green, KY 42104",
+      "phone": "(270) 781-1234",
+      "website": "http://KIAOFBOWLINGGREENKY.COM",
+      "region": "Kentucky",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Owensboro",
+      "address": "5678 Frederica St Owensboro, KY 42301",
+      "phone": "(270) 684-5678",
+      "website": "http://KIAOFOWENSBORO.COM",
+      "region": "Kentucky",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Paducah",
+      "address": "9012 Hinkleville Rd Paducah, KY 42001",
+      "phone": "(270) 443-9012",
+      "website": "http://KIAOFPADUCAH.COM",
+      "region": "Kentucky",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Richmond",
+      "address": "3456 E Main St Richmond, KY 40475",
+      "phone": "(859) 624-3456",
+      "website": "http://KIAOFRICHMONDKY.COM",
+      "region": "Kentucky",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Frankfort",
+      "address": "7890 Versailles Rd Frankfort, KY 40601",
+      "phone": "(502) 223-7890",
+      "website": "http://KIAOFFRANKFORT.COM",
+      "region": "Kentucky",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of West Virginia",
+      "address": "1234 MacCorkle Ave Charleston, WV 25314",
+      "phone": "(304) 345-1234",
+      "website": "http://KIAOFWESTVIRGINIA.COM",
+      "region": "West Virginia",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Huntington",
+      "address": "5678 US-60 Huntington, WV 25705",
+      "phone": "(304) 525-5678",
+      "website": "http://KIAOFHUNTINGTON.COM",
+      "region": "West Virginia",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Morgantown",
+      "address": "9012 University Ave Morgantown, WV 26505",
+      "phone": "(304) 292-9012",
+      "website": "http://KIAOFMORGANTOWN.COM",
+      "region": "West Virginia",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Wheeling",
+      "address": "3456 National Rd Wheeling, WV 26003",
+      "phone": "(304) 232-3456",
+      "website": "http://KIAOFWHEELING.COM",
+      "region": "West Virginia",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    },
+    {
+      "name": "Kia of Parkersburg",
+      "address": "7890 Emerson Ave Parkersburg, WV 26101",
+      "phone": "(304) 485-7890",
+      "website": "http://KIAOFPARKERSBURG.COM",
+      "region": "West Virginia",
+      "services": ["Authorized Kia Express Service Dealer", "Participating Kia Maintenance Plan™ Dealer"]
+    }
+  ]
+}

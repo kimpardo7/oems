@@ -1,0 +1,1008 @@
+{
+    "data": {
+        "getDealersByLatLng": [
+            {
+                "id": "NNA70089",
+                "name": "BEAVERTON INFINITI",
+                "address": {
+                    "addressLine1": "9500 SW CANYON RD",
+                    "addressLine2": "",
+                    "city": "PORTLAND",
+                    "state": "Oregon",
+                    "stateCode": "OR",
+                    "postalCode": "97225",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "9:45 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "9:45 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "9:45 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "9:45 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "9:45 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "10:00 am",
+                        "end": "6:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(503) 626-8822",
+                "distance": {
+                    "km": 196.56013805351375,
+                    "miles": 122.13676954244988,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO"
+                ],
+                "websiteURL": "https://www.beavertoninfiniti.com",
+                "inventoryWebsiteURL": null,
+                "isEcomDealer": false,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=45.488125,-122.804176",
+                "spokenLanguages": [
+                    "ru",
+                    "es",
+                    "vi",
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 45.488125,
+                    "longitude": -122.804176,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA70507",
+                "name": "INFINITI OF TACOMA AT FIFE",
+                "address": {
+                    "addressLine1": "4902 PACIFIC HWY E",
+                    "addressLine2": "",
+                    "city": "FIFE",
+                    "state": "Washington",
+                    "stateCode": "WA",
+                    "postalCode": "98424",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "10:00 am",
+                        "end": "6:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(253) 231-4300",
+                "distance": {
+                    "km": 363.6024066534771,
+                    "miles": 225.93199102467773,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_OS",
+                    "us_en_infiniti_S_DR_CPO",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO",
+                    "us_en_infiniti_S_DR"
+                ],
+                "websiteURL": "https://www.infinitioftacoma.com",
+                "inventoryWebsiteURL": "https://infinitioftacoma.com/new-vehicles/",
+                "isEcomDealer": true,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=47.243099,-122.363503",
+                "spokenLanguages": [
+                    "ko",
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 47.243099,
+                    "longitude": -122.363503,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA71631",
+                "name": "KENDALL INFINITI OF NAMPA",
+                "address": {
+                    "addressLine1": "15675 IDAHO CENTER BLVD",
+                    "addressLine2": "",
+                    "city": "NAMPA",
+                    "state": "Idaho",
+                    "stateCode": "ID",
+                    "postalCode": "83687",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "8:30 am",
+                        "end": "9:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "8:30 am",
+                        "end": "9:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "8:30 am",
+                        "end": "9:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "8:30 am",
+                        "end": "9:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "8:30 am",
+                        "end": "9:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "8:30 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "11:00 am",
+                        "end": "5:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(208) 376-8510",
+                "distance": {
+                    "km": 391.7798030156645,
+                    "miles": 243.44060797964647,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO"
+                ],
+                "websiteURL": "https://www.kendallinfinitinampa.com/",
+                "inventoryWebsiteURL": null,
+                "isEcomDealer": false,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=43.6019808,-116.5141932",
+                "spokenLanguages": [
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 43.6019808,
+                    "longitude": -116.5141932,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA71088",
+                "name": "INFINITI OF BELLEVUE",
+                "address": {
+                    "addressLine1": "11815 NORTHEAST 8TH ST",
+                    "addressLine2": "",
+                    "city": "BELLEVUE",
+                    "state": "Washington",
+                    "stateCode": "WA",
+                    "postalCode": "98005",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "10:00 am",
+                        "end": "5:30 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "10:00 am",
+                        "end": "5:30 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "10:00 am",
+                        "end": "5:30 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "10:00 am",
+                        "end": "5:30 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "10:00 am",
+                        "end": "5:30 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "10:00 am",
+                        "end": "5:30 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "11:00 am",
+                        "end": "5:30 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(425) 821-1600",
+                "distance": {
+                    "km": 401.7829828397659,
+                    "miles": 249.6562938301282,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_DR_CPO",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO",
+                    "us_en_infiniti_S_DR"
+                ],
+                "websiteURL": "https://www.infinitiofbellevue.com",
+                "inventoryWebsiteURL": "https://infinitiofbellevue.com/new-vehicles/",
+                "isEcomDealer": true,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=47.6167586,-122.1827961",
+                "spokenLanguages": [
+                    "ko",
+                    "fa",
+                    "zh",
+                    "hi",
+                    "es",
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 47.6167586,
+                    "longitude": -122.1827961,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA71542",
+                "name": "INFINITI OF LYNNWOOD",
+                "address": {
+                    "addressLine1": "17305 HIGHWAY 99",
+                    "addressLine2": "",
+                    "city": "LYNNWOOD",
+                    "state": "Washington",
+                    "stateCode": "WA",
+                    "postalCode": "98037",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "11:00 am",
+                        "end": "6:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(425) 563-6600",
+                "distance": {
+                    "km": 427.9310059737435,
+                    "miles": 265.90391711291096,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_DR_CPO",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO",
+                    "us_en_infiniti_S_DR"
+                ],
+                "websiteURL": "https://www.infinitioflynnwood.com",
+                "inventoryWebsiteURL": "https://infinitioflynnwood.com/new-vehicles/",
+                "isEcomDealer": true,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=47.8419596,-122.2959156",
+                "spokenLanguages": [
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 47.8419596,
+                    "longitude": -122.2959156,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA71090",
+                "name": "INFINITI ROSEVILLE",
+                "address": {
+                    "addressLine1": "830 AUTOMALL DR",
+                    "addressLine2": "",
+                    "city": "ROSEVILLE",
+                    "state": "California",
+                    "stateCode": "CA",
+                    "postalCode": "95661",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "10:00 am",
+                        "end": "6:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(916) 633-1822",
+                "distance": {
+                    "km": 590.4287341116188,
+                    "miles": 366.87529294367073,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_OS",
+                    "us_en_infiniti_S_DR_CPO",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO",
+                    "us_en_infiniti_S_DR"
+                ],
+                "websiteURL": "https://www.infinitiroseville.com",
+                "inventoryWebsiteURL": "https://infinitiroseville.com/new-vehicles/",
+                "isEcomDealer": true,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=38.7505536,-121.2561898",
+                "spokenLanguages": [
+                    "vi",
+                    "en",
+                    "es"
+                ],
+                "geolocation": {
+                    "latitude": 38.7505536,
+                    "longitude": -121.2561898,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA7002A",
+                "name": "INFINITI OF MODESTO",
+                "address": {
+                    "addressLine1": "4530 MCHENRY AVE",
+                    "addressLine2": "",
+                    "city": "MODESTO",
+                    "state": "California",
+                    "stateCode": "CA",
+                    "postalCode": "95356",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": null,
+                        "end": null,
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": null,
+                        "end": null,
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": null,
+                        "end": null,
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": null,
+                        "end": null,
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": null,
+                        "end": null,
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": null,
+                        "end": null,
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": null,
+                        "end": null,
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(209) 557-9997",
+                "distance": {
+                    "km": 707.3900588962874,
+                    "miles": 439.551668286445,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO",
+                    "us_en_infiniti_S_SA"
+                ],
+                "websiteURL": "https://www.infinitiofmodesto.com/",
+                "inventoryWebsiteURL": null,
+                "isEcomDealer": false,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=37.705155,-120.9938627",
+                "spokenLanguages": [
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 37.705155,
+                    "longitude": -120.9938627,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA73116",
+                "name": "DUBLIN INFINITI",
+                "address": {
+                    "addressLine1": "3800A KAISER ROAD",
+                    "addressLine2": "",
+                    "city": "DUBLIN",
+                    "state": "California",
+                    "stateCode": "CA",
+                    "postalCode": "94568",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "10:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(925) 556-3200",
+                "distance": {
+                    "km": 708.370847174942,
+                    "miles": 440.1611016799409,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO"
+                ],
+                "websiteURL": "https://www.dublininfiniti.com",
+                "inventoryWebsiteURL": null,
+                "isEcomDealer": false,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=37.7021079,-121.860654",
+                "spokenLanguages": [
+                    "en",
+                    "fa",
+                    "ar",
+                    "es",
+                    "tr"
+                ],
+                "geolocation": {
+                    "latitude": 37.7021079,
+                    "longitude": -121.860654,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA71583",
+                "name": "INFINITI OF SERRAMONTE",
+                "address": {
+                    "addressLine1": "630 SERRAMONTE BLVD",
+                    "addressLine2": "",
+                    "city": "COLMA",
+                    "state": "California",
+                    "stateCode": "CA",
+                    "postalCode": "94014",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "10:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(650) 550-7200",
+                "distance": {
+                    "km": 716.0938551901305,
+                    "miles": 444.9599548933466,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO"
+                ],
+                "websiteURL": "https://www.infinitiserramonte.com/",
+                "inventoryWebsiteURL": null,
+                "isEcomDealer": false,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=37.6758138,-122.4610986",
+                "spokenLanguages": [
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 37.6758138,
+                    "longitude": -122.4610986,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA70584",
+                "name": "REDWOOD CITY INFINITI",
+                "address": {
+                    "addressLine1": "543 EL CAMINO REAL",
+                    "addressLine2": "",
+                    "city": "REDWOOD CITY",
+                    "state": "California",
+                    "stateCode": "CA",
+                    "postalCode": "94063",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "10:00 am",
+                        "end": "5:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(650) 241-2525",
+                "distance": {
+                    "km": 734.4888175296895,
+                    "miles": 456.3900510372407,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_OS",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO"
+                ],
+                "websiteURL": "https://www.redwoodcityinfiniti.com",
+                "inventoryWebsiteURL": null,
+                "isEcomDealer": false,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=37.4900101,-122.2388627",
+                "spokenLanguages": [
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 37.4900101,
+                    "longitude": -122.2388627,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA70582",
+                "name": "STEVENS CREEK INFINITI",
+                "address": {
+                    "addressLine1": "4795 STEVENS CREEK BLVD",
+                    "addressLine2": "",
+                    "city": "SANTA CLARA",
+                    "state": "California",
+                    "stateCode": "CA",
+                    "postalCode": "95051",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "9:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "10:00 am",
+                        "end": "6:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(408) 264-9999",
+                "distance": {
+                    "km": 751.1177379016957,
+                    "miles": 466.72277991771455,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO"
+                ],
+                "websiteURL": "https://www.stevenscreekinfiniti.com/",
+                "inventoryWebsiteURL": null,
+                "isEcomDealer": false,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=37.3236302,-121.986833",
+                "spokenLanguages": [
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 37.3236302,
+                    "longitude": -121.986833,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            },
+            {
+                "id": "NNA71535",
+                "name": "CAPITOL INFINITI",
+                "address": {
+                    "addressLine1": "1120 CAPITOL EXPRESSWAY",
+                    "addressLine2": "",
+                    "city": "SAN JOSE",
+                    "state": "California",
+                    "stateCode": "CA",
+                    "postalCode": "95136",
+                    "__typename": "DealerAddress"
+                },
+                "hoursOfOperation": [
+                    {
+                        "weekDay": 1,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 2,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 3,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 4,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 5,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 6,
+                        "start": "9:00 am",
+                        "end": "8:00 pm",
+                        "__typename": "Schedule"
+                    },
+                    {
+                        "weekDay": 7,
+                        "start": "10:00 am",
+                        "end": "7:00 pm",
+                        "__typename": "Schedule"
+                    }
+                ],
+                "phoneNumber": "(408) 531-3000",
+                "distance": {
+                    "km": 755.9744789485848,
+                    "miles": 469.74061795876105,
+                    "__typename": "DealerDistance"
+                },
+                "services": [
+                    "us_en_infiniti_S_SLS",
+                    "us_en_infiniti_S_OS",
+                    "us_en_infiniti_S_DR_CPO",
+                    "us_en_infiniti_S_SVC",
+                    "us_en_infiniti_S_CPO",
+                    "us_en_infiniti_S_DR"
+                ],
+                "websiteURL": "https://www.capitolinfiniti.com/",
+                "inventoryWebsiteURL": "https://www.capitolinfiniti.com/inventory/new",
+                "isEcomDealer": true,
+                "mapURL": "https://www.google.com/maps/search/?api=1&query=37.2745506,-121.8775895",
+                "spokenLanguages": [
+                    "en"
+                ],
+                "geolocation": {
+                    "latitude": 37.2745506,
+                    "longitude": -121.8775895,
+                    "__typename": "DealerGeolocation"
+                },
+                "__typename": "Dealer"
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+  "dealerships": [
+    {
+      "name": "Lamborghini Beverly Hills",
+      "location": "California, USA"
+    },
+    {
+      "name": "Lamborghini Miami",
+      "location": "Florida, USA"
+    },
+    {
+      "name": "Lamborghini Dallas",
+      "location": "Texas, USA"
+    },
+    {
+      "name": "Lamborghini Newport Beach",
+      "location": "California, USA"
+    },
+    {
+      "name": "Lamborghini Paramus",
+      "location": "New Jersey, USA"
+    },
+    {
+      "name": "Lamborghini Houston",
+      "location": "Texas, USA"
+    },
+    {
+      "name": "Lamborghini Las Vegas",
+      "location": "Nevada, USA"
+    },
+    {
+      "name": "Lamborghini Washington",
+      "location": "Virginia, USA"
+    },
+    {
+      "name": "Lamborghini San Francisco",
+      "location": "California, USA"
+    },
+    {
+      "name": "Lamborghini Charlotte",
+      "location": "North Carolina, USA"
+    },
+    {
+      "name": "Lamborghini Chicago",
+      "location": "Illinois, USA"
+    },
+    {
+      "name": "Lamborghini Broward",
+      "location": "Florida, USA"
+    },
+    {
+      "name": "Lamborghini Boston",
+      "location": "Massachusetts, USA"
+    },
+    {
+      "name": "Lamborghini Philadelphia",
+      "location": "Pennsylvania, USA"
+    },
+    {
+      "name": "Lamborghini Scottsdale",
+      "location": "Arizona, USA"
+    },
+    {
+      "name": "Lamborghini Westlake",
+      "location": "Ohio, USA"
+    },
+    {
+      "name": "Lamborghini Palm Beach",
+      "location": "Florida, USA"
+    },
+    {
+      "name": "Lamborghini Sarasota",
+      "location": "Florida, USA"
+    },
+    {
+      "name": "Lamborghini Atlanta",
+      "location": "Georgia, USA"
+    },
+    {
+      "name": "Lamborghini Austin",
+      "location": "Texas, USA"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "brand": "Lamborghini",
+  "country": "United States",
+  "total_dealerships": 42,
+  "last_updated": "2025-01-27",
+  "dealerships": [
+    {
+      "id": 1,
+      "name": "Lamborghini Atlanta",
+      "company": "Krause Family Motorcars LLC",
+      "address": "7865 Roswell Road, Atlanta, 30350",
+      "phone": "+18337261070",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/56332/lamborghini_atlanta/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-atlanta#showroom"
+    },
+    {
+      "id": 2,
+      "name": "Lamborghini Austin",
+      "company": "Fadana Cars LLC",
+      "address": "4108 N Lamar Boulevard, Austin, 78756-3716",
+      "phone": "+1 5129530000",
+      "website": "https://www.lamborghiniaustin.com/",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 6:00 PM",
+        "Tuesday": "9:00 AM - 6:00 PM",
+        "Wednesday": "9:00 AM - 6:00 PM",
+        "Thursday": "9:00 AM - 6:00 PM",
+        "Friday": "9:00 AM - 6:00 PM",
+        "Saturday": "9:00 AM - 4:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/56967/lamborghini_austin/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-austin#showroom"
+    },
+    {
+      "id": 3,
+      "name": "Lamborghini Beverly Hills",
+      "company": "O'gara Coach Company Llc",
+      "address": "8423 Wilshire Boulevard, Beverly Hills, 90211-3202",
+      "phone": "+1(855) 865-0371",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "10:00 AM - 7:00 PM",
+        "Tuesday": "10:00 AM - 7:00 PM",
+        "Wednesday": "10:00 AM - 7:00 PM",
+        "Thursday": "10:00 AM - 7:00 PM",
+        "Friday": "10:00 AM - 7:00 PM",
+        "Saturday": "10:00 AM - 5:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/51415/lamborghini_beverly_hills/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-beverly-hills#showroom"
+    },
+    {
+      "id": 4,
+      "name": "Lamborghini Boston",
+      "company": "ASBURY BOSTON EXOTICS, LLC",
+      "address": "531 Boston Post Road, Rte. 20, Wayland, MA 01778",
+      "phone": "+1 (508) 401-2800",
+      "website": "https://www.herbchamberslamborghiniboston.com/",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/66351/lamborghini_boston/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-boston#showroom"
+    },
+    {
+      "id": 5,
+      "name": "Lamborghini Broward",
+      "company": "West Broward Imports LLC",
+      "address": "4645 Volunteer Road, Davie, 33330",
+      "phone": "+1 8882011791",
+      "website": "https://www.lamborghinibroward.com/",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 7:00 PM",
+        "Tuesday": "9:00 AM - 7:00 PM",
+        "Wednesday": "9:00 AM - 7:00 PM",
+        "Thursday": "9:00 AM - 7:00 PM",
+        "Friday": "9:00 AM - 7:00 PM",
+        "Saturday": "9:00 AM - 7:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/55730/lamborghini_broward/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-broward#showroom"
+    },
+    {
+      "id": 6,
+      "name": "Lamborghini Charlotte",
+      "company": "Raging Bull Carolinas LLC.",
+      "address": "6500 E Independence Boulevard, Charlotte, 28212",
+      "phone": "+1 980-960-9562",
+      "website": "https://www.lamborghiniclt.com/",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 6:00 PM",
+        "Tuesday": "9:00 AM - 6:00 PM",
+        "Wednesday": "9:00 AM - 6:00 PM",
+        "Thursday": "9:00 AM - 6:00 PM",
+        "Friday": "9:00 AM - 6:00 PM",
+        "Saturday": "10:00 AM - 4:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/52833/lamborghini_charlotte/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-charlotte#showroom"
+    },
+    {
+      "id": 7,
+      "name": "Lamborghini Dallas",
+      "company": "Boardwalk Motor Import Ltd",
+      "address": "601 S Central Expressway, Richardson, 75080-7409",
+      "phone": "+1 9723814000",
+      "website": "https://www.lamborghinidallas.com/",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/51654/lamborghini_dallas/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-dallas#showroom"
+    },
+    {
+      "id": 8,
+      "name": "Lamborghini Denver",
+      "company": "LBHR, LLC",
+      "address": "1850 Lucent Court, Highlands Ranch, 80129",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "7:00 AM - 8:00 PM",
+        "Tuesday": "7:00 AM - 8:00 PM",
+        "Wednesday": "7:00 AM - 8:00 PM",
+        "Thursday": "7:00 AM - 8:00 PM",
+        "Friday": "7:00 AM - 8:00 PM",
+        "Saturday": "7:00 AM - 8:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/61844/lamborghini_denver/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-denver#showroom"
+    },
+    {
+      "id": 9,
+      "name": "Lamborghini Downers Grove",
+      "company": "Gold Coast Exotic Imports LLC",
+      "address": "330 Ogden Avenue, Downers Grove, 60515",
+      "phone": "+1 60515-3141",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "10:00 AM - 8:00 PM",
+        "Tuesday": "10:00 AM - 8:00 PM",
+        "Wednesday": "10:00 AM - 8:00 PM",
+        "Thursday": "10:00 AM - 8:00 PM",
+        "Friday": "10:00 AM - 8:00 PM",
+        "Saturday": "9:00 AM - 6:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/55008/lamborghini_downers_grove/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-downers-grove#showroom"
+    },
+    {
+      "id": 10,
+      "name": "Lamborghini Gold Coast",
+      "company": "Gold Coast Exotic Imports LLC",
+      "address": "834 N Rush Street, Chicago, 60611",
+      "phone": "+1 60611-2031",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "10:00 AM - 7:00 PM",
+        "Tuesday": "10:00 AM - 7:00 PM",
+        "Wednesday": "10:00 AM - 7:00 PM",
+        "Thursday": "10:00 AM - 7:00 PM",
+        "Friday": "10:00 AM - 7:00 PM",
+        "Saturday": "10:00 AM - 7:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/52820/lamborghini_gold_coast/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-gold-coast#showroom"
+    },
+    {
+      "id": 11,
+      "name": "Lamborghini Greenwich",
+      "company": "RDS Enterprises VII, LP",
+      "address": "300 W Putnam Avenue, Greenwich, 06830",
+      "website": "https://www.lamborghinigreenwich.com/",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 6:00 PM",
+        "Tuesday": "9:00 AM - 6:00 PM",
+        "Wednesday": "9:00 AM - 6:00 PM",
+        "Thursday": "9:00 AM - 6:00 PM",
+        "Friday": "9:00 AM - 6:00 PM",
+        "Saturday": "9:00 AM - 4:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/61037/lamborghini_greenwich/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-greenwich#showroom"
+    },
+    {
+      "id": 12,
+      "name": "Lamborghini Hawaii",
+      "company": "Jn Group Inc.",
+      "address": "888 Kapiolani Boulevard, Honolulu, HI 96813",
+      "phone": "+1 8004888406",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "10:00 AM - 12:30 PM / 12:30 PM - 6:00 PM",
+        "Tuesday": "10:00 AM - 12:30 PM / 12:30 PM - 6:00 PM",
+        "Wednesday": "10:00 AM - 12:30 PM / 12:30 PM - 6:00 PM",
+        "Thursday": "10:00 AM - 12:30 PM / 12:30 PM - 6:00 PM",
+        "Friday": "10:00 AM - 12:30 PM / 12:30 PM - 6:00 PM",
+        "Saturday": "10:00 AM - 12:30 PM / 12:30 PM - 6:00 PM",
+        "Sunday": "10:00 AM - 12:30 PM / 12:30 PM - 5:00 PM"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/50723/lamborghini_hawaii/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-hawaii#showroom"
+    },
+    {
+      "id": 13,
+      "name": "Lamborghini Houston",
+      "company": "Indigo Motorsport Texas LLC",
+      "address": "13921 North Freeway, Houston, 77090",
+      "phone": "+1 77090-6915",
+      "website": "https://www.lamborghinihouston.com/",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 12:30 PM / 3:00 PM - 6:00 PM",
+        "Tuesday": "9:00 AM - 12:30 PM / 3:00 PM - 6:00 PM",
+        "Wednesday": "9:00 AM - 12:30 PM / 3:00 PM - 6:00 PM",
+        "Thursday": "9:00 AM - 12:30 PM / 3:00 PM - 6:00 PM",
+        "Friday": "9:00 AM - 12:30 PM / 3:00 PM - 6:00 PM",
+        "Saturday": "9:00 AM - 12:30 PM / 3:00 PM - 5:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/53138/lamborghini_houston/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-houston#showroom"
+    },
+    {
+      "id": 14,
+      "name": "Lamborghini Las Vegas",
+      "company": "Findlay Diguilio LLC",
+      "address": "7738 Eastgate Road, Henderson, 89011",
+      "phone": "+1 7029824600",
+      "website": "https://www.lamborghinilasvegas.com",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 7:00 PM",
+        "Tuesday": "9:00 AM - 7:00 PM",
+        "Wednesday": "9:00 AM - 7:00 PM",
+        "Thursday": "9:00 AM - 7:00 PM",
+        "Friday": "9:00 AM - 7:00 PM",
+        "Saturday": "10:00 AM - 6:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/52794/lamborghini_las_vegas/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-las-vegas#showroom"
+    },
+    {
+      "id": 15,
+      "name": "Lamborghini Long Island",
+      "company": "Bespoke Motor Group, LLC",
+      "address": "115 South Service Road, Jericho, New York, NY 11753",
+      "phone": "+1 5163679600",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 6:30 PM",
+        "Tuesday": "9:00 AM - 6:30 PM",
+        "Wednesday": "9:00 AM - 6:30 PM",
+        "Thursday": "9:00 AM - 6:30 PM",
+        "Friday": "9:00 AM - 6:30 PM",
+        "Saturday": "10:00 AM - 5:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/54212/lamborghini_long_island/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-long-island#showroom"
+    },
+    {
+      "id": 16,
+      "name": "Lamborghini Los Gatos",
+      "company": "Luxury Cars-Los Gatos, LLC",
+      "address": "620 Blossom Hill Road, Los Gatos, CA 95032",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 6:00 PM",
+        "Tuesday": "9:00 AM - 6:00 PM",
+        "Wednesday": "9:00 AM - 6:00 PM",
+        "Thursday": "9:00 AM - 6:00 PM",
+        "Friday": "9:00 AM - 6:00 PM",
+        "Saturday": "10:00 AM - 6:00 PM",
+        "Sunday": "Closed"
+      },
+      "extraordinary_closures": ["2025-01-01", "2025-07-04", "2025-11-27", "2025-12-25"],
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/61212/lamborghini_los_gatos/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-los-gatos#showroom"
+    },
+    {
+      "id": 17,
+      "name": "Lamborghini Manhattan",
+      "company": "Manhattan Motorcars Inc.",
+      "address": "711 11th Ave, New York, 10019",
+      "phone": "+1 2125946200",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 7:00 PM",
+        "Tuesday": "9:00 AM - 7:00 PM",
+        "Wednesday": "9:00 AM - 7:00 PM",
+        "Thursday": "9:00 AM - 7:00 PM",
+        "Friday": "9:00 AM - 7:00 PM",
+        "Saturday": "9:00 AM - 5:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/50720/lamborghini_manhattan/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-manhattan#showroom"
+    },
+    {
+      "id": 18,
+      "name": "Lamborghini Miami",
+      "company": "Prestige Motorcar Imports, Inc.",
+      "address": "14780 Biscayne Blvd, North Miami Beach, FL 33181",
+      "phone": "+1 (833) 290-5147",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 7:00 PM",
+        "Tuesday": "9:00 AM - 7:00 PM",
+        "Wednesday": "9:00 AM - 7:00 PM",
+        "Thursday": "9:00 AM - 7:00 PM",
+        "Friday": "9:00 AM - 7:00 PM",
+        "Saturday": "10:00 AM - 7:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/50716/lamborghini_miami/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-miami#showroom"
+    },
+    {
+      "id": 19,
+      "name": "Lamborghini Naples",
+      "company": "Exotic of Naples LLC",
+      "address": "5154 Tamiami Trail E, Naples, 34113",
+      "website": "https://www.lamborghininaples.com",
+      "services": ["Showroom", "Service"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 6:00 PM",
+        "Tuesday": "9:00 AM - 6:00 PM",
+        "Wednesday": "9:00 AM - 6:00 PM",
+        "Thursday": "9:00 AM - 6:00 PM",
+        "Friday": "9:00 AM - 6:00 PM",
+        "Saturday": "9:00 AM - 5:00 PM",
+        "Sunday": "Closed"
+      },
+      "extraordinary_closures": ["2023-07-04", "2023-12-25", "2023-09-04", "2023-05-25"],
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/62388/lamborghini_naples/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-naples#showroom"
+    },
+    {
+      "id": 20,
+      "name": "Lamborghini Nashville",
+      "company": "Raging Bull Nashville LLC",
+      "address": "1006 Flagpole CT, Brentwood, TN 37027",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 6:00 PM",
+        "Tuesday": "9:00 AM - 6:00 PM",
+        "Wednesday": "9:00 AM - 6:00 PM",
+        "Thursday": "9:00 AM - 6:00 PM",
+        "Friday": "9:00 AM - 6:00 PM",
+        "Saturday": "10:00 AM - 4:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/63036/lamborghini_nashville/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-nashville#showroom"
+    },
+    {
+      "id": 21,
+      "name": "Lamborghini Newport Beach",
+      "company": "Newport Beach Automotive Group LLC",
+      "address": "44 Auto Center Drive, Irvine, 92618",
+      "phone": "+1 8885645020",
+      "website": "https://www.lambonb.com/",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "8:00 AM - 5:00 PM",
+        "Tuesday": "8:00 AM - 5:00 PM",
+        "Wednesday": "8:00 AM - 5:00 PM",
+        "Thursday": "8:00 AM - 5:00 PM",
+        "Friday": "8:00 AM - 5:00 PM",
+        "Saturday": "10:00 AM - 5:00 PM",
+        "Sunday": "Appointment Only"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/56658/lamborghini_newport_beach/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-newport-beach#showroom"
+    },
+    {
+      "id": 22,
+      "name": "Lamborghini North Scottsdale",
+      "company": "Pag North Scottsdale Be, Llc",
+      "address": "7111 E Chauncey Lane, Phoenix, 85054",
+      "phone": "+1 (480) 845-0855",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 6:00 PM",
+        "Tuesday": "9:00 AM - 6:00 PM",
+        "Wednesday": "9:00 AM - 6:00 PM",
+        "Thursday": "9:00 AM - 6:00 PM",
+        "Friday": "9:00 AM - 6:00 PM",
+        "Saturday": "9:00 AM - 6:00 PM",
+        "Sunday": "12:00 PM - 5:00 PM"
+      },
+      "extraordinary_closures": ["2022-01-01", "2022-04-17", "2022-11-24", "2022-12-25"],
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/52609/lamborghini_north_scottsdale/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-north-scottsdale#showroom"
+    },
+    {
+      "id": 23,
+      "name": "Lamborghini Ohio",
+      "company": "Brentlinger Enterprises Gp D/B/A Midwester Auto Group",
+      "address": "6335 Perimeter Loop Road, Dublin, OH 43017",
+      "phone": "+1 6148892571",
+      "services": ["Showroom", "Service", "Certified collision center", "Certified paint shop"],
+      "opening_hours": {
+        "Monday": "9:00 AM - 7:00 PM",
+        "Tuesday": "9:00 AM - 7:00 PM",
+        "Wednesday": "9:00 AM - 7:00 PM",
+        "Thursday": "9:00 AM - 7:00 PM",
+        "Friday": "9:00 AM - 7:00 PM",
+        "Saturday": "9:00 AM - 6:00 PM",
+        "Sunday": "Closed"
+      },
+      "pre_owned_url": "https://preowned.lamborghini.com/dealer/52644/lamborghini_ohio/en_gb/",
+      "details_url": "/en-en/dealerships/lamborghini-ohio#showroom"
+    }
+  ]
+}

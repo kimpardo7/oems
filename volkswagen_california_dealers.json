@@ -1,0 +1,98 @@
+{
+  "state": "California",
+  "dealers": [
+    {
+      "name": "Volkswagen Marin",
+      "address": "",
+      "phone": "",
+      "hours": "",
+      "services": [],
+      "rating": "",
+      "reviews": "",
+      "distance": ""
+    },
+    {
+      "name": "Boardwalk VW of Redwood City",
+      "address": "",
+      "phone": "",
+      "hours": "",
+      "services": [],
+      "rating": "",
+      "reviews": "",
+      "distance": ""
+    },
+    {
+      "name": "Merced Volkswagen",
+      "address": "",
+      "phone": "",
+      "hours": "",
+      "services": [],
+      "rating": "",
+      "reviews": "",
+      "distance": ""
+    },
+    {
+      "name": "Volkswagen Bakersfield",
+      "address": "",
+      "phone": "",
+      "hours": "",
+      "services": [],
+      "rating": "",
+      "reviews": "",
+      "distance": ""
+    },
+    {
+      "name": "Central Valley Volkswagen",
+      "address": "",
+      "phone": "",
+      "hours": "",
+      "services": [],
+      "rating": "",
+      "reviews": "",
+      "distance": ""
+    },
+    {
+      "name": "Cardinale Volkswagen",
+      "address": "",
+      "phone": "",
+      "hours": "",
+      "services": [],
+      "rating": "",
+      "reviews": "",
+      "distance": ""
+    },
+    {
+      "name": "Tracy Volkswagen",
+      "address": "",
+      "phone": "",
+      "hours": "",
+      "services": [],
+      "rating": "",
+      "reviews": "",
+      "distance": ""
+    },
+    {
+      "name": "Volkswagen of Santa Cruz",
+      "address": "",
+      "phone": "",
+      "hours": "",
+      "services": [],
+      "rating": "",
+      "reviews": "",
+      "distance": ""
+    },
+    {
+      "name": "Volkswagen of Clovis",
+      "address": "350 Herndon Ave Clovis, CA 93612",
+      "phone": "5593141400",
+      "hours": "Open until 6:00 PM",
+      "services": ["Online Tire Store", "Service Xpress", "EV Repair (Including Battery)", "VW Care Maintenance"],
+      "rating": "4.9",
+      "reviews": "271 Reviews",
+      "distance": "26 miles"
+    }
+  ],
+  "totalDealers": 9,
+  "timestamp": "2025-09-22T00:41:47.042Z"
+}
+

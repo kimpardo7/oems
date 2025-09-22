@@ -1,0 +1,818 @@
+{
+  "brand": "Kia",
+  "total_dealers": 58,
+  "collection_date": "2025-09-15T18:56:48.115106",
+  "search_method": "zip_code_locator",
+  "source_url": "https://www.kia.com/us/en/find-a-dealer/",
+  "dealers": [
+    {
+      "zip_searched": "97702",
+      "name": "Team Kia of Bend",
+      "address": "611 Ne Purcell Blvd.  Bend, OR 97701",
+      "phone": "5415505555\n      - Team Kia of Bend phone number",
+      "website": "http://GOTEAMKIA.COM",
+      "distance": "2.5\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": " \n    List View\n     \n        Your Kia Dealers\n        Results Appear Below As You finish typing the zip code.     Use My Location    \n        List View\n       \n        Map View\n          \n    A\n   Te...",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007732"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "",
+      "address": "",
+      "phone": "",
+      "website": "",
+      "distance": "",
+      "services": [],
+      "full_text": "\n        Your Kia Dealers\n        Results Appear Below As You finish typing the zip code.     Use My Location ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007751"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "",
+      "address": "2.5\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=97702&daddr=611 Ne Purcell Blvd. ,Bend, OR 97701",
+      "distance": "2.5\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      2.5\n      \n            Miles Away\n          ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007759"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "Authorized Kia Express Service Dealer",
+      "address": "",
+      "phone": "",
+      "website": "",
+      "distance": "",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "  Authorized Kia Express Service Dealer   Participating Kia Maintenance Plan\u2122 Dealer ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007763"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "Participating Kia Maintenance Plan\u2122 Dealer",
+      "address": "",
+      "phone": "",
+      "website": "",
+      "distance": "",
+      "services": [
+        "Kia Maintenance Plan"
+      ],
+      "full_text": "  Participating Kia Maintenance Plan\u2122 Dealer ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007768"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "Kiefer Kia",
+      "address": "345 Goodpasture Island Road  Eugene, OR 97401",
+      "phone": "5413020909\n      - Kiefer Kia phone number",
+      "website": "http://KIEFERKIA.COM",
+      "distance": "89.8\n      \n            Miles Away",
+      "services": [
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    B\n   Kiefer Kia 345 Goodpasture Island Road  Eugene, OR 97401 \n      5413020909\n      - Kiefer Kia phone number  \n      89.8\n      \n            Miles Away\n           \n            Get a Quote\n    ...",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007799"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "",
+      "address": "89.8\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=97702&daddr=345 Goodpasture Island Road ,Eugene, OR 97401",
+      "distance": "89.8\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      89.8\n      \n            Miles Away\n          ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007806"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "Power Kia",
+      "address": "3705 Market Street Ne  Salem, OR 97301",
+      "phone": "5035857333\n      - Power Kia phone number",
+      "website": "http://POWERKIA.COM",
+      "distance": "104.7\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    C\n   Power Kia 3705 Market Street Ne  Salem, OR 97301 \n      5035857333\n      - Power Kia phone number  \n      104.7\n      \n            Miles Away\n           \n            Get a Quote\n            ...",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007812"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "",
+      "address": "104.7\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=97702&daddr=3705 Market Street Ne ,Salem, OR 97301",
+      "distance": "104.7\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      104.7\n      \n            Miles Away\n          ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007818"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "Ron Tonkin Kia",
+      "address": "19335 Mcloughlin Blvd.  Gladstone, OR 97027",
+      "phone": "5036649059\n      - Ron Tonkin Kia phone number",
+      "website": "http://RONTONKINKIA.COM",
+      "distance": "113.3\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": "\n    D\n   Ron Tonkin Kia 19335 Mcloughlin Blvd.  Gladstone, OR 97027 \n      5036649059\n      - Ron Tonkin Kia phone number  \n      113.3\n      \n            Miles Away\n           \n            Get a Quo...",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007824"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "",
+      "address": "113.3\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=97702&daddr=19335 Mcloughlin Blvd. ,Gladstone, OR 97027",
+      "distance": "113.3\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      113.3\n      \n            Miles Away\n          ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007829"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "Certified Wholesale Dealer",
+      "address": "",
+      "phone": "",
+      "website": "",
+      "distance": "",
+      "services": [
+        "Certified Wholesale Dealer"
+      ],
+      "full_text": "  Certified Wholesale Dealer ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007834"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "Weston Kia",
+      "address": "22309 Se Stark Street  Gresham, OR 97030",
+      "phone": "5036762100\n      - Weston Kia phone number",
+      "website": "https://maps.google.com/?dirflg=d&saddr=97702&daddr=22309 Se Stark Street ,Gresham, OR 97030",
+      "distance": "116.9\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    E\n   Weston Kia 22309 Se Stark Street  Gresham, OR 97030 \n      5036762100\n      - Weston Kia phone number  \n      116.9\n      \n            Miles Away\n           \n            Get a Quote\n        ...",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007839"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "",
+      "address": "116.9\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=97702&daddr=22309 Se Stark Street ,Gresham, OR 97030",
+      "distance": "116.9\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      116.9\n      \n            Miles Away\n          ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007844"
+    },
+    {
+      "zip_searched": "97702",
+      "name": "",
+      "address": "2.5\n      \n        Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=97702&daddr=611 Ne Purcell Blvd. ,Bend, OR 97701",
+      "distance": "2.5\n      \n        Miles Away",
+      "services": [],
+      "full_text": "\n      2.5\n      \n        Miles Away\n      ",
+      "source_zip": "97702",
+      "collected_at": "2025-09-15T18:55:22.007851"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "Northstar Kia",
+      "address": "61-07 Northern Blvd  Woodside, NY 11377",
+      "phone": "7186755649\n      - Northstar Kia phone number",
+      "website": "http://NORTHSTARKIANY.COM",
+      "distance": "4.8\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": " \n    List View\n     \n        Your Kia Dealers\n        Results Appear Below As You finish typing the zip code.     Use My Location    \n        List View\n       \n        Map View\n          \n    A\n   No...",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452612"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "",
+      "address": "4.8\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=10001&daddr=61-07 Northern Blvd ,Woodside, NY 11377",
+      "distance": "4.8\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      4.8\n      \n            Miles Away\n          ",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452634"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "Jersey City Kia",
+      "address": "36 Water Street  Jersey City, NJ 07305",
+      "phone": "2014327700\n      - Jersey City Kia phone number",
+      "website": "http://JERSEYCITYKIA.COM",
+      "distance": "5.8\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    B\n   Jersey City Kia 36 Water Street  Jersey City, NJ 07305 \n      2014327700\n      - Jersey City Kia phone number  \n      5.8\n      \n            Miles Away\n           \n            Get a Quote\n  ...",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452642"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "",
+      "address": "5.8\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=10001&daddr=36 Water Street ,Jersey City, NJ 07305",
+      "distance": "5.8\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      5.8\n      \n            Miles Away\n          ",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452649"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "Kia EasyBuy Dealer",
+      "address": "",
+      "phone": "",
+      "website": "",
+      "distance": "",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "  Kia EasyBuy Dealer   Authorized Kia Express Service Dealer   Participating Kia Maintenance Plan\u2122 Dealer ",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452675"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "Nutley Kia",
+      "address": "66 Washington Avenue  Nutley, NJ 07110",
+      "phone": "9736670500\n      - Nutley Kia phone number",
+      "website": "http://NUTLEYKIA.COM",
+      "distance": "9.0\n      \n            Miles Away",
+      "services": [
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    C\n   Nutley Kia 66 Washington Avenue  Nutley, NJ 07110 \n      9736670500\n      - Nutley Kia phone number  \n      9.0\n      \n            Miles Away\n           \n            Get a Quote\n            ...",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452687"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "",
+      "address": "9.0\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=10001&daddr=66 Washington Avenue ,Nutley, NJ 07110",
+      "distance": "9.0\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      9.0\n      \n            Miles Away\n          ",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452693"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "Plaza Kia",
+      "address": "2746 Nostrand Avenue  Brooklyn, NY 11210",
+      "phone": "7182538400\n      - Plaza Kia phone number",
+      "website": "http://PLAZAKIANY.COM",
+      "distance": "9.3\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    D\n   Plaza Kia 2746 Nostrand Avenue  Brooklyn, NY 11210 \n      7182538400\n      - Plaza Kia phone number  \n      9.3\n      \n            Miles Away\n           \n            Get a Quote\n            ...",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452698"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "",
+      "address": "9.3\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=10001&daddr=2746 Nostrand Avenue ,Brooklyn, NY 11210",
+      "distance": "9.3\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      9.3\n      \n            Miles Away\n          ",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452704"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "John Starks Kia",
+      "address": "139-03 Queens Blvd.  Jamaica, NY 11435",
+      "phone": "7184254455\n      - John Starks Kia phone number",
+      "website": "http://WWW.JOHNSTARKSKIA.COM",
+      "distance": "9.7\n      \n            Miles Away",
+      "services": [
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    E\n   John Starks Kia 139-03 Queens Blvd.  Jamaica, NY 11435 \n      7184254455\n      - John Starks Kia phone number  \n      9.7\n      \n            Miles Away\n           \n            Get a Quote\n  ...",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452709"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "",
+      "address": "9.7\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=10001&daddr=139-03 Queens Blvd. ,Jamaica, NY 11435",
+      "distance": "9.7\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      9.7\n      \n            Miles Away\n          ",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452715"
+    },
+    {
+      "zip_searched": "10001",
+      "name": "",
+      "address": "4.8\n      \n        Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=10001&daddr=61-07 Northern Blvd ,Woodside, NY 11377",
+      "distance": "4.8\n      \n        Miles Away",
+      "services": [],
+      "full_text": "\n      4.8\n      \n        Miles Away\n      ",
+      "source_zip": "10001",
+      "collected_at": "2025-09-15T18:55:44.452723"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "Kia Santa Monica",
+      "address": "1100 Santa Monica Blvd.  Santa Monica, CA 90404",
+      "phone": "4242145870\n      - Kia Santa Monica phone number",
+      "website": "http://KIASANTAMONICA.COM",
+      "distance": "6.4\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": " \n    List View\n     \n        Your Kia Dealers\n        Results Appear Below As You finish typing the zip code.     Use My Location    \n        List View\n       \n        Map View\n          \n    A\n   Ki...",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657410"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "",
+      "address": "6.4\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=90210&daddr=1100 Santa Monica Blvd. ,Santa Monica, CA 90404",
+      "distance": "6.4\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      6.4\n      \n            Miles Away\n          ",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657432"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "Van Nuys Kia",
+      "address": "6115 Van Nuys Blvd.  Van Nuys, CA 91401",
+      "phone": "8187510051\n      - Van Nuys Kia phone number",
+      "website": "http://VANNUYSKIA.COM",
+      "distance": "7.0\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": "\n    B\n   Van Nuys Kia 6115 Van Nuys Blvd.  Van Nuys, CA 91401 \n      8187510051\n      - Van Nuys Kia phone number  \n      7.0\n      \n            Miles Away\n           \n            Get a Quote\n       ...",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657440"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "",
+      "address": "7.0\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=90210&daddr=6115 Van Nuys Blvd. ,Van Nuys, CA 91401",
+      "distance": "7.0\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      7.0\n      \n            Miles Away\n          ",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657445"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "Kia Downtown Los Angeles",
+      "address": "2100 S. Figueroa Street  Los Angeles, CA 90007",
+      "phone": "8664145619\n      - Kia Downtown Los Angeles phone number",
+      "website": "https://maps.google.com/?dirflg=d&saddr=90210&daddr=2100 S. Figueroa Street ,Los Angeles, CA 90007",
+      "distance": "8.4\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": "\n    C\n   Kia Downtown Los Angeles 2100 S. Figueroa Street  Los Angeles, CA 90007 \n      8664145619\n      - Kia Downtown Los Angeles phone number  \n      8.4\n      \n            Miles Away\n           \n...",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657452"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "",
+      "address": "8.4\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=90210&daddr=2100 S. Figueroa Street ,Los Angeles, CA 90007",
+      "distance": "8.4\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      8.4\n      \n            Miles Away\n          ",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657459"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "Car Pros Kia Glendale",
+      "address": "400 South Brand Blvd.  Glendale, CA 91204",
+      "phone": "8187451400\n      - Car Pros Kia Glendale phone number",
+      "website": "http://GLENDALEKIA.COM",
+      "distance": "9.4\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": "\n    D\n   Car Pros Kia Glendale 400 South Brand Blvd.  Glendale, CA 91204 \n      8187451400\n      - Car Pros Kia Glendale phone number  \n      9.4\n      \n            Miles Away\n           \n           ...",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657469"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "",
+      "address": "9.4\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=90210&daddr=400 South Brand Blvd. ,Glendale, CA 91204",
+      "distance": "9.4\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      9.4\n      \n            Miles Away\n          ",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657475"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "Kia of Alhambra",
+      "address": "1247 West Main Street  Alhambra, CA 91801",
+      "phone": "6265419386\n      - Kia of Alhambra phone number",
+      "website": "http://KIAOFALHAMBRA.COM",
+      "distance": "15.3\n      \n            Miles Away",
+      "services": [
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    E\n   Kia of Alhambra 1247 West Main Street  Alhambra, CA 91801 \n      6265419386\n      - Kia of Alhambra phone number  \n      15.3\n      \n            Miles Away\n           \n            Get a Quot...",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657481"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "",
+      "address": "15.3\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=90210&daddr=1247 West Main Street ,Alhambra, CA 91801",
+      "distance": "15.3\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      15.3\n      \n            Miles Away\n          ",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657487"
+    },
+    {
+      "zip_searched": "90210",
+      "name": "",
+      "address": "6.4\n      \n        Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=90210&daddr=1100 Santa Monica Blvd. ,Santa Monica, CA 90404",
+      "distance": "6.4\n      \n        Miles Away",
+      "services": [],
+      "full_text": "\n      6.4\n      \n        Miles Away\n      ",
+      "source_zip": "90210",
+      "collected_at": "2025-09-15T18:56:04.657494"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "Kia of Lincolnwood",
+      "address": "6750 N. Lincoln Avenue  Lincolnwood, IL 60712",
+      "phone": "8475817500\n      - Kia of Lincolnwood phone number",
+      "website": "http://KIAOFLINCOLNWOOD.COM",
+      "distance": "9.7\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": " \n    List View\n     \n        Your Kia Dealers\n        Results Appear Below As You finish typing the zip code.     Use My Location    \n        List View\n       \n        Map View\n          \n    A\n   Ki...",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433851"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "Berwyn Kia",
+      "address": "7050 Ogden Avenue  Berwyn, IL 60402",
+      "phone": "7087970300\n      - Berwyn Kia phone number",
+      "website": "http://BERWYNKIA.COM",
+      "distance": "9.9\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    B\n   Berwyn Kia 7050 Ogden Avenue  Berwyn, IL 60402 \n      7087970300\n      - Berwyn Kia phone number  \n      9.9\n      \n            Miles Away\n           \n            Get a Quote\n            \n  ...",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433878"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "",
+      "address": "9.9\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=60601&daddr=7050 Ogden Avenue ,Berwyn, IL 60402",
+      "distance": "9.9\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      9.9\n      \n            Miles Away\n          ",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433884"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "Evergreen Kia",
+      "address": "9205 S. Western Ave.  Chicago, IL 60643",
+      "phone": "7737794281\n      - Evergreen Kia phone number",
+      "website": "http://EVERGREENKIA.NET",
+      "distance": "11.4\n      \n            Miles Away",
+      "services": [
+        "Kia Maintenance Plan",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": "\n    C\n   Evergreen Kia 9205 S. Western Ave.  Chicago, IL 60643 \n      7737794281\n      - Evergreen Kia phone number  \n      11.4\n      \n            Miles Away\n           \n            Get a Quote\n    ...",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433913"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "",
+      "address": "11.4\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=60601&daddr=9205 S. Western Ave. ,Chicago, IL 60643",
+      "distance": "11.4\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      11.4\n      \n            Miles Away\n          ",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433926"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "Napleton's Kia of Elmhurst",
+      "address": "727 W. Grand Avenue  Elmhurst, IL 60126",
+      "phone": "6307829300\n      - Napleton's Kia of Elmhurst phone number",
+      "website": "http://NAPLETONKIA.COM",
+      "distance": "17.6\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    D\n   Napleton's Kia of Elmhurst 727 W. Grand Avenue  Elmhurst, IL 60126 \n      6307829300\n      - Napleton's Kia of Elmhurst phone number  \n      17.6\n      \n            Miles Away\n           \n  ...",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433933"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "",
+      "address": "17.6\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=60601&daddr=727 W. Grand Avenue ,Elmhurst, IL 60126",
+      "distance": "17.6\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      17.6\n      \n            Miles Away\n          ",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433938"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "Willowbrook Kia",
+      "address": "7345 South Kingery Hwy.  Willowbrook, IL 60527",
+      "phone": "6309865000\n      - Willowbrook Kia phone number",
+      "website": "http://WILLOWBROOKKIA.COM",
+      "distance": "18.7\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Kia Maintenance Plan",
+        "Service"
+      ],
+      "full_text": "\n    E\n   Willowbrook Kia 7345 South Kingery Hwy.  Willowbrook, IL 60527 \n      6309865000\n      - Willowbrook Kia phone number  \n      18.7\n      \n            Miles Away\n           \n            Get a...",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433944"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "",
+      "address": "18.7\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=60601&daddr=7345 South Kingery Hwy. ,Willowbrook, IL 60527",
+      "distance": "18.7\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      18.7\n      \n            Miles Away\n          ",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433949"
+    },
+    {
+      "zip_searched": "60601",
+      "name": "",
+      "address": "9.7\n      \n        Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=60601&daddr=6750 N. Lincoln Avenue ,Lincolnwood, IL 60712",
+      "distance": "9.7\n      \n        Miles Away",
+      "services": [],
+      "full_text": "\n      9.7\n      \n        Miles Away\n      ",
+      "source_zip": "60601",
+      "collected_at": "2025-09-15T18:56:24.433957"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "Doral Kia",
+      "address": "10603 Nw 12th Street  Doral, FL 33172",
+      "phone": "3055205592\n      - Doral Kia phone number",
+      "website": "http://DORALKIA.COM",
+      "distance": "10.5\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": " \n    List View\n     \n        Your Kia Dealers\n        Results Appear Below As You finish typing the zip code.     Use My Location    \n        List View\n       \n        Map View\n          \n    A\n   Do...",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337392"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "",
+      "address": "10.5\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=33101&daddr=10603 Nw 12th Street ,Doral, FL 33172",
+      "distance": "10.5\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      10.5\n      \n            Miles Away\n          ",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337445"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "Miami Lakes Kia",
+      "address": "16600 Nw 57th Avenue  Miami Lakes, FL 33014",
+      "phone": "3055582400\n      - Miami Lakes Kia phone number",
+      "website": "http://MIAMILAKESKIA.COM",
+      "distance": "11.6\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": "\n    B\n   Miami Lakes Kia 16600 Nw 57th Avenue  Miami Lakes, FL 33014 \n      3055582400\n      - Miami Lakes Kia phone number  \n      11.6\n      \n            Miles Away\n           \n            Get a Qu...",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337459"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "",
+      "address": "11.6\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=33101&daddr=16600 Nw 57th Avenue ,Miami Lakes, FL 33014",
+      "distance": "11.6\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      11.6\n      \n            Miles Away\n          ",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337469"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "Hollywood Kia",
+      "address": "6011 Pembroke Road  Hollywood, FL 33023",
+      "phone": "9549675665\n      - Hollywood Kia phone number",
+      "website": "http://HOLLYWOODKIA.COM",
+      "distance": "14.9\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Service"
+      ],
+      "full_text": "\n    C\n   Hollywood Kia 6011 Pembroke Road  Hollywood, FL 33023 \n      9549675665\n      - Hollywood Kia phone number  \n      14.9\n      \n            Miles Away\n           \n            Get a Quote\n    ...",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337479"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "",
+      "address": "14.9\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=33101&daddr=6011 Pembroke Road ,Hollywood, FL 33023",
+      "distance": "14.9\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      14.9\n      \n            Miles Away\n          ",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337489"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "South Dade Kia",
+      "address": "17120 S. Dixie Highway  Miami, FL 33157",
+      "phone": "3052566410\n      - South Dade Kia phone number",
+      "website": "http://SOUTHDADEKIA.COM",
+      "distance": "14.9\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Service"
+      ],
+      "full_text": "\n    D\n   South Dade Kia 17120 S. Dixie Highway  Miami, FL 33157 \n      3052566410\n      - South Dade Kia phone number  \n      14.9\n      \n            Miles Away\n           \n            Get a Quote\n  ...",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337496"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "Gunther Kia",
+      "address": "1900 S. State Rd. 7  Ft. Lauderdale, FL 33317",
+      "phone": "9548002120\n      - Gunther Kia phone number",
+      "website": "http://GUNTHERKIA.COM",
+      "distance": "21.8\n      \n            Miles Away",
+      "services": [
+        "Authorized Kia Express Service",
+        "Certified Wholesale Dealer",
+        "Service"
+      ],
+      "full_text": "\n    E\n   Gunther Kia 1900 S. State Rd. 7  Ft. Lauderdale, FL 33317 \n      9548002120\n      - Gunther Kia phone number  \n      21.8\n      \n            Miles Away\n           \n            Get a Quote\n  ...",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337507"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "",
+      "address": "21.8\n      \n            Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=33101&daddr=1900 S. State Rd. 7 ,Ft. Lauderdale, FL 33317",
+      "distance": "21.8\n      \n            Miles Away",
+      "services": [],
+      "full_text": "\n      21.8\n      \n            Miles Away\n          ",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337515"
+    },
+    {
+      "zip_searched": "33101",
+      "name": "",
+      "address": "10.5\n      \n        Miles Away",
+      "phone": "",
+      "website": "https://maps.google.com/?dirflg=d&saddr=33101&daddr=10603 Nw 12th Street ,Doral, FL 33172",
+      "distance": "10.5\n      \n        Miles Away",
+      "services": [],
+      "full_text": "\n      10.5\n      \n        Miles Away\n      ",
+      "source_zip": "33101",
+      "collected_at": "2025-09-15T18:56:44.337528"
+    }
+  ]
+}

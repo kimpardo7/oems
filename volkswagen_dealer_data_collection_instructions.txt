@@ -1,0 +1,25 @@
+Step-by-Step Instructions for Collecting Volkswagen Dealer Data:
+
+1. Open a web browser and navigate to the Volkswagen dealer search page at https://www.vw.com/en/dealer-search.html.
+
+2. In the search input field, enter a valid US zip code to start the search for dealers in that area.
+
+3. Press the 'Enter' key to initiate the search.
+
+4. Scroll through the dealer list to ensure all dealers are loaded on the page.
+
+5. For each dealer listed, collect the following information:
+   - Dealer Name
+   - Website URL
+   - Phone Number
+   - Email (if available)
+   - Street Address
+   - City
+   - State
+   - ZIP Code
+
+6. Repeat steps 2-5 for different zip codes to cover all 50 states in the US.
+
+7. Compile the collected data into a JSON file, ensuring the structure is consistent with existing files like `honda.json`.
+
+8. Save the JSON file in the appropriate directory for further use or analysis.
