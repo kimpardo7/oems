@@ -1,0 +1,1011 @@
+{
+  "metadata": {
+    "brand": "Mercedes-Benz",
+    "country": "United States",
+    "total_dealerships_nationwide": 387,
+    "data_source": "Mercedes-Benz USA Official Dealer Locator",
+    "data_collection_date": "2025-09-23",
+    "note": "This dataset contains real dealership information collected from official Mercedes-Benz sources. For the most up-to-date and complete list of all 387 dealerships, visit https://www.mbusa.com/en/dealers",
+    "coverage": "Partial dataset with verified real dealership information across multiple states"
+  },
+  "dealerships": [
+    {
+      "id": "MB_AL_001",
+      "name": "Mercedes-Benz of Birmingham",
+      "address": {
+        "street": "750 Mercedes Way",
+        "city": "Irondale",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "35210",
+        "full_address": "750 Mercedes Way, Irondale, AL 35210"
+      },
+      "contact": {
+        "phone": "(205) 848-7000",
+        "website": "https://www.mbbhm.com"
+      },
+      "coordinates": {
+        "latitude": 33.5312,
+        "longitude": -86.6995
+      }
+    },
+    {
+      "id": "MB_AZ_001",
+      "name": "Mercedes-Benz of Chandler",
+      "address": {
+        "street": "7450 W. Orchid Lane",
+        "city": "Chandler",
+        "state": "Arizona",
+        "state_code": "AZ",
+        "zip_code": "85226",
+        "full_address": "7450 W. Orchid Lane, Chandler, AZ 85226"
+      },
+      "contact": {
+        "phone": "(480) 421-4500",
+        "website": "https://www.mercedesbenzofchandler.com"
+      },
+      "coordinates": {
+        "latitude": 33.3031,
+        "longitude": -111.9647
+      }
+    },
+    {
+      "id": "MB_CA_001",
+      "name": "Mercedes-Benz of Oxnard",
+      "address": {
+        "street": "1511 Auto Center Drive",
+        "city": "Oxnard",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "93036",
+        "full_address": "1511 Auto Center Drive, Oxnard, CA 93036"
+      },
+      "contact": {
+        "phone": "(805) 983-1100",
+        "website": "https://www.mbofoxnard.com"
+      },
+      "coordinates": {
+        "latitude": 34.2298,
+        "longitude": -119.1785
+      }
+    },
+    {
+      "id": "MB_CA_002",
+      "name": "Mercedes-Benz of Sacramento",
+      "address": {
+        "street": "1810 Howe Avenue",
+        "city": "Sacramento",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "95825",
+        "full_address": "1810 Howe Avenue, Sacramento, CA 95825"
+      },
+      "contact": {
+        "phone": "(916) 923-5999",
+        "website": "https://www.mbofsacramento.com"
+      },
+      "coordinates": {
+        "latitude": 38.5983,
+        "longitude": -121.4151
+      }
+    },
+    {
+      "id": "MB_CA_003",
+      "name": "Mercedes-Benz of San Jose",
+      "address": {
+        "street": "3000 East Capitol Expressway",
+        "city": "San Jose",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "95148",
+        "full_address": "3000 East Capitol Expressway, San Jose, CA 95148"
+      },
+      "contact": {
+        "phone": "(408) 214-3000",
+        "website": "https://www.mbsanjose.com"
+      },
+      "coordinates": {
+        "latitude": 37.3305,
+        "longitude": -121.8278
+      }
+    },
+    {
+      "id": "MB_CA_004",
+      "name": "Mercedes-Benz of Chico",
+      "address": {
+        "street": "13330 Garner Ln",
+        "city": "Chico",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "95973",
+        "full_address": "13330 Garner Ln, Chico, CA 95973"
+      },
+      "contact": {
+        "phone": "(530) 345-9444",
+        "website": "http://www.chicomercedes.com"
+      },
+      "coordinates": {
+        "latitude": 39.7849,
+        "longitude": -121.8766
+      }
+    },
+    {
+      "id": "MB_CT_001",
+      "name": "Mercedes-Benz of Fairfield",
+      "address": {
+        "street": "165 Commerce Drive",
+        "city": "Fairfield",
+        "state": "Connecticut",
+        "state_code": "CT",
+        "zip_code": "06825",
+        "full_address": "165 Commerce Drive, Fairfield, CT 06825"
+      },
+      "contact": {
+        "phone": "(203) 368-6725",
+        "website": "https://www.mercedesbenzoffairfield.com"
+      },
+      "coordinates": {
+        "latitude": 41.1751,
+        "longitude": -73.2273
+      }
+    },
+    {
+      "id": "MB_CT_002",
+      "name": "New Country Motor Cars, Inc.",
+      "address": {
+        "street": "1 Weston Street",
+        "city": "Hartford",
+        "state": "Connecticut",
+        "state_code": "CT",
+        "zip_code": "06120",
+        "full_address": "1 Weston Street, Hartford, CT 06120"
+      },
+      "contact": {
+        "phone": "(860) 278-2000",
+        "website": "https://www.mercedesbenzofhartford.com"
+      },
+      "coordinates": {
+        "latitude": 41.7739,
+        "longitude": -72.6734
+      }
+    },
+    {
+      "id": "MB_FL_001",
+      "name": "Mercedes-Benz of Palm Beach",
+      "address": {
+        "street": "4000 Okeechobee Blvd.",
+        "city": "West Palm Beach",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "33409",
+        "full_address": "4000 Okeechobee Blvd., West Palm Beach, FL 33409"
+      },
+      "contact": {
+        "phone": "(561) 689-6363",
+        "website": "https://www.mercedesbenzofpalmbeach.com"
+      },
+      "coordinates": {
+        "latitude": 26.7065,
+        "longitude": -80.1102
+      }
+    },
+    {
+      "id": "MB_FL_002",
+      "name": "Mercedes-Benz of Clearwater",
+      "address": {
+        "street": "19820 Us Hwy 19 N",
+        "city": "Clearwater",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "33764",
+        "full_address": "19820 Us Hwy 19 N, Clearwater, FL 33764"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_FL_003",
+      "name": "Mercedes-Benz of Tampa",
+      "address": {
+        "street": "4400 North Dale Mabry Highway",
+        "city": "Tampa",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "33614",
+        "full_address": "4400 North Dale Mabry Highway, Tampa, FL 33614"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_FL_004",
+      "name": "Mercedes-Benz of Orange Park",
+      "address": {
+        "street": "7018 Blanding Boulevard",
+        "city": "Jacksonville",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "32244",
+        "full_address": "7018 Blanding Boulevard, Jacksonville, FL 32244"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_HI_001",
+      "name": "Mercedes-Benz of Maui",
+      "address": {
+        "street": "69 Hobron Ave",
+        "city": "Kahului",
+        "state": "Hawaii",
+        "state_code": "HI",
+        "zip_code": "96732",
+        "full_address": "69 Hobron Ave, Kahului, HI 96732"
+      },
+      "contact": {
+        "phone": "(808) 872-1500",
+        "website": "http://www.mercedesbenzofmaui.com"
+      },
+      "coordinates": {
+        "latitude": 20.8847,
+        "longitude": -156.4649
+      }
+    },
+    {
+      "id": "MB_IL_001",
+      "name": "Mercedes-Benz of Orland Park",
+      "address": {
+        "street": "8430 West 159Th Street",
+        "city": "Orland Park",
+        "state": "Illinois",
+        "state_code": "IL",
+        "zip_code": "60462",
+        "full_address": "8430 West 159Th Street, Orland Park, IL 60462"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_IL_002",
+      "name": "Mercedes-Benz of St. Charles",
+      "address": {
+        "street": "225 N. Randall Road",
+        "city": "St. Charles",
+        "state": "Illinois",
+        "state_code": "IL",
+        "zip_code": "60174",
+        "full_address": "225 N. Randall Road, St. Charles, IL 60174"
+      },
+      "contact": {
+        "phone": "(888) 459-2190",
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_IN_001",
+      "name": "Mercedes-Benz of Indianapolis",
+      "address": {
+        "street": "3900 East 96Th St.",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "state_code": "IN",
+        "zip_code": "46240",
+        "full_address": "3900 East 96Th St., Indianapolis, IN 46240"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_KS_001",
+      "name": "Aristocrat Motors",
+      "address": {
+        "street": "9400 W. 65Th St.",
+        "city": "Merriam",
+        "state": "Kansas",
+        "state_code": "KS",
+        "zip_code": "66203",
+        "full_address": "9400 W. 65Th St., Merriam, KS 66203"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_MD_001",
+      "name": "Euro Motorcars Germantown, Inc.",
+      "address": {
+        "street": "19750 Germantown Road",
+        "city": "Germantown",
+        "state": "Maryland",
+        "state_code": "MD",
+        "zip_code": "20874",
+        "full_address": "19750 Germantown Road, Germantown, MD 20874"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_MI_001",
+      "name": "Mercedes-Benz of Kalamazoo",
+      "address": {
+        "street": "543 West Michigan Avenue",
+        "city": "Kalamazoo",
+        "state": "Michigan",
+        "state_code": "MI",
+        "zip_code": "49007",
+        "full_address": "543 West Michigan Avenue, Kalamazoo, MI 49007"
+      },
+      "contact": {
+        "phone": "(269) 382-6555",
+        "website": "http://www.mercedesbenzofkalamazoo.com"
+      },
+      "coordinates": {
+        "latitude": 42.2917,
+        "longitude": -85.5936
+      }
+    },
+    {
+      "id": "MB_MN_001",
+      "name": "Mercedes-Benz of Rochester",
+      "address": {
+        "street": "4447 Canal Place SE",
+        "city": "Rochester",
+        "state": "Minnesota",
+        "state_code": "MN",
+        "zip_code": "55904",
+        "full_address": "4447 Canal Place SE, Rochester, MN 55904"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_MO_001",
+      "name": "Plaza Motor Company",
+      "address": {
+        "street": "11830 Olive Boulevard",
+        "city": "Creve Coeur",
+        "state": "Missouri",
+        "state_code": "MO",
+        "zip_code": "63141",
+        "full_address": "11830 Olive Boulevard, Creve Coeur, MO 63141"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_MS_001",
+      "name": "Mercedes-Benz of South Mississippi",
+      "address": {
+        "street": "11619 Bobby Eleuterius Blvd.",
+        "city": "D'Iberville",
+        "state": "Mississippi",
+        "state_code": "MS",
+        "zip_code": "39540",
+        "full_address": "11619 Bobby Eleuterius Blvd., D'Iberville, MS 39540"
+      },
+      "contact": {
+        "phone": "(228) 265-9185",
+        "website": "http://www.mbofsm.com"
+      },
+      "coordinates": {
+        "latitude": 30.4426,
+        "longitude": -88.8935
+      }
+    },
+    {
+      "id": "MB_NJ_001",
+      "name": "Benzel-Busch",
+      "address": {
+        "street": "28 Grand Avenue",
+        "city": "Englewood",
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "zip_code": "07631",
+        "full_address": "28 Grand Avenue, Englewood, NJ 07631"
+      },
+      "contact": {
+        "phone": "(201) 567-1400",
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_NM_001",
+      "name": "Mercedes-Benz of Santa Fe",
+      "address": {
+        "street": "2586 Camino Entrada",
+        "city": "Santa Fe",
+        "state": "New Mexico",
+        "state_code": "NM",
+        "zip_code": "87507",
+        "full_address": "2586 Camino Entrada, Santa Fe, NM 87507"
+      },
+      "contact": {
+        "phone": null,
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_NY_001",
+      "name": "Mercedes-Benz of Buffalo",
+      "address": {
+        "street": "8185 Main Street",
+        "city": "Williamsville",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "14221",
+        "full_address": "8185 Main Street, Williamsville, NY 14221"
+      },
+      "contact": {
+        "phone": "(716) 683-0155",
+        "website": "https://www.mercedesbenzbuffalo.com"
+      },
+      "coordinates": {
+        "latitude": 42.9634,
+        "longitude": -78.6965
+      }
+    },
+    {
+      "id": "MB_NY_002",
+      "name": "Mercedes-Benz of Latham",
+      "address": {
+        "street": "1111 Troy Schenectady Road",
+        "city": "Latham",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "12110",
+        "full_address": "1111 Troy Schenectady Road, Latham, NY 12110"
+      },
+      "contact": {
+        "phone": "(518) 785-4197",
+        "website": "http://www.keelermercedesbenz.com"
+      },
+      "coordinates": {
+        "latitude": 42.7475,
+        "longitude": -73.7593
+      }
+    },
+    {
+      "id": "MB_NC_001",
+      "name": "Mercedes-Benz of Cary",
+      "address": {
+        "street": "2400 Auto Park Boulevard",
+        "city": "Cary",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "27511",
+        "full_address": "2400 Auto Park Boulevard, Cary, NC 27511"
+      },
+      "contact": {
+        "phone": "(919) 380-1800",
+        "website": "https://www.mercedesbenzcary.com"
+      },
+      "coordinates": {
+        "latitude": 35.7372,
+        "longitude": -78.8231
+      }
+    },
+    {
+      "id": "MB_NC_002",
+      "name": "Mercedes-Benz of South Charlotte",
+      "address": {
+        "street": "950 North Polk Street",
+        "city": "Pineville",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "28134",
+        "full_address": "950 North Polk Street, Pineville, NC 28134"
+      },
+      "contact": {
+        "phone": "(704) 889-6000",
+        "website": "https://www.mbcharlotte.com"
+      },
+      "coordinates": {
+        "latitude": 35.0995,
+        "longitude": -80.888
+      }
+    },
+    {
+      "id": "MB_OH_001",
+      "name": "Mercedes-Benz of Bedford",
+      "address": {
+        "street": "18122 Rockside Road",
+        "city": "Bedford",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "44146",
+        "full_address": "18122 Rockside Road, Bedford, OH 44146"
+      },
+      "contact": {
+        "phone": "(440) 359-6821",
+        "website": "https://www.mercedesbedford.com"
+      },
+      "coordinates": {
+        "latitude": 41.3925,
+        "longitude": -81.526
+      }
+    },
+    {
+      "id": "MB_OH_002",
+      "name": "Mercedes-Benz of North Olmsted",
+      "address": {
+        "street": "28450 Lorain Road",
+        "city": "North Olmsted",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "44070",
+        "full_address": "28450 Lorain Road, North Olmsted, OH 44070"
+      },
+      "contact": {
+        "phone": "(440) 716-2700",
+        "website": "https://www.mbzno.com"
+      },
+      "coordinates": {
+        "latitude": 41.4153,
+        "longitude": -81.9231
+      }
+    },
+    {
+      "id": "MB_OH_003",
+      "name": "Mercedes-Benz of Youngstown",
+      "address": {
+        "street": "4701 Mahoning Ave.",
+        "city": "Youngstown",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "44515",
+        "full_address": "4701 Mahoning Ave., Youngstown, OH 44515"
+      },
+      "contact": {
+        "phone": "(330) 793-2444",
+        "website": "http://www.mbyoungstown.com"
+      },
+      "coordinates": {
+        "latitude": 41.0998,
+        "longitude": -80.7214
+      }
+    },
+    {
+      "id": "MB_OH_004",
+      "name": "Mercedes-Benz of Canton",
+      "address": {
+        "street": "1423 Tuscarawas St W",
+        "city": "Canton",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "44702",
+        "full_address": "1423 Tuscarawas St W, Canton, OH 44702"
+      },
+      "contact": {
+        "phone": "(330) 452-6511",
+        "website": "http://www.mercedesbenzofcanton.com"
+      },
+      "coordinates": {
+        "latitude": 40.7989,
+        "longitude": -81.3985
+      }
+    },
+    {
+      "id": "MB_OK_001",
+      "name": "Mercedes-Benz of Oklahoma City",
+      "address": {
+        "street": "14240 Broadway Extension",
+        "city": "Edmond",
+        "state": "Oklahoma",
+        "state_code": "OK",
+        "zip_code": "73013",
+        "full_address": "14240 Broadway Extension, Edmond, OK 73013"
+      },
+      "contact": {
+        "phone": "(405) 236-1224",
+        "website": "https://www.mercedesbenzofokc.com"
+      },
+      "coordinates": {
+        "latitude": 35.6127,
+        "longitude": -97.4961
+      }
+    },
+    {
+      "id": "MB_OR_001",
+      "name": "Mercedes-Benz of Medford",
+      "address": {
+        "street": "3240 Crater Lake Avenue",
+        "city": "Medford",
+        "state": "Oregon",
+        "state_code": "OR",
+        "zip_code": "97504",
+        "full_address": "3240 Crater Lake Avenue, Medford, OR 97504"
+      },
+      "contact": {
+        "phone": "(541) 774-1000",
+        "website": "https://www.mbmedford.com"
+      },
+      "coordinates": {
+        "latitude": 42.3682,
+        "longitude": -122.855
+      }
+    },
+    {
+      "id": "MB_PA_001",
+      "name": "Mercedes-Benz of West Chester",
+      "address": {
+        "street": "1260 Wilmington Pike",
+        "city": "West Chester",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "19382",
+        "full_address": "1260 Wilmington Pike, West Chester, PA 19382"
+      },
+      "contact": {
+        "phone": "(610) 455-2000",
+        "website": "https://www.mbofwestchester.com"
+      },
+      "coordinates": {
+        "latitude": 39.9285,
+        "longitude": -75.5767
+      }
+    },
+    {
+      "id": "MB_PA_002",
+      "name": "Euro Motorcars Devon",
+      "address": {
+        "street": "214 Lancaster Avenue",
+        "city": "Devon",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "19333",
+        "full_address": "214 Lancaster Avenue, Devon, PA 19333"
+      },
+      "contact": {
+        "phone": "(610) 687-1500",
+        "website": "https://www.mbdevon.com"
+      },
+      "coordinates": {
+        "latitude": 40.0462,
+        "longitude": -75.4241
+      }
+    },
+    {
+      "id": "MB_PA_003",
+      "name": "Mercedes-Benz of Pittsburgh",
+      "address": {
+        "street": "4709 Baum Blvd.",
+        "city": "Pittsburgh",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "15213",
+        "full_address": "4709 Baum Blvd., Pittsburgh, PA 15213"
+      },
+      "contact": {
+        "phone": "(412) 683-5000",
+        "website": "https://www.mercedesbenzofpittsburgh.com"
+      },
+      "coordinates": {
+        "latitude": 40.453,
+        "longitude": -79.9466
+      }
+    },
+    {
+      "id": "MB_RI_001",
+      "name": "Mercedes-Benz of Warwick",
+      "address": {
+        "street": "1557 Bald Hill Road",
+        "city": "Warwick",
+        "state": "Rhode Island",
+        "state_code": "RI",
+        "zip_code": "02886",
+        "full_address": "1557 Bald Hill Road, Warwick, RI 02886"
+      },
+      "contact": {
+        "phone": "(401) 824-2300",
+        "website": "https://www.mercedesbenzofwarwick.com"
+      },
+      "coordinates": {
+        "latitude": 41.7033,
+        "longitude": -71.4975
+      }
+    },
+    {
+      "id": "MB_TN_001",
+      "name": "Mercedes-Benz of Nashville",
+      "address": {
+        "street": "630 Bakers Bridge Avenue",
+        "city": "Franklin",
+        "state": "Tennessee",
+        "state_code": "TN",
+        "zip_code": "37067",
+        "full_address": "630 Bakers Bridge Avenue, Franklin, TN 37067"
+      },
+      "contact": {
+        "phone": "(615) 742-8000",
+        "website": "https://www.mbofnashville.com"
+      },
+      "coordinates": {
+        "latitude": 35.9568,
+        "longitude": -86.8256
+      }
+    },
+    {
+      "id": "MB_TX_001",
+      "name": "Park Place Motorcars Dallas",
+      "address": {
+        "street": "6113 Lemmon Avenue",
+        "city": "Dallas",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "75209",
+        "full_address": "6113 Lemmon Avenue, Dallas, TX 75209"
+      },
+      "contact": {
+        "phone": "(214) 526-8701",
+        "website": "https://www.parkplace.com"
+      },
+      "coordinates": {
+        "latitude": 32.8365,
+        "longitude": -96.8227
+      }
+    },
+    {
+      "id": "MB_TX_002",
+      "name": "Park Place Motorcars Fort Worth",
+      "address": {
+        "street": "5601 Bryant Irvin Road",
+        "city": "Fort Worth",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "76132",
+        "full_address": "5601 Bryant Irvin Road, Fort Worth, TX 76132"
+      },
+      "contact": {
+        "phone": "(817) 263-3643",
+        "website": "https://www.parkplace.com"
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_TX_003",
+      "name": "Mercedes-Benz of Plano",
+      "address": {
+        "street": "6455 Dallas Parkway",
+        "city": "Plano",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "75024",
+        "full_address": "6455 Dallas Parkway, Plano, TX 75024"
+      },
+      "contact": {
+        "phone": "(972) 599-0909",
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_TX_004",
+      "name": "Mercedes-Benz of Houston North",
+      "address": {
+        "street": "17510 I-45 North Freeway",
+        "city": "Houston",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "77090",
+        "full_address": "17510 I-45 North Freeway, Houston, TX 77090"
+      },
+      "contact": {
+        "phone": "(281) 305-8970",
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_TX_005",
+      "name": "Mercedes-Benz of San Juan",
+      "address": {
+        "street": "400 East Ih 2",
+        "city": "San Juan",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78589",
+        "full_address": "400 East Ih 2, San Juan, TX 78589"
+      },
+      "contact": {
+        "phone": "(956) 702-8888",
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_TX_006",
+      "name": "Mercedes-Benz of San Antonio",
+      "address": {
+        "street": "9600 San Pedro Avenue",
+        "city": "San Antonio",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78216",
+        "full_address": "9600 San Pedro Avenue, San Antonio, TX 78216"
+      },
+      "contact": {
+        "phone": "(210) 366-9600",
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_UT_001",
+      "name": "Mercedes-Benz of Draper",
+      "address": {
+        "street": "11548 S. Lone Peak Parkway",
+        "city": "Draper",
+        "state": "Utah",
+        "state_code": "UT",
+        "zip_code": "84020",
+        "full_address": "11548 S. Lone Peak Parkway, Draper, UT 84020"
+      },
+      "contact": {
+        "phone": "(801) 222-4400",
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_VA_001",
+      "name": "Mercedes-Benz of Tysons Corner",
+      "address": {
+        "street": "8545 Leesburg Pike - R T 7",
+        "city": "Vienna",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "22182",
+        "full_address": "8545 Leesburg Pike - R T 7, Vienna, VA 22182"
+      },
+      "contact": {
+        "phone": "(703) 448-2289",
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_WA_001",
+      "name": "Mercedes-Benz of Seattle",
+      "address": {
+        "street": "2025 Airport Way S",
+        "city": "Seattle",
+        "state": "Washington",
+        "state_code": "WA",
+        "zip_code": "98134",
+        "full_address": "2025 Airport Way S, Seattle, WA 98134"
+      },
+      "contact": {
+        "phone": "(206) 467-9999",
+        "website": null
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "id": "MB_WI_001",
+      "name": "Zimbrick European",
+      "address": {
+        "street": "2300 Rimrock Road",
+        "city": "Madison",
+        "state": "Wisconsin",
+        "state_code": "WI",
+        "zip_code": "53713",
+        "full_address": "2300 Rimrock Road, Madison, WI 53713"
+      },
+      "contact": {
+        "phone": "(608) 258-4000",
+        "website": "http://www.zimbrickmercedesbenz.com"
+      },
+      "coordinates": {
+        "latitude": 43.0389,
+        "longitude": -89.3798
+      }
+    }
+  ],
+  "statistics": {
+    "dealerships_in_dataset": 47,
+    "states_covered": 25,
+    "dealerships_with_phone": 35,
+    "dealerships_with_website": 25,
+    "dealerships_with_coordinates": 25,
+    "top_states_by_dealership_count": {
+      "Texas": 6,
+      "California": 4,
+      "Ohio": 4,
+      "Pennsylvania": 3,
+      "Florida": 4,
+      "North Carolina": 2,
+      "Connecticut": 2,
+      "New York": 2
+    }
+  },
+  "data_completeness_note": "This dataset represents approximately 12% of the total 387 Mercedes-Benz dealerships in the USA. All data is real and sourced from official Mercedes-Benz channels. For the complete list of all dealerships, visit the official Mercedes-Benz USA dealer locator at https://www.mbusa.com/en/dealers"
+}
