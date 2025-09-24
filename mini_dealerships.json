@@ -1,0 +1,1289 @@
+{
+  "brand": "MINI",
+  "source": "https://www.miniusa.com/tools/shopping/find-a-dealer.html",
+  "extracted_date": "2025-01-27",
+  "total_dealerships": 160,
+  "dealers_in_json": 160,
+  "dealerships": [
+    {
+      "id": 1,
+      "name": "Schomp MINI",
+      "address": "1001 Plum Valley Lane  Highlands Ranch, CO 80129",
+      "phones": [
+        "877-331-9182"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "MINI of Loveland",
+      "address": "4055 Byrd Drive  Loveland, CO 80538",
+      "phones": [
+        "970-292-5020"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "MINI of Wichita",
+      "address": "10950 East 13th Street North  Wichita, KS 67206",
+      "phones": [
+        "316-719-8300"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "MINI Authorized Service of Santa Fe",
+      "address": "2544 Camino Edward Ortiz  Santa Fe, NM 87507",
+      "phones": [
+        "855-675-2856"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Jackie Cooper MINI",
+      "address": "14145 Broadway Ext  Edmond, OK 73013",
+      "phones": [
+        "866-332-9140"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sandia MINI",
+      "address": "6001 Pan American West Fwy NE  Albuquerque, NM 87109",
+      "phones": [
+        "866-924-5263"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "MINI of Omaha",
+      "address": "13222 F Street  Omaha, NE 68137",
+      "phones": [
+        "402-333-9872"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "MINI of Omaha",
+      "address": "14800 Branch Street  Omaha, NE 68154",
+      "phones": [
+        "877-212-9351"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Baron MINI",
+      "address": "9000 Shawnee Mission Pkwy  Merriam, KS 66202",
+      "phones": [
+        "888-650-5901"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "MINI of Fort Worth",
+      "address": "3000 White Settlement Road  Fort Worth, TX 76107",
+      "phones": [
+        "817-336-0885"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Sewell BMW Collision Center of Grapevine",
+      "address": "1111 E State Hwy 114  Grapevine, TX 76051",
+      "phones": [
+        "817-912-4500"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "MINI of Plano",
+      "address": "6800 Dallas Parkway  Plano, TX 75204",
+      "phones": [
+        "214-778-2600"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "MINI of Dallas",
+      "address": "6250 Lemmon Ave  Dallas, TX 75209",
+      "phones": [
+        "888-552-1933"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "MINI of Des Moines",
+      "address": "9900 Hickman Road  Des Moines, IA 50325",
+      "phones": [
+        "800-724-7365"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "MINI of Murray",
+      "address": "4767 South State Street  Murray, UT 84107",
+      "phones": [
+        "801-262-9475"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "MINI of Austin",
+      "address": "7113 McNeil Drive  Austin, TX 78729",
+      "phones": [
+        "512-343-6464"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "MINI of San Antonio",
+      "address": "15507 IH 10 West  San Antonio, TX 78249",
+      "phones": [
+        "210-732-7121"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "MINI North Scottsdale",
+      "address": "7101 E Chauncey Ln  Phoenix, AZ 85054",
+      "phones": [
+        "877-705-4108"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Penske Automotive Collision Scottsdale",
+      "address": "350 North Hayden Rd  Scottsdale, AZ 85257",
+      "phones": [
+        "480-941-8800"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Penske Collision Arizona",
+      "address": "350 North Hayden Rd  Scottsdale, AZ 85257",
+      "phones": [
+        "480-941-8800"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Tucson MINI Authorized Service",
+      "address": "4635 E. 22nd St.  Tucson, AZ 85711",
+      "phones": [
+        "520-325-6464"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "MINI of Tempe",
+      "address": "7855 South Test Drive  Tempe, AZ 85284",
+      "phones": [
+        "480-421-4700"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "MINI of St. Louis",
+      "address": "40 Sunnen Dr.  St. Louis, MO 63143",
+      "phones": [
+        "314-644-6464"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "MINI of the Woodlands",
+      "address": "16675 Interstate 45 South  Conroe, TX 77385",
+      "phones": [
+        "936-266-1900"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "LaMettry's Bloomington North",
+      "address": "1101 American Blvd West  Bloomington, MN 55420",
+      "phones": [
+        "952-881-4252"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Motorwerks MINI",
+      "address": "705 Louisiana Avenue South  Golden Valley, MN 55426",
+      "phones": [
+        "888-866-5870"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Raymond Auto Body",
+      "address": "1075 Pierce Butler Rte  St. Paul, MN 55104",
+      "phones": [
+        "651-488-0588"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Momentum MINI",
+      "address": "9570 Southwest Freeway  Houston, TX 77074",
+      "phones": [
+        "800-557-5374"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "MINI of Clear Lake",
+      "address": "15943 Gulf Freeway  Webster, TX 77598",
+      "phones": [
+        "281-557-7177"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "***Closed November 3rd, 2021*** MINI of Clear Lake",
+      "address": "400 Gulf Fwy South  League City, TX 77573",
+      "phones": [
+        "888-214-2562"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Roadshow MINI",
+      "address": "405 N Germantown Pkwy  Cordova, TN 38018",
+      "phones": [
+        "877-220-9129"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "MINI of Las Vegas",
+      "address": "5750 West Sahara Ave  Las Vegas, NV 89146",
+      "phones": [
+        "702-570-1009"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "MINI of Madison",
+      "address": "310 W Beltline Highway  Madison, WI 53713",
+      "phones": [
+        "608-729-6464"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Bill Jacobs MINI",
+      "address": "2491 Aurora Avenue  Naperville, IL 60540",
+      "phones": [
+        "866-516-8050"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Patrick MINI",
+      "address": "690 E Golf Rd  Schaumburg, IL 60173",
+      "phones": [
+        "847-843-4000"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Patrick Collision Center",
+      "address": "534 Mall Dr  Schaumburg, IL 60173",
+      "phones": [
+        "847-230-8298"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "MINI of Glencoe North Shore",
+      "address": "2100 Frontage Road  Glencoe, IL 60022",
+      "phones": [
+        "847-998-5200"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "International MINI",
+      "address": "2400 S 108th St  West Allis, WI 53227",
+      "phones": [
+        "877-363-5441"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "MINI of Nashville",
+      "address": "1568 Mallory Lane  Brentwood, TN 37027",
+      "phones": [
+        "615-620-6464"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Dreyer & Reinbold MINI",
+      "address": "10710 Nottingham Way  Zionsville, IN 46077",
+      "phones": [
+        "317-884-7924"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Dreyer & Reinbold MINI",
+      "address": "10710 Nottingham Way  Zionsville, IN 46077",
+      "phones": [
+        "317-884-7924"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Dreyer & Reinbold MINI",
+      "address": "9333 Haver Way  Indianapolis, IN 46240",
+      "phones": [
+        "800-875-2269"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "MINI of Ontario",
+      "address": "1251 Auto Center Drive  Ontario, CA 91761",
+      "phones": [
+        "888-964-5970"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "MINI of Escondido",
+      "address": "1557 Auto Park Way  Escondido, CA 92029",
+      "phones": [
+        "760-745-3000"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "ACG Ontario",
+      "address": "955 Brooks St  Ontario, CA 91762",
+      "phones": [
+        "909-780-1400"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "MINI of San Diego",
+      "address": "5202 Kearny Mesa Road  San Diego, CA 92111",
+      "phones": [
+        "858-616-6464"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "MINI of Monrovia",
+      "address": "1451 South Mountain Avenue  Monrovia, CA 91016",
+      "phones": [
+        "877-278-0090"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "MINI of Fort Wayne",
+      "address": "715 Grand National Drive  Fort Wayne, IN 46804",
+      "phones": [
+        "260-434-4707"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Crevier MINI",
+      "address": "1455 Auto Mall Drive  Santa Ana, CA 92705",
+      "phones": [
+        "714-560-9525"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Sterling Collision Center",
+      "address": "1111 Bell Ave  Tustin, CA 92780",
+      "phones": [
+        "714-259-1111"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "MINI of Grand Rapids",
+      "address": "1010 28th St SE  Grand Rapids, MI 49508",
+      "phones": [
+        "616-452-5101"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Koenes Auto Body",
+      "address": "5100 Patterson Avenue  Grand Rapids, MI 49512",
+      "phones": [
+        "616-949-2640"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "MINI of Downtown Los Angeles",
+      "address": "6201 S Alameda Street  Los Angeles, CA 90001",
+      "phones": [
+        "323-277-4240"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "MINI Authorized Service of Long Beach",
+      "address": "1660 E. Spring Street  Signal Hill, CA 90755",
+      "phones": [
+        "562-216-6625"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "LA Collision Centers",
+      "address": "8026 Lankershim Blvd  North Hollywood, CA 91605",
+      "phones": [
+        "818-768-0244"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "MINI of Universal City NVD & Storage",
+      "address": "4270 Lankershim Blvd  North Hollywood, CA 91602",
+      "phones": [
+        "818-505-7455"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "MINI of Universal City",
+      "address": "4338 Lankershim Boulevard  North Hollywood, CA 91602",
+      "phones": [
+        "818-505-7455"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "First Class Collision Center",
+      "address": "6826 Lankershim Blvd  North Hollywood, CA 91605",
+      "phones": [
+        "818-754-1107"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "South Bay MINI",
+      "address": "18900 Hawthorne Boulevard  Torrance, CA 90504",
+      "phones": [
+        "424-275-2196"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "MINI of Reno",
+      "address": "11505 South Virginia Street  Reno, NV 89511",
+      "phones": [
+        "775-851-6464"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Bob Smith MINI",
+      "address": "24500 Calabasas Road  Calabasas, CA 91302",
+      "phones": [
+        "818-444-1650"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Cincinnati MINI",
+      "address": "6131 Stewart Ave  Cincinnati, OH 45227",
+      "phones": [
+        "877-213-9751"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "MINI of Pensacola",
+      "address": "186A W Airport Blvd  Pensacola, FL 32505",
+      "phones": [
+        "850-497-6464"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "MINI of Knoxville",
+      "address": "10665 Parkside Dr.  Knoxville, TN 37922",
+      "phones": [
+        "888-312-7689"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "MAG MINI of Dublin",
+      "address": "7854 Industrial Pkwy  Plain City, OH 43064",
+      "phones": [
+        "614-733-0708"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "MAG MINI of Dublin",
+      "address": "5825 Venture Drive  Dublin, OH 43017",
+      "phones": [
+        "877-493-1060"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Global Imports MINI",
+      "address": "5925 Peachtree Industrial Blvd  Chamblee, GA 30341",
+      "phones": [
+        "678-569-7550"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Motor City MINI",
+      "address": "29929 Telegraph Rd  Southfield, MI 48034",
+      "phones": [
+        "248-204-4600"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Niello MINI",
+      "address": "2020 Fulton Ave  Sacramento, CA 95825",
+      "phones": [
+        "916-483-6464"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Mall of Georgia MINI",
+      "address": "4641 Harrison Run  Buford, GA 30518",
+      "phones": [
+        "943-202-2100"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Mall of Georgia MINI",
+      "address": "3751 Buford Dr.  Buford, GA 30519",
+      "phones": [
+        "470-238-4040"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Motor City MINI",
+      "address": "1300 West Hamlin Road  Rochester Hills, MI 48309",
+      "phones": [
+        "248-594-3323"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "East Bay MINI Authorized Service",
+      "address": "4340 Rosewood Dr  Pleasanton, CA 94588",
+      "phones": [
+        "833-945-2098"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "MINI Authorized Service of Concord",
+      "address": "1961 Market St  Concord, CA 94520",
+      "phones": [
+        "866-329-6464"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "BMW Concord Collision Center",
+      "address": "1321 Galaxy Way Ste B  Concord, CA 94520",
+      "phones": [
+        "925-682-3577"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "MINI of Stevens Creek",
+      "address": "4201 Stevens Creek Blvd.  Santa Clara, CA 95051",
+      "phones": [
+        "408-641-4608"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Autonation Collision Center Stevens Creek",
+      "address": "4201 Stevens Creek Blvd Suite C  Santa Clara, CA 95051",
+      "phones": [
+        "408-512-2836"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "MINI of Berkeley",
+      "address": "735 Ashby Avenue  Berkeley, CA 94710",
+      "phones": [
+        "855-571-5269"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Sunwise Collision Berkeley",
+      "address": "1255 Eastshore Highway  Berkeley, CA 94710",
+      "phones": [
+        "510-570-3440"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Alioto's Garage - Folsom",
+      "address": "1835 Folsom Street  San Francisco, CA 94103",
+      "phones": [
+        "415-864-3022"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "MINI of San Francisco",
+      "address": "1675 Howard Street  San Francisco, CA 94103",
+      "phones": [
+        "628-235-1200"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "European Collision Center",
+      "address": "180 12th St  San Francisco, CA 94143",
+      "phones": [
+        "415-551-9700"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "JP Auto Body Shop",
+      "address": "112 S Linden Ave  South San Francisco, CA 94080",
+      "phones": [
+        "650-877-9777"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "MINI of Marin",
+      "address": "5880 Paradise Drive  Corte Madera, CA 94925",
+      "phones": [
+        "415-737-0500"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Marin Collision Center",
+      "address": "5880 Paradise Drive  Corte Madera, CA 94925",
+      "phones": [
+        "415-843-4292"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Century MINI",
+      "address": "2930 Laurens Road  Greenville, SC 29607",
+      "phones": [
+        "864-234-6437"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Classic MINI",
+      "address": "2571 SOM Center Road  Willoughby Hills, OH 44094",
+      "phones": [
+        "877-687-2707"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Classic MINI",
+      "address": "8697 Tyler Blvd  Mentor, OH 44060",
+      "phones": [
+        "440-205-9900"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Active Autobody",
+      "address": "1835 NW Couch St  Portland, OR 97209",
+      "phones": [
+        "503-228-7609"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "MINI of Portland",
+      "address": "9134 Southwest Canyon Road  Portland, OR 97225",
+      "phones": [
+        "888-746-9315"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "MINI of Pittsburgh",
+      "address": "4900 Baum Blvd.  Pittsburgh, PA 15213",
+      "phones": [
+        "877-299-9045"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Hendrick MINI",
+      "address": "7036 E Independence Boulevard  Charlotte, NC 28227",
+      "phones": [
+        "866-632-0860"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Tacoma MINI Authorized Service",
+      "address": "3901 20th St E  Tacoma, WA 98424",
+      "phones": [
+        "253-284-6464"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Seattle MINI",
+      "address": "3801 20th ST E  Fife, WA 98242",
+      "phones": [
+        "253-650-1200"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Flow MINI",
+      "address": "2575 Peters Creek Pkwy  Winston Salem, NC 27127",
+      "phones": [
+        "877-270-7089"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Seattle MINI",
+      "address": "11550 Lake City Way NE  Seattle, WA 98125",
+      "phones": [
+        "206-588-4250"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Haury's Collision",
+      "address": "11514 Lake City Way NE  Seattle, WA 98125",
+      "phones": [
+        "206-365-1565"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Seattle MINI",
+      "address": "11514 Lake City Way NE  Seattle, WA 98125",
+      "phones": [
+        "206-495-4515"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "MINI of Buffalo",
+      "address": "8215 Main Street  Williamsville, NY 14221",
+      "phones": [
+        "716-504-6464"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Tom Bush MINI",
+      "address": "9881 Atlantic Blvd  Jacksonville, FL 32225",
+      "phones": [
+        "877-557-0033"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "MINI of Charleston",
+      "address": "1518 Savannah Hwy  Charleston, SC 29407",
+      "phones": [
+        "866-540-3259"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Flow MINI of Raleigh",
+      "address": "5600 Capital Blvd  Raleigh, NC 27616",
+      "phones": [
+        "919-876-4580"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Ferman MINI of Tampa Bay",
+      "address": "31320 US Highway 19 N  Palm Harbor, FL 34684",
+      "phones": [
+        "727-785-3900"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "MINI of Wesley Chapel",
+      "address": "26645 State Road 56  Wesley Chapel, FL 33544",
+      "phones": [
+        "813-907-3600"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "MINI of Rochester",
+      "address": "3875 W Henrietta Rd  Rochester, NY 14623",
+      "phones": [
+        "585-334-9440"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "MINI of Sterling",
+      "address": "14805 A Willard Rd  Chantilly, VA 20151",
+      "phones": [
+        "703-657-0070"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "MINI of Sterling",
+      "address": "21826 Pacific Blvd  Sterling, VA 20166",
+      "phones": [
+        "571-370-7149"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Crown MINI of Richmond",
+      "address": "8712 W. Broad St.  Richmond, VA 23294",
+      "phones": [
+        "804-207-8385"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "MINI of Montgomery County",
+      "address": "820 Russell Avenue  Gaithersburg, MD 20879",
+      "phones": [
+        "240-238-1200"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Dorn's Body & Paint",
+      "address": "8190 Mechanicsville Tpke  Mechanicsville, VA 23111",
+      "phones": [
+        "804-746-3928"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Dorn's Body and Paint",
+      "address": "8190 Mechanicsville Tpke  Mechanicsville, VA 23111",
+      "phones": [
+        "804-746-3928"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "AutoNation Collision Center of Rockville",
+      "address": "5812 Wicomico Ave  Rockville, MD 20852",
+      "phones": [
+        "301-984-8480"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "MINI of Alexandria",
+      "address": "5990 Duke Street  Alexandria, VA 22304",
+      "phones": [
+        "703-751-4630"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Orlando MINI",
+      "address": "350 S Lake Destiny Rd  Orlando, FL 32810",
+      "phones": [
+        "407-835-2727"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "MINI of Towson",
+      "address": "720 Kenilworth Drive  Towson, MD 21204",
+      "phones": [
+        "866-416-3545"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "AutoNation Collision Center of Towson",
+      "address": "803 Gleneagles Court  Towson, MD 21286",
+      "phones": [
+        "410-823-3400"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "MINI of Annapolis",
+      "address": "21 Old Mill Bottom Rd  Annapolis, MD 21409",
+      "phones": [
+        "866-585-8975"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "MINI of Fort Myers",
+      "address": "13880 S Tamiami Trail  Fort Myers, FL 33912",
+      "phones": [
+        "800-798-9237"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Checkered Flag MINI",
+      "address": "5193 Virginia Beach Boulevard  Virginia Beach, VA 23462",
+      "phones": [
+        "757-490-1111"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Checkered Flag Body Shop",
+      "address": "5225 Virginia Beach Blvd  Virginia Beach, VA 23462",
+      "phones": [
+        "757-687-3540"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "MINI of Allentown",
+      "address": "4600 Crackersport Rd.  Allentown, PA 18104",
+      "phones": [
+        "610-821-2500"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "MINI of West Chester",
+      "address": "1275 Wilmington Pike  West Chester, PA 19382",
+      "phones": [
+        "610-455-2800"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "BrandyWine Coachworks",
+      "address": "1209 Baltimore Pike  Chadds Ford, PA 19317",
+      "phones": [
+        "610-459-8860"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "MINI of the Main Line",
+      "address": "130 Montgomery Ave  Bala Cynwyd, PA 19004",
+      "phones": [
+        "610-667-1000"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "MINI of Mt. Laurel",
+      "address": "1220 Route 73  Mount Laurel, NJ 08054",
+      "phones": [
+        "856-778-3000"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Rob's Automotive & Collision",
+      "address": "2700 Veterans Hwy  Bristol, PA 19007",
+      "phones": [
+        "215-826-9200"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Bridgewater Collision Repair",
+      "address": "208 Route 28  Bridgewater, NJ 08807",
+      "phones": [
+        "908-526-0176"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Britland Auto Body",
+      "address": "26 Kearney St  Bridgewater, NJ 08807",
+      "phones": [
+        "732-469-3285"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "MINI of Morristown",
+      "address": "198 Madison Ave  Morristown, NJ 07960",
+      "phones": [
+        "973-221-3697"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "MINI of Edison",
+      "address": "300 Route 1  Edison, NJ 08817",
+      "phones": [
+        "732-393-5464"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Heavenly Autobody",
+      "address": "158 Amboy Rd  Woodbridge, NJ 07095",
+      "phones": [
+        "732-726-1114"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Straightline Collision",
+      "address": "2912 Arthur Kill Road  Staten Island, NY 10309",
+      "phones": [
+        "718-966-8900"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Braman MINI of Palm Beach",
+      "address": "2901 Okeechobee Blvd  West Palm Beach, FL 33409",
+      "phones": [
+        "877-278-8175"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Woodcock Auto Body",
+      "address": "71 Woodcock Mountain Road  Washingtonville, NY 10992",
+      "phones": [
+        "845-496-7598"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "MINI of Ramsey",
+      "address": "925 Rt 17 S  Ramsey, NJ 07446",
+      "phones": [
+        "201-669-3370"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "MINI Authorized Service of Monmouth",
+      "address": "500 State Route 36  Eatontown, NJ 07724",
+      "phones": [
+        "732-440-1200"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "MINI of Manhattan",
+      "address": "555 W 57th St  New York, NY 10019",
+      "phones": [
+        "877-209-8598"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "MINI of Manhattan Executive Sales",
+      "address": "555 W 57th St  New York, NY 10019",
+      "phones": [
+        "212-586-2269"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "MINI of Coconut Creek",
+      "address": "4401 W Sample Rd  Coconut Creek, FL 33073",
+      "phones": [
+        "877-213-2629"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Empire State Auto Group",
+      "address": "1403 Story Ave  Bronx, NY 10473",
+      "phones": [
+        "646-450-4191"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Empire State Auto Group",
+      "address": "1403 Story Ave  Bronx, NY 10473",
+      "phones": [
+        "646-450-4191"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "MINI of Westchester",
+      "address": "543 Tarrytown Road  White Plains, NY 10607",
+      "phones": [
+        "914-761-6666"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "MINI of Latham",
+      "address": "1111 Troy Schenectady Road  Latham, NY 12110",
+      "phones": [
+        "518-640-7884"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Lauderdale MINI",
+      "address": "1441 S Federal Highway  Fort Lauderdale, FL 33316",
+      "phones": [
+        "954-335-6464"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Finish Line Collision",
+      "address": "21 Railroad Avenue  Valley Stream, NY 11580",
+      "phones": [
+        "516-256-2666"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "MINI of Freeport",
+      "address": "280 W Sunrise Hwy  Freeport, NY 11520",
+      "phones": [
+        "516-378-6300"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Braman MINI of Miami",
+      "address": "2060 Biscayne Blvd  Miami, FL 33137",
+      "phones": [
+        "786-388-0124"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "MINI of South Miami",
+      "address": "16165 S Dixie Hwy  Miami, FL 33157",
+      "phones": [
+        "855-880-0590"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "MINI of Fairfield County",
+      "address": "154 Post Rd.  Darien, CT 06820",
+      "phones": [
+        "203-348-4700"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Depalo and Sons Auto Body",
+      "address": "25 New York Avenue  Huntington, NY 11743",
+      "phones": [
+        "631-423-2950"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Habberstad MINI",
+      "address": "950 Jericho Tpke  Huntington Station, NY 11746",
+      "phones": [
+        "800-691-0040"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "MINI of Burlington",
+      "address": "74 Champlain Drive  Shelburne, VT 05482",
+      "phones": [
+        "802-985-8484"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "New Country MINI",
+      "address": "236 Reverend Moody Overpass  Hartford, CT 06120",
+      "phones": [
+        "860-278-7777"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "MINI of Warwick",
+      "address": "1515A Bald Hill Rd  Warwick, RI 02886",
+      "phones": [
+        "877-361-3416"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "MINI of Bedford",
+      "address": "209 S. River Rd.  Bedford, NH 03110",
+      "phones": [
+        "603-637-2900"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Herb Chambers Collision Center of Holliston",
+      "address": "11 Bartzak Drive  Holliston, MA 01746",
+      "phones": [
+        "508-881-8080"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "MINI of Boston",
+      "address": "1168 Commonwealth Ave  Boston, MA 02134",
+      "phones": [
+        "877-283-4516"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Todays Collision",
+      "address": "151 Andover Street  Danvers, MA 01923",
+      "phones": [
+        "978-624-7911"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "MINI of Peabody",
+      "address": "209 Andover St  Peabody, MA 01960",
+      "phones": [
+        "978-536-0088"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "MINI of Rockland",
+      "address": "1040 Hingham Street  Rockland, MA 02370",
+      "phones": [
+        "781-816-8810"
+      ]
+    }
+  ]
+}
