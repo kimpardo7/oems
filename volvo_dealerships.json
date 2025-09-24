@@ -1,0 +1,2269 @@
+{
+  "brand": "Volvo",
+  "USA_Amount_total": 283,
+  "total_dealerships": 283,
+  "last_updated": "2025-01-27",
+  "source": "https://www.volvocars.com/us/dealers/dealer-locator",
+  "dealerships": [
+    {
+      "name": "Almartin Volvo Cars",
+      "address": "85 Executive Drive",
+      "city": "Shelburne",
+      "state": "VT",
+      "zip": "05482",
+      "phone": "(802) 424-9384",
+    },
+    {
+      "name": "Darling's Volvo",
+      "address": "114 Sylvan Road",
+      "city": "Bangor",
+      "state": "ME",
+      "zip": "04401",
+      "phone": "(207) 902-7472"
+    },
+    {
+      "name": "Volvo Cars Cape Cod",
+      "address": "270 North Street",
+      "city": "Hyannis",
+      "state": "MA",
+      "zip": "02601",
+      "phone": "(508) 978-6208"
+    },
+    {
+      "name": "Goodwin's Volvo",
+      "address": "91 Main St.",
+      "city": "Topsham",
+      "state": "ME",
+      "zip": "04086",
+      "phone": "(207) 820-8276"
+    },
+    {
+      "name": "Volvo Cars Plymouth",
+      "address": "500 Colony Place",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "phone": "(508) 876-3484"
+    },
+    {
+      "name": "Portland Volvo Cars",
+      "address": "9 US Route 1",
+      "city": "Scarborough",
+      "state": "ME",
+      "zip": "04074",
+      "phone": "(207) 886-5130"
+    },
+    {
+      "name": "Ira Volvo Cars South Shore",
+      "address": "1030 Hingham Street",
+      "city": "Rockland",
+      "state": "MA",
+      "zip": "02370",
+      "phone": "(781) 546-5086"
+    },
+    {
+      "name": "Viti Volvo Cars Tiverton",
+      "address": "975 Fish Road",
+      "city": "Tiverton",
+      "state": "RI",
+      "zip": "02878",
+      "phone": "(401) 812-4037"
+    },
+    {
+      "name": "Volvo Village of Danvers",
+      "address": "24 Commonwealth Avenue",
+      "city": "Danvers",
+      "state": "MA",
+      "zip": "01923",
+      "phone": "(978) 648-2939"
+    },
+    {
+      "name": "Volvo Cars Exeter",
+      "address": "140 Portsmouth Ave",
+      "city": "Exeter",
+      "state": "NH",
+      "zip": "03833",
+      "phone": "(603) 686-7632"
+    },
+    {
+      "name": "Herb Chambers Volvo Cars Norwood",
+      "address": "1120 Providence Highway Route 1",
+      "city": "Norwood",
+      "state": "MA",
+      "zip": "02062",
+      "phone": "(781) 650-9930"
+    },
+    {
+      "name": "Boston Volvo Cars",
+      "address": "61 North Beacon Street",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02134",
+      "phone": "(857) 382-6340"
+    },
+    {
+      "name": "Steingold Volvo Cars",
+      "address": "766 Broadway",
+      "city": "Pawtucket",
+      "state": "RI",
+      "zip": "02861",
+      "phone": "(401) 388-3586"
+    },
+    {
+      "name": "Jaffarian Volvo Cars",
+      "address": "600 River Street",
+      "city": "Haverhill",
+      "state": "MA",
+      "zip": "01832",
+      "phone": "(978) 652-3438"
+    },
+    {
+      "name": "Tasca Volvo Cars",
+      "address": "1300 Pontiac Ave",
+      "city": "Cranston",
+      "state": "RI",
+      "zip": "02920",
+      "phone": "(401) 567-2955"
+    },
+    {
+      "name": "Bernardi Volvo Cars Natick",
+      "address": "910 Worcester Street",
+      "city": "Natick",
+      "state": "MA",
+      "zip": "01760",
+      "phone": "(781) 620-7961"
+    },
+    {
+      "name": "Lovering Volvo Cars Nashua",
+      "address": "180 Daniel Webster Highway",
+      "city": "Nashua",
+      "state": "NH",
+      "zip": "03060",
+      "phone": "(603) 718-3565"
+    },
+    {
+      "name": "Merrimack Street Volvo Cars",
+      "address": "40-56 Merrimack Street",
+      "city": "Manchester",
+      "state": "NH",
+      "zip": "03101",
+      "phone": "(603) 325-4761"
+    },
+    {
+      "name": "Lovering Volvo Cars Concord",
+      "address": "95 Manchester Street",
+      "city": "Concord",
+      "state": "NH",
+      "zip": "03301",
+      "phone": "(603) 573-9275"
+    },
+    {
+      "name": "Patrick Volvo Cars Auburn",
+      "address": "519 Washington Street",
+      "city": "Auburn",
+      "state": "MA",
+      "zip": "01501",
+      "phone": "(508) 514-5172"
+    },
+    {
+      "name": "Secor Volvo Cars",
+      "address": "575 Broad Street",
+      "city": "New London",
+      "state": "CT",
+      "zip": "06320",
+      "phone": "(860) 419-0254"
+    },
+    {
+      "name": "Lovering Volvo Cars Meredith",
+      "address": "251 Daniel Webster Highway",
+      "city": "Meredith",
+      "state": "NH",
+      "zip": "03253",
+      "phone": "(603) 968-5036"
+    },
+    {
+      "name": "Volvo Cars Keene",
+      "address": "591 Monadnock Highway",
+      "city": "East Swanzey",
+      "state": "NH",
+      "zip": "03446",
+      "phone": "(603) 338-9273"
+    },
+    {
+      "name": "Gengras Volvo Cars East Hartford",
+      "address": "540 Connecticut Blvd",
+      "city": "East Hartford",
+      "state": "CT",
+      "zip": "06108",
+      "phone": "(860) 943-4719"
+    },
+    {
+      "name": "Fathers & Sons Volvo Cars West Springfield",
+      "address": "989 Memorial Ave.",
+      "city": "West Springfield",
+      "state": "MA",
+      "zip": "01089",
+      "phone": "(413) 848-7820"
+    },
+    {
+      "name": "Gengras Volvo Cars North Haven",
+      "address": "375 Washington Ave",
+      "city": "North Haven",
+      "state": "CT",
+      "zip": "06473",
+      "phone": "(475) 265-6911"
+    },
+    {
+      "name": "Volvo Cars of Lebanon",
+      "address": "175 Heater Rd.",
+      "city": "Lebanon",
+      "state": "NH",
+      "zip": "03766",
+      "phone": "(603) 678-4426"
+    },
+    {
+      "name": "Mitchell Volvo Cars Simsbury",
+      "address": "384 Hopmeadow St.",
+      "city": "Simsbury",
+      "state": "CT",
+      "zip": "06070",
+      "phone": "(860) 590-3499"
+    },
+    {
+      "name": "Empire Volvo Cars Smithtown",
+      "address": "633 Middle Country Road",
+      "city": "Saint James",
+      "state": "NY",
+      "zip": "11780",
+      "phone": "(631) 888-9426"
+    },
+    {
+      "name": "Valenti Volvo Cars Watertown",
+      "address": "694 Straits Turnpike",
+      "city": "Watertown",
+      "state": "CT",
+      "zip": "06795",
+      "phone": "(860) 419-0813"
+    },
+    {
+      "name": "Volvo Cars Westport",
+      "address": "556 Post Road East",
+      "city": "Westport",
+      "state": "CT",
+      "zip": "06880",
+      "phone": "(203) 349-8943"
+    },
+    {
+      "name": "Volvo Cars of Huntington",
+      "address": "345 W. Jericho Turnpike",
+      "city": "Huntington",
+      "state": "NY",
+      "zip": "11743",
+      "phone": "(631) 964-6038"
+    },
+    {
+      "name": "Volvo Cars Danbury",
+      "address": "106 Newtown Road",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "phone": "(203) 297-6937"
+    },
+    {
+      "name": "Riley Volvo Cars Stamford",
+      "address": "107 Myrtle Ave.",
+      "city": "Stamford",
+      "state": "CT",
+      "zip": "06902",
+      "phone": "(203) 883-9395"
+    },
+    {
+      "name": "Karp Volvo",
+      "address": "392 Sunrise Highway",
+      "city": "Rockville Centre",
+      "state": "NY",
+      "zip": "11570",
+      "phone": "(516) 981-2827"
+    },
+    {
+      "name": "Bedard Brothers Volvo Cars",
+      "address": "395 South State Road",
+      "city": "Cheshire",
+      "state": "MA",
+      "zip": "01225",
+      "phone": "(413) 366-3429"
+    },
+    {
+      "name": "Volvo Cars Glen Cove",
+      "address": "79 Cedar Swamp Road",
+      "city": "Glen Cove",
+      "state": "NY",
+      "zip": "11542",
+      "phone": "(516) 231-8108"
+    },
+    {
+      "name": "Volvo Cars of Queens",
+      "address": "209-18 Northern Blvd",
+      "city": "Bayside",
+      "state": "NY",
+      "zip": "11361",
+      "phone": "(718) 412-9696"
+    },
+    {
+      "name": "Volvo Cars White Plains",
+      "address": "262 East Main Street",
+      "city": "Elmsford",
+      "state": "NY",
+      "zip": "10523",
+      "phone": "(914) 619-2065"
+    },
+    {
+      "name": "Volvo Cars Manasquan",
+      "address": "2415 Highway 35",
+      "city": "Manasquan",
+      "state": "NJ",
+      "zip": "08736",
+      "phone": "(732) 820-4219"
+    },
+    {
+      "name": "Red Bank Volvo Cars",
+      "address": "100 East Newman Springs Road",
+      "city": "Red Bank",
+      "state": "NJ",
+      "zip": "07701",
+      "phone": "(732) 945-7553"
+    },
+    {
+      "name": "Volvo Cars Brooklyn",
+      "address": "148 39th Street Industry City, Building 19",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11232",
+      "phone": "(929) 560-6402"
+    },
+    {
+      "name": "Volvo Cars Manhattan",
+      "address": "565 11th Avenue",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10036",
+      "phone": "(332) 286-2397"
+    },
+    {
+      "name": "Prestige Volvo Cars Englewood",
+      "address": "190 Engle Street",
+      "city": "Englewood",
+      "state": "NJ",
+      "zip": "07631",
+      "phone": "(201) 942-4283"
+    },
+    {
+      "name": "Kundert Volvo Cars",
+      "address": "136 Route 17 North",
+      "city": "Hasbrouck Heights",
+      "state": "NJ",
+      "zip": "07604",
+      "phone": "(551) 292-7762"
+    },
+    {
+      "name": "Volvo Cars Hudson Valley",
+      "address": "1152 Route 9",
+      "city": "Wappingers Falls",
+      "state": "NY",
+      "zip": "12590",
+      "phone": "(845) 622-3881"
+    },
+    {
+      "name": "Volvo Cars Ramsey",
+      "address": "585 Route 17 South",
+      "city": "Ramsey",
+      "state": "NJ",
+      "zip": "07446",
+      "phone": "(201) 574-0949"
+    },
+    {
+      "name": "Open Road Volvo Cars Edison",
+      "address": "731 Route 1",
+      "city": "Edison",
+      "state": "NJ",
+      "zip": "08817",
+      "phone": "(732) 372-0103"
+    },
+    {
+      "name": "McGovern Volvo Cars Albany",
+      "address": "350 New Karner Rd. - Route 155",
+      "city": "Colonie",
+      "state": "NY",
+      "zip": "12205",
+      "phone": "(518) 299-5292"
+    },
+    {
+      "name": "Smythe Volvo Cars",
+      "address": "40-42 River Road",
+      "city": "Summit",
+      "state": "NJ",
+      "zip": "07901",
+      "phone": "(908) 495-6522"
+    },
+    {
+      "name": "Prestige Volvo",
+      "address": "285 East Route 10",
+      "city": "East Hanover",
+      "state": "NJ",
+      "zip": "07936",
+      "phone": "(973) 791-4227"
+    },
+    {
+      "name": "Volvo Cars Bridgewater",
+      "address": "1028 U.S. Route 22",
+      "city": "Somerville",
+      "state": "NJ",
+      "zip": "08876",
+      "phone": "(908) 774-8411"
+    },
+    {
+      "name": "Volvo Cars Princeton",
+      "address": "2931 Brunswick Pike (Rte 1)",
+      "city": "Lawrenceville",
+      "state": "NJ",
+      "zip": "08648",
+      "phone": "(609) 359-7295"
+    },
+    {
+      "name": "Faulkner Volvo Cars Trevose",
+      "address": "4429 Street Road",
+      "city": "Trevose",
+      "state": "PA",
+      "zip": "19053",
+      "phone": "(267) 727-3248"
+    },
+    {
+      "name": "Cherry Hill Volvo Cars",
+      "address": "1810 Marlton Pike West",
+      "city": "Cherry Hill",
+      "state": "NJ",
+      "zip": "08002",
+      "phone": "(856) 658-8535"
+    },
+    {
+      "name": "Keystone Motors (Doylestown)",
+      "address": "235 S. Main Street",
+      "city": "Doylestown",
+      "state": "PA",
+      "zip": "18901",
+      "phone": "(267) 494-6457"
+    },
+    {
+      "name": "Volvo Cars Fort Washington",
+      "address": "115 Bethlehem Pike",
+      "city": "Fort Washington",
+      "state": "PA",
+      "zip": "19034",
+      "phone": "(215) 583-2395"
+    },
+    {
+      "name": "Wynn Volvo Cars Norristown",
+      "address": "2049 West Main Street",
+      "city": "Norristown",
+      "state": "PA",
+      "zip": "19403",
+      "phone": "(610) 819-7299"
+    },
+    {
+      "name": "Keystone Motors (Berwyn)",
+      "address": "497 E. Lancaster Ave",
+      "city": "Berwyn",
+      "state": "PA",
+      "zip": "19312",
+      "phone": "(610) 819-4960"
+    },
+    {
+      "name": "Brown-Daub Volvo Cars Lehigh Valley",
+      "address": "4046 Jandy Blvd.",
+      "city": "Nazareth",
+      "state": "PA",
+      "zip": "18064",
+      "phone": "(484) 742-3404"
+    },
+    {
+      "name": "Ray Price Volvo Cars",
+      "address": "6300 Route 209",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "zip": "18360",
+      "phone": "(570) 882-2052"
+    },
+    {
+      "name": "Union Park Volvo Cars",
+      "address": "1700 Pennsylvania Avenue",
+      "city": "Wilmington",
+      "state": "DE",
+      "zip": "19806",
+      "phone": "(302) 303-4236"
+    },
+    {
+      "name": "Volvo Cars of Virginia Beach",
+      "address": "4980 Virgnia Beach Blvd",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23462",
+      "phone": "(757) 301-4072"
+    },
+    {
+      "name": "Stillman Volvo Cars",
+      "address": "1290 Wilmington Pike Route 202",
+      "city": "West Chester",
+      "state": "PA",
+      "zip": "19382",
+      "phone": "(610) 819-4956"
+    },
+    {
+      "name": "Scott Volvo Cars Allentown",
+      "address": "2120 33rd Street SW",
+      "city": "Allentown",
+      "state": "PA",
+      "zip": "18103",
+      "phone": "(610) 904-3951"
+    },
+    {
+      "name": "Wynne Volvo Cars Hampton",
+      "address": "1010 West Mercury Boulevard",
+      "city": "Hampton",
+      "state": "VA",
+      "zip": "23666",
+      "phone": "(757) 925-8579"
+    },
+    {
+      "name": "Ken Pollock Volvo Cars",
+      "address": "339 Highway 315",
+      "city": "Pittston",
+      "state": "PA",
+      "zip": "18640",
+      "phone": "(570) 602-5514"
+    },
+    {
+      "name": "Performance Volvo Cars",
+      "address": "5050 West Penn Avenue",
+      "city": "Sinking Spring",
+      "state": "PA",
+      "zip": "19608",
+      "phone": "(610) 819-7387"
+    },
+    {
+      "name": "Volvo Cars New Bern",
+      "address": "3405 Dr M.L. King, Jr. Blvd",
+      "city": "New Bern",
+      "state": "NC",
+      "zip": "28562",
+      "phone": "(252) 518-4735"
+    },
+    {
+      "name": "Volvo Cars Annapolis",
+      "address": "333 Busch's Frontage Rd.",
+      "city": "Annapolis",
+      "state": "MD",
+      "zip": "21409",
+      "phone": "(410) 874-9868"
+    },
+    {
+      "name": "Koons Volvo Cars White Marsh",
+      "address": "5395 Nottingham Drive",
+      "city": "White Marsh",
+      "state": "MD",
+      "zip": "21162",
+      "phone": "(443) 232-2524"
+    },
+    {
+      "name": "Faulkner Volvo Cars Lancaster",
+      "address": "5455 Manheim Pike",
+      "city": "East Petersburg",
+      "state": "PA",
+      "zip": "17520",
+      "phone": "(717) 229-0874"
+    },
+    {
+      "name": "Sheehy Volvo Cars Hunt Valley",
+      "address": "10630 York Road",
+      "city": "Cockeysville",
+      "state": "MD",
+      "zip": "21030",
+      "phone": "(410) 538-1047"
+    },
+    {
+      "name": "Lehman Volvo Cars",
+      "address": "950 North Hills Road",
+      "city": "York",
+      "state": "PA",
+      "zip": "17402",
+      "phone": "(717) 931-6977"
+    },
+    {
+      "name": "Volvo Cars Silver Spring",
+      "address": "3121 Automobile Blvd.",
+      "city": "Silver Spring",
+      "state": "MD",
+      "zip": "20904",
+      "phone": "(301) 517-9143"
+    },
+    {
+      "name": "Alan Byer Volvo Cars Syracuse",
+      "address": "1230 West Genesee Street",
+      "city": "Syracuse",
+      "state": "NY",
+      "zip": "13204",
+      "phone": "(315) 400-8894"
+    },
+    {
+      "name": "Lindsay Volvo Cars of Alexandria",
+      "address": "1700 Kenwood Avenue",
+      "city": "Alexandria",
+      "state": "VA",
+      "zip": "22302",
+      "phone": "(703) 822-5746"
+    },
+    {
+      "name": "Parkway Volvo Cars",
+      "address": "5820 Market Street",
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28405",
+      "phone": "(910) 597-4035"
+    },
+    {
+      "name": "Volvo Cars of Bethesda",
+      "address": "7001 Arlington Rd",
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": "20814",
+      "phone": "(301) 780-4433"
+    },
+    {
+      "name": "Beyer Volvo Cars Falls Church",
+      "address": "1119 West Broad St.",
+      "city": "Falls Church",
+      "state": "VA",
+      "zip": "22046",
+      "phone": "(571) 202-6443"
+    },
+    {
+      "name": "Darcars Volvo Cars",
+      "address": "15401 Frederick Rd",
+      "city": "Rockville",
+      "state": "MD",
+      "zip": "20855",
+      "phone": "(301) 804-6144"
+    },
+    {
+      "name": "Maguire Volvo Cars of Ithaca",
+      "address": "370 Elmira Road",
+      "city": "Ithaca",
+      "state": "NY",
+      "zip": "14850",
+      "phone": "(607) 327-4088"
+    },
+    {
+      "name": "Lehman Motors",
+      "address": "6281 Carlisle Pike",
+      "city": "Mechanicsburg",
+      "state": "PA",
+      "zip": "17050",
+      "phone": "(717) 930-2601"
+    },
+    {
+      "name": "Volvo Cars Richmond",
+      "address": "7211 W. Broad St",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23294",
+      "phone": "(804) 966-0082"
+    },
+    {
+      "name": "DARCARS Volvo Cars Fairfax",
+      "address": "11050 Fairfax Boulevard",
+      "city": "Fairfax",
+      "state": "VA",
+      "zip": "22030",
+      "phone": "(571) 410-3038"
+    },
+    {
+      "name": "Volvo Cars Midlothian",
+      "address": "9811 Midlothian Turnpike",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23235",
+      "phone": "(804) 409-0881"
+    },
+    {
+      "name": "Volvo Cars Fredericksburg",
+      "address": "1001 Noble Way",
+      "city": "Fredericksburg",
+      "state": "VA",
+      "zip": "22401",
+      "phone": "(540) 530-3119"
+    },
+    {
+      "name": "Beyer Volvo Cars Dulles",
+      "address": "21830 Pacific Blvd",
+      "city": "Dulles",
+      "state": "VA",
+      "zip": "20166",
+      "phone": "(571) 771-2679"
+    },
+    {
+      "name": "Volvo Cars of Frederick",
+      "address": "6001 Urbana Pike",
+      "city": "Frederick",
+      "state": "MD",
+      "zip": "21704",
+      "phone": "(301) 479-5795"
+    },
+    {
+      "name": "Younger Volvo Cars Hagerstown",
+      "address": "1935 Dual Highway",
+      "city": "Hagerstown",
+      "state": "MD",
+      "zip": "21740",
+      "phone": "(301) 857-5392"
+    },
+    {
+      "name": "Weaver Brothers Volvo Cars",
+      "address": "4409 Capital Boulevard",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27604",
+      "phone": "(919) 825-3854"
+    },
+    {
+      "name": "Volvo Cars Myrtle Beach",
+      "address": "855 Jason Blvd",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "zip": "29577",
+      "phone": "(843) 484-2464"
+    },
+    {
+      "name": "Volvo Cars Winchester",
+      "address": "4015 Valley Pike",
+      "city": "Winchester",
+      "state": "VA",
+      "zip": "22602"
+    },
+    {
+      "name": "Volvo Cars of Cary",
+      "address": "1375 NW Maynard Rd.",
+      "city": "Cary",
+      "state": "NC",
+      "zip": "27513",
+      "phone": "(919) 238-4654"
+    },
+    {
+      "name": "CMA's Volvo Cars of Charlottesville",
+      "address": "3150 Berkmar Drive",
+      "city": "Charlottesville",
+      "state": "VA",
+      "zip": "22901",
+      "phone": "(434) 331-9259"
+    },
+    {
+      "name": "Volvo Cars Rochester",
+      "address": "1500 University Avenue",
+      "city": "Rochester",
+      "state": "NY",
+      "zip": "14610",
+      "phone": "(585) 659-1450"
+    },
+    {
+      "name": "Volvo Cars Fayetteville",
+      "address": "5935 Cliffdale Rd.",
+      "city": "Fayetteville",
+      "state": "NC",
+      "zip": "28314",
+      "phone": "(910) 557-8304"
+    },
+    {
+      "name": "Johnson Volvo Cars Durham",
+      "address": "966 Southpoint Autopark Blvd",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27713",
+      "phone": "(984) 305-2932"
+    },
+    {
+      "name": "Gunther Volvo Delray Beach",
+      "address": "2201 N. Federal Hwy",
+      "city": "Delray Beach",
+      "state": "FL",
+      "zip": "33483",
+      "phone": "(561) 786-5443"
+    },
+    {
+      "name": "Schumacher Volvo Cars of the Palm Beaches",
+      "address": "3001 Okeechobee Blvd",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "zip": "33409",
+      "phone": "(561) 730-3402"
+    },
+    {
+      "name": "Volvo Cars North Miami",
+      "address": "20800 NW 2nd Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33169",
+      "phone": "(786) 481-4009"
+    },
+    {
+      "name": "Gunther Volvo Cars Coconut Creek",
+      "address": "4350 North State Road 7",
+      "city": "Coconut Creek",
+      "state": "FL",
+      "zip": "33073",
+      "phone": "(954) 371-2615"
+    },
+    {
+      "name": "Bomnin Volvo Cars Dadeland",
+      "address": "8525 South Dixie Hwy",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33143",
+      "phone": "(786) 796-1238"
+    },
+    {
+      "name": "Wallace Volvo Cars",
+      "address": "2655 South East Federal Highway Stuart",
+      "city": "Stuart",
+      "state": "FL",
+      "zip": "34994",
+      "phone": "(772) 732-7318"
+    },
+    {
+      "name": "Weston Volvo Cars",
+      "address": "3650 Weston Road",
+      "city": "Davie",
+      "state": "FL",
+      "zip": "33331",
+      "phone": "(754) 354-0281"
+    },
+    {
+      "name": "Volvo Cars Lynchburg",
+      "address": "2643 Lakeside Drive",
+      "city": "Lynchburg",
+      "state": "VA",
+      "zip": "24501",
+      "phone": "(434) 448-8942"
+    },
+    {
+      "name": "Volvo Cars Burlington",
+      "address": "660 Huffman Mill Rd",
+      "city": "Burlington",
+      "state": "NC",
+      "zip": "27215",
+      "phone": "(336) 537-1982"
+    },
+    {
+      "name": "Hendrick Volvo Cars of Charleston",
+      "address": "1464 Savannah Highway",
+      "city": "Charleston",
+      "state": "SC",
+      "zip": "29407",
+      "phone": "(843) 261-5294"
+    },
+    {
+      "name": "Ridgeville Workshop",
+      "address": "250 Three Point Drive",
+      "city": "Ridgeville",
+      "state": "SC",
+      "zip": "29472"
+    },
+    {
+      "name": "Northtown Volvo Cars Buffalo",
+      "address": "8135 Main Street",
+      "city": "Williamsville",
+      "state": "NY",
+      "zip": "14221",
+      "phone": "(716) 795-4201"
+    },
+    {
+      "name": "Volvo Cars Melbourne",
+      "address": "4340 W. New Haven Blvd",
+      "city": "Melbourne",
+      "state": "FL",
+      "zip": "32904",
+      "phone": "(321) 510-0942"
+    },
+    {
+      "name": "Flow Volvo Cars Greensboro",
+      "address": "5601 Roanne Way",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "27409",
+      "phone": "(336) 814-2250"
+    },
+    {
+      "name": "Delaney Volvo Cars Greensburg",
+      "address": "5200 State Route 30",
+      "city": "Greensburg",
+      "state": "PA",
+      "zip": "15601",
+      "phone": "(724) 951-2580"
+    },
+    {
+      "name": "Volvo Cars Roanoke",
+      "address": "5000 Franklin Rd.",
+      "city": "Roanoke",
+      "state": "VA",
+      "zip": "24014",
+      "phone": "(540) 900-2950"
+    },
+    {
+      "name": "Volvo Cars Winston Salem",
+      "address": "701 Peters Creek Parkway",
+      "city": "Winston Salem",
+      "state": "NC",
+      "zip": "27103",
+      "phone": "(336) 850-5690"
+    },
+    {
+      "name": "Gunther Volvo Cars Daytona Beach",
+      "address": "1270 N. Tomoka Farms Rd. #1",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "zip": "32124",
+      "phone": "(386) 261-9248"
+    },
+    {
+      "name": "Volvo Cars Hilton Head",
+      "address": "12 Gateway Village Road",
+      "city": "Bluffton",
+      "state": "SC",
+      "zip": "29910",
+      "phone": "(843) 493-7503"
+    },
+    {
+      "name": "The Volvo Store",
+      "address": "1051 W Webster Avenue",
+      "city": "Winter Park",
+      "state": "FL",
+      "zip": "32789",
+      "phone": "(407) 378-4737"
+    },
+    {
+      "name": "Johnson Volvo Cars Charlotte",
+      "address": "7040 East Independence Boulevard",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28227",
+      "phone": "(980) 944-8758"
+    },
+    {
+      "name": "University Volvo Cars",
+      "address": "7716 North Tryon Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28262",
+      "phone": "(704) 631-5679"
+    },
+    {
+      "name": "Volvo Cars Savannah",
+      "address": "8301 White Bluff Road",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31406",
+      "phone": "(912) 737-0452"
+    },
+    {
+      "name": "Germain Volvo Cars North Hills",
+      "address": "15035 Perry Highway",
+      "city": "Wexford",
+      "state": "PA",
+      "zip": "15090",
+      "phone": "(724) 598-9418"
+    },
+    {
+      "name": "Germain Volvo Cars South Hills",
+      "address": "2411 Washington Road",
+      "city": "Canonsburg",
+      "state": "PA",
+      "zip": "15317",
+      "phone": "(724) 564-6950"
+    },
+    {
+      "name": "Dick Dyer Volvo Cars",
+      "address": "5825 Two Notch Road",
+      "city": "Columbia",
+      "state": "SC",
+      "zip": "29223",
+      "phone": "(803) 871-9679"
+    },
+    {
+      "name": "Volvo Cars of Naples",
+      "address": "5870 Naples Blvd",
+      "city": "Naples",
+      "state": "FL",
+      "zip": "34109",
+      "phone": "(239) 977-9199"
+    },
+    {
+      "name": "Volvo Cars Erie",
+      "address": "2502 West 26 Street",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16506",
+      "phone": "(814) 527-4121"
+    },
+    {
+      "name": "O'Steen Volvo Cars of Jacksonville",
+      "address": "10863 Phillips Highway",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32256",
+      "phone": "(904) 734-3582"
+    },
+    {
+      "name": "Volvo Cars Fort Myers",
+      "address": "2600 Colonial Blvd",
+      "city": "Fort Myers",
+      "state": "FL",
+      "zip": "33907"
+    },
+    {
+      "name": "Volvo Cars Hickory",
+      "address": "1205 South Center St.",
+      "city": "Hickory",
+      "state": "NC",
+      "zip": "28602",
+      "phone": "(828) 475-8250"
+    },
+    {
+      "name": "Jenkins Volvo Cars Ocala",
+      "address": "4150 North Highway 441",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34475",
+      "phone": "(352) 414-0877"
+    },
+    {
+      "name": "Volvo Cars Wesley Chapel",
+      "address": "28329 Paseo Drive",
+      "city": "Wesley Chapel",
+      "state": "FL",
+      "zip": "33543",
+      "phone": "(813) 807-3408"
+    },
+    {
+      "name": "Volvo Cars Sarasota",
+      "address": "7576 S. Tamiami Trail",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34231",
+      "phone": "(941) 628-7764"
+    },
+    {
+      "name": "Volvo Cars Tampa",
+      "address": "6008 N. Dale Mabry Highway",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33614",
+      "phone": "(813) 492-8341"
+    },
+    {
+      "name": "Gerald Jones Volvo Cars",
+      "address": "4022 Washington Road",
+      "city": "Martinez",
+      "state": "GA",
+      "zip": "30907",
+      "phone": "(706) 670-3396"
+    },
+    {
+      "name": "Volvo Cars Canton",
+      "address": "1449 Cleveland Ave N.W.",
+      "city": "Canton",
+      "state": "OH",
+      "zip": "44703",
+      "phone": "(330) 366-1794"
+    },
+    {
+      "name": "Volvo Cars Charleston",
+      "address": "7 Dudley Farms Lane",
+      "city": "Charleston",
+      "state": "WV",
+      "zip": "25309",
+      "phone": "(304) 462-2545"
+    },
+    {
+      "name": "Crown Volvo Cars",
+      "address": "6001 34th Street N.",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "zip": "33714",
+      "phone": "(727) 231-6609"
+    },
+    {
+      "name": "Leikin Volvo Cars Cleveland",
+      "address": "38750 Mentor Ave",
+      "city": "Willoughby",
+      "state": "OH",
+      "zip": "44094",
+      "phone": "(440) 276-8503"
+    },
+    {
+      "name": "Ferman Volvo Cars of Tarpon Springs",
+      "address": "43520 U.S. Highway 19, North",
+      "city": "Tarpon Springs",
+      "state": "FL",
+      "zip": "34689",
+      "phone": "(727) 349-6120"
+    },
+    {
+      "name": "Motorcars Volvo Cars",
+      "address": "18123 Rockside Rd",
+      "city": "Bedford",
+      "state": "OH",
+      "zip": "44146",
+      "phone": "(440) 664-2046"
+    },
+    {
+      "name": "Volvo Cars Greenville",
+      "address": "148 Duvall Drive",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29607",
+      "phone": "(864) 661-6325"
+    },
+    {
+      "name": "Friendship Volvo Cars of Bristol",
+      "address": "2638 West State Street",
+      "city": "Bristol",
+      "state": "TN",
+      "zip": "37620",
+      "phone": "(423) 769-6866"
+    },
+    {
+      "name": "Montrose Volvo Cars Cleveland",
+      "address": "9600 Brookpark Road",
+      "city": "Cleveland",
+      "state": "OH",
+      "zip": "44129",
+      "phone": "(216) 606-8586"
+    },
+    {
+      "name": "Hunter Volvo Cars Asheville",
+      "address": "208 Hunter Airport Drive",
+      "city": "Fletcher",
+      "state": "NC",
+      "zip": "28732",
+      "phone": "(828) 554-7927"
+    },
+    {
+      "name": "Volvo Cars Mansfield",
+      "address": "1493 Park Avenue West",
+      "city": "Mansfield",
+      "state": "OH",
+      "zip": "44906",
+      "phone": "(419) 845-6353"
+    },
+    {
+      "name": "Byers Volvo",
+      "address": "301 N. Hamilton Road",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43213",
+      "phone": "(614) 689-3733"
+    },
+    {
+      "name": "Volvo Cars Athens",
+      "address": "2890 Atlanta Highway",
+      "city": "Athens",
+      "state": "GA",
+      "zip": "30606",
+      "phone": "(706) 914-2303"
+    },
+    {
+      "name": "Volvo Cars of Macon",
+      "address": "4781 Riverside Dr",
+      "city": "Macon",
+      "state": "GA",
+      "zip": "31210",
+      "phone": "(478) 999-8955"
+    },
+    {
+      "name": "MAG Volvo Cars Dublin",
+      "address": "6335 Perimeter Loop Road",
+      "city": "Dublin",
+      "state": "OH",
+      "zip": "43017",
+      "phone": "(614) 916-9469"
+    },
+    {
+      "name": "Suburban Volvo Cars",
+      "address": "1795 Maplelawn Dr.",
+      "city": "Troy",
+      "state": "MI",
+      "zip": "48084",
+      "phone": "(248) 686-2350"
+    },
+    {
+      "name": "Volvo Cars Mall of Georgia",
+      "address": "3626 Buford Drive NE",
+      "city": "Buford",
+      "state": "GA",
+      "zip": "30519",
+      "phone": "(470) 635-5030"
+    },
+    {
+      "name": "Capital Volvo",
+      "address": "1800 Capital Circle NE",
+      "city": "Tallahassee",
+      "state": "FL",
+      "zip": "32308",
+      "phone": "(850) 788-7949"
+    },
+    {
+      "name": "LaFontaine Volvo Cars of Farmington Hills",
+      "address": "24730 Haggerty Road",
+      "city": "Farmington Hills",
+      "state": "MI",
+      "zip": "48335",
+      "phone": "(947) 218-4232"
+    },
+    {
+      "name": "Clayton Motors",
+      "address": "9715 Parkside Drive",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37922",
+      "phone": "(865) 745-8590"
+    },
+    {
+      "name": "Volvo Cars Perrysburg",
+      "address": "26875 North Dixie Highway",
+      "city": "Perrysburg",
+      "state": "OH",
+      "zip": "43551",
+      "phone": "(419) 658-7750"
+    },
+    {
+      "name": "Dyer & Dyer Volvo Cars",
+      "address": "5260 Peachtree Industrial Blvd",
+      "city": "Chamblee",
+      "state": "GA",
+      "zip": "30341",
+      "phone": "(770) 809-6938"
+    },
+    {
+      "name": "North Point Volvo Cars",
+      "address": "1570 Mansell Road",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30009",
+      "phone": "(770) 758-5534"
+    },
+    {
+      "name": "Sesi Volvo Cars",
+      "address": "3990 Jackson Avenue",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "zip": "48103",
+      "phone": "(734) 415-6492"
+    },
+    {
+      "name": "Volvo Cars of Marietta",
+      "address": "1195 Cobb Parkway S",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30060",
+      "phone": "(770) 809-6512"
+    },
+    {
+      "name": "Quantrell Volvo Cars",
+      "address": "1500 New Circle Rd, NE",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40509",
+      "phone": "(859) 350-7978"
+    },
+    {
+      "name": "Volvo Cars Cincinnati",
+      "address": "4113 Plainville Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45227",
+      "phone": "(513) 916-3981"
+    },
+    {
+      "name": "Volvo Cars Chattanooga",
+      "address": "6037 International Dr.",
+      "city": "Chattanooga",
+      "state": "TN",
+      "zip": "37421",
+      "phone": "(423) 301-8013"
+    },
+    {
+      "name": "Crippen Volvo Cars",
+      "address": "8300 W. Saginaw Hwy",
+      "city": "Lansing",
+      "state": "MI",
+      "zip": "48917",
+      "phone": "(517) 317-6559"
+    },
+    {
+      "name": "Tom Kelley Volvo Cars",
+      "address": "865 Grand National Drive",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "zip": "46804",
+      "phone": "(260) 230-8554"
+    },
+    {
+      "name": "Volvo Cars of Louisville",
+      "address": "5 AutoCenter Drive",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40299",
+      "phone": "(502) 317-2240"
+    },
+    {
+      "name": "Betten Imports, Inc.",
+      "address": "5901 28TH ST SE",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "zip": "49546",
+      "phone": "(847) 200-8913"
+    },
+    {
+      "name": "Maple Hill Volvo Cars",
+      "address": "5622 W. Main",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49009",
+      "phone": "(269) 475-9274"
+    },
+    {
+      "name": "Jack Ingram Volvo Cars",
+      "address": "267 Eastern Blvd",
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36117",
+      "phone": "(334) 429-7446"
+    },
+    {
+      "name": "Serra Volvo Cars of Traverse City",
+      "address": "1747 S. Garfield Ave",
+      "city": "Traverse City",
+      "state": "MI",
+      "zip": "49686",
+      "phone": "(231) 462-5571"
+    },
+    {
+      "name": "Tom Wood Volvo Cars",
+      "address": "4620 E. 96th St",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46240",
+      "phone": "(317) 660-9502"
+    },
+    {
+      "name": "Century Volvo Cars",
+      "address": "3800 University Drive N.W.",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35816",
+      "phone": "(256) 787-0669"
+    },
+    {
+      "name": "Volvo Cars of Bloomington",
+      "address": "3225 S. Walnut Street",
+      "city": "Bloomington",
+      "state": "IN",
+      "zip": "47401",
+      "phone": "(812) 506-2080"
+    },
+    {
+      "name": "Volvo Cars of Vestavia Hills",
+      "address": "3010 Columbiana Road",
+      "city": "Vestavia Hills",
+      "state": "AL",
+      "zip": "35216",
+      "phone": "(205) 847-2741"
+    },
+    {
+      "name": "Volvo of Nashville",
+      "address": "302 Murfreesboro Pike",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37210",
+      "phone": "(615) 673-4489"
+    },
+    {
+      "name": "Volvo Cars Cool Springs",
+      "address": "1599 Mallory Lane",
+      "city": "Brentwood",
+      "state": "TN",
+      "zip": "37027",
+      "phone": "(629) 263-5005"
+    },
+    {
+      "name": "Volvo Cars Pensacola",
+      "address": "3050 Navy Boulevard",
+      "city": "Pensacola",
+      "state": "FL",
+      "zip": "32505",
+      "phone": "(850) 979-8940"
+    },
+    {
+      "name": "Napleton Volvo Cars",
+      "address": "1349 Indianapolis Blvd",
+      "city": "Schererville",
+      "state": "IN",
+      "zip": "46375",
+      "phone": "(219) 348-8932"
+    },
+    {
+      "name": "Howard Orloff Volvo Cars",
+      "address": "1924 N. Paulina Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60622",
+      "phone": "(773) 770-4076"
+    },
+    {
+      "name": "Fields Volvo Cars Northfield",
+      "address": "770 Frontage Road",
+      "city": "Northfield",
+      "state": "IL",
+      "zip": "60093",
+      "phone": "(847) 200-8913"
+    },
+    {
+      "name": "The Autobarn Volvo Cars Oak Park",
+      "address": "1140 Garfield Street",
+      "city": "Oak Park",
+      "state": "IL",
+      "zip": "60304",
+      "phone": "(708) 848-4837"
+    },
+    {
+      "name": "Volvo Cars Orland Park",
+      "address": "8031 W. 159th St.",
+      "city": "Tinley Park",
+      "state": "IL",
+      "zip": "60477",
+      "phone": "(708) 556-2737"
+    },
+    {
+      "name": "Volvo Cars Mobile",
+      "address": "1455 East I-65 Service Road South",
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36606",
+      "phone": "(251) 714-2215"
+    },
+    {
+      "name": "Patrick Volvo Cars",
+      "address": "1600 E. Higgins Rd.",
+      "city": "Schaumburg",
+      "state": "IL",
+      "zip": "60173",
+      "phone": "(847) 380-1702"
+    },
+    {
+      "name": "Volvo Cars Lisle",
+      "address": "4325 Lincoln Avenue",
+      "city": "Lisle",
+      "state": "IL",
+      "zip": "60532",
+      "phone": "(630) 796-4340"
+    },
+    {
+      "name": "McGrath Volvo Cars Barrington",
+      "address": "1415 S. Barrington Road",
+      "city": "Barrington",
+      "state": "IL",
+      "zip": "60010",
+      "phone": "(847) 613-1754"
+    },
+    {
+      "name": "Fields Volvo Cars Waukesha",
+      "address": "1901 East Moreland Blvd",
+      "city": "Waukesha",
+      "state": "WI",
+      "zip": "53186",
+      "phone": "(262) 747-2476"
+    },
+    {
+      "name": "Bergstrom Volvo Cars",
+      "address": "3030 Victory Lane",
+      "city": "Appleton",
+      "state": "WI",
+      "zip": "54913",
+      "phone": "(920) 259-2497"
+    },
+    {
+      "name": "Kunes Volvo Cars Sycamore",
+      "address": "1875 Dekalb Avenue",
+      "city": "Sycamore",
+      "state": "IL",
+      "zip": "60178",
+      "phone": "(815) 336-5043"
+    },
+    {
+      "name": "Fields Volvo Cars Madison",
+      "address": "504 E. Badger Road",
+      "city": "Madison",
+      "state": "WI",
+      "zip": "53713-2121",
+      "phone": "(608) 390-6918"
+    },
+    {
+      "name": "Scherer Volvo Cars",
+      "address": "2200 W. Pioneer Parkway",
+      "city": "Peoria",
+      "state": "IL",
+      "zip": "61615",
+      "phone": "(309) 316-0534"
+    },
+    {
+      "name": "Isringhausen Volvo Cars",
+      "address": "228 East Jefferson",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62701",
+      "phone": "(217) 699-1630"
+    },
+    {
+      "name": "Volvo Cars of Memphis",
+      "address": "7910 Trinity Road",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38018",
+      "phone": "(901) 459-3543"
+    },
+    {
+      "name": "Volvo Cars Jackson",
+      "address": "1791 Government Street",
+      "city": "Brandon",
+      "state": "MS",
+      "zip": "39042",
+      "phone": "(601) 808-5301"
+    },
+    {
+      "name": "Bergeron Volvo Cars",
+      "address": "3541 Veterans Boulevard",
+      "city": "Metairie",
+      "state": "LA",
+      "zip": "70002",
+      "phone": "(504) 223-8070"
+    },
+    {
+      "name": "Volvo Cars St. Louis",
+      "address": "7700 Manchester Rd",
+      "city": "Saint Louis",
+      "state": "MO",
+      "zip": "63143",
+      "phone": "(314) 350-6260"
+    },
+    {
+      "name": "McLaughlin Volvo Cars",
+      "address": "4101 41st Street",
+      "city": "Moline",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 250-1976"
+    },
+    {
+      "name": "Volvo Cars West County",
+      "address": "14410 Manchester Road",
+      "city": "Manchester",
+      "state": "MO",
+      "zip": "63011",
+      "phone": "(636) 535-2887"
+    },
+    {
+      "name": "All Star Volvo Cars of Baton Rouge",
+      "address": "10101 Coursey Blvd",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "zip": "70816",
+      "phone": "(225) 398-5804"
+    },
+    {
+      "name": "Junge Volvo Cars",
+      "address": "1200 Boyson Road",
+      "city": "Hiawatha",
+      "state": "IA",
+      "zip": "52233",
+      "phone": "(319) 456-4895"
+    },
+    {
+      "name": "Giles Volvo Cars",
+      "address": "111 South City Parkway",
+      "city": "Lafayette",
+      "state": "LA",
+      "zip": "70503",
+      "phone": "(337) 607-1124"
+    },
+    {
+      "name": "McLarty Volvo Cars of Little Rock",
+      "address": "1500 North Shackleford Rd",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72211",
+      "phone": "(501) 474-6012"
+    },
+    {
+      "name": "Kline Volvo Cars of Maplewood",
+      "address": "3040 N. Highway 61",
+      "city": "Saint Paul",
+      "state": "MN",
+      "zip": "55109",
+      "phone": "(651) 661-6263"
+    },
+    {
+      "name": "Borton Volvo Cars",
+      "address": "905 Hampshire Avenue",
+      "city": "Golden Valley",
+      "state": "MN",
+      "zip": "55426",
+      "phone": "(763) 373-6419"
+    },
+    {
+      "name": "Willis Volvo Cars",
+      "address": "9800 Hickman Road",
+      "city": "Des Moines",
+      "state": "IA",
+      "zip": "50325",
+      "phone": "(515) 375-1418"
+    },
+    {
+      "name": "Volvo Cars Shreveport",
+      "address": "1221 East Bert Kouns Industrial Loop",
+      "city": "Shreveport",
+      "state": "LA",
+      "zip": "71105",
+      "phone": "(318) 431-6749"
+    },
+    {
+      "name": "Premier Volvo Cars Overland Park",
+      "address": "7891 Metcalf Avenue",
+      "city": "Overland Park",
+      "state": "KS",
+      "zip": "66204",
+      "phone": "(913) 675-1906"
+    },
+    {
+      "name": "Volvo Cars Clear Lake",
+      "address": "17970 Gulf Freeway",
+      "city": "Friendswood",
+      "state": "TX",
+      "zip": "77546",
+      "phone": "(346) 988-2603"
+    },
+    {
+      "name": "Gorges Volvo Cars",
+      "address": "17665 Burt Street",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68118",
+      "phone": "(402) 735-5480"
+    },
+    {
+      "name": "DeMontrond Volvo Cars",
+      "address": "14101 North Freeway",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77090",
+      "phone": "(346) 523-1548"
+    },
+    {
+      "name": "Grubbs Volvo Cars Central Houston",
+      "address": "7620 Washington Ave.",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77007",
+      "phone": "(346) 420-5261"
+    },
+    {
+      "name": "Volvo Cars of Tulsa",
+      "address": "4111S. Memorial Drive",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74145",
+      "phone": "(918) 612-7303"
+    },
+    {
+      "name": "Volvo Cars Sugar Land",
+      "address": "8305 W Sam Houston Pkwy S.",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77072"
+    },
+    {
+      "name": "Volvo Cars Sioux Falls",
+      "address": "801 West 41st Street",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "zip": "57105",
+      "phone": "(605) 667-5832"
+    },
+    {
+      "name": "Volvo Cars West Houston",
+      "address": "15935 Katy Freeway",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77094",
+      "phone": "(346) 788-6098"
+    },
+    {
+      "name": "Eddy's Volvo Cars of Wichita",
+      "address": "3211 N. Webb Road",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67226",
+      "phone": "(316) 771-5826"
+    },
+    {
+      "name": "Crest Volvo Cars",
+      "address": "6020 State Hwy 121",
+      "city": "Frisco",
+      "state": "TX",
+      "zip": "75034",
+      "phone": "(469) 564-8666"
+    },
+    {
+      "name": "Park Place Volvo Cars",
+      "address": "3515 Inwood Rd.",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75209",
+      "phone": "(214) 431-3224"
+    },
+    {
+      "name": "Grubbs Volvo Cars Grapevine",
+      "address": "1550 Texan Trail",
+      "city": "Grapevine",
+      "state": "TX",
+      "zip": "76051",
+      "phone": "(817) 783-9321"
+    },
+    {
+      "name": "Volvo Cars Oklahoma City",
+      "address": "14220 Broadway Extension",
+      "city": "Edmond",
+      "state": "OK",
+      "zip": "73013",
+      "phone": "(405) 454-7604"
+    },
+    {
+      "name": "Autobahn Motorcars",
+      "address": "3000 White Settlement Road",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76107",
+      "phone": "(817) 646-5196"
+    },
+    {
+      "name": "Volvo Cars of Temple",
+      "address": "5700 S.W.H.K. Dodgen Loop",
+      "city": "Temple",
+      "state": "TX",
+      "zip": "76502",
+      "phone": "(254) 390-4666"
+    },
+    {
+      "name": "Volvo Cars of Austin",
+      "address": "7216 N. IH-35",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78752",
+      "phone": "(512) 686-5161"
+    },
+    {
+      "name": "Volvo Cars Hill Country",
+      "address": "10600 N FM 620",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78726",
+      "phone": "(737) 252-1839"
+    },
+    {
+      "name": "Volvo Cars Edinburg",
+      "address": "4221 South Highway 281",
+      "city": "Edinburg",
+      "state": "TX",
+      "zip": "78539",
+      "phone": "(956) 297-0814"
+    },
+    {
+      "name": "Principle Volvo Cars San Antonio",
+      "address": "1326 N.E. Loop 410",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78209",
+      "phone": "(210) 544-5183"
+    },
+    {
+      "name": "Mears Volvo Cars",
+      "address": "6027 Spur 327",
+      "city": "Lubbock",
+      "state": "TX",
+      "zip": "79424",
+      "phone": "(806) 230-5034"
+    },
+    {
+      "name": "Pedersen Volvo Cars",
+      "address": "4455 South Mason Street",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80525",
+      "phone": "(970) 538-9413"
+    },
+    {
+      "name": "Rickenbaugh Volvo Cars",
+      "address": "777 Broadway",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80203",
+      "phone": "(303) 731-1265"
+    },
+    {
+      "name": "McDonald Volvo Cars",
+      "address": "6040 South Broadway",
+      "city": "Littleton",
+      "state": "CO",
+      "zip": "80121",
+      "phone": "(720) 783-1690"
+    },
+    {
+      "name": "Bob Penkhus Volvo Cars",
+      "address": "1115 Motor City Drive",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80905",
+      "phone": "(719) 473-5100"
+    },
+    {
+      "name": "Sill-TerHar Motors, Inc.",
+      "address": "125 Alter Street",
+      "city": "Broomfield",
+      "state": "CO",
+      "zip": "80020",
+      "phone": "(303) 800-2122"
+    },
+    {
+      "name": "Underriner Volvo Cars",
+      "address": "3671 Pierce Parkway",
+      "city": "Billings",
+      "state": "MT",
+      "zip": "59106",
+      "phone": "(406) 302-5263"
+    },
+    {
+      "name": "Corley's Volvo Cars Albuquerque",
+      "address": "9000 Pan American Freeway N.E.",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87113",
+      "phone": "(505) 666-5481"
+    },
+    {
+      "name": "Giles Volvo Cars El Paso",
+      "address": "6585 S. Desert Blvd.",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79932",
+      "phone": "(915) 465-4348"
+    },
+    {
+      "name": "Ken Garff Volvo Cars",
+      "address": "525 South State Street",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84111",
+      "phone": "(801) 935-8051"
+    },
+    {
+      "name": "Volvo Cars Tucson",
+      "address": "831 West Wetmore Road",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85705",
+      "phone": "(520) 455-3296"
+    },
+    {
+      "name": "Volvo Cars Gilbert",
+      "address": "3285 S. Gilbert Road",
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "85297",
+      "phone": "(602) 780-0492"
+    },
+    {
+      "name": "Courtesy Volvo Cars of Scottsdale",
+      "address": "4001 North 89th Street",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "85251",
+      "phone": "(480) 573-7243"
+    },
+    {
+      "name": "Volvo Cars Arrowhead",
+      "address": "19300 N. 101 Loop",
+      "city": "Glendale",
+      "state": "AZ",
+      "zip": "85308",
+      "phone": "(602) 433-6252"
+    },
+    {
+      "name": "Lyle Pearson Volvo Cars Boise",
+      "address": "7805 Gratz Drive",
+      "city": "Boise",
+      "state": "ID",
+      "zip": "83709",
+      "phone": "(208) 428-6640"
+    },
+    {
+      "name": "Findlay Volvo Cars Las Vegas",
+      "address": "6385 Roy Horn Way",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89118",
+      "phone": "(702) 470-0911"
+    },
+    {
+      "name": "Sandberg Volvo Cars",
+      "address": "17025 Highway 99",
+      "city": "Lynnwood",
+      "state": "WA",
+      "zip": "98037",
+      "phone": "(425) 474-2452"
+    },
+    {
+      "name": "Volvo Cars Bellevue",
+      "address": "420 116th Avenue NE",
+      "city": "Bellevue",
+      "state": "WA",
+      "zip": "98004",
+      "phone": "(425) 249-3716"
+    },
+    {
+      "name": "Volvo Cars Seattle",
+      "address": "2700 NE 55th Street",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98105",
+      "phone": "(206) 647-4105"
+    },
+    {
+      "name": "Volvo Cars Tacoma",
+      "address": "1602 40th Ave. CT. E",
+      "city": "Fife",
+      "state": "WA",
+      "zip": "98424",
+      "phone": "(253) 553-3091"
+    },
+    {
+      "name": "Volvo Cars Palm Springs",
+      "address": "67615 E Palm Canyon Drive",
+      "city": "Cathedral City",
+      "state": "CA",
+      "zip": "92234",
+      "phone": "(760) 284-5786"
+    },
+    {
+      "name": "Volvo Cars Bend",
+      "address": "20630 Grandview Drive",
+      "city": "Bend",
+      "state": "OR",
+      "zip": "97701",
+      "phone": "(541) 827-3201"
+    },
+    {
+      "name": "Jim Fisher Volvo Cars Portland",
+      "address": "2108 West Burnside",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97210",
+      "phone": "(971) 309-1776"
+    },
+    {
+      "name": "Herzog-Meier Volvo Cars",
+      "address": "4180 S.W. 141st Avenue",
+      "city": "Beaverton",
+      "state": "OR",
+      "zip": "97005",
+      "phone": "(503) 714-7816"
+    },
+    {
+      "name": "Volvo Cars Escondido",
+      "address": "1938 Auto Parkway",
+      "city": "Escondido",
+      "state": "CA",
+      "zip": "92029",
+      "phone": "(760) 546-5814"
+    },
+    {
+      "name": "Volvo Cars Ontario",
+      "address": "1300 Auto Center Drive",
+      "city": "Ontario",
+      "state": "CA",
+      "zip": "91761",
+      "phone": "(909) 740-6109"
+    },
+    {
+      "name": "Volvo Cars San Diego",
+      "address": "5350 Kearny Mesa Road",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92111",
+      "phone": "(858) 533-2948"
+    },
+    {
+      "name": "Bill Pearce Volvo Cars",
+      "address": "11555 S Virginia st",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89511",
+      "phone": "(775) 252-5303"
+    },
+    {
+      "name": "Volvo Cars Carlsbad",
+      "address": "6830 Avenida Encinas",
+      "city": "Carlsbad",
+      "state": "CA",
+      "zip": "92009",
+      "phone": "(760) 417-6832"
+    },
+    {
+      "name": "Volvo Cars Mission Viejo",
+      "address": "28730 Marguerite Pkwy.",
+      "city": "Mission Viejo",
+      "state": "CA",
+      "zip": "92692",
+      "phone": "(949) 359-6864"
+    },
+    {
+      "name": "Penske Volvo Cars",
+      "address": "17695 Gale Avenue",
+      "city": "City of Industry",
+      "state": "CA",
+      "zip": "91748",
+      "phone": "(626) 649-4565"
+    },
+    {
+      "name": "Volvo Cars Orange County",
+      "address": "1400 Dan Gurney Drive",
+      "city": "Santa Ana",
+      "state": "CA",
+      "zip": "92705",
+      "phone": "(714) 418-4838"
+    },
+    {
+      "name": "Rusnak Volvo Cars",
+      "address": "267 West Colorado Boulevard",
+      "city": "Pasadena",
+      "state": "CA",
+      "zip": "91105",
+      "phone": "(626) 714-6673"
+    },
+    {
+      "name": "Volvo Cars Corvallis",
+      "address": "900 Northwest 4th Street",
+      "city": "Corvallis",
+      "state": "OR",
+      "zip": "97330",
+      "phone": "(541) 534-0689"
+    },
+    {
+      "name": "Volvo Cars Cerritos",
+      "address": "18303 Studebaker Road",
+      "city": "Cerritos",
+      "state": "CA",
+      "zip": "90703",
+      "phone": "(562) 545-4657"
+    },
+    {
+      "name": "Volvo Cars Eugene",
+      "address": "89320 N Game Farm Road",
+      "city": "Eugene",
+      "state": "OR",
+      "zip": "97408",
+      "phone": "(458) 224-8905"
+    },
+    {
+      "name": "Galpin Volvo Cars",
+      "address": "8333 Sepulveda Blvd",
+      "city": "North Hills",
+      "state": "CA",
+      "zip": "91343",
+      "phone": "(818) 423-4103"
+    },
+    {
+      "name": "Volvo Cars South Bay",
+      "address": "18900 Hawthorne Blvd",
+      "city": "Torrance",
+      "state": "CA",
+      "zip": "90504",
+      "phone": "(310) 697-8357"
+    },
+    {
+      "name": "Culver City Volvo Cars",
+      "address": "11201 Washington Blvd",
+      "city": "Culver City",
+      "state": "CA",
+      "zip": "90230",
+      "phone": "(424) 392-6416"
+    },
+    {
+      "name": "Volvo Cars Santa Monica",
+      "address": "1631 Santa Monica Boulevard",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zip": "90404",
+      "phone": "(310) 526-8712"
+    },
+    {
+      "name": "Volvo Cars Fresno",
+      "address": "2222 Cesar Chavez Blvd",
+      "city": "Fresno",
+      "state": "CA",
+      "zip": "93721",
+      "phone": "(559) 529-9384"
+    },
+    {
+      "name": "Rusnak Volvo Cars Westlake",
+      "address": "3839 Auto Mall Drive",
+      "city": "Thousand Oaks",
+      "state": "CA",
+      "zip": "91362",
+      "phone": "(805) 567-7989"
+    },
+    {
+      "name": "Volvo Cars Chico",
+      "address": "13340 Garner Lane",
+      "city": "Chico",
+      "state": "CA",
+      "zip": "95973",
+      "phone": "(530) 464-1044"
+    },
+    {
+      "name": "Niello Volvo Cars Sacramento",
+      "address": "4609 Madison Ave",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95841",
+      "phone": "(916) 471-4385"
+    },
+    {
+      "name": "Smith Volvo Cars",
+      "address": "1219 Monterey Street",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93401",
+      "phone": "(805) 977-6205"
+    },
+    {
+      "name": "Service Only - Continental Volvo Anchorage",
+      "address": "1001 E. 50th Ave",
+      "city": "Anchorage",
+      "state": "AK",
+      "zip": "99503",
+      "phone": "(907) 561-6686"
+    },
+    {
+      "name": "Volvo Cars Dublin",
+      "address": "5510 Scarlett Drive",
+      "city": "Dublin",
+      "state": "CA",
+      "zip": "94568",
+      "phone": "(925) 248-3049"
+    },
+    {
+      "name": "Volvo Cars Walnut Creek",
+      "address": "2791 N. Main Street",
+      "city": "Walnut Creek",
+      "state": "CA",
+      "zip": "94597",
+      "phone": "(925) 578-3591"
+    },
+    {
+      "name": "McKevitt Volvo Cars",
+      "address": "467 Marina Blvd.",
+      "city": "San Leandro",
+      "state": "CA",
+      "zip": "94577",
+      "phone": "(510) 391-4770"
+    },
+    {
+      "name": "AutoNation Volvo Cars San Jose",
+      "address": "4600 Stevens Creek Blvd",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95129",
+      "phone": "(408) 638-4368"
+    },
+    {
+      "name": "Volvo Cars Palo Alto",
+      "address": "4190 El Camino Real",
+      "city": "Palo Alto",
+      "state": "CA",
+      "zip": "94306",
+      "phone": "(650) 353-9984"
+    },
+    {
+      "name": "Smothers European Volvo Cars",
+      "address": "2881 Corby Ave.",
+      "city": "Santa Rosa",
+      "state": "CA",
+      "zip": "95407",
+      "phone": "(707) 638-1636"
+    },
+    {
+      "name": "Volvo Cars Monterey",
+      "address": "1711 Del Monte Blvd.",
+      "city": "Seaside",
+      "state": "CA",
+      "zip": "93955",
+      "phone": "(831) 318-3672"
+    },
+    {
+      "name": "Volvo Cars Marin",
+      "address": "619 Francisco Blvd East",
+      "city": "San Rafael",
+      "state": "CA",
+      "zip": "94901",
+      "phone": "(415) 496-0273"
+    },
+    {
+      "name": "Volvo Cars San Francisco",
+      "address": "285 S. Van Ness Ave.",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94103",
+      "phone": "(415) 780-9669"
+    },
+    {
+      "name": "Volvo Cars Burlingame",
+      "address": "900 Peninsula Avenue",
+      "city": "Burlingame",
+      "state": "CA",
+      "zip": "94010",
+      "phone": "(650) 610-2270"
+    },
+    {
+      "name": "Triple J Volvo",
+      "address": "470 N Marine Corps Drive",
+      "city": "Tamuning",
+      "state": "GU",
+      "zip": "96913",
+      "phone": "(671) 649-3673"
+    },
+    {
+      "name": "Volvo Cars Honolulu",
+      "address": "888 Kapiolani Blvd.",
+      "city": "Honolulu",
+      "state": "HI",
+      "zip": "96814",
+      "phone": "(808) 201-3950"
+    }
+  ]
+}
