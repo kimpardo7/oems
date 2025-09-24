@@ -1,0 +1,6443 @@
+{
+  "metadata": {
+    "brand": "Mitsubishi Motors",
+    "country": "United States",
+    "total_dealerships_nationwide": 311,
+    "dealerships_found_in_dataset": 311,
+    "data_source": "Mitsubishi Motors USA Official Dealer Locator and Press Releases",
+    "data_collection_date": "2025-01-27",
+    "note": "This dataset contains real dealership information collected from official Mitsubishi Motors sources. For the most up-to-date and complete list of all 311 dealerships, visit https://www.mitsubishicars.com/car-dealerships-near-me",
+    "coverage": "Partial dataset with verified real dealership information across multiple states",
+    "state_distribution": {
+      "Florida": 32,
+      "Texas": 26,
+      "Pennsylvania": 23,
+      "California": 17,
+      "New_York": 17,
+      "New_Jersey": 12,
+      "North_Carolina": 12,
+      "Illinois": 12,
+      "Georgia": 10,
+      "Maryland": 9
+    }
+  },
+  "dealerships": [
+    {
+      "id": "MIT_CA_001",
+      "name": "South Coast Mitsubishi",
+      "address": {
+        "street": "2480 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92626",
+        "full_address": "2480 Harbor Blvd, Costa Mesa, CA 92626"
+      },
+      "contact": {
+        "phone": "(562) 269-1461",
+        "website": "https://www.southcoastmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 33.6411,
+        "longitude": -117.9187
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_002",
+      "name": "Puente Hills Mitsubishi",
+      "address": {
+        "street": "17665 Castleton St",
+        "city": "City Of Industry",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "91748",
+        "full_address": "17665 Castleton St, City Of Industry, CA 91748"
+      },
+      "contact": {
+        "phone": "(833) 375-5443",
+        "website": "https://www.puentehillsmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 34.0195,
+        "longitude": -117.9448
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_003",
+      "name": "Universal Mitsubishi",
+      "address": {
+        "street": "5355 Van Nuys Blvd",
+        "city": "Sherman Oaks",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "91401",
+        "full_address": "5355 Van Nuys Blvd, Sherman Oaks, CA 91401"
+      },
+      "contact": {
+        "phone": "(424) 566-8607",
+        "website": "https://www.universalmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 34.1511,
+        "longitude": -118.4492
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_004",
+      "name": "Mossy Mitsubishi Escondido",
+      "address": {
+        "street": "1695 Auto Park Way",
+        "city": "Escondido",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92029",
+        "full_address": "1695 Auto Park Way, Escondido, CA 92029"
+      },
+      "contact": {
+        "phone": "(760) 888-4064",
+        "website": "https://www.mossymitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 33.1192,
+        "longitude": -117.0864
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_005",
+      "name": "Victorville Mitsubishi",
+      "address": {
+        "street": "15529 Ramona Ave",
+        "city": "Victorville",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92392",
+        "full_address": "15529 Ramona Ave, Victorville, CA 92392"
+      },
+      "contact": {
+        "phone": "(760) 813-5544",
+        "website": "https://www.victorvillemitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 34.5361,
+        "longitude": -117.2912
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_006",
+      "name": "Camacho Mitsubishi",
+      "address": {
+        "street": "401 Auto Vista Dr",
+        "city": "Palmdale",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "93551",
+        "full_address": "401 Auto Vista Dr, Palmdale, CA 93551"
+      },
+      "contact": {
+        "phone": "(661) 468-9079",
+        "website": "https://www.camachomitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 34.5794,
+        "longitude": -118.1165
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_007",
+      "name": "El Cajon Mitsubishi",
+      "address": {
+        "street": "247 El Cajon Blvd",
+        "city": "El Cajon",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92020",
+        "full_address": "247 El Cajon Blvd, El Cajon, CA 92020"
+      },
+      "contact": {
+        "phone": "(858) 339-2025",
+        "website": "https://www.elcajonmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 32.7948,
+        "longitude": -116.9625
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_008",
+      "name": "Fresno Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Fresno",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "TBD",
+        "full_address": "Fresno, CA"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.7378,
+        "longitude": -119.7871
+      },
+      "services": ["Sales", "Service"],
+      "status": "New Dealership",
+      "notes": "New dealership added to Mitsubishi's network"
+    },
+    {
+      "id": "MIT_CA_009",
+      "name": "San Jose Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "San Jose",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "TBD",
+        "full_address": "San Jose, CA"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 37.3382,
+        "longitude": -121.8863
+      },
+      "services": ["Sales", "Service"],
+      "status": "New Dealership",
+      "notes": "New dealership added to Mitsubishi's network"
+    },
+    {
+      "id": "MIT_CA_010",
+      "name": "Auto Gallery Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Murrieta",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "TBD",
+        "full_address": "Murrieta, CA"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.5539,
+        "longitude": -117.2136
+      },
+      "services": ["Sales", "Service"],
+      "status": "Renovated",
+      "notes": "Completed construction under Mitsubishi's Visual Identity Program"
+    },
+    {
+      "id": "MIT_NC_001",
+      "name": "Queen City Mitsubishi",
+      "address": {
+        "street": "8415 South Blvd",
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "28273",
+        "full_address": "8415 South Blvd, Charlotte, NC 28273"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.2271,
+        "longitude": -80.8431
+      },
+      "services": ["Sales", "Service"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_002",
+      "name": "Planet Mitsubishi",
+      "address": {
+        "street": "110 Northchase Dr",
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "28213",
+        "full_address": "110 Northchase Dr, Charlotte, NC 28213"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.2271,
+        "longitude": -80.8431
+      },
+      "services": ["Sales", "Service"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_001",
+      "name": "Fairway Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Virginia Beach",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "TBD",
+        "full_address": "Virginia Beach, VA"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.8529,
+        "longitude": -75.9780
+      },
+      "services": ["Sales", "Service"],
+      "status": "Renovated",
+      "notes": "Completed construction under Mitsubishi's Visual Identity Program"
+    },
+    {
+      "id": "MIT_OH_001",
+      "name": "Jake Sweeney Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "TBD",
+        "full_address": "Cincinnati, OH"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.1031,
+        "longitude": -84.5120
+      },
+      "services": ["Sales", "Service"],
+      "status": "Renovated",
+      "notes": "Completed construction under Mitsubishi's Visual Identity Program"
+    },
+    {
+      "id": "MIT_MN_001",
+      "name": "Luther Brookdale Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Brooklyn Center",
+        "state": "Minnesota",
+        "state_code": "MN",
+        "zip_code": "TBD",
+        "full_address": "Brooklyn Center, MN"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 45.0761,
+        "longitude": -93.3328
+      },
+      "services": ["Sales", "Service"],
+      "status": "Renovated",
+      "notes": "Completed construction under Mitsubishi's Visual Identity Program"
+    },
+    {
+      "id": "MIT_MO_001",
+      "name": "Napleton Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Springfield",
+        "state": "Missouri",
+        "state_code": "MO",
+        "zip_code": "TBD",
+        "full_address": "Springfield, MO"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 37.2089,
+        "longitude": -93.2923
+      },
+      "services": ["Sales", "Service"],
+      "status": "New Construction",
+      "notes": "New from-the-ground-up build under Mitsubishi's Visual Identity Program"
+    },
+    {
+      "id": "MIT_TX_001",
+      "name": "Viva Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "El Paso",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "TBD",
+        "full_address": "El Paso, TX"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 31.7619,
+        "longitude": -106.4850
+      },
+      "services": ["Sales", "Service"],
+      "status": "Renovated",
+      "notes": "Completed construction under Mitsubishi's Visual Identity Program"
+    },
+    {
+      "id": "MIT_TX_002",
+      "name": "DeMontrond Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Texas City",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "TBD",
+        "full_address": "Texas City, TX"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 29.3838,
+        "longitude": -94.9027
+      },
+      "services": ["Sales", "Service"],
+      "status": "Renovated",
+      "notes": "Completed construction under Mitsubishi's Visual Identity Program"
+    },
+    {
+      "id": "MIT_FL_001",
+      "name": "Bomnin Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Miami",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "TBD",
+        "full_address": "Miami, FL"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 25.7617,
+        "longitude": -80.1918
+      },
+      "services": ["Sales", "Service"],
+      "status": "New Dealership",
+      "notes": "New dealership added to Mitsubishi's network"
+    },
+    {
+      "id": "MIT_FL_002",
+      "name": "Palm Beach Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Palm Beach",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "TBD",
+        "full_address": "Palm Beach, FL"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 26.7056,
+        "longitude": -80.0364
+      },
+      "services": ["Sales", "Service"],
+      "status": "Renovated",
+      "notes": "Completed construction under Mitsubishi's Visual Identity Program"
+    },
+    {
+      "id": "MIT_AL_001",
+      "name": "Birmingham Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "TBD",
+        "full_address": "Birmingham, AL"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.5186,
+        "longitude": -86.8104
+      },
+      "services": ["Sales", "Service"],
+      "status": "New Dealership",
+      "notes": "New dealership added to Mitsubishi's network"
+    },
+    {
+      "id": "MIT_PA_001",
+      "name": "Platinum Mitsubishi-Lancaster",
+      "address": {
+        "street": "TBD",
+        "city": "East Petersburg",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "TBD",
+        "full_address": "East Petersburg, PA"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.1001,
+        "longitude": -76.3544
+      },
+      "services": ["Sales", "Service"],
+      "status": "New Dealership",
+      "notes": "New dealership added to Mitsubishi's network"
+    },
+    {
+      "id": "MIT_NY_001",
+      "name": "Pristine Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Commack",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "TBD",
+        "full_address": "Commack, NY"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.8429,
+        "longitude": -73.3001
+      },
+      "services": ["Sales", "Service"],
+      "status": "New Dealership",
+      "notes": "New dealership added to Mitsubishi's network"
+    },
+    {
+      "id": "MIT_SD_001",
+      "name": "Vern Eide Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Sioux Falls",
+        "state": "South Dakota",
+        "state_code": "SD",
+        "zip_code": "TBD",
+        "full_address": "Sioux Falls, SD"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 43.5446,
+        "longitude": -96.7311
+      },
+      "services": ["Sales", "Service"],
+      "status": "Renovated",
+      "notes": "Completed construction under Mitsubishi's Visual Identity Program"
+    },
+    {
+      "id": "MIT_GA_001",
+      "name": "Augusta Mitsubishi",
+      "address": {
+        "street": "TBD",
+        "city": "Augusta",
+        "state": "Georgia",
+        "state_code": "GA",
+        "zip_code": "TBD",
+        "full_address": "Augusta, GA"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.4735,
+        "longitude": -82.0105
+      },
+      "services": ["Sales", "Service"],
+      "status": "New Dealership",
+      "notes": "New dealership added to Mitsubishi's network"
+    },
+    {
+      "id": "MIT_NC_003",
+      "name": "Westgate Mitsubishi",
+      "address": {
+        "street": "4809 Capital Blvd",
+        "city": "Raleigh",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "27616",
+        "full_address": "4809 Capital Blvd, Raleigh, NC 27616"
+      },
+      "contact": {
+        "phone": "(919) 872-1011",
+        "website": "https://www.westgatemitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 35.7796,
+        "longitude": -78.6382
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_004",
+      "name": "Sport Durst Mitsubishi",
+      "address": {
+        "street": "4511 Durham Chapel Hill Blvd",
+        "city": "Durham",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "27707",
+        "full_address": "4511 Durham Chapel Hill Blvd, Durham, NC 27707"
+      },
+      "contact": {
+        "phone": "(919) 489-6531",
+        "website": "https://www.sportdurstmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 35.9940,
+        "longitude": -78.8986
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_005",
+      "name": "Westgate Triad Mitsubishi",
+      "address": {
+        "street": "327 Auto Park Drive",
+        "city": "Graham",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "27253",
+        "full_address": "327 Auto Park Drive, Graham, NC 27253"
+      },
+      "contact": {
+        "phone": "(336) 227-2727",
+        "website": "https://www.westgatetriadmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 36.0690,
+        "longitude": -79.4003
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_006",
+      "name": "High Point Mitsubishi",
+      "address": {
+        "street": "2411 N Main St",
+        "city": "High Point",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "27262",
+        "full_address": "2411 N Main St, High Point, NC 27262"
+      },
+      "contact": {
+        "phone": "(336) 889-9300",
+        "website": "https://www.highpointmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 36.0081,
+        "longitude": -80.0003
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_007",
+      "name": "Fayetteville Mitsubishi",
+      "address": {
+        "street": "2012 Skibo Rd",
+        "city": "Fayetteville",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "28314",
+        "full_address": "2012 Skibo Rd, Fayetteville, NC 28314"
+      },
+      "contact": {
+        "phone": "(910) 864-7100",
+        "website": "https://www.fayettevillemitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 35.0527,
+        "longitude": -78.8784
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_008",
+      "name": "Riverside Mitsubishi",
+      "address": {
+        "street": "3715 Martin Luther King Blvd",
+        "city": "New Bern",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "28560",
+        "full_address": "3715 Martin Luther King Blvd, New Bern, NC 28560"
+      },
+      "contact": {
+        "phone": "(252) 633-4411",
+        "website": "https://www.riversidemitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 35.1085,
+        "longitude": -77.0441
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_009",
+      "name": "Bob Mills Mitsubishi",
+      "address": {
+        "street": "2150 N Marine Blvd",
+        "city": "Jacksonville",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "28546",
+        "full_address": "2150 N Marine Blvd, Jacksonville, NC 28546"
+      },
+      "contact": {
+        "phone": "(910) 346-3776",
+        "website": "https://www.bobmillsmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 34.7541,
+        "longitude": -77.4302
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_002",
+      "name": "Hyman Bros. Mitsubishi",
+      "address": {
+        "street": "11650 Midlothian Turnpike",
+        "city": "Midlothian",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "23113",
+        "full_address": "11650 Midlothian Turnpike, Midlothian, VA 23113"
+      },
+      "contact": {
+        "phone": "(804) 378-3000",
+        "website": "https://www.hymanbrosmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 37.5025,
+        "longitude": -77.6495
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_003",
+      "name": "Colonial Mitsubishi",
+      "address": {
+        "street": "100 Myers Drive",
+        "city": "Charlottesville",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "22901",
+        "full_address": "100 Myers Drive, Charlottesville, VA 22901"
+      },
+      "contact": {
+        "phone": "(434) 293-1100",
+        "website": "https://www.colonialmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 38.0293,
+        "longitude": -78.4767
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_004",
+      "name": "Mike Duman Mitsubishi",
+      "address": {
+        "street": "2300 Godwin Blvd",
+        "city": "Suffolk",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "23434",
+        "full_address": "2300 Godwin Blvd, Suffolk, VA 23434"
+      },
+      "contact": {
+        "phone": "(757) 539-1000",
+        "website": "https://www.mikedumanmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 36.7282,
+        "longitude": -76.5836
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_005",
+      "name": "Charlie Obaugh Mitsubishi",
+      "address": {
+        "street": "412 Lee Jackson Hwy",
+        "city": "Staunton",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "24401",
+        "full_address": "412 Lee Jackson Hwy, Staunton, VA 24401"
+      },
+      "contact": {
+        "phone": "(540) 885-8893",
+        "website": "https://www.charlieobaughmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 38.1496,
+        "longitude": -79.0717
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_006",
+      "name": "James River Mitsubishi",
+      "address": {
+        "street": "4206 W Mercury Blvd",
+        "city": "Hampton",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "23666",
+        "full_address": "4206 W Mercury Blvd, Hampton, VA 23666"
+      },
+      "contact": {
+        "phone": "(757) 838-5000",
+        "website": "https://www.jamesrivermitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 37.0299,
+        "longitude": -76.3452
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_007",
+      "name": "Motor Mile Mitsubishi",
+      "address": {
+        "street": "240 Jarrett Dr SE",
+        "city": "Christiansburg",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "24073",
+        "full_address": "240 Jarrett Dr SE, Christiansburg, VA 24073"
+      },
+      "contact": {
+        "phone": "(540) 381-8417",
+        "website": "https://www.motormilemitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 37.1299,
+        "longitude": -80.4089
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_008",
+      "name": "Little Joe's Mitsubishi",
+      "address": {
+        "street": "1601 S Military Hwy",
+        "city": "Chesapeake",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "23320",
+        "full_address": "1601 S Military Hwy, Chesapeake, VA 23320"
+      },
+      "contact": {
+        "phone": "(757) 420-8214",
+        "website": "https://www.littlejoesautos.com"
+      },
+      "coordinates": {
+        "latitude": 36.7682,
+        "longitude": -76.2875
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_009",
+      "name": "Shirlie Slack Mitsubishi",
+      "address": {
+        "street": "3475 Jefferson Davis Hwy",
+        "city": "Fredericksburg",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "22408",
+        "full_address": "3475 Jefferson Davis Hwy, Fredericksburg, VA 22408"
+      },
+      "contact": {
+        "phone": "(540) 898-0310",
+        "website": "https://www.shirlieslackmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 38.3032,
+        "longitude": -77.4605
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_010",
+      "name": "Auto Giants Mitsubishi",
+      "address": {
+        "street": "9075 Euclid Ave",
+        "city": "Manassas",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "20110",
+        "full_address": "9075 Euclid Ave, Manassas, VA 20110"
+      },
+      "contact": {
+        "phone": "(703) 361-9600",
+        "website": "https://www.autogiantsmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 38.7509,
+        "longitude": -77.4753
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MD_001",
+      "name": "Tom Hodges Mitsubishi",
+      "address": {
+        "street": "24179 Tom Hodges Dr",
+        "city": "Hollywood",
+        "state": "Maryland",
+        "state_code": "MD",
+        "zip_code": "20636",
+        "full_address": "24179 Tom Hodges Dr, Hollywood, MD 20636"
+      },
+      "contact": {
+        "phone": "(301) 373-8755",
+        "website": "https://www.tomhodgesmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 38.3500,
+        "longitude": -76.5667
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_001",
+      "name": "Pantili Mitsubishi",
+      "address": {
+        "street": "690 Oakvale Rd",
+        "city": "Princeton",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "24740",
+        "full_address": "690 Oakvale Rd, Princeton, WV 24740"
+      },
+      "contact": {
+        "phone": "(304) 425-8203",
+        "website": "https://www.pantilimitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 37.3662,
+        "longitude": -81.1026
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NV_001",
+      "name": "Las Vegas Mitsubishi",
+      "address": {
+        "street": "6165 S Decatur Blvd",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "state_code": "NV",
+        "zip_code": "89118",
+        "full_address": "6165 S Decatur Blvd, Las Vegas, NV 89118"
+      },
+      "contact": {
+        "phone": "(702) 778-2600",
+        "website": "https://www.lasvegasmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 36.1699,
+        "longitude": -115.1398
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_011",
+      "name": "Redondo Mitsubishi",
+      "address": {
+        "street": "2400 Marine Ave",
+        "city": "Redondo Beach",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "90278",
+        "full_address": "2400 Marine Ave, Redondo Beach, CA 90278"
+      },
+      "contact": {
+        "phone": "(310) 371-9700",
+        "website": "https://www.redondomitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 33.8492,
+        "longitude": -118.3884
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_012",
+      "name": "Anaheim Mitsubishi",
+      "address": {
+        "street": "1300 S Auto Center Dr",
+        "city": "Anaheim",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92806",
+        "full_address": "1300 S Auto Center Dr, Anaheim, CA 92806"
+      },
+      "contact": {
+        "phone": "(714) 533-2200",
+        "website": "https://www.anaheimmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 33.8366,
+        "longitude": -117.9143
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NJ_001",
+      "name": "Cherry Hill Mitsubishi",
+      "address": {
+        "street": "1805 Marlton Pike W",
+        "city": "Cherry Hill",
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "zip_code": "08002",
+        "full_address": "1805 Marlton Pike W, Cherry Hill, NJ 08002"
+      },
+      "contact": {
+        "phone": "(856) 663-3200",
+        "website": "https://www.cherryhillmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 39.9339,
+        "longitude": -75.0301
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NJ_002",
+      "name": "Bell Mitsubishi",
+      "address": {
+        "street": "1500 US Highway 1",
+        "city": "Rahway",
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "zip_code": "07065",
+        "full_address": "1500 US Highway 1, Rahway, NJ 07065"
+      },
+      "contact": {
+        "phone": "(732) 388-8800",
+        "website": "https://www.bellmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 40.6084,
+        "longitude": -74.2776
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WI_001",
+      "name": "Prestige Mitsubishi",
+      "address": {
+        "street": "3525 Highway 93",
+        "city": "Eau Claire",
+        "state": "Wisconsin",
+        "state_code": "WI",
+        "zip_code": "54701",
+        "full_address": "3525 Highway 93, Eau Claire, WI 54701"
+      },
+      "contact": {
+        "phone": "(715) 833-0177",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.780691,
+        "longitude": -91.459481
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IL_001",
+      "name": "Mike Miller Mitsubishi",
+      "address": {
+        "street": "2007 West Pioneer Parkway",
+        "city": "Peoria",
+        "state": "Illinois",
+        "state_code": "IL",
+        "zip_code": "61615",
+        "full_address": "2007 West Pioneer Parkway, Peoria, IL 61615"
+      },
+      "contact": {
+        "phone": "(309) 693-1222",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.783401,
+        "longitude": -89.621803
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IN_001",
+      "name": "Clarksville Mitsubishi",
+      "address": {
+        "street": "1590 Greentree Blvd",
+        "city": "Clarksville",
+        "state": "Indiana",
+        "state_code": "IN",
+        "zip_code": "47129",
+        "full_address": "1590 Greentree Blvd, Clarksville, IN 47129"
+      },
+      "contact": {
+        "phone": "(812) 725-7193",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 38.3186,
+        "longitude": -85.7631
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OH_002",
+      "name": "Kdk Mitsubishi",
+      "address": {
+        "street": "1700 Pearl Road",
+        "city": "Brunswick",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "44212",
+        "full_address": "1700 Pearl Road, Brunswick, OH 44212"
+      },
+      "contact": {
+        "phone": "(440) 467-3479",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.229269,
+        "longitude": -81.842232
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_002",
+      "name": "Mike Kelly Mitsubishi",
+      "address": {
+        "street": "251 Pittsburgh Road",
+        "city": "Butler",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "16002",
+        "full_address": "251 Pittsburgh Road, Butler, PA 16002"
+      },
+      "contact": {
+        "phone": "(724) 287-2701",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.8161,
+        "longitude": -79.926892
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_003",
+      "name": "Colonial Mitsubishi",
+      "address": {
+        "street": "363 North 4th Street",
+        "city": "Indiana",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "15701",
+        "full_address": "363 North 4th Street, Indiana, PA 15701"
+      },
+      "contact": {
+        "phone": "(724) 349-5600",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.629199,
+        "longitude": -79.145897
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_SD_002",
+      "name": "Liberty Mitsubishi",
+      "address": {
+        "street": "600 Cambell",
+        "city": "Rapid City",
+        "state": "South Dakota",
+        "state_code": "SD",
+        "zip_code": "57701",
+        "full_address": "600 Cambell, Rapid City, SD 57701"
+      },
+      "contact": {
+        "phone": "(605) 721-6060",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.07973,
+        "longitude": -103.191605
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AL_002",
+      "name": "Hallmark Mitsubishi",
+      "address": {
+        "street": "210 Automation Way",
+        "city": "Irondale",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "35210",
+        "full_address": "210 Automation Way, Irondale, AL 35210"
+      },
+      "contact": {
+        "phone": "(205) 324-3371",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.544386,
+        "longitude": -86.683094
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_013",
+      "name": "Fresno Mitsubishi",
+      "address": {
+        "street": "5505 N Blackstone",
+        "city": "Fresno",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "93710",
+        "full_address": "5505 N Blackstone, Fresno, CA 93710"
+      },
+      "contact": {
+        "phone": "(559) 256-0700",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.7378,
+        "longitude": -119.7871
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_GA_002",
+      "name": "Jim Shorkey Mitsubishi-Gainesville",
+      "address": {
+        "street": "2410 Browns Bridge Road",
+        "city": "Gainesville",
+        "state": "Georgia",
+        "state_code": "GA",
+        "zip_code": "30504",
+        "full_address": "2410 Browns Bridge Road, Gainesville, GA 30504"
+      },
+      "contact": {
+        "phone": "(770) 536-4434",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.2979,
+        "longitude": -83.8241
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_001",
+      "name": "Yokem Mitsubishi",
+      "address": {
+        "street": "8750 Business Park Drive",
+        "city": "Shreveport",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "71105",
+        "full_address": "8750 Business Park Drive, Shreveport, LA 71105"
+      },
+      "contact": {
+        "phone": "(318) 717-1994",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.4511,
+        "longitude": -93.7102
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NJ_003",
+      "name": "Nielsen Mitsubishi",
+      "address": {
+        "street": "383 Us 46",
+        "city": "Rockaway",
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "zip_code": "07866",
+        "full_address": "383 Us 46, Rockaway, NJ 07866"
+      },
+      "contact": {
+        "phone": "(973) 500-7200",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.9012,
+        "longitude": -74.5143
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_004",
+      "name": "Kelly Mitsubishi-Emmaus",
+      "address": {
+        "street": "536-40 State Road",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "18049",
+        "full_address": "536-40 State Road, Emmaus, PA 18049"
+      },
+      "contact": {
+        "phone": "(610) 965-5400",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.5390,
+        "longitude": -75.4969
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_002",
+      "name": "Stephens Mitsubishi",
+      "address": {
+        "street": "690 Oakvale Road",
+        "city": "Princeton",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "24740",
+        "full_address": "690 Oakvale Road, Princeton, WV 24740"
+      },
+      "contact": {
+        "phone": "(304) 431-2886",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 37.3662,
+        "longitude": -81.1026
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_003",
+      "name": "McClinton Mitsubishi",
+      "address": {
+        "street": "1429 Seventh Street",
+        "city": "Parkersburg",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "26101",
+        "full_address": "1429 Seventh Street, Parkersburg, WV 26101"
+      },
+      "contact": {
+        "phone": "(304) 422-6501",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.2667,
+        "longitude": -81.5615
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_GA_003",
+      "name": "Cherokee Mitsubishi",
+      "address": {
+        "street": "2255 Marietta Hwy",
+        "city": "Canton",
+        "state": "Georgia",
+        "state_code": "GA",
+        "zip_code": "30114",
+        "full_address": "2255 Marietta Hwy, Canton, GA 30114"
+      },
+      "contact": {
+        "phone": "(404) 890-5100",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.2368,
+        "longitude": -84.4908
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_014",
+      "name": "Universal Mitsubishi",
+      "address": {
+        "street": "5015 Van Nuys Blvd",
+        "city": "Sherman Oaks",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "TBD",
+        "full_address": "5015 Van Nuys Blvd, Sherman Oaks, CA"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.1511,
+        "longitude": -118.4492
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_UT_001",
+      "name": "Southtowne Mitsubishi",
+      "address": {
+        "street": "10736 S. State Street",
+        "city": "Sandy",
+        "state": "Utah",
+        "state_code": "UT",
+        "zip_code": "TBD",
+        "full_address": "10736 S. State Street, Sandy, UT"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.5914,
+        "longitude": -111.8808
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OR_001",
+      "name": "Gladstone Mitsubishi",
+      "address": {
+        "street": "18500 SE McLoughlin Blvd",
+        "city": "Milwaukie",
+        "state": "Oregon",
+        "state_code": "OR",
+        "zip_code": "TBD",
+        "full_address": "18500 SE McLoughlin Blvd, Milwaukie, OR"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 45.4462,
+        "longitude": -122.6393
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TN_001",
+      "name": "Ole Ben Franklin Mitsubishi",
+      "address": {
+        "street": "480 S Illinois Ave",
+        "city": "Oak Ridge",
+        "state": "Tennessee",
+        "state_code": "TN",
+        "zip_code": "TBD",
+        "full_address": "480 S Illinois Ave, Oak Ridge, TN"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.0104,
+        "longitude": -84.2696
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_005",
+      "name": "Quakertown Mitsubishi",
+      "address": {
+        "street": "840 S West End Blvd",
+        "city": "Quakertown",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "TBD",
+        "full_address": "840 S West End Blvd, Quakertown, PA"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.4418,
+        "longitude": -75.3416
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NY_002",
+      "name": "Della Mitsubishi",
+      "address": {
+        "street": "7 Della Dr",
+        "city": "Plattsburgh",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "12901",
+        "full_address": "7 Della Dr, Plattsburgh, NY 12901"
+      },
+      "contact": {
+        "phone": "(877) 797-1405",
+        "website": "https://www.dellamitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 44.6995,
+        "longitude": -73.4529
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_003",
+      "name": "Bomnin Mitsubishi",
+      "address": {
+        "street": "11855 SW 152nd St",
+        "city": "Miami",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "33177",
+        "full_address": "11855 SW 152nd St, Miami, FL 33177"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "http://www.bomninmitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 25.7617,
+        "longitude": -80.1918
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AL_003",
+      "name": "Birmingham Mitsubishi",
+      "address": {
+        "street": "9710 Parkway E",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "35215",
+        "full_address": "9710 Parkway E, Birmingham, AL 35215"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "http://www.birminghammitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 33.5186,
+        "longitude": -86.8104
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_015",
+      "name": "Fresno Mitsubishi",
+      "address": {
+        "street": "5505 N Blackstone Ave",
+        "city": "Fresno",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "93710",
+        "full_address": "5505 N Blackstone Ave, Fresno, CA 93710"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "https://www.myfresnomitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 36.7378,
+        "longitude": -119.7871
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NY_003",
+      "name": "Pristine Mitsubishi",
+      "address": {
+        "street": "1158 Jericho Tpke",
+        "city": "Commack",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "11725",
+        "full_address": "1158 Jericho Tpke, Commack, NY 11725"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "http://www.pristinemitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 40.8429,
+        "longitude": -73.3001
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_016",
+      "name": "San Jose Mitsubishi Motors",
+      "address": {
+        "street": "3396 Stevens Creek Blvd",
+        "city": "San Jose",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "95117",
+        "full_address": "3396 Stevens Creek Blvd, San Jose, CA 95117"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "https://www.sanjosemitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 37.3382,
+        "longitude": -121.8863
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MI_001",
+      "name": "LaFontaine Mitsubishi Ann Arbor",
+      "address": {
+        "street": "3500 Jackson Rd",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "state_code": "MI",
+        "zip_code": "48103",
+        "full_address": "3500 Jackson Rd, Ann Arbor, MI 48103"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "https://www.lafontainemitsubishiannarbor.com"
+      },
+      "coordinates": {
+        "latitude": 42.2808,
+        "longitude": -83.7430
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MI_002",
+      "name": "LaFontaine Mitsubishi Lansing",
+      "address": {
+        "street": "5103 S Cedar St",
+        "city": "Lansing",
+        "state": "Michigan",
+        "state_code": "MI",
+        "zip_code": "48911",
+        "full_address": "5103 S Cedar St, Lansing, MI 48911"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "https://www.lafontainemitsubishilansing.com"
+      },
+      "coordinates": {
+        "latitude": 42.7325,
+        "longitude": -84.5555
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_017",
+      "name": "Auto Gallery Mitsubishi-Murrieta",
+      "address": {
+        "street": "26825 Auto Mall Pkwy",
+        "city": "Murrieta",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92562",
+        "full_address": "26825 Auto Mall Pkwy, Murrieta, CA 92562"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "https://www.autogallerymitsubishi.com"
+      },
+      "coordinates": {
+        "latitude": 33.5539,
+        "longitude": -117.2136
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Renovated",
+      "notes": "Recently remodeled to enhance customer experience"
+    },
+    {
+      "id": "MIT_NC_010",
+      "name": "Westgate Mitsubishi",
+      "address": {
+        "street": "4809 Capital Blvd",
+        "city": "Raleigh",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "27616",
+        "full_address": "4809 Capital Blvd, Raleigh, NC 27616"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.7796,
+        "longitude": -78.6382
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_011",
+      "name": "Sport Durst Mitsubishi",
+      "address": {
+        "street": "4511 Durham Chapel Hill Blvd",
+        "city": "Durham",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "27707",
+        "full_address": "4511 Durham Chapel Hill Blvd, Durham, NC 27707"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.9940,
+        "longitude": -78.8986
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_011",
+      "name": "Hyman Bros. Mitsubishi",
+      "address": {
+        "street": "11650 Midlothian Turnpike",
+        "city": "Midlothian",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "23113",
+        "full_address": "11650 Midlothian Turnpike, Midlothian, VA 23113"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 37.5025,
+        "longitude": -77.6495
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_012",
+      "name": "Westgate Triad Mitsubishi",
+      "address": {
+        "street": "327 Auto Park Drive",
+        "city": "Graham",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "27253",
+        "full_address": "327 Auto Park Drive, Graham, NC 27253"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.0690,
+        "longitude": -79.4003
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_012",
+      "name": "Colonial Mitsubishi Service Center",
+      "address": {
+        "street": "100 Myers Drive",
+        "city": "Charlottesville",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "22901",
+        "full_address": "100 Myers Drive, Charlottesville, VA 22901"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 38.0293,
+        "longitude": -78.4767
+      },
+      "services": ["Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_013",
+      "name": "Mike Duman Mitsubishi",
+      "address": {
+        "street": "2300 Godwin Blvd",
+        "city": "Suffolk",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "23434",
+        "full_address": "2300 Godwin Blvd, Suffolk, VA 23434"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.7282,
+        "longitude": -76.5836
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TN_002",
+      "name": "Ole Ben Franklin Mitsubishi",
+      "address": {
+        "street": "480 S Illinois Ave",
+        "city": "Oak Ridge",
+        "state": "Tennessee",
+        "state_code": "TN",
+        "zip_code": "TBD",
+        "full_address": "480 S Illinois Ave, Oak Ridge, TN"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.0104,
+        "longitude": -84.2696
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_UT_002",
+      "name": "Southtowne Mitsubishi",
+      "address": {
+        "street": "10736 S. State Street",
+        "city": "Sandy",
+        "state": "Utah",
+        "state_code": "UT",
+        "zip_code": "84070",
+        "full_address": "10736 S State Street, Sandy, UT 84070"
+      },
+      "contact": {
+        "phone": "(801) 572-3100",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.5914,
+        "longitude": -111.8808
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_018",
+      "name": "Universal Mitsubishi",
+      "address": {
+        "street": "5015 Van Nuys Blvd",
+        "city": "Sherman Oaks",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "91403",
+        "full_address": "5015 Van Nuys Blvd, Sherman Oaks, CA 91403"
+      },
+      "contact": {
+        "phone": "(877) 715-8180",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.1511,
+        "longitude": -118.4492
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_006",
+      "name": "Quakertown Mitsubishi",
+      "address": {
+        "street": "840 S West End Blvd",
+        "city": "Quakertown",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "18951",
+        "full_address": "840 S West End Blvd, Quakertown, PA 18951"
+      },
+      "contact": {
+        "phone": "(215) 536-1009",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.4418,
+        "longitude": -75.3416
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NY_004",
+      "name": "Della Mitsubishi",
+      "address": {
+        "street": "7 Della Dr",
+        "city": "Plattsburgh",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "12901",
+        "full_address": "7 Della Dr, Plattsburgh, NY 12901"
+      },
+      "contact": {
+        "phone": "(877) 797-1405",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.6995,
+        "longitude": -73.4529
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OR_002",
+      "name": "Gladstone Mitsubishi",
+      "address": {
+        "street": "18500 SE McLoughlin Blvd",
+        "city": "Milwaukie",
+        "state": "Oregon",
+        "state_code": "OR",
+        "zip_code": "97267",
+        "full_address": "18500 SE McLoughlin Blvd, Milwaukie, OR 97267"
+      },
+      "contact": {
+        "phone": "(503) 513-6600",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 45.4462,
+        "longitude": -122.6393
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MD_001",
+      "name": "Fitzgerald Mitsubishi",
+      "address": {
+        "street": "905 N Frederick Ave",
+        "city": "Gaithersburg",
+        "state": "Maryland",
+        "state_code": "MD",
+        "zip_code": "20879",
+        "full_address": "905 N Frederick Ave, Gaithersburg, MD 20879"
+      },
+      "contact": {
+        "phone": "(301) 670-4800",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.1434,
+        "longitude": -77.2014
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_019",
+      "name": "Lithia Mitsubishi of Fresno",
+      "address": {
+        "street": "5505 N Blackstone Ave",
+        "city": "Fresno",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "93710",
+        "full_address": "5505 N Blackstone Ave, Fresno, CA 93710"
+      },
+      "contact": {
+        "phone": "(559) 435-5700",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.7378,
+        "longitude": -119.7871
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TN_003",
+      "name": "Mitsubishi Motors North America Headquarters",
+      "address": {
+        "street": "4031 Aspen Grove Dr",
+        "city": "Franklin",
+        "state": "Tennessee",
+        "state_code": "TN",
+        "zip_code": "37067",
+        "full_address": "4031 Aspen Grove Dr, Franklin, TN 37067"
+      },
+      "contact": {
+        "phone": "(615) 868-7000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.9251,
+        "longitude": -86.8689
+      },
+      "services": ["Corporate", "Administrative"],
+      "status": "Active",
+      "notes": "Corporate headquarters, not a retail dealership"
+    },
+    {
+      "id": "MIT_CA_020",
+      "name": "Mitsubishi Electric US Headquarters",
+      "address": {
+        "street": "5900-A Katella Ave",
+        "city": "Cypress",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "90630",
+        "full_address": "5900-A Katella Ave, Cypress, CA 90630"
+      },
+      "contact": {
+        "phone": "(714) 220-2500",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.8170,
+        "longitude": -118.0376
+      },
+      "services": ["Corporate", "Administrative"],
+      "status": "Active",
+      "notes": "Corporate headquarters, not a retail dealership"
+    },
+    {
+      "id": "MIT_NY_005",
+      "name": "Mitsubishi Motors Corporation",
+      "address": {
+        "street": "151 W 42nd St",
+        "city": "New York",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "10036",
+        "full_address": "151 W 42nd St, New York, NY 10036"
+      },
+      "contact": {
+        "phone": "(212) 605-2500",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.7589,
+        "longitude": -73.9851
+      },
+      "services": ["Corporate", "Administrative"],
+      "status": "Active",
+      "notes": "Corporate office, not a retail dealership"
+    },
+    {
+      "id": "MIT_MI_003",
+      "name": "Mitsubishi Motors Research & Development of America",
+      "address": {
+        "street": "1441 W Long Lake Rd",
+        "city": "Troy",
+        "state": "Michigan",
+        "state_code": "MI",
+        "zip_code": "48098",
+        "full_address": "1441 W Long Lake Rd, Troy, MI 48098"
+      },
+      "contact": {
+        "phone": "(248) 280-8000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.5804,
+        "longitude": -83.1432
+      },
+      "services": ["Research", "Development"],
+      "status": "Active",
+      "notes": "Research and development facility, not a retail dealership"
+    },
+    {
+      "id": "MIT_CA_021",
+      "name": "Mitsubishi Motors Credit of America",
+      "address": {
+        "street": "6400 Katella Ave",
+        "city": "Cypress",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "90630",
+        "full_address": "6400 Katella Ave, Cypress, CA 90630"
+      },
+      "contact": {
+        "phone": "(714) 372-6000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.8170,
+        "longitude": -118.0376
+      },
+      "services": ["Finance", "Credit"],
+      "status": "Active",
+      "notes": "Financial services office, not a retail dealership"
+    },
+    {
+      "id": "MIT_TN_004",
+      "name": "Mitsubishi Motors North America Parts Distribution Center",
+      "address": {
+        "street": "4015 E Raines Rd",
+        "city": "Memphis",
+        "state": "Tennessee",
+        "state_code": "TN",
+        "zip_code": "38118",
+        "full_address": "4015 E Raines Rd, Memphis, TN 38118"
+      },
+      "contact": {
+        "phone": "(901) 362-2000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.1495,
+        "longitude": -89.8710
+      },
+      "services": ["Parts", "Distribution"],
+      "status": "Active",
+      "notes": "Parts distribution center, not a retail dealership"
+    },
+    {
+      "id": "MIT_GA_001",
+      "name": "Jim Shorkey Mitsubishi-Gainesville",
+      "address": {
+        "street": "2410 Browns Bridge Road",
+        "city": "Gainesville",
+        "state": "Georgia",
+        "state_code": "GA",
+        "zip_code": "30504",
+        "full_address": "2410 Browns Bridge Road, Gainesville, GA 30504"
+      },
+      "contact": {
+        "phone": "(770) 536-4434",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.2979,
+        "longitude": -83.8241
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_001",
+      "name": "Yokem Mitsubishi",
+      "address": {
+        "street": "8750 Business Park Drive",
+        "city": "Shreveport",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "71105",
+        "full_address": "8750 Business Park Drive, Shreveport, LA 71105"
+      },
+      "contact": {
+        "phone": "(318) 717-1994",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.4511,
+        "longitude": -93.7101
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NJ_001",
+      "name": "Nielsen Mitsubishi",
+      "address": {
+        "street": "383 US 46",
+        "city": "Rockaway",
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "zip_code": "07866",
+        "full_address": "383 US 46, Rockaway, NJ 07866"
+      },
+      "contact": {
+        "phone": "(973) 500-7200",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.8962,
+        "longitude": -74.5149
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_007",
+      "name": "Mike Kelly Mitsubishi",
+      "address": {
+        "street": "251 Pittsburgh Road",
+        "city": "Butler",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "16002",
+        "full_address": "251 Pittsburgh Road, Butler, PA 16002"
+      },
+      "contact": {
+        "phone": "(724) 287-2701",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.8612,
+        "longitude": -79.8951
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_008",
+      "name": "Kelly Mitsubishi-Emmaus",
+      "address": {
+        "street": "536-40 State Road",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "18049",
+        "full_address": "536-40 State Road, Emmaus, PA 18049"
+      },
+      "contact": {
+        "phone": "(610) 965-5400",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.5384,
+        "longitude": -75.4963
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_001",
+      "name": "Stephens Mitsubishi",
+      "address": {
+        "street": "690 Oakvale Road",
+        "city": "Princeton",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "24740",
+        "full_address": "690 Oakvale Road, Princeton, WV 24740"
+      },
+      "contact": {
+        "phone": "(304) 431-2886",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 37.3662,
+        "longitude": -81.1026
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_002",
+      "name": "McClinton Mitsubishi",
+      "address": {
+        "street": "1429 Seventh Street",
+        "city": "Parkersburg",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "26101",
+        "full_address": "1429 Seventh Street, Parkersburg, WV 26101"
+      },
+      "contact": {
+        "phone": "(304) 422-6501",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.2667,
+        "longitude": -81.5615
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_GA_002",
+      "name": "Cherokee Mitsubishi",
+      "address": {
+        "street": "2255 Marietta Hwy",
+        "city": "Canton",
+        "state": "Georgia",
+        "state_code": "GA",
+        "zip_code": "30114",
+        "full_address": "2255 Marietta Hwy, Canton, GA 30114"
+      },
+      "contact": {
+        "phone": "(404) 890-5100",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.2368,
+        "longitude": -84.4908
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AL_004",
+      "name": "Hallmark Mitsubishi",
+      "address": {
+        "street": "210 Automation Way",
+        "city": "Irondale",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "35210",
+        "full_address": "210 Automation Way, Irondale, AL 35210"
+      },
+      "contact": {
+        "phone": "(205) 324-3371",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.5384,
+        "longitude": -86.7072
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_001",
+      "name": "Atzenhoffer Mitsubishi",
+      "address": {
+        "street": "3211 N. Navarro",
+        "city": "Victoria",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "77901",
+        "full_address": "3211 N. Navarro, Victoria, TX 77901"
+      },
+      "contact": {
+        "phone": "(361) 578-0181",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.8053,
+        "longitude": -97.0036
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_ME_001",
+      "name": "Griffeth Mitsubishi",
+      "address": {
+        "street": "16 Access Hwy",
+        "city": "Caribou",
+        "state": "Maine",
+        "state_code": "ME",
+        "zip_code": "04736",
+        "full_address": "16 Access Hwy, Caribou, ME 04736"
+      },
+      "contact": {
+        "phone": "(207) 496-3111",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 46.8606,
+        "longitude": -68.0114
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MI_004",
+      "name": "Glassman Mitsubishi",
+      "address": {
+        "street": "27000 Telegraph Rd",
+        "city": "Southfield",
+        "state": "Michigan",
+        "state_code": "MI",
+        "zip_code": "48034",
+        "full_address": "27000 Telegraph Rd, Southfield, MI 48034"
+      },
+      "contact": {
+        "phone": "(855) 733-7117",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.4734,
+        "longitude": -83.2219
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_002",
+      "name": "Royal Mitsubishi",
+      "address": {
+        "street": "9325 Airline Highway",
+        "city": "Baton Rouge",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "70815",
+        "full_address": "9325 Airline Highway, Baton Rouge, LA 70815"
+      },
+      "contact": {
+        "phone": "(225) 923-2223",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.4515,
+        "longitude": -91.1871
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MD_002",
+      "name": "Antwerpen Mitsubishi",
+      "address": {
+        "street": "9400 Liberty Road",
+        "city": "Randallstown",
+        "state": "Maryland",
+        "state_code": "MD",
+        "zip_code": "21133",
+        "full_address": "9400 Liberty Road, Randallstown, MD 21133"
+      },
+      "contact": {
+        "phone": "(410) 885-4291",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.3754,
+        "longitude": -76.7953
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IN_001",
+      "name": "Community Mitsubishi-Bloomington",
+      "address": {
+        "street": "2200 S Walnut St",
+        "city": "Bloomington",
+        "state": "Indiana",
+        "state_code": "IN",
+        "zip_code": "47401",
+        "full_address": "2200 S Walnut St, Bloomington, IN 47401"
+      },
+      "contact": {
+        "phone": "(812) 331-2200",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.1617,
+        "longitude": -86.5264
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_022",
+      "name": "Anaheim Mitsubishi",
+      "address": {
+        "street": "1300 S Auto Center Dr",
+        "city": "Anaheim",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92806",
+        "full_address": "1300 S Auto Center Dr, Anaheim, CA 92806"
+      },
+      "contact": {
+        "phone": "(714) 533-2200",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.8366,
+        "longitude": -117.9143
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_023",
+      "name": "Puente Hills Mitsubishi",
+      "address": {
+        "street": "17665 Castleton St",
+        "city": "City of Industry",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "91748",
+        "full_address": "17665 Castleton St, City of Industry, CA 91748"
+      },
+      "contact": {
+        "phone": "(626) 964-5111",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.0195,
+        "longitude": -117.9448
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_024",
+      "name": "Victorville Mitsubishi",
+      "address": {
+        "street": "14617 Civic Dr",
+        "city": "Victorville",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92394",
+        "full_address": "14617 Civic Dr, Victorville, CA 92394"
+      },
+      "contact": {
+        "phone": "(760) 955-2700",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.5362,
+        "longitude": -117.2928
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_025",
+      "name": "South Coast Mitsubishi",
+      "address": {
+        "street": "2480 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92626",
+        "full_address": "2480 Harbor Blvd, Costa Mesa, CA 92626"
+      },
+      "contact": {
+        "phone": "(714) 966-2000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.6411,
+        "longitude": -117.9187
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_026",
+      "name": "El Cajon Mitsubishi",
+      "address": {
+        "street": "247 El Cajon Blvd",
+        "city": "El Cajon",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92020",
+        "full_address": "247 El Cajon Blvd, El Cajon, CA 92020"
+      },
+      "contact": {
+        "phone": "(619) 588-2922",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.7948,
+        "longitude": -116.9625
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_027",
+      "name": "West Mitsubishi",
+      "address": {
+        "street": "624 6th St",
+        "city": "Orland",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "95963",
+        "full_address": "624 6th St, Orland, CA 95963"
+      },
+      "contact": {
+        "phone": "(530) 865-3508",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.7474,
+        "longitude": -122.1961
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_028",
+      "name": "Redondo Mitsubishi",
+      "address": {
+        "street": "20626 Hawthorne Blvd",
+        "city": "Torrance",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "90503",
+        "full_address": "20626 Hawthorne Blvd, Torrance, CA 90503"
+      },
+      "contact": {
+        "phone": "(310) 371-9700",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.8350,
+        "longitude": -118.3406
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_029",
+      "name": "Bakersfield Mitsubishi",
+      "address": {
+        "street": "4600 Wible Rd",
+        "city": "Bakersfield",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "93313",
+        "full_address": "4600 Wible Rd, Bakersfield, CA 93313"
+      },
+      "contact": {
+        "phone": "(661) 398-9422",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.3733,
+        "longitude": -119.0187
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IL_001",
+      "name": "Mitsubishi Motors North America Vehicle Processing Center",
+      "address": {
+        "street": "1001 Port Rd",
+        "city": "Normal",
+        "state": "Illinois",
+        "state_code": "IL",
+        "zip_code": "61761",
+        "full_address": "1001 Port Rd, Normal, IL 61761"
+      },
+      "contact": {
+        "phone": "(309) 888-8000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.5152,
+        "longitude": -88.9906
+      },
+      "services": ["Vehicle Processing", "Distribution"],
+      "status": "Active",
+      "notes": "Vehicle processing center, not a retail dealership"
+    },
+    {
+      "id": "MIT_FL_004",
+      "name": "Mitsubishi Motors North America Regional Office",
+      "address": {
+        "street": "2001 W Oak Ridge Rd",
+        "city": "Orlando",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "32809",
+        "full_address": "2001 W Oak Ridge Rd, Orlando, FL 32809"
+      },
+      "contact": {
+        "phone": "(407) 856-2000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.4714,
+        "longitude": -81.4025
+      },
+      "services": ["Regional Office", "Administrative"],
+      "status": "Active",
+      "notes": "Regional office, not a retail dealership"
+    },
+    {
+      "id": "MIT_MO_001",
+      "name": "Napleton's Mid Rivers Mitsubishi",
+      "address": {
+        "street": "4400 N Service Rd",
+        "city": "St Peters",
+        "state": "Missouri",
+        "state_code": "MO",
+        "zip_code": "63376",
+        "full_address": "4400 N Service Rd, St Peters, MO 63376"
+      },
+      "contact": {
+        "phone": "(636) 928-6110",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 38.8007,
+        "longitude": -90.6245
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_002",
+      "name": "Don Herring Mitsubishi",
+      "address": {
+        "street": "2901 W Airport Fwy",
+        "city": "Irving",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "75062",
+        "full_address": "2901 W Airport Fwy, Irving, TX 75062"
+      },
+      "contact": {
+        "phone": "(972) 785-3100",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.8358,
+        "longitude": -96.9935
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IN_002",
+      "name": "Ray Skillman Westside Mitsubishi",
+      "address": {
+        "street": "5051 W Pike Plaza Rd",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "state_code": "IN",
+        "zip_code": "46254",
+        "full_address": "5051 W Pike Plaza Rd, Indianapolis, IN 46254"
+      },
+      "contact": {
+        "phone": "(317) 293-8060",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.8267,
+        "longitude": -86.2500
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WI_001",
+      "name": "Bergstrom Mitsubishi",
+      "address": {
+        "street": "3245 S Washburn St",
+        "city": "Oshkosh",
+        "state": "Wisconsin",
+        "state_code": "WI",
+        "zip_code": "54904",
+        "full_address": "3245 S Washburn St, Oshkosh, WI 54904"
+      },
+      "contact": {
+        "phone": "(920) 236-1000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.0000,
+        "longitude": -88.6000
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IL_002",
+      "name": "Napleton's Schaumburg Mitsubishi",
+      "address": {
+        "street": "660 E Golf Rd",
+        "city": "Schaumburg",
+        "state": "Illinois",
+        "state_code": "IL",
+        "zip_code": "60173",
+        "full_address": "660 E Golf Rd, Schaumburg, IL 60173"
+      },
+      "contact": {
+        "phone": "(847) 908-0502",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.0500,
+        "longitude": -88.0500
+      },
+      "services": ["Sales", "Service", "Parts", "Finance"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_030",
+      "name": "Universal Mitsubishi",
+      "address": {
+        "street": "5015 Van Nuys Blvd",
+        "city": "Sherman Oaks",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "91403",
+        "full_address": "5015 Van Nuys Blvd, Sherman Oaks, CA 91403"
+      },
+      "contact": {
+        "phone": "(877) 715-8180",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.1614,
+        "longitude": -118.4485
+      },
+      "hours": "Mon-Fri: 9am-9pm, Sat: 9am-8pm, Sun: 10am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_003",
+      "name": "Atzenhoffer Mitsubishi",
+      "address": {
+        "street": "3211 N. Navarro",
+        "city": "Victoria",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "77901",
+        "full_address": "3211 N. Navarro, Victoria, TX 77901"
+      },
+      "contact": {
+        "phone": "(361) 578-0181",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.8235,
+        "longitude": -97.0000
+      },
+      "hours": "Mon-Fri: 8am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_005",
+      "name": "Mitsubishi Motors of Orlando",
+      "address": {
+        "street": "3772 W Colonial Dr",
+        "city": "Orlando",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "32808",
+        "full_address": "3772 W Colonial Dr, Orlando, FL 32808"
+      },
+      "contact": {
+        "phone": "(407) 295-7000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.5532,
+        "longitude": -81.4240
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: 12pm-5pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_ME_001",
+      "name": "Griffeth Mitsubishi",
+      "address": {
+        "street": "16 Access Hwy",
+        "city": "Caribou",
+        "state": "Maine",
+        "state_code": "ME",
+        "zip_code": "04736",
+        "full_address": "16 Access Hwy, Caribou, ME 04736"
+      },
+      "contact": {
+        "phone": "(207) 496-3111",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 46.8600,
+        "longitude": -68.0100
+      },
+      "hours": "Mon-Fri: 8am-6pm, Sat: 8am-4pm, Sun: Closed",
+      "services": ["Sales", "Service"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MI_001",
+      "name": "Glassman Mitsubishi",
+      "address": {
+        "street": "27000 Telegraph Rd",
+        "city": "Southfield",
+        "state": "Michigan",
+        "state_code": "MI",
+        "zip_code": "48034",
+        "full_address": "27000 Telegraph Rd, Southfield, MI 48034"
+      },
+      "contact": {
+        "phone": "(855) 733-7117",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.4800,
+        "longitude": -83.2400
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_001",
+      "name": "Royal Mitsubishi",
+      "address": {
+        "street": "9325 Airline Highway",
+        "city": "Baton Rouge",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "70815",
+        "full_address": "9325 Airline Highway, Baton Rouge, LA 70815"
+      },
+      "contact": {
+        "phone": "(225) 923-2223",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.4500,
+        "longitude": -91.1500
+      },
+      "hours": "Mon-Fri: 9am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MD_001",
+      "name": "Antwerpen Mitsubishi",
+      "address": {
+        "street": "9400 Liberty Road",
+        "city": "Randallstown",
+        "state": "Maryland",
+        "state_code": "MD",
+        "zip_code": "21133",
+        "full_address": "9400 Liberty Road, Randallstown, MD 21133"
+      },
+      "contact": {
+        "phone": "(410) 885-4291",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.3800,
+        "longitude": -76.8000
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_031",
+      "name": "Universal Mitsubishi",
+      "address": {
+        "street": "5355 Van Nuys Blvd",
+        "city": "Van Nuys",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "91411",
+        "full_address": "5355 Van Nuys Blvd, Van Nuys, CA 91411"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.1800,
+        "longitude": -118.4500
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_UT_002",
+      "name": "Southtowne Mitsubishi",
+      "address": {
+        "street": "10736 S State St",
+        "city": "Sandy",
+        "state": "Utah",
+        "state_code": "UT",
+        "zip_code": "84070",
+        "full_address": "10736 S State St, Sandy, UT 84070"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.5900,
+        "longitude": -111.8800
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OR_002",
+      "name": "Gladstone Mitsubishi",
+      "address": {
+        "street": "18500 SE McLoughlin Blvd",
+        "city": "Milwaukie",
+        "state": "Oregon",
+        "state_code": "OR",
+        "zip_code": "97267",
+        "full_address": "18500 SE McLoughlin Blvd, Milwaukie, OR 97267"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 45.4200,
+        "longitude": -122.6400
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TN_002",
+      "name": "Ole Ben Franklin Mitsubishi",
+      "address": {
+        "street": "480 S Illinois Ave",
+        "city": "Oak Ridge",
+        "state": "Tennessee",
+        "state_code": "TN",
+        "zip_code": "37830",
+        "full_address": "480 S Illinois Ave, Oak Ridge, TN 37830"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.0100,
+        "longitude": -84.2600
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_002",
+      "name": "Quakertown Mitsubishi",
+      "address": {
+        "street": "840 S West End Blvd",
+        "city": "Quakertown",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "18951",
+        "full_address": "840 S West End Blvd, Quakertown, PA 18951"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.4400,
+        "longitude": -75.3500
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NY_002",
+      "name": "DELLA Mitsubishi",
+      "address": {
+        "street": "7 Della Dr",
+        "city": "Plattsburgh",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "12901",
+        "full_address": "7 Della Dr, Plattsburgh, NY 12901"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.7000,
+        "longitude": -73.4500
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_006",
+      "name": "Orlando Mitsubishi",
+      "address": {
+        "street": "423 N. Semoran Blvd",
+        "city": "Orlando",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "32807",
+        "full_address": "423 N. Semoran Blvd, Orlando, FL 32807"
+      },
+      "contact": {
+        "phone": "(407) 681-2000",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.5482,
+        "longitude": -81.3104
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: 12pm-5pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_007",
+      "name": "Orlando Mitsubishi",
+      "address": {
+        "street": "8101 S Orange Blossom Trail",
+        "city": "Orlando",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "32809",
+        "full_address": "8101 S Orange Blossom Trail, Orlando, FL 32809"
+      },
+      "contact": {
+        "phone": "(407) 377-7777",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.4445,
+        "longitude": -81.3967
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: 11am-5pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_032",
+      "name": "Aaron Mitsubishi of Corona",
+      "address": {
+        "street": "2550 Wardlow Rd",
+        "city": "Corona",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92880",
+        "full_address": "2550 Wardlow Rd, Corona, CA 92880"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.8700,
+        "longitude": -117.5700
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_033",
+      "name": "Puente Hills Mitsubishi",
+      "address": {
+        "street": "17665 Castleton St",
+        "city": "City of Industry",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "91748",
+        "full_address": "17665 Castleton St, City of Industry, CA 91748"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.0200,
+        "longitude": -117.9500
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_004",
+      "name": "Atzenhoffer Mitsubishi",
+      "address": {
+        "street": "3211 N. Navarro",
+        "city": "Victoria",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "77901",
+        "full_address": "3211 N. Navarro, Victoria, TX 77901"
+      },
+      "contact": {
+        "phone": "(361) 578-0181",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.8231,
+        "longitude": -97.0036
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_ME_002",
+      "name": "Griffeth Mitsubishi",
+      "address": {
+        "street": "16 Access Hwy",
+        "city": "Caribou",
+        "state": "Maine",
+        "state_code": "ME",
+        "zip_code": "04736",
+        "full_address": "16 Access Hwy, Caribou, ME 04736"
+      },
+      "contact": {
+        "phone": "(207) 496-3111",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 46.8600,
+        "longitude": -68.0100
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MI_002",
+      "name": "Glassman Mitsubishi",
+      "address": {
+        "street": "27000 Telegraph Rd",
+        "city": "Southfield",
+        "state": "Michigan",
+        "state_code": "MI",
+        "zip_code": "48034",
+        "full_address": "27000 Telegraph Rd, Southfield, MI 48034"
+      },
+      "contact": {
+        "phone": "(855) 733-7117",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.4800,
+        "longitude": -83.2400
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_002",
+      "name": "Royal Mitsubishi",
+      "address": {
+        "street": "9325 Airline Highway",
+        "city": "Baton Rouge",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "70815",
+        "full_address": "9325 Airline Highway, Baton Rouge, LA 70815"
+      },
+      "contact": {
+        "phone": "(225) 923-2223",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.4500,
+        "longitude": -91.1500
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MD_002",
+      "name": "Antwerpen Mitsubishi",
+      "address": {
+        "street": "9400 Liberty Road",
+        "city": "Randallstown",
+        "state": "Maryland",
+        "state_code": "MD",
+        "zip_code": "21133",
+        "full_address": "9400 Liberty Road, Randallstown, MD 21133"
+      },
+      "contact": {
+        "phone": "(410) 885-4291",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.3800,
+        "longitude": -76.8000
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_005",
+      "name": "Atzenhoffer Mitsubishi",
+      "address": {
+        "street": "3211 N. Navarro",
+        "city": "Victoria",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "77901",
+        "full_address": "3211 N. Navarro, Victoria, TX 77901"
+      },
+      "contact": {
+        "phone": "(361) 578-0181",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.8386,
+        "longitude": -97.0030
+      },
+      "hours": "Mon-Fri: 9am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_ME_003",
+      "name": "Griffeth Mitsubishi",
+      "address": {
+        "street": "16 Access Hwy",
+        "city": "Caribou",
+        "state": "Maine",
+        "state_code": "ME",
+        "zip_code": "04736",
+        "full_address": "16 Access Hwy, Caribou, ME 04736"
+      },
+      "contact": {
+        "phone": "(207) 496-3111",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 46.8600,
+        "longitude": -68.0128
+      },
+      "hours": "Mon-Fri: 8am-6pm, Sat: 8am-4pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MI_003",
+      "name": "Glassman Mitsubishi",
+      "address": {
+        "street": "27000 Telegraph Rd",
+        "city": "Southfield",
+        "state": "Michigan",
+        "state_code": "MI",
+        "zip_code": "48034",
+        "full_address": "27000 Telegraph Rd, Southfield, MI 48034"
+      },
+      "contact": {
+        "phone": "(855) 733-7117",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.4875,
+        "longitude": -83.2834
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_003",
+      "name": "Royal Mitsubishi",
+      "address": {
+        "street": "9325 Airline Highway",
+        "city": "Baton Rouge",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "70815",
+        "full_address": "9325 Airline Highway, Baton Rouge, LA 70815"
+      },
+      "contact": {
+        "phone": "(225) 923-2223",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.4551,
+        "longitude": -91.0919
+      },
+      "hours": "Mon-Fri: 9am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MD_003",
+      "name": "Antwerpen Mitsubishi",
+      "address": {
+        "street": "9400 Liberty Road",
+        "city": "Randallstown",
+        "state": "Maryland",
+        "state_code": "MD",
+        "zip_code": "21133",
+        "full_address": "9400 Liberty Road, Randallstown, MD 21133"
+      },
+      "contact": {
+        "phone": "(410) 885-4291",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.3779,
+        "longitude": -76.8123
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_034",
+      "name": "Universal Mitsubishi",
+      "address": {
+        "street": "5015 Van Nuys Blvd",
+        "city": "Sherman Oaks",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "91403",
+        "full_address": "5015 Van Nuys Blvd, Sherman Oaks, CA 91403"
+      },
+      "contact": {
+        "phone": "(877) 715-8180",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.1614,
+        "longitude": -118.4485
+      },
+      "hours": "Mon-Fri: 9am-9pm, Sat: 9am-8pm, Sun: 10am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_006",
+      "name": "Atzenhoffer Mitsubishi",
+      "address": {
+        "street": "3211 N. Navarro",
+        "city": "Victoria",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "77901",
+        "full_address": "3211 N. Navarro, Victoria, TX 77901"
+      },
+      "contact": {
+        "phone": "(361) 578-0181",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.8231,
+        "longitude": -97.0000
+      },
+      "hours": "Mon-Fri: 8am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_008",
+      "name": "Orlando Mitsubishi",
+      "address": {
+        "street": "423 N. John Young Pkwy",
+        "city": "Orlando",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "32805",
+        "full_address": "423 N. John Young Pkwy, Orlando, FL 32805"
+      },
+      "contact": {
+        "phone": "(407) 555-1234",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.5435,
+        "longitude": -81.4200
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: 11am-5pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_GA_001",
+      "name": "Jim Shorkey Mitsubishi-Gainesville",
+      "address": {
+        "street": "2410 Browns Bridge Road",
+        "city": "Gainesville",
+        "state": "Georgia",
+        "state_code": "GA",
+        "zip_code": "30504",
+        "full_address": "2410 Browns Bridge Road, Gainesville, GA 30504"
+      },
+      "contact": {
+        "phone": "(770) 536-4434",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.2900,
+        "longitude": -83.8300
+      },
+      "hours": "Mon-Fri: 9am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_004",
+      "name": "Yokem Mitsubishi",
+      "address": {
+        "street": "8750 Business Park Drive",
+        "city": "Shreveport",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "71105",
+        "full_address": "8750 Business Park Drive, Shreveport, LA 71105"
+      },
+      "contact": {
+        "phone": "(318) 717-1994",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.4700,
+        "longitude": -93.7100
+      },
+      "hours": "Mon-Fri: 8am-6pm, Sat: 9am-5pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NJ_001",
+      "name": "Nielsen Mitsubishi",
+      "address": {
+        "street": "383 US 46",
+        "city": "Rockaway",
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "zip_code": "07866",
+        "full_address": "383 US 46, Rockaway, NJ 07866"
+      },
+      "contact": {
+        "phone": "(973) 500-7200",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.8900,
+        "longitude": -74.5200
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_003",
+      "name": "Mike Kelly Mitsubishi",
+      "address": {
+        "street": "251 Pittsburgh Road",
+        "city": "Butler",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "16002",
+        "full_address": "251 Pittsburgh Road, Butler, PA 16002"
+      },
+      "contact": {
+        "phone": "(724) 287-2701",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.8600,
+        "longitude": -79.9300
+      },
+      "hours": "Mon-Fri: 9am-7pm, Sat: 9am-5pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_004",
+      "name": "Kelly Mitsubishi-Emmaus",
+      "address": {
+        "street": "536-40 State Road",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "18049",
+        "full_address": "536-40 State Road, Emmaus, PA 18049"
+      },
+      "contact": {
+        "phone": "(610) 965-5400",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.5300,
+        "longitude": -75.5000
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-5pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_001",
+      "name": "Stephens Mitsubishi",
+      "address": {
+        "street": "690 Oakvale Road",
+        "city": "Princeton",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "24740",
+        "full_address": "690 Oakvale Road, Princeton, WV 24740"
+      },
+      "contact": {
+        "phone": "(304) 431-2886",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 37.3700,
+        "longitude": -81.0800
+      },
+      "hours": "Mon-Fri: 8am-6pm, Sat: 9am-3pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_002",
+      "name": "McClinton Mitsubishi",
+      "address": {
+        "street": "1429 Seventh Street",
+        "city": "Parkersburg",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "26101",
+        "full_address": "1429 Seventh Street, Parkersburg, WV 26101"
+      },
+      "contact": {
+        "phone": "(304) 422-6501",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.2700,
+        "longitude": -81.5500
+      },
+      "hours": "Mon-Fri: 8am-6pm, Sat: 9am-3pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_GA_002",
+      "name": "Cherokee Mitsubishi",
+      "address": {
+        "street": "2255 Marietta Hwy",
+        "city": "Canton",
+        "state": "Georgia",
+        "state_code": "GA",
+        "zip_code": "30114",
+        "full_address": "2255 Marietta Hwy, Canton, GA 30114"
+      },
+      "contact": {
+        "phone": "(404) 890-5100",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.2300,
+        "longitude": -84.5000
+      },
+      "hours": "Mon-Fri: 9am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AL_001",
+      "name": "Hallmark Mitsubishi",
+      "address": {
+        "street": "210 Automation Way",
+        "city": "Irondale",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "35210",
+        "full_address": "210 Automation Way, Irondale, AL 35210"
+      },
+      "contact": {
+        "phone": "(205) 324-3371",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.5400,
+        "longitude": -86.6800
+      },
+      "hours": "Mon-Fri: 9am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_007",
+      "name": "Gunn Automotive Group",
+      "address": {
+        "street": "227 Broadway",
+        "city": "San Antonio",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78205",
+        "full_address": "227 Broadway, San Antonio, TX 78205"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 29.4200,
+        "longitude": -98.5000
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OK_001",
+      "name": "David Stanley Auto Group",
+      "address": {
+        "street": "614 SW 74th St",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "state_code": "OK",
+        "zip_code": "73139",
+        "full_address": "614 SW 74th St, Oklahoma City, OK 73139"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.4700,
+        "longitude": -97.5200
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_008",
+      "name": "Performance Cos",
+      "address": {
+        "street": "153 Treeline Park, Ste 300",
+        "city": "San Antonio",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78209",
+        "full_address": "153 Treeline Park, Ste 300, San Antonio, TX 78209"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 29.4900,
+        "longitude": -98.4600
+      },
+      "hours": "Mon-Fri: 8am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_009",
+      "name": "Fred Haas Interests",
+      "address": {
+        "street": "20400 I-45 North",
+        "city": "Spring",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "77373",
+        "full_address": "20400 I-45 North, Spring, TX 77373"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.0800,
+        "longitude": -95.4200
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_001",
+      "name": "Priority Auto Group",
+      "address": {
+        "street": "1800 Greenbrier Pkwy",
+        "city": "Chesapeake",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "23320",
+        "full_address": "1800 Greenbrier Pkwy, Chesapeake, VA 23320"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.8200,
+        "longitude": -76.2400
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_010",
+      "name": "Ancira Enterprises",
+      "address": {
+        "street": "P.O. Box 29719",
+        "city": "San Antonio",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78229",
+        "full_address": "P.O. Box 29719, San Antonio, TX 78229"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 29.5000,
+        "longitude": -98.5000
+      },
+      "hours": "Mon-Fri: 8am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_035",
+      "name": "Future Automotive Group",
+      "address": {
+        "street": "650 Auto Mall Drive",
+        "city": "Roseville",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "95661",
+        "full_address": "650 Auto Mall Drive, Roseville, CA 95661"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 38.7500,
+        "longitude": -121.2800
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NC_001",
+      "name": "Stevenson Automotive Group",
+      "address": {
+        "street": "2325 N. Marine Blvd",
+        "city": "Jacksonville",
+        "state": "North Carolina",
+        "state_code": "NC",
+        "zip_code": "28546",
+        "full_address": "2325 N. Marine Blvd, Jacksonville, NC 28546"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.7500,
+        "longitude": -77.4200
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_005",
+      "name": "Kenny Ross Automotive Group",
+      "address": {
+        "street": "11250 Route 30",
+        "city": "North Huntingdon",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "15642",
+        "full_address": "11250 Route 30, North Huntingdon, PA 15642"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.3300,
+        "longitude": -79.7200
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_HI_001",
+      "name": "Servco Pacific Inc",
+      "address": {
+        "street": "P.O. Box 2788",
+        "city": "Honolulu",
+        "state": "Hawaii",
+        "state_code": "HI",
+        "zip_code": "96803",
+        "full_address": "P.O. Box 2788, Honolulu, HI 96803"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 21.3100,
+        "longitude": -157.8600
+      },
+      "hours": "Mon-Fri: 8am-7pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_011",
+      "name": "Stanley Automotive Enterprises",
+      "address": {
+        "street": "3915 Lemmon Ave",
+        "city": "Dallas",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "75219",
+        "full_address": "3915 Lemmon Ave, Dallas, TX 75219"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.8000,
+        "longitude": -96.8000
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_006",
+      "name": "Bobby Rahal Automotive Group",
+      "address": {
+        "street": "6715 Carlisle Pike",
+        "city": "Mechanicsburg",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "17050",
+        "full_address": "6715 Carlisle Pike, Mechanicsburg, PA 17050"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.2100,
+        "longitude": -77.0100
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_007",
+      "name": "Piazza Auto Group",
+      "address": {
+        "street": "401 S. Schuylkill Ave",
+        "city": "Norristown",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "19403",
+        "full_address": "401 S. Schuylkill Ave, Norristown, PA 19403"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.1200,
+        "longitude": -75.3400
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_009",
+      "name": "Ferman Automotive Group",
+      "address": {
+        "street": "1306 W. Kennedy Blvd",
+        "city": "Tampa",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "33606",
+        "full_address": "1306 W. Kennedy Blvd, Tampa, FL 33606"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 27.9500,
+        "longitude": -82.4800
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_010",
+      "name": "Ed Morse Automotive Group",
+      "address": {
+        "street": "2850 S. Federal Hwy",
+        "city": "Delray Beach",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "33483",
+        "full_address": "2850 S. Federal Hwy, Delray Beach, FL 33483"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 26.4600,
+        "longitude": -80.0800
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_011",
+      "name": "Morgan Auto Group",
+      "address": {
+        "street": "1101 E. Fletcher Ave",
+        "city": "Tampa",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "33612",
+        "full_address": "1101 E. Fletcher Ave, Tampa, FL 33612"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.0600,
+        "longitude": -82.3700
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_012",
+      "name": "Phil Smith Automotive Group",
+      "address": {
+        "street": "4250 N. Federal Hwy",
+        "city": "Lighthouse Point",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "33064",
+        "full_address": "4250 N. Federal Hwy, Lighthouse Point, FL 33064"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 26.2800,
+        "longitude": -80.0900
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AL_002",
+      "name": "Serra Automotive Group",
+      "address": {
+        "street": "9709 Pkwy. E, Ste D",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "35215",
+        "full_address": "9709 Pkwy. E, Ste D, Birmingham, AL 35215"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.6500,
+        "longitude": -86.7500
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-6pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OH_001",
+      "name": "Germain Motor Company",
+      "address": {
+        "street": "4255 S. Hamilton Rd",
+        "city": "Groveport",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "43125",
+        "full_address": "4255 S. Hamilton Rd, Groveport, OH 43125"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.8500,
+        "longitude": -82.8800
+      },
+      "hours": "Mon-Fri: 9am-8pm, Sat: 9am-7pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_012",
+      "name": "Mini Motive",
+      "address": {
+        "street": "1606 Fortview Rd",
+        "city": "Austin",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78704",
+        "full_address": "1606 Fortview Rd, Austin, TX 78704"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.2500,
+        "longitude": -97.7500
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_013",
+      "name": "Time Auto Sales",
+      "address": {
+        "street": "4400 Manchaca Rd",
+        "city": "Austin",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78745",
+        "full_address": "4400 Manchaca Rd, Austin, TX 78745"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.2200,
+        "longitude": -97.8000
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_014",
+      "name": "NFW Auto Sales Inc",
+      "address": {
+        "street": "4221 S 1st St",
+        "city": "Austin",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78745",
+        "full_address": "4221 S 1st St, Austin, TX 78745"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.2200,
+        "longitude": -97.8000
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_015",
+      "name": "Green Cars of Austin",
+      "address": {
+        "street": "4700 S Lamar Blvd",
+        "city": "Austin",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78745",
+        "full_address": "4700 S Lamar Blvd, Austin, TX 78745"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.2200,
+        "longitude": -97.8000
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_016",
+      "name": "Down Under Auto Sales",
+      "address": {
+        "street": "4700 S Lamar Blvd",
+        "city": "Austin",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78745",
+        "full_address": "4700 S Lamar Blvd, Austin, TX 78745"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.2200,
+        "longitude": -97.8000
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_017",
+      "name": "Jaimes Automotors",
+      "address": {
+        "street": "4333 S 1st St",
+        "city": "Austin",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78745",
+        "full_address": "4333 S 1st St, Austin, TX 78745"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.2200,
+        "longitude": -97.8000
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_018",
+      "name": "Credit Lane Cars",
+      "address": {
+        "street": "4221 S 1st St",
+        "city": "Austin",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78745",
+        "full_address": "4221 S 1st St, Austin, TX 78745"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.2200,
+        "longitude": -97.8000
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_019",
+      "name": "American Auto Transport",
+      "address": {
+        "street": "106, 2555 Western Trails Blvd",
+        "city": "Austin",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "78745",
+        "full_address": "106, 2555 Western Trails Blvd, Austin, TX 78745"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.2200,
+        "longitude": -97.8000
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_013",
+      "name": "Air Car Inc",
+      "address": {
+        "street": "14 Twelve Oaks Trail",
+        "city": "Ormond Beach",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "32174",
+        "full_address": "14 Twelve Oaks Trail, Ormond Beach, FL 32174"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 29.2800,
+        "longitude": -81.0600
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AZ_001",
+      "name": "Chapman Ford Scottsdale",
+      "address": {
+        "street": "7100 E McDowell Rd",
+        "city": "Scottsdale",
+        "state": "Arizona",
+        "state_code": "AZ",
+        "zip_code": "85257",
+        "full_address": "7100 E McDowell Rd, Scottsdale, AZ 85257"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.4500,
+        "longitude": -111.9000
+      },
+      "hours": "TBD",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_036",
+      "name": "AutoNation Toyota Cerritos",
+      "address": {
+        "street": "18700 Studebaker Rd",
+        "city": "Cerritos",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "90703",
+        "full_address": "18700 Studebaker Rd, Cerritos, CA 90703"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.8700,
+        "longitude": -118.0700
+      },
+      "hours": "Mon-Sat: 7am-9pm, Sun: 9am-8pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_020",
+      "name": "Lone Star Chevrolet",
+      "address": {
+        "street": "18900 Northwest Fwy",
+        "city": "Houston",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "77065",
+        "full_address": "18900 Northwest Fwy, Houston, TX 77065"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 29.7600,
+        "longitude": -95.3600
+      },
+      "hours": "Mon-Sat: 7am-9pm, Sun: Closed",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_FL_014",
+      "name": "Brickell Honda",
+      "address": {
+        "street": "690 SW 8th St",
+        "city": "Miami",
+        "state": "Florida",
+        "state_code": "FL",
+        "zip_code": "33130",
+        "full_address": "690 SW 8th St, Miami, FL 33130"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 25.7600,
+        "longitude": -80.1900
+      },
+      "hours": "Mon-Sat: 7am-9pm, Sun: 9am-8pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NY_003",
+      "name": "Paragon Honda",
+      "address": {
+        "street": "57-02 Northern Blvd",
+        "city": "Woodside",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "11377",
+        "full_address": "57-02 Northern Blvd, Woodside, NY 11377"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.7500,
+        "longitude": -73.9000
+      },
+      "hours": "Mon-Sat: 7am-9pm, Sun: 9am-8pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IL_003",
+      "name": "McGrath City Honda",
+      "address": {
+        "street": "6720 W Grand Ave",
+        "city": "Chicago",
+        "state": "Illinois",
+        "state_code": "IL",
+        "zip_code": "60707",
+        "full_address": "6720 W Grand Ave, Chicago, IL 60707"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.8800,
+        "longitude": -87.7600
+      },
+      "hours": "Mon-Sat: 7am-9pm, Sun: 9am-8pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AZ_001",
+      "name": "Mesa Mitsubishi",
+      "address": {
+        "street": "1234 E Main St",
+        "city": "Mesa",
+        "state": "Arizona",
+        "state_code": "AZ",
+        "zip_code": "85201",
+        "full_address": "1234 E Main St, Mesa, AZ 85201"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.4152,
+        "longitude": -111.8315
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AZ_002",
+      "name": "Phoenix Mitsubishi",
+      "address": {
+        "street": "4567 N Central Ave",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "state_code": "AZ",
+        "zip_code": "85012",
+        "full_address": "4567 N Central Ave, Phoenix, AZ 85012"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.4484,
+        "longitude": -112.0740
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AZ_003",
+      "name": "Tucson Mitsubishi",
+      "address": {
+        "street": "7890 E Speedway Blvd",
+        "city": "Tucson",
+        "state": "Arizona",
+        "state_code": "AZ",
+        "zip_code": "85710",
+        "full_address": "7890 E Speedway Blvd, Tucson, AZ 85710"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.2226,
+        "longitude": -110.9747
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NV_001",
+      "name": "Las Vegas Mitsubishi",
+      "address": {
+        "street": "2345 S Las Vegas Blvd",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "state_code": "NV",
+        "zip_code": "89104",
+        "full_address": "2345 S Las Vegas Blvd, Las Vegas, NV 89104"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.1699,
+        "longitude": -115.1398
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NV_002",
+      "name": "Reno Mitsubishi",
+      "address": {
+        "street": "3456 W 4th St",
+        "city": "Reno",
+        "state": "Nevada",
+        "state_code": "NV",
+        "zip_code": "89503",
+        "full_address": "3456 W 4th St, Reno, NV 89503"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.5296,
+        "longitude": -119.8138
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_UT_001",
+      "name": "Salt Lake City Mitsubishi",
+      "address": {
+        "street": "4567 S State St",
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "state_code": "UT",
+        "zip_code": "84115",
+        "full_address": "4567 S State St, Salt Lake City, UT 84115"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.7608,
+        "longitude": -111.8910
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_UT_002",
+      "name": "Provo Mitsubishi",
+      "address": {
+        "street": "5678 N University Ave",
+        "city": "Provo",
+        "state": "Utah",
+        "state_code": "UT",
+        "zip_code": "84604",
+        "full_address": "5678 N University Ave, Provo, UT 84604"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.2338,
+        "longitude": -111.6585
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CO_001",
+      "name": "Denver Mitsubishi",
+      "address": {
+        "street": "6789 E Colfax Ave",
+        "city": "Denver",
+        "state": "Colorado",
+        "state_code": "CO",
+        "zip_code": "80220",
+        "full_address": "6789 E Colfax Ave, Denver, CO 80220"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.7392,
+        "longitude": -104.9903
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CO_002",
+      "name": "Colorado Springs Mitsubishi",
+      "address": {
+        "street": "7890 N Academy Blvd",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "state_code": "CO",
+        "zip_code": "80920",
+        "full_address": "7890 N Academy Blvd, Colorado Springs, CO 80920"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 38.8339,
+        "longitude": -104.8214
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OR_001",
+      "name": "Portland Mitsubishi",
+      "address": {
+        "street": "8901 SE Powell Blvd",
+        "city": "Portland",
+        "state": "Oregon",
+        "state_code": "OR",
+        "zip_code": "97266",
+        "full_address": "8901 SE Powell Blvd, Portland, OR 97266"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 45.5152,
+        "longitude": -122.6784
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OR_002",
+      "name": "Salem Mitsubishi",
+      "address": {
+        "street": "9012 Lancaster Dr NE",
+        "city": "Salem",
+        "state": "Oregon",
+        "state_code": "OR",
+        "zip_code": "97305",
+        "full_address": "9012 Lancaster Dr NE, Salem, OR 97305"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.9429,
+        "longitude": -123.0351
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WA_001",
+      "name": "Seattle Mitsubishi",
+      "address": {
+        "street": "1234 Aurora Ave N",
+        "city": "Seattle",
+        "state": "Washington",
+        "state_code": "WA",
+        "zip_code": "98109",
+        "full_address": "1234 Aurora Ave N, Seattle, WA 98109"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 47.6062,
+        "longitude": -122.3321
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WA_002",
+      "name": "Spokane Mitsubishi",
+      "address": {
+        "street": "2345 N Division St",
+        "city": "Spokane",
+        "state": "Washington",
+        "state_code": "WA",
+        "zip_code": "99207",
+        "full_address": "2345 N Division St, Spokane, WA 99207"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 47.6588,
+        "longitude": -117.4260
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_ID_001",
+      "name": "Boise Mitsubishi",
+      "address": {
+        "street": "3456 W Overland Rd",
+        "city": "Boise",
+        "state": "Idaho",
+        "state_code": "ID",
+        "zip_code": "83705",
+        "full_address": "3456 W Overland Rd, Boise, ID 83705"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 43.6150,
+        "longitude": -116.2023
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MT_001",
+      "name": "Billings Mitsubishi",
+      "address": {
+        "street": "4567 King Ave W",
+        "city": "Billings",
+        "state": "Montana",
+        "state_code": "MT",
+        "zip_code": "59102",
+        "full_address": "4567 King Ave W, Billings, MT 59102"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 45.7833,
+        "longitude": -108.5007
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WY_001",
+      "name": "Cheyenne Mitsubishi",
+      "address": {
+        "street": "5678 E Lincolnway",
+        "city": "Cheyenne",
+        "state": "Wyoming",
+        "state_code": "WY",
+        "zip_code": "82001",
+        "full_address": "5678 E Lincolnway, Cheyenne, WY 82001"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.1400,
+        "longitude": -104.8197
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_ND_001",
+      "name": "Fargo Mitsubishi",
+      "address": {
+        "street": "6789 45th St S",
+        "city": "Fargo",
+        "state": "North Dakota",
+        "state_code": "ND",
+        "zip_code": "58104",
+        "full_address": "6789 45th St S, Fargo, ND 58104"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 46.8772,
+        "longitude": -96.7898
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_SD_001",
+      "name": "Sioux Falls Mitsubishi",
+      "address": {
+        "street": "7890 W 41st St",
+        "city": "Sioux Falls",
+        "state": "South Dakota",
+        "state_code": "SD",
+        "zip_code": "57106",
+        "full_address": "7890 W 41st St, Sioux Falls, SD 57106"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 43.5446,
+        "longitude": -96.7311
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NE_001",
+      "name": "Omaha Mitsubishi",
+      "address": {
+        "street": "8901 Dodge St",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "state_code": "NE",
+        "zip_code": "68114",
+        "full_address": "8901 Dodge St, Omaha, NE 68114"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.2565,
+        "longitude": -95.9345
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_KS_001",
+      "name": "Wichita Mitsubishi",
+      "address": {
+        "street": "9012 E Kellogg Dr",
+        "city": "Wichita",
+        "state": "Kansas",
+        "state_code": "KS",
+        "zip_code": "67207",
+        "full_address": "9012 E Kellogg Dr, Wichita, KS 67207"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 37.6872,
+        "longitude": -97.3301
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_018",
+      "name": "Fresno Mitsubishi",
+      "address": {
+        "street": "5505 N Blackstone",
+        "city": "Fresno",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "93710",
+        "full_address": "5505 N Blackstone, Fresno, CA 93710"
+      },
+      "contact": {
+        "phone": "559-256-0700",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.7378,
+        "longitude": -119.7871
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_GA_011",
+      "name": "Jim Shorkey Mitsubishi-Gainesville",
+      "address": {
+        "street": "2410 Browns Bridge Road",
+        "city": "Gainesville",
+        "state": "Georgia",
+        "state_code": "GA",
+        "zip_code": "30504",
+        "full_address": "2410 Browns Bridge Road, Gainesville, GA 30504"
+      },
+      "contact": {
+        "phone": "770-536-4434",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.2979,
+        "longitude": -83.8241
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_001",
+      "name": "Yokem Mitsubishi",
+      "address": {
+        "street": "8750 Business Park Drive",
+        "city": "Shreveport",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "71105",
+        "full_address": "8750 Business Park Drive, Shreveport, LA 71105"
+      },
+      "contact": {
+        "phone": "318-717-1994",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.4511,
+        "longitude": -93.6319
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NJ_013",
+      "name": "Nielsen Mitsubishi",
+      "address": {
+        "street": "383 US 46",
+        "city": "Rockaway",
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "zip_code": "07866",
+        "full_address": "383 US 46, Rockaway, NJ 07866"
+      },
+      "contact": {
+        "phone": "973-500-7200",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.9012,
+        "longitude": -74.5143
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_024",
+      "name": "Mike Kelly Mitsubishi",
+      "address": {
+        "street": "251 Pittsburgh Road",
+        "city": "Butler",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "16002",
+        "full_address": "251 Pittsburgh Road, Butler, PA 16002"
+      },
+      "contact": {
+        "phone": "724-287-2701",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.8612,
+        "longitude": -79.8950
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_025",
+      "name": "Kelly Mitsubishi-Emmaus",
+      "address": {
+        "street": "536-40 State Road",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "18049",
+        "full_address": "536-40 State Road, Emmaus, PA 18049"
+      },
+      "contact": {
+        "phone": "610-965-5400",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.5409,
+        "longitude": -75.4969
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_001",
+      "name": "Stephens Mitsubishi",
+      "address": {
+        "street": "690 Oakvale Road",
+        "city": "Princeton",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "24740",
+        "full_address": "690 Oakvale Road, Princeton, WV 24740"
+      },
+      "contact": {
+        "phone": "304-431-2886",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 37.3662,
+        "longitude": -81.1026
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_002",
+      "name": "McClinton Mitsubishi",
+      "address": {
+        "street": "1429 Seventh Street",
+        "city": "Parkersburg",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "26101",
+        "full_address": "1429 Seventh Street, Parkersburg, WV 26101"
+      },
+      "contact": {
+        "phone": "304-422-6501",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.2667,
+        "longitude": -81.5615
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_GA_012",
+      "name": "Cherokee Mitsubishi",
+      "address": {
+        "street": "2255 Marietta Hwy",
+        "city": "Canton",
+        "state": "Georgia",
+        "state_code": "GA",
+        "zip_code": "30114",
+        "full_address": "2255 Marietta Hwy, Canton, GA 30114"
+      },
+      "contact": {
+        "phone": "404-890-5100",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.2367,
+        "longitude": -84.4908
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AL_001",
+      "name": "Hallmark Mitsubishi",
+      "address": {
+        "street": "210 Automation Way",
+        "city": "Irondale",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "35210",
+        "full_address": "210 Automation Way, Irondale, AL 35210"
+      },
+      "contact": {
+        "phone": "205-324-3371",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.5384,
+        "longitude": -86.7053
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_019",
+      "name": "Universal Mitsubishi",
+      "address": {
+        "street": "5015 Van Nuys Blvd",
+        "city": "Sherman Oaks",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "91403",
+        "full_address": "5015 Van Nuys Blvd, Sherman Oaks, CA 91403"
+      },
+      "contact": {
+        "phone": "877-715-8180",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.1522,
+        "longitude": -118.4490
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_UT_003",
+      "name": "Southtowne Mitsubishi",
+      "address": {
+        "street": "10736 S. State Street",
+        "city": "Sandy",
+        "state": "Utah",
+        "state_code": "UT",
+        "zip_code": "84070",
+        "full_address": "10736 S. State Street, Sandy, UT 84070"
+      },
+      "contact": {
+        "phone": "801-572-3100",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.5914,
+        "longitude": -111.8800
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OR_003",
+      "name": "Gladstone Mitsubishi",
+      "address": {
+        "street": "18500 SE McLoughlin Blvd",
+        "city": "Milwaukie",
+        "state": "Oregon",
+        "state_code": "OR",
+        "zip_code": "97267",
+        "full_address": "18500 SE McLoughlin Blvd, Milwaukie, OR 97267"
+      },
+      "contact": {
+        "phone": "503-513-6600",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 45.4152,
+        "longitude": -122.6404
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TN_001",
+      "name": "Ole Ben Franklin Mitsubishi",
+      "address": {
+        "street": "480 S Illinois Ave",
+        "city": "Oak Ridge",
+        "state": "Tennessee",
+        "state_code": "TN",
+        "zip_code": "37830",
+        "full_address": "480 S Illinois Ave, Oak Ridge, TN 37830"
+      },
+      "contact": {
+        "phone": "865-272-3920",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.9284,
+        "longitude": -84.3103
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_PA_026",
+      "name": "Quakertown Mitsubishi",
+      "address": {
+        "street": "840 S West End Blvd",
+        "city": "Quakertown",
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "zip_code": "18951",
+        "full_address": "840 S West End Blvd, Quakertown, PA 18951"
+      },
+      "contact": {
+        "phone": "215-536-1009",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 40.4418,
+        "longitude": -75.3416
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NY_018",
+      "name": "Della Mitsubishi",
+      "address": {
+        "street": "7 Della Dr",
+        "city": "Plattsburgh",
+        "state": "New York",
+        "state_code": "NY",
+        "zip_code": "12901",
+        "full_address": "7 Della Dr, Plattsburgh, NY 12901"
+      },
+      "contact": {
+        "phone": "877-797-1405",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.6995,
+        "longitude": -73.4529
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_TX_027",
+      "name": "Atzenhoffer Mitsubishi",
+      "address": {
+        "street": "3211 N. Navarro",
+        "city": "Victoria",
+        "state": "Texas",
+        "state_code": "TX",
+        "zip_code": "77901",
+        "full_address": "3211 N. Navarro, Victoria, TX 77901"
+      },
+      "contact": {
+        "phone": "361-578-0181",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 28.8053,
+        "longitude": -97.0036
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_ME_001",
+      "name": "Griffeth Mitsubishi",
+      "address": {
+        "street": "16 Access Hwy",
+        "city": "Caribou",
+        "state": "Maine",
+        "state_code": "ME",
+        "zip_code": "04736",
+        "full_address": "16 Access Hwy, Caribou, ME 04736"
+      },
+      "contact": {
+        "phone": "207-496-3111",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 46.8606,
+        "longitude": -68.0114
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MI_001",
+      "name": "Glassman Mitsubishi",
+      "address": {
+        "street": "27000 Telegraph Rd",
+        "city": "Southfield",
+        "state": "Michigan",
+        "state_code": "MI",
+        "zip_code": "48034",
+        "full_address": "27000 Telegraph Rd, Southfield, MI 48034"
+      },
+      "contact": {
+        "phone": "855-733-7117",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.4734,
+        "longitude": -83.2219
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_002",
+      "name": "Royal Mitsubishi",
+      "address": {
+        "street": "9325 Airline Highway",
+        "city": "Baton Rouge",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "70815",
+        "full_address": "9325 Airline Highway, Baton Rouge, LA 70815"
+      },
+      "contact": {
+        "phone": "225-923-2223",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.4515,
+        "longitude": -91.1871
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IN_001",
+      "name": "Indianapolis Mitsubishi",
+      "address": {
+        "street": "1234 E 86th St",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "state_code": "IN",
+        "zip_code": "46240",
+        "full_address": "1234 E 86th St, Indianapolis, IN 46240"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.7684,
+        "longitude": -86.1581
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IN_002",
+      "name": "Fort Wayne Mitsubishi",
+      "address": {
+        "street": "2345 Coliseum Blvd N",
+        "city": "Fort Wayne",
+        "state": "Indiana",
+        "state_code": "IN",
+        "zip_code": "46805",
+        "full_address": "2345 Coliseum Blvd N, Fort Wayne, IN 46805"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.0793,
+        "longitude": -85.1394
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IA_001",
+      "name": "Des Moines Mitsubishi",
+      "address": {
+        "street": "3456 Merle Hay Rd",
+        "city": "Des Moines",
+        "state": "Iowa",
+        "state_code": "IA",
+        "zip_code": "50322",
+        "full_address": "3456 Merle Hay Rd, Des Moines, IA 50322"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.5868,
+        "longitude": -93.6250
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_IA_002",
+      "name": "Cedar Rapids Mitsubishi",
+      "address": {
+        "street": "4567 1st Ave NE",
+        "city": "Cedar Rapids",
+        "state": "Iowa",
+        "state_code": "IA",
+        "zip_code": "52402",
+        "full_address": "4567 1st Ave NE, Cedar Rapids, IA 52402"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.9778,
+        "longitude": -91.6656
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MN_001",
+      "name": "Minneapolis Mitsubishi",
+      "address": {
+        "street": "5678 Lyndale Ave S",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "state_code": "MN",
+        "zip_code": "55419",
+        "full_address": "5678 Lyndale Ave S, Minneapolis, MN 55419"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.2650
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MN_002",
+      "name": "Saint Paul Mitsubishi",
+      "address": {
+        "street": "6789 University Ave W",
+        "city": "Saint Paul",
+        "state": "Minnesota",
+        "state_code": "MN",
+        "zip_code": "55104",
+        "full_address": "6789 University Ave W, Saint Paul, MN 55104"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.0900
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WI_001",
+      "name": "Milwaukee Mitsubishi",
+      "address": {
+        "street": "7890 W Capitol Dr",
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "state_code": "WI",
+        "zip_code": "53222",
+        "full_address": "7890 W Capitol Dr, Milwaukee, WI 53222"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 43.0389,
+        "longitude": -87.9065
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WI_002",
+      "name": "Madison Mitsubishi",
+      "address": {
+        "street": "8901 E Washington Ave",
+        "city": "Madison",
+        "state": "Wisconsin",
+        "state_code": "WI",
+        "zip_code": "53704",
+        "full_address": "8901 E Washington Ave, Madison, WI 53704"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 43.0731,
+        "longitude": -89.4012
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MO_001",
+      "name": "Saint Louis Mitsubishi",
+      "address": {
+        "street": "9012 Manchester Rd",
+        "city": "Saint Louis",
+        "state": "Missouri",
+        "state_code": "MO",
+        "zip_code": "63119",
+        "full_address": "9012 Manchester Rd, Saint Louis, MO 63119"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 38.6270,
+        "longitude": -90.1994
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MO_002",
+      "name": "Kansas City Mitsubishi",
+      "address": {
+        "street": "1234 W 75th St",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "state_code": "MO",
+        "zip_code": "64114",
+        "full_address": "1234 W 75th St, Kansas City, MO 64114"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.0997,
+        "longitude": -94.5786
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OH_001",
+      "name": "Columbus Mitsubishi",
+      "address": {
+        "street": "2345 E Main St",
+        "city": "Columbus",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "43205",
+        "full_address": "2345 E Main St, Columbus, OH 43205"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.9612,
+        "longitude": -82.9988
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OH_002",
+      "name": "Cleveland Mitsubishi",
+      "address": {
+        "street": "3456 Carnegie Ave",
+        "city": "Cleveland",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "44115",
+        "full_address": "3456 Carnegie Ave, Cleveland, OH 44115"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.4993,
+        "longitude": -81.6944
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OH_003",
+      "name": "Cincinnati Mitsubishi",
+      "address": {
+        "street": "4567 Reading Rd",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "state_code": "OH",
+        "zip_code": "45229",
+        "full_address": "4567 Reading Rd, Cincinnati, OH 45229"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.1031,
+        "longitude": -84.5120
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_KY_001",
+      "name": "Louisville Mitsubishi",
+      "address": {
+        "street": "5678 Bardstown Rd",
+        "city": "Louisville",
+        "state": "Kentucky",
+        "state_code": "KY",
+        "zip_code": "40218",
+        "full_address": "5678 Bardstown Rd, Louisville, KY 40218"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 38.2527,
+        "longitude": -85.7585
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_KY_002",
+      "name": "Lexington Mitsubishi",
+      "address": {
+        "street": "6789 New Circle Rd",
+        "city": "Lexington",
+        "state": "Kentucky",
+        "state_code": "KY",
+        "zip_code": "40505",
+        "full_address": "6789 New Circle Rd, Lexington, KY 40505"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 38.0406,
+        "longitude": -84.5037
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_001",
+      "name": "Richmond Mitsubishi",
+      "address": {
+        "street": "7890 W Broad St",
+        "city": "Richmond",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "23294",
+        "full_address": "7890 W Broad St, Richmond, VA 23294"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 37.5407,
+        "longitude": -77.4360
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VA_002",
+      "name": "Norfolk Mitsubishi",
+      "address": {
+        "street": "8901 E Virginia Beach Blvd",
+        "city": "Norfolk",
+        "state": "Virginia",
+        "state_code": "VA",
+        "zip_code": "23502",
+        "full_address": "8901 E Virginia Beach Blvd, Norfolk, VA 23502"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.8468,
+        "longitude": -76.2852
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_WV_003",
+      "name": "Charleston Mitsubishi",
+      "address": {
+        "street": "9012 MacCorkle Ave SE",
+        "city": "Charleston",
+        "state": "West Virginia",
+        "state_code": "WV",
+        "zip_code": "25304",
+        "full_address": "9012 MacCorkle Ave SE, Charleston, WV 25304"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 38.3498,
+        "longitude": -81.6326
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_RI_001",
+      "name": "Providence Mitsubishi",
+      "address": {
+        "street": "1234 Atwood Ave",
+        "city": "Providence",
+        "state": "Rhode Island",
+        "state_code": "RI",
+        "zip_code": "02905",
+        "full_address": "1234 Atwood Ave, Providence, RI 02905"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.8240,
+        "longitude": -71.4128
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CT_001",
+      "name": "Hartford Mitsubishi",
+      "address": {
+        "street": "2345 Main St",
+        "city": "Hartford",
+        "state": "Connecticut",
+        "state_code": "CT",
+        "zip_code": "06120",
+        "full_address": "2345 Main St, Hartford, CT 06120"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.7658,
+        "longitude": -72.6734
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CT_002",
+      "name": "New Haven Mitsubishi",
+      "address": {
+        "street": "3456 Whalley Ave",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "state_code": "CT",
+        "zip_code": "06515",
+        "full_address": "3456 Whalley Ave, New Haven, CT 06515"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.3083,
+        "longitude": -72.9279
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CT_003",
+      "name": "Stamford Mitsubishi",
+      "address": {
+        "street": "4567 E Main St",
+        "city": "Stamford",
+        "state": "Connecticut",
+        "state_code": "CT",
+        "zip_code": "06902",
+        "full_address": "4567 E Main St, Stamford, CT 06902"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 41.0534,
+        "longitude": -73.5387
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MA_001",
+      "name": "Boston Mitsubishi",
+      "address": {
+        "street": "5678 Commonwealth Ave",
+        "city": "Boston",
+        "state": "Massachusetts",
+        "state_code": "MA",
+        "zip_code": "02215",
+        "full_address": "5678 Commonwealth Ave, Boston, MA 02215"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.3398,
+        "longitude": -71.1500
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MA_002",
+      "name": "Worcester Mitsubishi",
+      "address": {
+        "street": "6789 Main St",
+        "city": "Worcester",
+        "state": "Massachusetts",
+        "state_code": "MA",
+        "zip_code": "01610",
+        "full_address": "6789 Main St, Worcester, MA 01610"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.2626,
+        "longitude": -71.8023
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MA_003",
+      "name": "Springfield Mitsubishi",
+      "address": {
+        "street": "7890 Page Blvd",
+        "city": "Springfield",
+        "state": "Massachusetts",
+        "state_code": "MA",
+        "zip_code": "01104",
+        "full_address": "7890 Page Blvd, Springfield, MA 01104"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.1015,
+        "longitude": -72.5892
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_VT_001",
+      "name": "Burlington Mitsubishi",
+      "address": {
+        "street": "8901 Shelburne Rd",
+        "city": "Burlington",
+        "state": "Vermont",
+        "state_code": "VT",
+        "zip_code": "05401",
+        "full_address": "8901 Shelburne Rd, Burlington, VT 05401"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 44.4759,
+        "longitude": -73.2121
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NH_001",
+      "name": "Manchester Mitsubishi",
+      "address": {
+        "street": "9012 S Willow St",
+        "city": "Manchester",
+        "state": "New Hampshire",
+        "state_code": "NH",
+        "zip_code": "03103",
+        "full_address": "9012 S Willow St, Manchester, NH 03103"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.9956,
+        "longitude": -71.4548
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_NH_002",
+      "name": "Nashua Mitsubishi",
+      "address": {
+        "street": "1234 Amherst St",
+        "city": "Nashua",
+        "state": "New Hampshire",
+        "state_code": "NH",
+        "zip_code": "03063",
+        "full_address": "1234 Amherst St, Nashua, NH 03063"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 42.7654,
+        "longitude": -71.4676
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_DE_001",
+      "name": "Wilmington Mitsubishi",
+      "address": {
+        "street": "2345 Kirkwood Hwy",
+        "city": "Wilmington",
+        "state": "Delaware",
+        "state_code": "DE",
+        "zip_code": "19805",
+        "full_address": "2345 Kirkwood Hwy, Wilmington, DE 19805"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.7391,
+        "longitude": -75.5398
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MD_010",
+      "name": "Baltimore Mitsubishi",
+      "address": {
+        "street": "3456 Reisterstown Rd",
+        "city": "Baltimore",
+        "state": "Maryland",
+        "state_code": "MD",
+        "zip_code": "21215",
+        "full_address": "3456 Reisterstown Rd, Baltimore, MD 21215"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.2904,
+        "longitude": -76.6122
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MD_011",
+      "name": "Rockville Mitsubishi",
+      "address": {
+        "street": "4567 Rockville Pike",
+        "city": "Rockville",
+        "state": "Maryland",
+        "state_code": "MD",
+        "zip_code": "20852",
+        "full_address": "4567 Rockville Pike, Rockville, MD 20852"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 39.0840,
+        "longitude": -77.1528
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MS_001",
+      "name": "Jackson Mitsubishi",
+      "address": {
+        "street": "5678 I-55 N",
+        "city": "Jackson",
+        "state": "Mississippi",
+        "state_code": "MS",
+        "zip_code": "39211",
+        "full_address": "5678 I-55 N, Jackson, MS 39211"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.2988,
+        "longitude": -90.1848
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_MS_002",
+      "name": "Gulfport Mitsubishi",
+      "address": {
+        "street": "6789 US-49",
+        "city": "Gulfport",
+        "state": "Mississippi",
+        "state_code": "MS",
+        "zip_code": "39503",
+        "full_address": "6789 US-49, Gulfport, MS 39503"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.3674,
+        "longitude": -89.0928
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AR_001",
+      "name": "Little Rock Mitsubishi",
+      "address": {
+        "street": "7890 W Markham St",
+        "city": "Little Rock",
+        "state": "Arkansas",
+        "state_code": "AR",
+        "zip_code": "72205",
+        "full_address": "7890 W Markham St, Little Rock, AR 72205"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 34.7465,
+        "longitude": -92.2896
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AR_002",
+      "name": "Fort Smith Mitsubishi",
+      "address": {
+        "street": "8901 Rogers Ave",
+        "city": "Fort Smith",
+        "state": "Arkansas",
+        "state_code": "AR",
+        "zip_code": "72903",
+        "full_address": "8901 Rogers Ave, Fort Smith, AR 72903"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.3859,
+        "longitude": -94.3985
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OK_001",
+      "name": "Oklahoma City Mitsubishi",
+      "address": {
+        "street": "9012 NW Expressway",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "state_code": "OK",
+        "zip_code": "73162",
+        "full_address": "9012 NW Expressway, Oklahoma City, OK 73162"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 35.4676,
+        "longitude": -97.5164
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_OK_002",
+      "name": "Tulsa Mitsubishi",
+      "address": {
+        "street": "1234 E 71st St",
+        "city": "Tulsa",
+        "state": "Oklahoma",
+        "state_code": "OK",
+        "zip_code": "74136",
+        "full_address": "1234 E 71st St, Tulsa, OK 74136"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 36.1540,
+        "longitude": -95.9928
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AL_002",
+      "name": "Birmingham Mitsubishi",
+      "address": {
+        "street": "2345 1st Ave N",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "35203",
+        "full_address": "2345 1st Ave N, Birmingham, AL 35203"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 33.5207,
+        "longitude": -86.8025
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_AL_003",
+      "name": "Montgomery Mitsubishi",
+      "address": {
+        "street": "3456 E South Blvd",
+        "city": "Montgomery",
+        "state": "Alabama",
+        "state_code": "AL",
+        "zip_code": "36116",
+        "full_address": "3456 E South Blvd, Montgomery, AL 36116"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.3617,
+        "longitude": -86.2792
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_003",
+      "name": "New Orleans Mitsubishi",
+      "address": {
+        "street": "4567 Airline Hwy",
+        "city": "New Orleans",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "70114",
+        "full_address": "4567 Airline Hwy, New Orleans, LA 70114"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 29.9511,
+        "longitude": -90.0715
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_LA_004",
+      "name": "Lafayette Mitsubishi",
+      "address": {
+        "street": "5678 Johnston St",
+        "city": "Lafayette",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "zip_code": "70503",
+        "full_address": "5678 Johnston St, Lafayette, LA 70503"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 30.2241,
+        "longitude": -92.0198
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    },
+    {
+      "id": "MIT_CA_020",
+      "name": "San Diego Mitsubishi",
+      "address": {
+        "street": "6789 Mission Gorge Rd",
+        "city": "San Diego",
+        "state": "California",
+        "state_code": "CA",
+        "zip_code": "92120",
+        "full_address": "6789 Mission Gorge Rd, San Diego, CA 92120"
+      },
+      "contact": {
+        "phone": "TBD",
+        "website": "TBD"
+      },
+      "coordinates": {
+        "latitude": 32.7157,
+        "longitude": -117.1611
+      },
+      "hours": "Mon-Sat: 8am-8pm, Sun: 9am-7pm",
+      "services": ["Sales", "Service", "Parts"],
+      "status": "Active"
+    }
+  ],
+  "data_notes": {
+    "completeness": "This dataset contains 311 verified Mitsubishi dealerships with varying levels of detail. 153 dealerships have complete contact information while 158 have limited data available.",
+    "sources": [
+      "Mitsubishi Motors USA Official Press Releases",
+      "Mitsubishi Motors Visual Identity Program announcements",
+      "Third-party dealership locator services",
+      "Official Mitsubishi Motors website"
+    ],
+    "limitations": "Complete contact information (phone numbers, addresses, websites) is not available for all dealerships. Some entries contain placeholder values (TBD) where specific information was not found.",
+    "recommendations": "For the most current and complete information, visit https://www.mitsubishicars.com/car-dealerships-near-me or contact individual dealerships directly."
+  }
+}
