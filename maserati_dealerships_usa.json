@@ -1,0 +1,876 @@
+{
+  "metadata": {
+    "brand": "Maserati",
+    "country": "United States",
+    "total_dealerships_nationwide": 86,
+    "dealerships_in_database": 86,
+    "data_source": "Maserati USA Official Dealer Locator",
+    "data_collection_date": "2025-09-24",
+    "source_url": "https://www.maserati.com/us/en/shopping-tools/dealer-locator",
+    "note": "Complete dataset containing all Maserati dealerships in the USA as of collection date. All 86 dealerships verified from official Maserati dealer locator.",
+    "coverage": "Complete - All USA dealerships included",
+    "last_updated": "2025-09-24 18:02:43"
+  },
+  "dealerships": [
+    {
+      "name": "ARISTOCRAT MOTORS",
+      "address": {
+        "street": "9410 WEST 65TH STREET",
+        "city": "MERRIAM",
+        "state": "KS",
+        "zip": "66203",
+        "full": "9410 WEST 65TH STREET, MERRIAM, KS, 66203"
+      }
+    },
+    {
+      "name": "BERGSTROM MASERATI",
+      "address": {
+        "street": "3030 VICTORY LANE",
+        "city": "APPLETON",
+        "state": "WI",
+        "zip": "54913",
+        "full": "3030 VICTORY LANE, APPLETON, WI, 54913"
+      }
+    },
+    {
+      "name": "BERT OGDEN MASERATI OF THE RIO GRANDE VALLEY",
+      "address": {
+        "street": "EAST EXPRESSWAY 83",
+        "city": "MISSION",
+        "state": "TX",
+        "zip": "78572",
+        "full": "EAST EXPRESSWAY 83, MISSION, TX, 78572"
+      }
+    },
+    {
+      "name": "BISHOP MASERATI OF HURST",
+      "address": {
+        "street": "555 NE LOOP 820",
+        "city": "HURST",
+        "state": "TX",
+        "zip": "76053",
+        "full": "555 NE LOOP 820, HURST, TX, 76053"
+      }
+    },
+    {
+      "name": "BOARDWALK MASERATI",
+      "address": {
+        "street": "6300 INTERNATIONAL PARKWAY",
+        "city": "PLANO",
+        "state": "TX",
+        "zip": "75093",
+        "full": "6300 INTERNATIONAL PARKWAY, PLANO, TX, 75093"
+      }
+    },
+    {
+      "name": "BOB JOHNSON MASERATI OF ROCHESTER",
+      "address": {
+        "street": "3865 W HENRIETTA RD",
+        "city": "ROCHESTER",
+        "state": "NY",
+        "zip": "14623",
+        "full": "3865 W HENRIETTA RD, ROCHESTER, NY, 14623"
+      }
+    },
+    {
+      "name": "BOCH MASERATI",
+      "address": {
+        "street": "441 Boston Providence Turnpike",
+        "city": "NORWOOD",
+        "state": "MA",
+        "zip": "02062",
+        "full": "441 Boston Providence Turnpike, NORWOOD, MA, 02062"
+      }
+    },
+    {
+      "name": "CHAMPION MASERATI - DOWNEY",
+      "address": {
+        "street": "9715 Firestone Blvd",
+        "city": "DOWNEY",
+        "state": "CA",
+        "zip": "90241",
+        "full": "9715 Firestone Blvd, DOWNEY, CA, 90241"
+      }
+    },
+    {
+      "name": "CHAMPION MASERATI - GREAT NECK",
+      "address": {
+        "street": "732 NORTHERN BLVD",
+        "city": "GREAT NECK",
+        "state": "NY",
+        "zip": "11021",
+        "full": "732 NORTHERN BLVD, GREAT NECK, NY, 11021"
+      }
+    },
+    {
+      "name": "CRISWELL MASERATI",
+      "address": {
+        "street": "19570 AMARANTH DR",
+        "city": "GERMANTOWN",
+        "state": "MD",
+        "zip": "20874",
+        "full": "19570 AMARANTH DR, GERMANTOWN, MD, 20874"
+      }
+    },
+    {
+      "name": "F.C. KERBECK MASERATI",
+      "address": {
+        "street": "100 ROUTE 73",
+        "city": "PALMYRA",
+        "state": "NJ",
+        "zip": "08065",
+        "full": "100 ROUTE 73, PALMYRA, NJ, 08065"
+      }
+    },
+    {
+      "name": "FAULKNER MASERATI OF MECHANICSBURG",
+      "address": {
+        "street": "6714 CARLISLE PIKE",
+        "city": "MECHANICSBURG",
+        "state": "PA",
+        "zip": "17050",
+        "full": "6714 CARLISLE PIKE, MECHANICSBURG, PA, 17050"
+      }
+    },
+    {
+      "name": "FAULKNER MASERATI OF WILLOW GROVE",
+      "address": {
+        "street": "1520 EASTON RD",
+        "city": "WILLOW GROVE",
+        "state": "PA",
+        "zip": "19090",
+        "full": "1520 EASTON RD, WILLOW GROVE, PA, 19090"
+      }
+    },
+    {
+      "name": "FOREIGN CARS ITALIA",
+      "address": {
+        "street": "5603 ROANNE WAY",
+        "city": "GREENSBORO",
+        "state": "NC",
+        "zip": "27409",
+        "full": "5603 ROANNE WAY, GREENSBORO, NC, 27409"
+      }
+    },
+    {
+      "name": "HARPER MASERATI",
+      "address": {
+        "street": "10045 PARKSIDE DRIVE",
+        "city": "KNOXVILLE",
+        "state": "TN",
+        "zip": "37922",
+        "full": "10045 PARKSIDE DRIVE, KNOXVILLE, TN, 37922"
+      }
+    },
+    {
+      "name": "HELFMAN MASERATI",
+      "address": {
+        "street": "KATY FREEWAY",
+        "city": "HOUSTON",
+        "state": "TX",
+        "zip": "77024",
+        "full": "KATY FREEWAY, HOUSTON, TX, 77024"
+      }
+    },
+    {
+      "name": "JIM BUTLER MASERATI",
+      "address": {
+        "street": "3050 HANLEY ROAD",
+        "city": "MAPLEWOOD",
+        "state": "MO",
+        "zip": "63143",
+        "full": "3050 HANLEY ROAD, MAPLEWOOD, MO, 63143"
+      }
+    },
+    {
+      "name": "JIM ELLIS MASERATI",
+      "address": {
+        "street": "5855 PEACHTREE BLVD",
+        "city": "ATLANTA",
+        "state": "GA",
+        "zip": "30341",
+        "full": "5855 PEACHTREE BLVD, ATLANTA, GA, 30341"
+      }
+    },
+    {
+      "name": "JOE RIZZA MASERATI",
+      "address": {
+        "street": "8130 W 159TH ST",
+        "city": "ORLAND PARK",
+        "state": "IL",
+        "zip": "60462",
+        "full": "8130 W 159TH ST, ORLAND PARK, IL, 60462"
+      }
+    },
+    {
+      "name": "JOHNSON MASERATI OF CARY",
+      "address": {
+        "street": "5020 OLD RALEIGH ROAD",
+        "city": "CARY",
+        "state": "NC",
+        "zip": "27511",
+        "full": "5020 OLD RALEIGH ROAD, CARY, NC, 27511"
+      }
+    },
+    {
+      "name": "LIVERMORE MASERATI",
+      "address": {
+        "street": "2232 KITTY HAWK RD",
+        "city": "LIVERMORE",
+        "state": "CA",
+        "zip": "94551",
+        "full": "2232 KITTY HAWK RD, LIVERMORE, CA, 94551"
+      }
+    },
+    {
+      "name": "MARANELLO MASERATI OF WESTERN NEW YORK",
+      "address": {
+        "street": "8226 Main Street",
+        "city": "WILLIAMSVILLE",
+        "state": "NY",
+        "zip": "14221",
+        "full": "8226 Main Street, WILLIAMSVILLE, NY, 14221"
+      }
+    },
+    {
+      "name": "MASERATI DALLAS",
+      "address": {
+        "street": "5300 Lemmon Ave",
+        "city": "DALLAS",
+        "state": "TX",
+        "zip": "75209",
+        "full": "5300 Lemmon Ave, DALLAS, TX, 75209"
+      }
+    },
+    {
+      "name": "MASERATI ENGLEWOOD CLIFFS",
+      "address": {
+        "street": "340 SYLVAN AVE",
+        "city": "ENGLEWOOD CLIFFS",
+        "state": "NJ",
+        "zip": "07632",
+        "full": "340 SYLVAN AVE, ENGLEWOOD CLIFFS, NJ, 07632"
+      }
+    },
+    {
+      "name": "MASERATI JACKSONVILLE",
+      "address": {
+        "street": "7137 BONNEVAL RD",
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "zip": "32256",
+        "full": "7137 BONNEVAL RD, JACKSONVILLE, FL, 32256"
+      }
+    },
+    {
+      "name": "MASERATI MOTORSPORTS OF BOSTON",
+      "address": {
+        "street": "1650 SOLDIERS FIELD RD",
+        "city": "BRIGHTON",
+        "state": "MA",
+        "zip": "02135",
+        "full": "1650 SOLDIERS FIELD RD, BRIGHTON, MA, 02135"
+      }
+    },
+    {
+      "name": "MASERATI OF ANAHEIM HILLS",
+      "address": {
+        "street": "22633 OAKCREST CIR",
+        "city": "YORBA LINDA",
+        "state": "CA",
+        "zip": "92887",
+        "full": "22633 OAKCREST CIR, YORBA LINDA, CA, 92887"
+      }
+    },
+    {
+      "name": "MASERATI OF ATLANTA",
+      "address": {
+        "street": "11875 ALPHARETTA HIGHWAY",
+        "city": "ATLANTA-ROSWELL",
+        "state": "GA",
+        "zip": "30076",
+        "full": "11875 ALPHARETTA HIGHWAY, ATLANTA-ROSWELL, GA, 30076"
+      }
+    },
+    {
+      "name": "MASERATI OF AUSTIN",
+      "address": {
+        "street": "12925 POND SPRINGS ROAD",
+        "city": "AUSTIN",
+        "state": "TX",
+        "zip": "78729",
+        "full": "12925 POND SPRINGS ROAD, AUSTIN, TX, 78729"
+      }
+    },
+    {
+      "name": "MASERATI OF BERGEN COUNTY",
+      "address": {
+        "street": "145 ROUTE 17 SOUTH",
+        "city": "UPPER SADDLE RIVER",
+        "state": "NJ",
+        "zip": "07458",
+        "full": "145 ROUTE 17 SOUTH, UPPER SADDLE RIVER, NJ, 07458"
+      }
+    },
+    {
+      "name": "MASERATI OF CENTRAL FLORIDA",
+      "address": {
+        "street": "4891 VINELAND ROAD",
+        "city": "ORLANDO",
+        "state": "FL",
+        "zip": "32811",
+        "full": "4891 VINELAND ROAD, ORLANDO, FL, 32811"
+      }
+    },
+    {
+      "name": "MASERATI OF CENTRAL NEW JERSEY",
+      "address": {
+        "street": "816 ROUTE 1 NORTH",
+        "city": "EDISON",
+        "state": "NJ",
+        "zip": "08817",
+        "full": "816 ROUTE 1 NORTH, EDISON, NJ, 08817"
+      }
+    },
+    {
+      "name": "MASERATI OF CHARLOTTE",
+      "address": {
+        "street": "5514 WESTPARK DR",
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "zip": "28217",
+        "full": "5514 WESTPARK DR, CHARLOTTE, NC, 28217"
+      }
+    },
+    {
+      "name": "MASERATI OF CHICAGO",
+      "address": {
+        "street": "834 RUSH STREET",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "full": "834 RUSH STREET, CHICAGO, IL, 60611"
+      }
+    },
+    {
+      "name": "MASERATI OF CINCINNATI",
+      "address": {
+        "street": "4109 PLAINVILLE RD",
+        "city": "CINCINNATI",
+        "state": "OH",
+        "zip": "45227",
+        "full": "4109 PLAINVILLE RD, CINCINNATI, OH, 45227"
+      }
+    },
+    {
+      "name": "MASERATI OF CLEVELAND",
+      "address": {
+        "street": "7168 PEARL RD",
+        "city": "MIDDLEBURG HEIGHTS",
+        "state": "OH",
+        "zip": "44130",
+        "full": "7168 PEARL RD, MIDDLEBURG HEIGHTS, OH, 44130"
+      }
+    },
+    {
+      "name": "MASERATI OF DAYTONA",
+      "address": {
+        "street": "TOMOKA FARMS ROAD",
+        "city": "DAYTONA BEACH",
+        "state": "FL",
+        "zip": "32124",
+        "full": "TOMOKA FARMS ROAD, DAYTONA BEACH, FL, 32124"
+      }
+    },
+    {
+      "name": "MASERATI OF FORT LAUDERDALE",
+      "address": {
+        "street": "5750 NORTH FEDERAL HWY",
+        "city": "FT LAUDERDALE",
+        "state": "FL",
+        "zip": "33308",
+        "full": "5750 NORTH FEDERAL HWY, FT LAUDERDALE, FL, 33308"
+      }
+    },
+    {
+      "name": "MASERATI OF GLENVIEW",
+      "address": {
+        "street": "301 WAUKEGAN RD",
+        "city": "GLENVIEW",
+        "state": "IL",
+        "zip": "60025",
+        "full": "301 WAUKEGAN RD, GLENVIEW, IL, 60025"
+      }
+    },
+    {
+      "name": "MASERATI OF GREENWICH",
+      "address": {
+        "street": "321 WEST PUTNAM AVE",
+        "city": "GREENWICH",
+        "state": "CT",
+        "zip": "06830",
+        "full": "321 WEST PUTNAM AVE, GREENWICH, CT, 06830"
+      }
+    },
+    {
+      "name": "MASERATI OF KIRKLAND",
+      "address": {
+        "street": "12415 SLATER AVE NE",
+        "city": "KIRKLAND",
+        "state": "WA",
+        "zip": "98034",
+        "full": "12415 SLATER AVE NE, KIRKLAND, WA, 98034"
+      }
+    },
+    {
+      "name": "MASERATI OF LAS VEGAS",
+      "address": {
+        "street": "5600 W SAHARA AVE",
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "zip": "89146",
+        "full": "5600 W SAHARA AVE, LAS VEGAS, NV, 89146"
+      }
+    },
+    {
+      "name": "MASERATI OF MARIN",
+      "address": {
+        "street": "620 DU BOIS ST",
+        "city": "SAN RAFAEL",
+        "state": "CA",
+        "zip": "94901",
+        "full": "620 DU BOIS ST, SAN RAFAEL, CA, 94901"
+      }
+    },
+    {
+      "name": "MASERATI OF MEMPHIS",
+      "address": {
+        "street": "6055 Umansky Cove",
+        "city": "MEMPHIS",
+        "state": "TN",
+        "zip": "38119",
+        "full": "6055 Umansky Cove, MEMPHIS, TN, 38119"
+      }
+    },
+    {
+      "name": "MASERATI OF MILWAUKEE",
+      "address": {
+        "street": "2400 S 108TH STREET",
+        "city": "WEST ALLIS",
+        "state": "WI",
+        "zip": "53227",
+        "full": "2400 S 108TH STREET, WEST ALLIS, WI, 53227"
+      }
+    },
+    {
+      "name": "MASERATI OF MONMOUTH",
+      "address": {
+        "street": "807 ROUTE 35",
+        "city": "OCEAN",
+        "state": "NJ",
+        "zip": "07712",
+        "full": "807 ROUTE 35, OCEAN, NJ, 07712"
+      }
+    },
+    {
+      "name": "MASERATI OF NAPERVILLE",
+      "address": {
+        "street": "1540 W OGDEN AVE",
+        "city": "NAPERVILLE",
+        "state": "IL",
+        "zip": "60540",
+        "full": "1540 W OGDEN AVE, NAPERVILLE, IL, 60540"
+      }
+    },
+    {
+      "name": "MASERATI OF NAPLES",
+      "address": {
+        "street": "900 TAMIAMI TRAIL NORTH",
+        "city": "NAPLES",
+        "state": "FL",
+        "zip": "34102",
+        "full": "900 TAMIAMI TRAIL NORTH, NAPLES, FL, 34102"
+      }
+    },
+    {
+      "name": "MASERATI OF NASHVILLE",
+      "address": {
+        "street": "1599 MALLORY LANE",
+        "city": "NASHVILLE",
+        "state": "TN",
+        "zip": "37027",
+        "full": "1599 MALLORY LANE, NASHVILLE, TN, 37027"
+      }
+    },
+    {
+      "name": "MASERATI OF NORTH DENVER",
+      "address": {
+        "street": "150 ALTER ST",
+        "city": "BROOMFIELD",
+        "state": "CO",
+        "zip": "80020",
+        "full": "150 ALTER ST, BROOMFIELD, CO, 80020"
+      }
+    },
+    {
+      "name": "MASERATI OF OMAHA",
+      "address": {
+        "street": "11102 W DODGE RD",
+        "city": "OMAHA",
+        "state": "NE",
+        "zip": "68154",
+        "full": "11102 W DODGE RD, OMAHA, NE, 68154"
+      }
+    },
+    {
+      "name": "MASERATI OF PALM BEACH",
+      "address": {
+        "street": "6500 OKEECHOBEE BLVD",
+        "city": "WEST PALM BEACH",
+        "state": "FL",
+        "zip": "33411",
+        "full": "6500 OKEECHOBEE BLVD, WEST PALM BEACH, FL, 33411"
+      }
+    },
+    {
+      "name": "MASERATI OF PITTSBURGH",
+      "address": {
+        "street": "15001 PERRY HWY.",
+        "city": "WEXFORD",
+        "state": "PA",
+        "zip": "15090",
+        "full": "15001 PERRY HWY., WEXFORD, PA, 15090"
+      }
+    },
+    {
+      "name": "MASERATI OF PUENTE HILLS",
+      "address": {
+        "street": "17370 E. GALE AVE",
+        "city": "CITY OF INDUSTRY",
+        "state": "CA",
+        "zip": "91748",
+        "full": "17370 E. GALE AVE, CITY OF INDUSTRY, CA, 91748"
+      }
+    },
+    {
+      "name": "MASERATI OF RALEIGH",
+      "address": {
+        "street": "5601 CAPITAL BOULEVARD",
+        "city": "RALEIGH",
+        "state": "NC",
+        "zip": "27616",
+        "full": "5601 CAPITAL BOULEVARD, RALEIGH, NC, 27616"
+      }
+    },
+    {
+      "name": "MASERATI OF SANTA MONICA",
+      "address": {
+        "street": "1820 SANTA MONICA BLVD",
+        "city": "SANTA MONICA",
+        "state": "CA",
+        "zip": "90404",
+        "full": "1820 SANTA MONICA BLVD, SANTA MONICA, CA, 90404"
+      }
+    },
+    {
+      "name": "MASERATI OF SEATTLE",
+      "address": {
+        "street": "1401 12TH AVENUE",
+        "city": "SEATTLE",
+        "state": "WA",
+        "zip": "98122",
+        "full": "1401 12TH AVENUE, SEATTLE, WA, 98122"
+      }
+    },
+    {
+      "name": "MASERATI OF THE MAIN LINE",
+      "address": {
+        "street": "215 W. Lancaster Ave.",
+        "city": "DEVON",
+        "state": "PA",
+        "zip": "19333",
+        "full": "215 W. Lancaster Ave., DEVON, PA, 19333"
+      }
+    },
+    {
+      "name": "MASERATI OF TROY",
+      "address": {
+        "street": "1755 MAPLELAWN DR",
+        "city": "TROY",
+        "state": "MI",
+        "zip": "48084",
+        "full": "1755 MAPLELAWN DR, TROY, MI, 48084"
+      }
+    },
+    {
+      "name": "MASERATI OF TYSONS",
+      "address": {
+        "street": "8448 LEESBURG PIKE",
+        "city": "VIENNA",
+        "state": "VA",
+        "zip": "22182",
+        "full": "8448 LEESBURG PIKE, VIENNA, VA, 22182"
+      }
+    },
+    {
+      "name": "MASERATI OF WASHINGTON",
+      "address": {
+        "street": "45235 TOWLERN PL",
+        "city": "STERLING",
+        "state": "VA",
+        "zip": "20166",
+        "full": "45235 TOWLERN PL, STERLING, VA, 20166"
+      }
+    },
+    {
+      "name": "MASERATI OF WESTPORT",
+      "address": {
+        "street": "POST ROAD EAST",
+        "city": "WESTPORT",
+        "state": "CT",
+        "zip": "06880",
+        "full": "POST ROAD EAST, WESTPORT, CT, 06880"
+      }
+    },
+    {
+      "name": "MASERATI OF WILMINGTON PIKE",
+      "address": {
+        "street": "99 WILMINGTON W. CHESTER PIKE",
+        "city": "CHADDS FORD",
+        "state": "PA",
+        "zip": "19317",
+        "full": "99 WILMINGTON W. CHESTER PIKE, CHADDS FORD, PA, 19317"
+      }
+    },
+    {
+      "name": "MASERATI ST. PETERSBURG",
+      "address": {
+        "street": "3033 GANDY BLVD N",
+        "city": "PINELLAS PARK",
+        "state": "FL",
+        "zip": "33782",
+        "full": "3033 GANDY BLVD N, PINELLAS PARK, FL, 33782"
+      }
+    },
+    {
+      "name": "MASERATI STUART",
+      "address": {
+        "street": "3980 SE FEDERAL HWY",
+        "city": "STUART",
+        "state": "FL",
+        "zip": "34997",
+        "full": "3980 SE FEDERAL HWY, STUART, FL, 34997"
+      }
+    },
+    {
+      "name": "MASERATI TAMPA",
+      "address": {
+        "street": "11333 N FLORIDA AVE",
+        "city": "TAMPA",
+        "state": "FL",
+        "zip": "33612",
+        "full": "11333 N FLORIDA AVE, TAMPA, FL, 33612"
+      }
+    },
+    {
+      "name": "MASERATI WALNUT CREEK",
+      "address": {
+        "street": "2230 N. Main Street",
+        "city": "WALNUT CREEK",
+        "state": "CA",
+        "zip": "94596",
+        "full": "2230 N. Main Street, WALNUT CREEK, CA, 94596"
+      }
+    },
+    {
+      "name": "MASERATI WALNUT CREEK - LOS GATOS",
+      "address": {
+        "street": "620 BLOSSOM HILL RD",
+        "city": "LOS GATOS",
+        "state": "CA",
+        "zip": "95032",
+        "full": "620 BLOSSOM HILL RD, LOS GATOS, CA, 95032"
+      }
+    },
+    {
+      "name": "MIDWESTERN AUTO GROUP",
+      "address": {
+        "street": "6335 PERIMETER LOOP ROAD",
+        "city": "DUBLIN",
+        "state": "OH",
+        "zip": "43017",
+        "full": "6335 PERIMETER LOOP ROAD, DUBLIN, OH, 43017"
+      }
+    },
+    {
+      "name": "MIKE WARD MASERATI OF DENVER",
+      "address": {
+        "street": "1850 LUCENT COURT",
+        "city": "HIGHLANDS RANCH",
+        "state": "CO",
+        "zip": "80129",
+        "full": "1850 LUCENT COURT, HIGHLANDS RANCH, CO, 80129"
+      }
+    },
+    {
+      "name": "NAPLETON MASERATI IMPORTS",
+      "address": {
+        "street": "4180 E. 96TH ST.",
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "zip": "46240",
+        "full": "4180 E. 96TH ST., INDIANAPOLIS, IN, 46240"
+      }
+    },
+    {
+      "name": "NAPLETON MASERATI OF DOWNERS GROVE",
+      "address": {
+        "street": "217 OGDEN AVE",
+        "city": "DOWNERS GROVE",
+        "state": "IL",
+        "zip": "60515",
+        "full": "217 OGDEN AVE, DOWNERS GROVE, IL, 60515"
+      }
+    },
+    {
+      "name": "NAPLETON MID RIVERS MASERATI",
+      "address": {
+        "street": "VETERAN'S MEMORIAL PARKWAY",
+        "city": "SAINT PETERS",
+        "state": "MO",
+        "zip": "63376",
+        "full": "VETERAN'S MEMORIAL PARKWAY, SAINT PETERS, MO, 63376"
+      }
+    },
+    {
+      "name": "NORTHSIDE MASERATI",
+      "address": {
+        "street": "23110 I-45",
+        "city": "NORTH SPRING",
+        "state": "TX",
+        "zip": "77373",
+        "full": "23110 I-45, NORTH SPRING, TX, 77373"
+      }
+    },
+    {
+      "name": "PERFORMANCE MASERATI",
+      "address": {
+        "street": "110 ROUTE 10 W",
+        "city": "WHIPPANY",
+        "state": "NJ",
+        "zip": "07981",
+        "full": "110 ROUTE 10 W, WHIPPANY, NJ, 07981"
+      }
+    },
+    {
+      "name": "PERFORMANCE MASERATI OF SOMERVILLE",
+      "address": {
+        "street": "1034 US HIGHWAY 22",
+        "city": "SOMERVILLE",
+        "state": "NJ",
+        "zip": "08876",
+        "full": "1034 US HIGHWAY 22, SOMERVILLE, NJ, 08876"
+      }
+    },
+    {
+      "name": "RICK CASE MASERATI",
+      "address": {
+        "street": "WESTON ROAD",
+        "city": "DAVIE",
+        "state": "FL",
+        "zip": "33331",
+        "full": "WESTON ROAD, DAVIE, FL, 33331"
+      }
+    },
+    {
+      "name": "RON TONKIN GRAN TURISMO",
+      "address": {
+        "street": "25300 SW PARKWAY AVE",
+        "city": "WILSONVILLE",
+        "state": "OR",
+        "zip": "97070",
+        "full": "25300 SW PARKWAY AVE, WILSONVILLE, OR, 97070"
+      }
+    },
+    {
+      "name": "SCOTTSDALE MASERATI",
+      "address": {
+        "street": "18118 N. SCOTTSDALE ROAD",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zip": "85054",
+        "full": "18118 N. SCOTTSDALE ROAD, PHOENIX, AZ, 85054"
+      }
+    },
+    {
+      "name": "STATELINE MASERATI",
+      "address": {
+        "street": "800 Gold Hill Road, Suite 101",
+        "city": "FORT MILL",
+        "state": "SC",
+        "zip": "29708",
+        "full": "800 Gold Hill Road, Suite 101, FORT MILL, SC, 29708"
+      }
+    },
+    {
+      "name": "THE COLLECTION",
+      "address": {
+        "street": "200 BIRD ROAD",
+        "city": "CORAL GABLES MIAMI",
+        "state": "FL",
+        "zip": "33146",
+        "full": "200 BIRD ROAD, CORAL GABLES MIAMI, FL, 33146"
+      }
+    },
+    {
+      "name": "TODD MASERATI OF DANBURY",
+      "address": {
+        "street": "52 NEWTOWN RD",
+        "city": "DANBURY",
+        "state": "CT",
+        "zip": "06810",
+        "full": "52 NEWTOWN RD, DANBURY, CT, 06810"
+      }
+    },
+    {
+      "name": "VALENTI MASERATI",
+      "address": {
+        "street": "77 LEIBERT ROAD",
+        "city": "HARTFORD",
+        "state": "CT",
+        "zip": "06120",
+        "full": "77 LEIBERT ROAD, HARTFORD, CT, 06120"
+      }
+    },
+    {
+      "name": "VAN NUYS MASERATI",
+      "address": {
+        "street": "5711 VAN NUYS BLVD",
+        "city": "VAN NUYS",
+        "state": "CA",
+        "zip": "91401",
+        "full": "5711 VAN NUYS BLVD, VAN NUYS, CA, 91401"
+      }
+    },
+    {
+      "name": "ZEIGLER MASERATI OF GRANDVILLE",
+      "address": {
+        "street": "4222 PARKWAY PLACE DRIVE",
+        "city": "GRANDVILLE",
+        "state": "MI",
+        "zip": "49418",
+        "full": "4222 PARKWAY PLACE DRIVE, GRANDVILLE, MI, 49418"
+      }
+    },
+    {
+      "name": "ZEIGLER MASERATI OF SCHAUMBURG",
+      "address": {
+        "street": "WEST GOLF ROAD",
+        "city": "SCHAUMBURG",
+        "state": "IL",
+        "zip": "60195",
+        "full": "WEST GOLF ROAD, SCHAUMBURG, IL, 60195"
+      }
+    }
+  ]
+}
